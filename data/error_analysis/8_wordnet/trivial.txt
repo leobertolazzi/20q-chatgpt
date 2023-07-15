@@ -1,0 +1,1435 @@
+____________________________________________
+dial_id = 0
+target = tractor
+candidates = balloon, goose, pigeon, pelican, pheasant, airplane, tractor, motorcycle
+turn = 3/11
+reference set = ['airplane', 'tractor', 'motorcycle']
+question = Does the mode of transportation you have belong to a category of vehicle propelled by an engine?
+____________________________________________
+dial_id = 0
+target = tractor
+candidates = balloon, goose, pigeon, pelican, pheasant, airplane, tractor, motorcycle
+turn = 5/11
+reference set = ['tractor', 'motorcycle']
+question = Is the mode of transportation you have a land vehicle?
+____________________________________________
+dial_id = 0
+target = tractor
+candidates = balloon, goose, pigeon, pelican, pheasant, airplane, tractor, motorcycle
+turn = 8/11
+reference set = ['tractor']
+question = Is the mode of transportation you have a type of heavy vehicle?
+____________________________________________
+dial_id = 0
+target = tractor
+candidates = balloon, goose, pigeon, pelican, pheasant, airplane, tractor, motorcycle
+turn = 10/11
+reference set = ['tractor']
+question = Is the mode of transportation you have used in the agricultural domain?
+____________________________________________
+dial_id = 1
+target = bike
+candidates = boat, stork, submarine, flamingo, sparrow, chickadee, wheelbarrow, bike
+turn = 4/6
+reference set = ['bike']
+question = Is the item you are thinking of a mode of transportation?
+____________________________________________
+dial_id = 1
+target = bike
+candidates = boat, stork, submarine, flamingo, sparrow, chickadee, wheelbarrow, bike
+turn = 5/6
+reference set = ['bike']
+question = Is the item you are thinking of propelled by human power?
+____________________________________________
+dial_id = 2
+target = balloon
+candidates = stork, cart, balloon, trolley, dove, helicopter, pigeon, pelican
+turn = 7/17
+reference set = ['balloon']
+question = Is the item you are assigned a household object or something that can be found in a house?
+____________________________________________
+dial_id = 2
+target = balloon
+candidates = stork, cart, balloon, trolley, dove, helicopter, pigeon, pelican
+turn = 12/17
+reference set = ['balloon']
+question = Is the item you are assigned a decorative object?
+____________________________________________
+dial_id = 3
+target = ship
+candidates = tractor, ship, swan, cart, submarine, penguin, robin, raven
+turn = 3/6
+reference set = ['ship', 'submarine']
+question = Is the item you are thinking of a vessel powered by an engine?
+____________________________________________
+dial_id = 3
+target = ship
+candidates = tractor, ship, swan, cart, submarine, penguin, robin, raven
+turn = 4/6
+reference set = ['ship', 'submarine']
+question = Is the item you are thinking of large enough to be used for commercial purposes?
+____________________________________________
+dial_id = 4
+target = yacht
+candidates = balloon, dove, chickadee, crow, yacht, helicopter, turkey, ship
+turn = 4/7
+reference set = ['yacht', 'ship']
+question = Is it a type of vehicle that travels on water?
+____________________________________________
+dial_id = 4
+target = yacht
+candidates = balloon, dove, chickadee, crow, yacht, helicopter, turkey, ship
+turn = 6/7
+reference set = ['yacht', 'ship']
+question = Is it a type of vehicle that is commonly used for recreation?
+____________________________________________
+dial_id = 5
+target = rooster
+candidates = stork, swan, helicopter, bike, airplane, rooster, motorcycle, pheasant
+turn = 2/9
+reference set = ['stork', 'swan', 'rooster', 'pheasant']
+question = Is your animal a bird?
+____________________________________________
+dial_id = 5
+target = rooster
+candidates = stork, swan, helicopter, bike, airplane, rooster, motorcycle, pheasant
+turn = 5/9
+reference set = ['stork', 'rooster']
+question = Is your bird able to fly?
+____________________________________________
+dial_id = 5
+target = rooster
+candidates = stork, swan, helicopter, bike, airplane, rooster, motorcycle, pheasant
+turn = 8/9
+reference set = ['rooster']
+question = Is your bird commonly found on farms?
+____________________________________________
+dial_id = 7
+target = blackbird
+candidates = yacht, balloon, rooster, raven, ship, pigeon, blackbird, airplane
+turn = 2/5
+reference set = ['rooster', 'raven', 'pigeon', 'blackbird']
+question = Is the item a bird?
+____________________________________________
+dial_id = 8
+target = rooster
+candidates = sparrow, oriole, rooster, sailboat, balloon, pheasant, airplane, submarine
+turn = 5/9
+reference set = ['rooster']
+question = Is your animal known for its beautiful colors?
+____________________________________________
+dial_id = 8
+target = rooster
+candidates = sparrow, oriole, rooster, sailboat, balloon, pheasant, airplane, submarine
+turn = 9/9
+reference set = ['rooster']
+question = Okay, my next guess will be a Rooster. Is it a Rooster?
+____________________________________________
+dial_id = 9
+target = airplane
+candidates = chipmunk, balloon, fox, airplane, dog, wheelbarrow, hamster, car
+turn = 3/7
+reference set = ['balloon', 'airplane']
+question = Is the item you are thinking of man-made?
+____________________________________________
+dial_id = 9
+target = airplane
+candidates = chipmunk, balloon, fox, airplane, dog, wheelbarrow, hamster, car
+turn = 5/7
+reference set = ['airplane']
+question = Is the item you are thinking of commonly used for commercial purposes?
+____________________________________________
+dial_id = 9
+target = airplane
+candidates = chipmunk, balloon, fox, airplane, dog, wheelbarrow, hamster, car
+turn = 6/7
+reference set = ['airplane']
+question = Is the item you are thinking of a type of aircraft?
+____________________________________________
+dial_id = 9
+target = airplane
+candidates = chipmunk, balloon, fox, airplane, dog, wheelbarrow, hamster, car
+turn = 7/7
+reference set = ['airplane']
+question = Is the item you are thinking of a plane?
+____________________________________________
+dial_id = 10
+target = car
+candidates = balloon, chipmunk, airplane, dog, fox, hamster, car, wheelbarrow
+turn = 4/7
+reference set = ['car']
+question = Is the item a wheeled vehicle?
+____________________________________________
+dial_id = 10
+target = car
+candidates = balloon, chipmunk, airplane, dog, fox, hamster, car, wheelbarrow
+turn = 6/7
+reference set = ['car']
+question = Is the item powered by an engine?
+____________________________________________
+dial_id = 11
+target = car
+candidates = dog, balloon, airplane, chipmunk, car, wheelbarrow, fox, hamster
+turn = 4/8
+reference set = ['car']
+question = Does the mode of transportation have four or more wheels?
+____________________________________________
+dial_id = 11
+target = car
+candidates = dog, balloon, airplane, chipmunk, car, wheelbarrow, fox, hamster
+turn = 5/8
+reference set = ['car']
+question = Is the mode of transportation usually powered by gasoline or diesel fuel?
+____________________________________________
+dial_id = 11
+target = car
+candidates = dog, balloon, airplane, chipmunk, car, wheelbarrow, fox, hamster
+turn = 6/8
+reference set = ['car']
+question = Is the mode of transportation primarily used for transporting people rather than goods?
+____________________________________________
+dial_id = 11
+target = car
+candidates = dog, balloon, airplane, chipmunk, car, wheelbarrow, fox, hamster
+turn = 7/8
+reference set = ['car']
+question = Does the mode of transportation have an enclosed compartment for the driver and passengers?
+____________________________________________
+dial_id = 12
+target = tractor
+candidates = fox, rat, sailboat, dog, mouse, submarine, cart, tractor
+turn = 2/7
+reference set = ['sailboat', 'submarine', 'cart', 'tractor']
+question = Is it a vehicle?
+____________________________________________
+dial_id = 12
+target = tractor
+candidates = fox, rat, sailboat, dog, mouse, submarine, cart, tractor
+turn = 5/7
+reference set = ['cart', 'tractor']
+question = Is it a wheeled vehicle that usually carries goods?
+____________________________________________
+dial_id = 13
+target = tractor
+candidates = submarine, rat, tractor, dog, sailboat, cart, mouse, fox
+turn = 2/6
+reference set = ['submarine', 'tractor', 'sailboat', 'cart']
+question = Is your item a vehicle?
+____________________________________________
+dial_id = 13
+target = tractor
+candidates = submarine, rat, tractor, dog, sailboat, cart, mouse, fox
+turn = 5/6
+reference set = ['tractor']
+question = Is your vehicle typically used for agricultural work or construction?
+____________________________________________
+dial_id = 14
+target = sailboat
+candidates = mouse, rat, sailboat, submarine, cart, dog, tractor, fox
+turn = 2/7
+reference set = ['sailboat', 'submarine', 'cart', 'tractor']
+question = Is the item you're thinking of a vehicle?
+____________________________________________
+dial_id = 14
+target = sailboat
+candidates = mouse, rat, sailboat, submarine, cart, dog, tractor, fox
+turn = 4/7
+reference set = ['sailboat', 'submarine']
+question = Is the vehicle you’re thinking of meant for transportation of people?
+____________________________________________
+dial_id = 14
+target = sailboat
+candidates = mouse, rat, sailboat, submarine, cart, dog, tractor, fox
+turn = 5/7
+reference set = ['sailboat', 'submarine']
+question = Does the vehicle have an engine?
+____________________________________________
+dial_id = 15
+target = squirrel
+candidates = unicycle, tractor, squirrel, chipmunk, fox, helicopter, airplane, hyena
+turn = 2/11
+reference set = ['squirrel', 'chipmunk', 'fox', 'hyena']
+question = Is the item you're thinking of a type of animal?
+____________________________________________
+dial_id = 15
+target = squirrel
+candidates = unicycle, tractor, squirrel, chipmunk, fox, helicopter, airplane, hyena
+turn = 4/11
+reference set = ['squirrel', 'chipmunk', 'fox', 'hyena']
+question = Is the animal you are thinking of a type of mammal?
+____________________________________________
+dial_id = 15
+target = squirrel
+candidates = unicycle, tractor, squirrel, chipmunk, fox, helicopter, airplane, hyena
+turn = 8/11
+reference set = ['squirrel', 'chipmunk']
+question = Is the animal you are thinking of brown in color?
+____________________________________________
+dial_id = 15
+target = squirrel
+candidates = unicycle, tractor, squirrel, chipmunk, fox, helicopter, airplane, hyena
+turn = 9/11
+reference set = ['squirrel', 'chipmunk']
+question = Is the animal you are thinking of commonly found in gardens or parks?
+____________________________________________
+dial_id = 16
+target = chipmunk
+candidates = airplane, unicycle, squirrel, tractor, helicopter, fox, chipmunk, hyena
+turn = 2/7
+reference set = ['squirrel', 'fox', 'chipmunk', 'hyena']
+question = Is the item you were assigned an animal?
+____________________________________________
+dial_id = 16
+target = chipmunk
+candidates = airplane, unicycle, squirrel, tractor, helicopter, fox, chipmunk, hyena
+turn = 3/7
+reference set = ['squirrel', 'fox', 'chipmunk', 'hyena']
+question = Is the animal you were assigned a mammal?
+____________________________________________
+dial_id = 16
+target = chipmunk
+candidates = airplane, unicycle, squirrel, tractor, helicopter, fox, chipmunk, hyena
+turn = 5/7
+reference set = ['squirrel', 'chipmunk']
+question = Is the animal you were assigned a rodent?
+____________________________________________
+dial_id = 17
+target = squirrel
+candidates = mouse, unicycle, yacht, squirrel, hyena, dog, submarine, truck
+turn = 2/5
+reference set = ['mouse', 'squirrel', 'hyena', 'dog']
+question = Is this animal a mammal?
+____________________________________________
+dial_id = 18
+target = tractor
+candidates = toilet, cottage, balloon, cupboard, house, cart, helicopter, tractor
+turn = 3/6
+reference set = ['cart', 'tractor']
+question = Is it a land vehicle?
+____________________________________________
+dial_id = 18
+target = tractor
+candidates = toilet, cottage, balloon, cupboard, house, cart, helicopter, tractor
+turn = 5/6
+reference set = ['tractor']
+question = Does it have four or more wheels?
+____________________________________________
+dial_id = 19
+target = boat
+candidates = shack, wheelbarrow, tent, sailboat, tractor, house, boat, apartment
+turn = 3/6
+reference set = ['sailboat', 'boat']
+question = Does the vehicle you have in mind require any fuel or energy source to operate?
+____________________________________________
+dial_id = 19
+target = boat
+candidates = shack, wheelbarrow, tent, sailboat, tractor, house, boat, apartment
+turn = 4/6
+reference set = ['sailboat', 'boat']
+question = Does the vehicle you are thinking of move on water?
+____________________________________________
+dial_id = 19
+target = boat
+candidates = shack, wheelbarrow, tent, sailboat, tractor, house, boat, apartment
+turn = 5/6
+reference set = ['sailboat', 'boat']
+question = Is the vehicle you have in mind commonly used for leisure or recreation?
+____________________________________________
+dial_id = 20
+target = wheelbarrow
+candidates = car, cottage, airplane, cage, balloon, wheelbarrow, bungalow, cabin
+turn = 4/11
+reference set = ['balloon', 'wheelbarrow']
+question = Is the item you have in mind typically used outdoors?
+____________________________________________
+dial_id = 20
+target = wheelbarrow
+candidates = car, cottage, airplane, cage, balloon, wheelbarrow, bungalow, cabin
+turn = 9/11
+reference set = ['wheelbarrow']
+question = Is the item you have in mind something that can be pushed or pulled?
+____________________________________________
+dial_id = 20
+target = wheelbarrow
+candidates = car, cottage, airplane, cage, balloon, wheelbarrow, bungalow, cabin
+turn = 10/11
+reference set = ['wheelbarrow']
+question = Is the item you have in mind a gardening tool?
+____________________________________________
+dial_id = 21
+target = ship
+candidates = ship, bungalow, bike, tent, cottage, boat, unicycle, hut
+turn = 5/6
+reference set = ['ship', 'boat']
+question = Is it a large vessel designed for long journeys on the sea?
+____________________________________________
+dial_id = 22
+target = balloon
+candidates = helicopter, shack, yacht, cage, hut, balloon, sailboat, cupboard
+turn = 9/14
+reference set = ['balloon']
+question = Is the item you have assigned something that is often used for leisure or recreation?
+____________________________________________
+dial_id = 22
+target = balloon
+candidates = helicopter, shack, yacht, cage, hut, balloon, sailboat, cupboard
+turn = 13/14
+reference set = ['balloon']
+question = Is the item you have assigned something that can be seen all year round, regardless of season?
+____________________________________________
+dial_id = 23
+target = bungalow
+candidates = airplane, skateboard, closet, cupboard, house, cart, balloon, bungalow
+turn = 2/7
+reference set = ['cupboard', 'house', 'balloon', 'bungalow']
+question = Is the item you are thinking of typically found indoors?
+____________________________________________
+dial_id = 23
+target = bungalow
+candidates = airplane, skateboard, closet, cupboard, house, cart, balloon, bungalow
+turn = 5/7
+reference set = ['bungalow']
+question = Is the item you are thinking of a type of dwelling?
+____________________________________________
+dial_id = 23
+target = bungalow
+candidates = airplane, skateboard, closet, cupboard, house, cart, balloon, bungalow
+turn = 6/7
+reference set = ['bungalow']
+question = Is it a small and simple house, suitable for a small family?
+____________________________________________
+dial_id = 24
+target = cabin
+candidates = cottage, cage, airplane, helicopter, cabin, apartment, motorcycle, cart
+turn = 2/7
+reference set = ['cottage', 'cage', 'cabin', 'apartment']
+question = Is the item you have assigned something that is commonly found indoors?
+____________________________________________
+dial_id = 24
+target = cabin
+candidates = cottage, cage, airplane, helicopter, cabin, apartment, motorcycle, cart
+turn = 5/7
+reference set = ['cabin', 'apartment']
+question = Is the item you have assigned primarily used for living or lodging purposes?
+____________________________________________
+dial_id = 25
+target = bedroom
+candidates = shack, helicopter, ship, airplane, tent, yacht, cabin, bedroom
+turn = 4/11
+reference set = ['cabin', 'bedroom']
+question = Is the item you were assigned used for sleeping?
+____________________________________________
+dial_id = 25
+target = bedroom
+candidates = shack, helicopter, ship, airplane, tent, yacht, cabin, bedroom
+turn = 6/11
+reference set = ['bedroom']
+question = Is the item you were assigned a type of bed?
+____________________________________________
+dial_id = 25
+target = bedroom
+candidates = shack, helicopter, ship, airplane, tent, yacht, cabin, bedroom
+turn = 8/11
+reference set = ['bedroom']
+question = Is the item you were assigned a type of bed that can also be used as a sitting area during the day?
+____________________________________________
+dial_id = 25
+target = bedroom
+candidates = shack, helicopter, ship, airplane, tent, yacht, cabin, bedroom
+turn = 10/11
+reference set = ['bedroom']
+question = I apologize for the inaccurate guess. Is the item you were assigned a type of bed that is designed to fold up and be stored in a closet or against a wall when not in use?
+____________________________________________
+dial_id = 25
+target = bedroom
+candidates = shack, helicopter, ship, airplane, tent, yacht, cabin, bedroom
+turn = 11/11
+reference set = ['bedroom']
+question = The item you were assigned is a Murphy bed.
+____________________________________________
+dial_id = 26
+target = hut
+candidates = shack, hut, cage, balloon, boat, sailboat, helicopter, cupboard
+turn = 3/13
+reference set = ['hut']
+question = Does the candidate have a roof?
+____________________________________________
+dial_id = 26
+target = hut
+candidates = shack, hut, cage, balloon, boat, sailboat, helicopter, cupboard
+turn = 7/13
+reference set = ['hut']
+question = Is the candidate something that keeps things or people inside?
+____________________________________________
+dial_id = 26
+target = hut
+candidates = shack, hut, cage, balloon, boat, sailboat, helicopter, cupboard
+turn = 9/13
+reference set = ['hut']
+question = Is the candidate a type of shelter?
+____________________________________________
+dial_id = 26
+target = hut
+candidates = shack, hut, cage, balloon, boat, sailboat, helicopter, cupboard
+turn = 12/13
+reference set = ['hut']
+question = Does the candidate have a door?
+____________________________________________
+dial_id = 27
+target = cart
+candidates = leotards, hose, shawl, airplane, balloon, jacket, motorcycle, cart
+turn = 3/7
+reference set = ['airplane', 'motorcycle', 'cart']
+question = Is the mode of transportation a vehicle that needs fuel to run?
+____________________________________________
+dial_id = 28
+target = truck
+candidates = leotards, yacht, sailboat, camisole, nightgown, bike, truck, socks
+turn = 2/6
+reference set = ['yacht', 'sailboat', 'bike', 'truck']
+question = Is the item you are thinking of a vehicle?
+____________________________________________
+dial_id = 28
+target = truck
+candidates = leotards, yacht, sailboat, camisole, nightgown, bike, truck, socks
+turn = 5/6
+reference set = ['bike', 'truck']
+question = Is the vehicle you are thinking of large enough to carry goods or cargo?
+____________________________________________
+dial_id = 29
+target = airplane
+candidates = jacket, socks, nylons, helicopter, car, tricycle, airplane, coat
+turn = 2/6
+reference set = ['helicopter', 'car', 'tricycle', 'airplane']
+question = Is the item a mode of transportation?
+____________________________________________
+dial_id = 31
+target = helicopter
+candidates = helicopter, shawl, ship, nightgown, sailboat, pants, coat, airplane
+turn = 4/8
+reference set = ['helicopter', 'airplane']
+question = Is the item you have able to fly?
+____________________________________________
+dial_id = 31
+target = helicopter
+candidates = helicopter, shawl, ship, nightgown, sailboat, pants, coat, airplane
+turn = 5/8
+reference set = ['helicopter', 'airplane']
+question = Is the item you have used for transportation of people rather than cargo or weapons?
+____________________________________________
+dial_id = 31
+target = helicopter
+candidates = helicopter, shawl, ship, nightgown, sailboat, pants, coat, airplane
+turn = 7/8
+reference set = ['helicopter']
+question = I'm sorry about that. Let me try again. Does the item you have rotors that allow it to take off and land vertically?
+____________________________________________
+dial_id = 32
+target = jacket
+candidates = shawl, airplane, hose, motorcycle, helicopter, jacket, socks, tricycle
+turn = 4/10
+reference set = ['jacket']
+question = Is the item you have assigned worn on the upper body?
+____________________________________________
+dial_id = 32
+target = jacket
+candidates = shawl, airplane, hose, motorcycle, helicopter, jacket, socks, tricycle
+turn = 5/10
+reference set = ['jacket']
+question = Is the item you have assigned typically worn during cold weather?
+____________________________________________
+dial_id = 32
+target = jacket
+candidates = shawl, airplane, hose, motorcycle, helicopter, jacket, socks, tricycle
+turn = 9/10
+reference set = ['jacket']
+question = Is the item you have assigned a coat?
+____________________________________________
+dial_id = 32
+target = jacket
+candidates = shawl, airplane, hose, motorcycle, helicopter, jacket, socks, tricycle
+turn = 10/10
+reference set = ['jacket']
+question = Great job! I believe the item you have assigned is a Jacket.
+____________________________________________
+dial_id = 33
+target = socks
+candidates = socks, leotards, trolley, shawl, car, helicopter, airplane, coat
+turn = 3/6
+reference set = ['socks']
+question = Is the item you are thinking of worn under shoes?
+____________________________________________
+dial_id = 33
+target = socks
+candidates = socks, leotards, trolley, shawl, car, helicopter, airplane, coat
+turn = 5/6
+reference set = ['socks']
+question = Is the item you are thinking of small enough to fit in a drawer?
+____________________________________________
+dial_id = 34
+target = nylons
+candidates = boat, nylons, submarine, nightgown, socks, bra, helicopter, balloon
+turn = 2/7
+reference set = ['nylons', 'nightgown', 'socks', 'bra']
+question = Is the item made out of fabric?
+____________________________________________
+dial_id = 34
+target = nylons
+candidates = boat, nylons, submarine, nightgown, socks, bra, helicopter, balloon
+turn = 4/7
+reference set = ['nylons', 'socks']
+question = Is the item worn on the feet?
+____________________________________________
+dial_id = 35
+target = shawl
+candidates = camisole, nightgown, coat, airplane, boat, sailboat, shawl, helicopter
+turn = 3/9
+reference set = ['coat', 'shawl']
+question = Is your item worn as an outer garment?
+____________________________________________
+dial_id = 35
+target = shawl
+candidates = camisole, nightgown, coat, airplane, boat, sailboat, shawl, helicopter
+turn = 4/9
+reference set = ['coat', 'shawl']
+question = Is your item used to keep warm?
+____________________________________________
+dial_id = 35
+target = shawl
+candidates = camisole, nightgown, coat, airplane, boat, sailboat, shawl, helicopter
+turn = 5/9
+reference set = ['coat', 'shawl']
+question = Does your item cover the upper body?
+____________________________________________
+dial_id = 35
+target = shawl
+candidates = camisole, nightgown, coat, airplane, boat, sailboat, shawl, helicopter
+turn = 6/9
+reference set = ['coat', 'shawl']
+question = Is your item long enough to cover hips?
+____________________________________________
+dial_id = 35
+target = shawl
+candidates = camisole, nightgown, coat, airplane, boat, sailboat, shawl, helicopter
+turn = 7/9
+reference set = ['coat', 'shawl']
+question = Is your item made from wool or a similar fabric?
+____________________________________________
+dial_id = 37
+target = turkey
+candidates = flamingo, stork, dove, dog, turkey, porcupine, chipmunk, fox
+turn = 4/11
+reference set = ['stork', 'turkey']
+question = Is your bird carnivorous?
+____________________________________________
+dial_id = 37
+target = turkey
+candidates = flamingo, stork, dove, dog, turkey, porcupine, chipmunk, fox
+turn = 5/11
+reference set = ['stork', 'turkey']
+question = Does your bird have a long, curved beak?
+____________________________________________
+dial_id = 37
+target = turkey
+candidates = flamingo, stork, dove, dog, turkey, porcupine, chipmunk, fox
+turn = 9/11
+reference set = ['turkey']
+question = Is the body of your bird usually consumed during festive occasions like Thanksgiving?
+____________________________________________
+dial_id = 37
+target = turkey
+candidates = flamingo, stork, dove, dog, turkey, porcupine, chipmunk, fox
+turn = 10/11
+reference set = ['turkey']
+question = Does your bird have a fleshy, wattle-like protuberance on the neck?
+____________________________________________
+dial_id = 38
+target = turkey
+candidates = flamingo, dove, dog, chipmunk, stork, fox, turkey, porcupine
+turn = 2/8
+reference set = ['flamingo', 'dove', 'stork', 'turkey']
+question = Does the bird you're thinking of, usually fly?
+____________________________________________
+dial_id = 39
+target = stork
+candidates = hyena, chickadee, starling, fox, mouse, rat, goose, stork
+turn = 3/4
+reference set = ['goose', 'stork']
+question = Is the item you have a long neck?
+____________________________________________
+dial_id = 40
+target = goose
+candidates = mouse, stork, hyena, rat, goose, starling, chickadee, fox
+turn = 2/7
+reference set = ['stork', 'goose', 'starling', 'chickadee']
+question = Is the item you have chosen a bird?
+____________________________________________
+dial_id = 40
+target = goose
+candidates = mouse, stork, hyena, rat, goose, starling, chickadee, fox
+turn = 3/7
+reference set = ['stork', 'goose', 'starling', 'chickadee']
+question = Is the item you have chosen a bird that can fly?
+____________________________________________
+dial_id = 40
+target = goose
+candidates = mouse, stork, hyena, rat, goose, starling, chickadee, fox
+turn = 6/7
+reference set = ['stork', 'goose']
+question = Is the item you have chosen a waterbird?
+____________________________________________
+dial_id = 41
+target = goose
+candidates = stork, starling, rat, hyena, fox, chickadee, mouse, goose
+turn = 3/8
+reference set = ['goose']
+question = Is the bird you are thinking of bigger than a pigeon?
+____________________________________________
+dial_id = 41
+target = goose
+candidates = stork, starling, rat, hyena, fox, chickadee, mouse, goose
+turn = 6/8
+reference set = ['goose']
+question = Is the bird you are thinking of a predator that lives near water?
+____________________________________________
+dial_id = 42
+target = rat
+candidates = squirrel, pheasant, fox, penguin, hyena, rat, dove, pelican
+turn = 3/6
+reference set = ['squirrel', 'rat']
+question = Is the item typically small in size?
+____________________________________________
+dial_id = 42
+target = rat
+candidates = squirrel, pheasant, fox, penguin, hyena, rat, dove, pelican
+turn = 5/6
+reference set = ['rat']
+question = Is the item a type of rodent?
+____________________________________________
+dial_id = 43
+target = fox
+candidates = pelican, pheasant, rat, squirrel, hyena, fox, dove, penguin
+turn = 2/9
+reference set = ['rat', 'squirrel', 'hyena', 'fox']
+question = Does the item have fur?
+____________________________________________
+dial_id = 43
+target = fox
+candidates = pelican, pheasant, rat, squirrel, hyena, fox, dove, penguin
+turn = 4/9
+reference set = ['rat', 'squirrel', 'hyena', 'fox']
+question = Is the item a mammal?
+____________________________________________
+dial_id = 43
+target = fox
+candidates = pelican, pheasant, rat, squirrel, hyena, fox, dove, penguin
+turn = 8/9
+reference set = ['fox']
+question = Is the item a type of canine?
+____________________________________________
+dial_id = 44
+target = hamster
+candidates = hamster, penguin, chipmunk, chickadee, pelican, hyena, dog, blackbird
+turn = 1/8
+reference set = dict_keys(['hamster', 'penguin', 'chipmunk', 'chickadee', 'pelican', 'hyena', 'dog', 'blackbird'])
+question = Is the item you have chosen an animal?
+____________________________________________
+dial_id = 44
+target = hamster
+candidates = hamster, penguin, chipmunk, chickadee, pelican, hyena, dog, blackbird
+turn = 4/8
+reference set = ['hamster', 'chipmunk', 'hyena', 'dog']
+question = Does the animal you have in mind live on land?
+____________________________________________
+dial_id = 44
+target = hamster
+candidates = hamster, penguin, chipmunk, chickadee, pelican, hyena, dog, blackbird
+turn = 7/8
+reference set = ['hamster']
+question = Does the animal you are thinking of have a furry coat?
+____________________________________________
+dial_id = 45
+target = pelican
+candidates = apartment, rooster, pelican, closet, penguin, cupboard, turkey, cottage
+turn = 3/6
+reference set = ['pelican']
+question = Is your item mostly black and white?
+____________________________________________
+dial_id = 45
+target = pelican
+candidates = apartment, rooster, pelican, closet, penguin, cupboard, turkey, cottage
+turn = 5/6
+reference set = ['pelican']
+question = Is your item frequently found in tropical regions?
+____________________________________________
+dial_id = 46
+target = oriole
+candidates = oriole, tent, swan, penguin, bungalow, hut, house, starling
+turn = 4/5
+reference set = ['oriole', 'starling']
+question = Is your bird commonly found in North America?
+____________________________________________
+dial_id = 47
+target = penguin
+candidates = toilet, duck, house, pigeon, cage, penguin, dove, cottage
+turn = 3/4
+reference set = ['penguin']
+question = Is the bird commonly found in cold regions?
+____________________________________________
+dial_id = 48
+target = raven
+candidates = pelican, apartment, shack, raven, goose, tent, nightingale, house
+turn = 2/4
+reference set = ['pelican', 'raven', 'goose', 'nightingale']
+question = Is the item a bird?
+____________________________________________
+dial_id = 49
+target = dove
+candidates = shack, tent, dove, cupboard, toilet, blackbird, nightingale, rooster
+turn = 2/8
+reference set = ['dove', 'blackbird', 'nightingale', 'rooster']
+question = Is the item you were assigned a type of bird?
+____________________________________________
+dial_id = 49
+target = dove
+candidates = shack, tent, dove, cupboard, toilet, blackbird, nightingale, rooster
+turn = 4/8
+reference set = ['dove']
+question = Is the item you were assigned a type of bird that can fly?
+____________________________________________
+dial_id = 49
+target = dove
+candidates = shack, tent, dove, cupboard, toilet, blackbird, nightingale, rooster
+turn = 7/8
+reference set = ['dove']
+question = Is the item you were assigned a type of bird that is known for its soft and cooing call?
+____________________________________________
+dial_id = 50
+target = house
+candidates = stork, house, turkey, apartment, penguin, cupboard, bedroom, dove
+turn = 4/7
+reference set = ['house', 'apartment']
+question = Is it a residential building?
+____________________________________________
+dial_id = 50
+target = house
+candidates = stork, house, turkey, apartment, penguin, cupboard, bedroom, dove
+turn = 5/7
+reference set = ['house', 'apartment']
+question = Is this building a type of apartment?
+____________________________________________
+dial_id = 51
+target = bungalow
+candidates = turkey, goose, cottage, cage, cabin, duck, dove, bungalow
+turn = 4/6
+reference set = ['bungalow']
+question = Is the item a simple dwelling made of natural materials like wood or stone?
+____________________________________________
+dial_id = 52
+target = shack
+candidates = dove, turkey, toilet, shack, closet, sparrow, hut, chickadee
+turn = 3/11
+reference set = ['toilet', 'shack']
+question = Does the item you are thinking of have a door or lid that can be opened and closed?
+____________________________________________
+dial_id = 52
+target = shack
+candidates = dove, turkey, toilet, shack, closet, sparrow, hut, chickadee
+turn = 4/11
+reference set = ['toilet', 'shack']
+question = Is the item you are thinking of usually found inside a house?
+____________________________________________
+dial_id = 52
+target = shack
+candidates = dove, turkey, toilet, shack, closet, sparrow, hut, chickadee
+turn = 7/11
+reference set = ['shack']
+question = Is the item you are thinking of usually made of wood or other natural materials?
+____________________________________________
+dial_id = 52
+target = shack
+candidates = dove, turkey, toilet, shack, closet, sparrow, hut, chickadee
+turn = 8/11
+reference set = ['shack']
+question = Is the item you are thinking of a small enclosed space that can be used for shelter or storage?
+____________________________________________
+dial_id = 52
+target = shack
+candidates = dove, turkey, toilet, shack, closet, sparrow, hut, chickadee
+turn = 9/11
+reference set = ['shack']
+question = Is the item you are thinking of smaller than a regular size room?
+____________________________________________
+dial_id = 53
+target = closet
+candidates = tent, pheasant, bedroom, shack, pigeon, finch, closet, crow
+turn = 7/15
+reference set = ['closet']
+question = Can the item you were assigned be held in one's hand?
+____________________________________________
+dial_id = 53
+target = closet
+candidates = tent, pheasant, bedroom, shack, pigeon, finch, closet, crow
+turn = 9/15
+reference set = ['closet']
+question = Is the item you were assigned related to sports or leisure activities?
+____________________________________________
+dial_id = 53
+target = closet
+candidates = tent, pheasant, bedroom, shack, pigeon, finch, closet, crow
+turn = 10/15
+reference set = ['closet']
+question = Is the item you were assigned equipment for any particular sport?
+____________________________________________
+dial_id = 53
+target = closet
+candidates = tent, pheasant, bedroom, shack, pigeon, finch, closet, crow
+turn = 12/15
+reference set = ['closet']
+question = Does the item you were assigned apply more for outdoor sports than for indoor sports?
+____________________________________________
+dial_id = 53
+target = closet
+candidates = tent, pheasant, bedroom, shack, pigeon, finch, closet, crow
+turn = 14/15
+reference set = ['closet']
+question = Is the item you were assigned a type of racket?
+____________________________________________
+dial_id = 53
+target = closet
+candidates = tent, pheasant, bedroom, shack, pigeon, finch, closet, crow
+turn = 15/15
+reference set = ['closet']
+question = Great! The item you were assigned is a badminton racket, isn't it?
+____________________________________________
+dial_id = 54
+target = goose
+candidates = pigeon, hose, goose, duck, jacket, dove, coat, leotards
+turn = 2/5
+reference set = ['pigeon', 'goose', 'duck', 'dove']
+question = Is it a bird?
+____________________________________________
+dial_id = 55
+target = flamingo
+candidates = hose, penguin, crow, pants, socks, robin, camisole, flamingo
+turn = 3/4
+reference set = ['flamingo']
+question = Is your bird color pink?
+____________________________________________
+dial_id = 56
+target = stork
+candidates = nylons, stork, coat, jacket, penguin, leotards, pheasant, pigeon
+turn = 2/8
+reference set = ['stork', 'penguin', 'pheasant', 'pigeon']
+question = Is the item a type of bird?
+____________________________________________
+dial_id = 57
+target = nightingale
+candidates = shawl, swan, nightingale, socks, duck, nylons, jacket, crow
+turn = 2/5
+reference set = ['swan', 'nightingale', 'duck', 'crow']
+question = Is the item a bird?
+____________________________________________
+dial_id = 57
+target = nightingale
+candidates = shawl, swan, nightingale, socks, duck, nylons, jacket, crow
+turn = 5/5
+reference set = ['nightingale']
+question = Okay. Based on your answer, I think the item is Nightingale, am I correct?
+____________________________________________
+dial_id = 58
+target = sparrow
+candidates = bra, coat, camisole, jacket, pheasant, dove, sparrow, starling
+turn = 2/8
+reference set = ['pheasant', 'dove', 'sparrow', 'starling']
+question = Is the item you're thinking of a bird?
+____________________________________________
+dial_id = 58
+target = sparrow
+candidates = bra, coat, camisole, jacket, pheasant, dove, sparrow, starling
+turn = 6/8
+reference set = ['dove', 'sparrow', 'starling']
+question = Is the bird you're thinking of typically small in size?
+____________________________________________
+dial_id = 59
+target = nylons
+candidates = swan, nylons, coat, dove, pelican, rooster, jacket, hose
+turn = 3/8
+reference set = ['nylons']
+question = Is the item you have for the lower body?
+____________________________________________
+dial_id = 59
+target = nylons
+candidates = swan, nylons, coat, dove, pelican, rooster, jacket, hose
+turn = 5/8
+reference set = ['nylons']
+question = Is the item you have worn around waist or hips?
+____________________________________________
+dial_id = 60
+target = leotards
+candidates = socks, jacket, leotards, shawl, rooster, swan, pigeon, duck
+turn = 5/12
+reference set = ['leotards']
+question = Is the item you are thinking of normally made of cotton or synthetic fabrics?
+____________________________________________
+dial_id = 60
+target = leotards
+candidates = socks, jacket, leotards, shawl, rooster, swan, pigeon, duck
+turn = 11/12
+reference set = ['leotards']
+question = Is the item you are thinking of typically made of spandex material?
+____________________________________________
+dial_id = 61
+target = socks
+candidates = socks, starling, finch, pants, nylons, pheasant, dove, camisole
+turn = 4/8
+reference set = ['socks']
+question = Is the item you are thinking of an undergarment?
+____________________________________________
+dial_id = 62
+target = bra
+candidates = turkey, coat, bra, dove, shawl, raven, crow, camisole
+turn = 3/6
+reference set = ['bra', 'shawl', 'camisole']
+question = Does the item you were assigned cover the upper body?
+____________________________________________
+dial_id = 62
+target = bra
+candidates = turkey, coat, bra, dove, shawl, raven, crow, camisole
+turn = 5/6
+reference set = ['bra', 'camisole']
+question = Is the item you were assigned designed to cover the breasts?
+____________________________________________
+dial_id = 63
+target = fox
+candidates = squirrel, fox, hamster, hyena, closet, house, cage, bungalow
+turn = 2/6
+reference set = ['squirrel', 'fox', 'hamster', 'hyena']
+question = Is the item a mammal?
+____________________________________________
+dial_id = 63
+target = fox
+candidates = squirrel, fox, hamster, hyena, closet, house, cage, bungalow
+turn = 4/6
+reference set = ['fox', 'hyena']
+question = Is the item a wild animal?
+____________________________________________
+dial_id = 63
+target = fox
+candidates = squirrel, fox, hamster, hyena, closet, house, cage, bungalow
+turn = 5/6
+reference set = ['fox', 'hyena']
+question = Is the item a canine?
+____________________________________________
+dial_id = 64
+target = fox
+candidates = bungalow, cage, squirrel, hamster, hyena, fox, closet, house
+turn = 3/7
+reference set = ['hyena', 'fox']
+question = Is your animal a carnivore?
+____________________________________________
+dial_id = 64
+target = fox
+candidates = bungalow, cage, squirrel, hamster, hyena, fox, closet, house
+turn = 4/7
+reference set = ['hyena', 'fox']
+question = Is your animal a mammal?
+____________________________________________
+dial_id = 64
+target = fox
+candidates = bungalow, cage, squirrel, hamster, hyena, fox, closet, house
+turn = 5/7
+reference set = ['hyena', 'fox']
+question = Is your animal a predator?
+____________________________________________
+dial_id = 64
+target = fox
+candidates = bungalow, cage, squirrel, hamster, hyena, fox, closet, house
+turn = 6/7
+reference set = ['hyena', 'fox']
+question = Is your animal larger than a house cat and has a bushy tail?
+____________________________________________
+dial_id = 65
+target = hyena
+candidates = squirrel, house, closet, hyena, bungalow, cage, fox, hamster
+turn = 2/9
+reference set = ['squirrel', 'hyena', 'fox', 'hamster']
+question = Is the animal you are thinking of a mammal?
+____________________________________________
+dial_id = 65
+target = hyena
+candidates = squirrel, house, closet, hyena, bungalow, cage, fox, hamster
+turn = 7/9
+reference set = ['hyena', 'fox']
+question = Is the animal you are thinking of a predator?
+____________________________________________
+dial_id = 65
+target = hyena
+candidates = squirrel, house, closet, hyena, bungalow, cage, fox, hamster
+turn = 9/9
+reference set = ['hyena']
+question = Is the animal you are thinking of characterized by being cunning and agile?
+____________________________________________
+dial_id = 66
+target = squirrel
+candidates = cottage, hut, hamster, tent, dog, apartment, hyena, squirrel
+turn = 5/8
+reference set = ['squirrel']
+question = Is the animal you are thinking of commonly found in the wild?
+____________________________________________
+dial_id = 66
+target = squirrel
+candidates = cottage, hut, hamster, tent, dog, apartment, hyena, squirrel
+turn = 6/8
+reference set = ['squirrel']
+question = Is the animal you are thinking of active mainly during the day?
+____________________________________________
+dial_id = 66
+target = squirrel
+candidates = cottage, hut, hamster, tent, dog, apartment, hyena, squirrel
+turn = 7/8
+reference set = ['squirrel']
+question = Is the animal you are thinking of able to climb trees?
+____________________________________________
+dial_id = 67
+target = squirrel
+candidates = dog, hyena, hamster, apartment, hut, tent, cottage, squirrel
+turn = 3/6
+reference set = ['hamster', 'squirrel']
+question = Is it a small animal?
+____________________________________________
+dial_id = 67
+target = squirrel
+candidates = dog, hyena, hamster, apartment, hut, tent, cottage, squirrel
+turn = 4/6
+reference set = ['hamster', 'squirrel']
+question = Is it a rodent?
+____________________________________________
+dial_id = 68
+target = squirrel
+candidates = tent, squirrel, dog, hyena, hut, apartment, cottage, hamster
+turn = 4/8
+reference set = ['squirrel', 'hyena']
+question = Is the candidate a carnivore?
+____________________________________________
+dial_id = 68
+target = squirrel
+candidates = tent, squirrel, dog, hyena, hut, apartment, cottage, hamster
+turn = 5/8
+reference set = ['squirrel', 'hyena']
+question = Is the candidate a wild animal?
+____________________________________________
+dial_id = 71
+target = hut
+candidates = rat, hamster, fox, bungalow, hut, shack, hyena, house
+turn = 2/11
+reference set = ['bungalow', 'hut', 'shack', 'house']
+question = Does the item you were assigned provide shelter to humans?
+____________________________________________
+dial_id = 71
+target = hut
+candidates = rat, hamster, fox, bungalow, hut, shack, hyena, house
+turn = 8/11
+reference set = ['hut']
+question = Sure! Let's start the game to find out what item you have been assigned!  - Is the item you were assigned a type of ball game?
+____________________________________________
+dial_id = 71
+target = hut
+candidates = rat, hamster, fox, bungalow, hut, shack, hyena, house
+turn = 10/11
+reference set = ['hut']
+question = Does the item you were assigned involve hitting a ball with a club?
+____________________________________________
+dial_id = 71
+target = hut
+candidates = rat, hamster, fox, bungalow, hut, shack, hyena, house
+turn = 11/11
+reference set = ['hut']
+question = Great! You were assigned the item 'golf'. Congratulations!
+____________________________________________
+dial_id = 72
+target = fox
+candidates = hose, shawl, socks, hyena, coat, fox, hamster, rat
+turn = 4/6
+reference set = ['hyena', 'fox', 'rat']
+question = Is the item you are thinking of a carnivorous animal?
+____________________________________________
+dial_id = 73
+target = fox
+candidates = socks, hyena, fox, hose, hamster, rat, shawl, coat
+turn = 3/7
+reference set = ['hyena', 'fox', 'rat']
+question = Is it a wild animal?
+____________________________________________
+dial_id = 73
+target = fox
+candidates = socks, hyena, fox, hose, hamster, rat, shawl, coat
+turn = 5/7
+reference set = ['hyena', 'fox', 'rat']
+question = Is it a mammal?
+____________________________________________
+dial_id = 74
+target = hamster
+candidates = hyena, shawl, rat, socks, coat, fox, hose, hamster
+turn = 4/8
+reference set = ['rat', 'hamster']
+question = Is your item a small pet kept at home?
+____________________________________________
+dial_id = 74
+target = hamster
+candidates = hyena, shawl, rat, socks, coat, fox, hose, hamster
+turn = 5/8
+reference set = ['rat', 'hamster']
+question = Is your item often used in laboratory experiments?
+____________________________________________
+dial_id = 74
+target = hamster
+candidates = hyena, shawl, rat, socks, coat, fox, hose, hamster
+turn = 7/8
+reference set = ['hamster']
+question = I'm sorry about that. Let me try again: Is it commonly kept as a pet, and can be held in one's hand?
+____________________________________________
+dial_id = 75
+target = rat
+candidates = porcupine, camisole, bra, rat, socks, dog, fox, nylons
+turn = 2/9
+reference set = ['porcupine', 'rat', 'dog', 'fox']
+question = Is the item you have a mammal?
+____________________________________________
+dial_id = 75
+target = rat
+candidates = porcupine, camisole, bra, rat, socks, dog, fox, nylons
+turn = 6/9
+reference set = ['rat']
+question = Is the mammal you have as the item smaller in size compared to a dog?
+____________________________________________
+dial_id = 75
+target = rat
+candidates = porcupine, camisole, bra, rat, socks, dog, fox, nylons
+turn = 7/9
+reference set = ['rat']
+question = Does the mammal you have as the item have a long tail?
+____________________________________________
+dial_id = 75
+target = rat
+candidates = porcupine, camisole, bra, rat, socks, dog, fox, nylons
+turn = 8/9
+reference set = ['rat']
+question = Does the mammal you have as the item belong to rodent family?
+____________________________________________
+dial_id = 76
+target = rat
+candidates = camisole, rat, bra, socks, dog, nylons, fox, porcupine
+turn = 2/6
+reference set = ['rat', 'dog', 'fox', 'porcupine']
+question = Is the item you are thinking of a mammal?
+____________________________________________
+dial_id = 76
+target = rat
+candidates = camisole, rat, bra, socks, dog, nylons, fox, porcupine
+turn = 5/6
+reference set = ['rat']
+question = Does the mammal you are thinking of belong to the Rodentia order?
+____________________________________________
+dial_id = 77
+target = porcupine
+candidates = dog, bra, socks, camisole, porcupine, nylons, fox, rat
+turn = 2/9
+reference set = ['dog', 'porcupine', 'fox', 'rat']
+question = Is the item you were assigned a type of animal?
+____________________________________________
+dial_id = 77
+target = porcupine
+candidates = dog, bra, socks, camisole, porcupine, nylons, fox, rat
+turn = 5/9
+reference set = ['porcupine', 'fox', 'rat']
+question = Is the animal you were assigned a mammal?
+____________________________________________
+dial_id = 77
+target = porcupine
+candidates = dog, bra, socks, camisole, porcupine, nylons, fox, rat
+turn = 7/9
+reference set = ['porcupine', 'fox']
+question = Is the mammal you were assigned commonly found in North America?
+____________________________________________
+dial_id = 78
+target = nylons
+candidates = jacket, dog, mouse, groundhog, nylons, hose, shawl, hyena
+turn = 3/4
+reference set = ['nylons']
+question = Is the item worn on the feet?
+____________________________________________
+dial_id = 79
+target = nylons
+candidates = hose, mouse, hyena, nylons, dog, shawl, jacket, groundhog
+turn = 4/9
+reference set = ['nylons', 'shawl', 'jacket']
+question = Is your item worn on the upper body?
+____________________________________________
+dial_id = 80
+target = hose
+candidates = socks, squirrel, dog, fox, nightgown, hose, camisole, rat
+turn = 3/10
+reference set = ['hose']
+question = Is the item you have used for cleaning or washing?
+____________________________________________
+dial_id = 80
+target = hose
+candidates = socks, squirrel, dog, fox, nightgown, hose, camisole, rat
+turn = 7/10
+reference set = ['hose']
+question = Is the item you have an object used for drying?
+____________________________________________
+dial_id = 80
+target = hose
+candidates = socks, squirrel, dog, fox, nightgown, hose, camisole, rat
+turn = 8/10
+reference set = ['hose']
+question = Is the item you have made of fabric?
+____________________________________________
+dial_id = 80
+target = hose
+candidates = socks, squirrel, dog, fox, nightgown, hose, camisole, rat
+turn = 10/10
+reference set = ['hose']
+question = Is the item you have a cloth?
+____________________________________________
+dial_id = 81
+target = house
+candidates = closet, jacket, house, hose, coat, cottage, leotards, toilet
+turn = 9/12
+reference set = ['house']
+question = Is your item a type of covering?
+____________________________________________
+dial_id = 81
+target = house
+candidates = closet, jacket, house, hose, coat, cottage, leotards, toilet
+turn = 10/12
+reference set = ['house']
+question = Is your item something you can enter?
+____________________________________________
+dial_id = 81
+target = house
+candidates = closet, jacket, house, hose, coat, cottage, leotards, toilet
+turn = 12/12
+reference set = ['house']
+question = I apologize for this mistake. Great! Your item is a "House".
+____________________________________________
+dial_id = 82
+target = tent
+candidates = pants, hut, leotards, socks, camisole, tent, cottage, house
+turn = 4/9
+reference set = ['tent']
+question = Is the item you have assigned a type of outdoor equipment?
+____________________________________________
+dial_id = 82
+target = tent
+candidates = pants, hut, leotards, socks, camisole, tent, cottage, house
+turn = 5/9
+reference set = ['tent']
+question = Is the item you have assigned something you can sleep in?
+____________________________________________
+dial_id = 82
+target = tent
+candidates = pants, hut, leotards, socks, camisole, tent, cottage, house
+turn = 6/9
+reference set = ['tent']
+question = Is the item you have assigned a type of shelter?
+____________________________________________
+dial_id = 82
+target = tent
+candidates = pants, hut, leotards, socks, camisole, tent, cottage, house
+turn = 7/9
+reference set = ['tent']
+question = Is the item you have assigned made of fabric or nylon?
+____________________________________________
+dial_id = 82
+target = tent
+candidates = pants, hut, leotards, socks, camisole, tent, cottage, house
+turn = 8/9
+reference set = ['tent']
+question = Is the item you have assigned something you can fold and easily carry around?
+____________________________________________
+dial_id = 83
+target = hut
+candidates = nylons, hut, cupboard, tent, camisole, pants, leotards, cabin
+turn = 4/8
+reference set = ['hut', 'cabin']
+question = Does the item you are thinking of provide shelter?
+____________________________________________
+dial_id = 83
+target = hut
+candidates = nylons, hut, cupboard, tent, camisole, pants, leotards, cabin
+turn = 7/8
+reference set = ['hut']
+question = Is the item you are thinking of made of wood or metal?
+____________________________________________
+dial_id = 84
+target = tent
+candidates = leotards, hut, apartment, house, coat, shawl, nylons, tent
+turn = 2/5
+reference set = ['hut', 'apartment', 'house', 'tent']
+question = Is the item you have selected a shelter or a place where one can live in?
+____________________________________________
+dial_id = 84
+target = tent
+candidates = leotards, hut, apartment, house, coat, shawl, nylons, tent
+turn = 4/5
+reference set = ['tent']
+question = Is the item you have selected used for camping or as a temporary accommodation?
+____________________________________________
+dial_id = 85
+target = jacket
+candidates = bedroom, shawl, leotards, cottage, closet, nylons, apartment, jacket
+turn = 2/5
+reference set = ['shawl', 'leotards', 'nylons', 'jacket']
+question = Is the item a piece of clothing?
+____________________________________________
+dial_id = 86
+target = jacket
+candidates = socks, nylons, cabin, apartment, coat, bedroom, jacket, house
+turn = 2/7
+reference set = ['socks', 'nylons', 'coat', 'jacket']
+question = Is the item you are thinking of made of fabric?
+____________________________________________
+dial_id = 86
+target = jacket
+candidates = socks, nylons, cabin, apartment, coat, bedroom, jacket, house
+turn = 4/7
+reference set = ['coat', 'jacket']
+question = Is the item you are thinking of typically worn outside?
+____________________________________________
+dial_id = 86
+target = jacket
+candidates = socks, nylons, cabin, apartment, coat, bedroom, jacket, house
+turn = 5/7
+reference set = ['coat', 'jacket']
+question = Is the item you are thinking of designed to keep the wearer warm?
+____________________________________________
+dial_id = 87
+target = socks
+candidates = cupboard, cabin, socks, tent, shack, pants, nylons, bra
+turn = 4/8
+reference set = ['socks']
+question = Is the item you have assigned typically made out of cotton?
+____________________________________________
+dial_id = 87
+target = socks
+candidates = cupboard, cabin, socks, tent, shack, pants, nylons, bra
+turn = 5/8
+reference set = ['socks']
+question = Is the item you have assigned worn mostly during cold weather?
+____________________________________________
+dial_id = 87
+target = socks
+candidates = cupboard, cabin, socks, tent, shack, pants, nylons, bra
+turn = 8/8
+reference set = ['socks']
+question = Is the item you have assigned a type of sock?
+____________________________________________
+dial_id = 88
+target = jacket
+candidates = shack, bedroom, nightgown, cupboard, camisole, coat, hut, jacket
+turn = 3/4
+reference set = ['coat', 'jacket']
+question = Is the item designed to keep you warm?

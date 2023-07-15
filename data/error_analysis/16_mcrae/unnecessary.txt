@@ -1,0 +1,447 @@
+____________________________________________
+dial_id = 1
+candidates = fawn, fox, seal, deer, chickadee, platypus, budgie, beaver, cow, emu, eagle, stork, parakeet, whale, canary, peacock
+target = cow
+reference set = ['cow']
+start = 3/5
+questioner: Is the item you're thinking of a beaver? - type = contradictory
+____________________________________________
+dial_id = 2
+candidates = emu, whale, canary, pelican, chicken, rooster, goose, caribou, mink, cougar, camel, donkey, platypus, beaver, ostrich, penguin
+target = whale
+reference set = ['whale']
+start = 6/12
+questioner: Is the assigned item a toothed whale? - type = neither
+questioner: Is the assigned item a species of dolphin? - type = neither
+questioner: Is the assigned item a member of the porpoise family? - type = neither
+questioner: Then the assigned item must be a killer whale. Is that correct? - type = neither
+questioner: I apologize for the confusion earlier. Can you clarify further, is the assigned item a sperm whale? - type = neither
+____________________________________________
+dial_id = 3
+candidates = walrus, camel, goat, moose, penguin, otter, rooster, goose, dolphin, ostrich, sheep, seal, swan, emu, chicken, canary
+target = rooster
+reference set = ['rooster']
+start = 11/13
+questioner: Is the bird you're thinking of often white and grayish-brown in color with a long thin neck? - type = contradictory
+____________________________________________
+dial_id = 5
+candidates = stork, deer, swan, mink, cat, starling, pelican, dolphin, walrus, parakeet, fawn, budgie, seagull, otter, robin, seal
+target = seagull
+reference set = ['seagull']
+start = 8/10
+questioner: Is it a starling? - type = neither
+____________________________________________
+dial_id = 7
+candidates = shoes, blouse, otter, cape, beaver, fawn, deer, scarf, bra, lion, whale, robe, seal, elephant, boots, camisole
+target = elephant
+reference set = ['elephant']
+start = 4/7
+questioner: Is the animal you are thinking of a type of beaver? - type = neither
+questioner: Is the animal you are thinking of a type of fawn? - type = contradictory
+____________________________________________
+dial_id = 9
+candidates = boots, shoes, seal, camisole, mink, blouse, nightgown, beaver, fawn, walrus, cat, deer, scarf, otter, cloak, bra
+target = cloak
+reference set = ['cloak']
+start = 3/16
+questioner: Is the item you have chosen made of fur? - type = contradictory
+questioner: Is the item you have chosen designed to cover the head? - type = neither
+questioner: Is the item you have chosen a type of undergarment? - type = contradictory
+questioner: Is the item you have chosen a type of footwear? - type = contradictory
+questioner: Is the item you have chosen a type of outerwear? - type = neither
+questioner: Does the item you have selected help to keep the wearer warm? - type = neither
+questioner: Is the item you have chosen used to cover the whole body? - type = contradictory
+questioner: Is the item you have chosen of smaller size, designed to be worn on arms and/or shoulders? - type = contradictory
+questioner: Is the item you have chosen made of a lightweight fabric, such as silk or chiffon? - type = contradictory
+questioner: Is the item you have chosen mainly used in cold weather? - type = neither
+questioner: Is the item you have chosen typically made of wool or a wool blend? - type = neither
+questioner: Is the item you have chosen a type of coat? - type = neither
+____________________________________________
+dial_id = 10
+candidates = scarf, shoes, cloak, fawn, boots, mink, deer, chipmunk, nightgown, cat, goat, sheep, blouse, camisole, bear, bra
+target = bra
+reference set = ['bra']
+start = 4/14
+questioner: Is the piece of clothing you are thinking of typically meant for women? - type = neither
+questioner: Is the piece of clothing you are thinking of typically worn on formal occasions? - type = neither
+questioner: Is the piece of clothing you are thinking of a blouse? - type = contradictory
+questioner: Is the piece of clothing you are thinking of a camisole? - type = contradictory
+questioner: Is the piece of clothing you are thinking of a nightgown? - type = contradictory
+questioner: Is the piece of clothing you are thinking of a scarf? - type = contradictory
+questioner: Is the piece of clothing you are thinking of a blouse? - type = contradictory
+questioner: Is the piece of clothing you are thinking of a camisole? - type = contradictory
+questioner: Is the piece of clothing you are thinking of a type of outerwear? - type = contradictory
+____________________________________________
+dial_id = 12
+candidates = whale, machete, stick, crowbar, slingshot, goat, porcupine, cat, axe, sword, dolphin, buffalo, elk, crossbow, chipmunk, revolver
+target = cat
+reference set = ['cat']
+start = 7/13
+questioner: Thank you for the clarification. Is the animal you got a large wild cat, such as a lion or tiger? - type = contradictory
+questioner: Does the animal you got have retractable claws? - type = trivial
+questioner: Based on your previous answers, the animal you got is most likely a medium-sized wild cat. Is it a lynx? - type = contradictory
+questioner: Alright. Does the animal you got have black spots or patterns on its fur? - type = neither
+questioner: Is the animal you got a type of wild cat that is native to North America? - type = neither
+____________________________________________
+dial_id = 13
+candidates = pig, whale, fawn, caribou, crossbow, rifle, dog, bear, shield, dolphin, whip, slingshot, harpoon, catapult, crowbar, fox
+target = fox
+reference set = ['fox']
+start = 6/8
+questioner: Does it have a bushy tail? - type = neither
+____________________________________________
+dial_id = 14
+candidates = grenade, gun, chipmunk, sword, machete, fawn, deer, bear, buffalo, elk, sheep, goat, whip, shotgun, dagger, crowbar
+target = chipmunk
+reference set = ['chipmunk']
+start = 3/10
+questioner: Is the animal generally considered to be aggressive or dangerous to humans? - type = contradictory
+questioner: Is the animal a herbivore? - type = neither
+questioner: Is it in the deer family? - type = contradictory
+questioner: Is it a small mammal? - type = neither
+questioner: Does it have stripes on its body? - type = neither
+questioner: Is it a rodent? - type = trivial
+____________________________________________
+dial_id = 17
+candidates = cow, machete, cougar, beaver, whip, sword, sheep, revolver, crowbar, caribou, gun, lion, coyote, spear, tomahawk, moose
+target = tomahawk
+reference set = ['tomahawk']
+start = 6/9
+questioner: Is the weapon you have assigned a spear? - type = contradictory
+questioner: Is the weapon you have assigned something that can be held with one hand? - type = neither
+____________________________________________
+dial_id = 18
+candidates = chipmunk, banana, mandarin, mink, cranberry, tomato, chimp, avocado, dog, rhubarb, whale, cherry, lion, dolphin, blueberry, cow
+target = chimp
+reference set = ['chimp']
+start = 6/10
+questioner: Is the animal aquatic? - type = contradictory
+questioner: Is the animal predominantly found in the African continent? - type = neither
+questioner: Is the animal smaller than a car? - type = neither
+____________________________________________
+dial_id = 20
+candidates = buffalo, nectarine, squirrel, cranberry, pear, fox, mandarin, apple, whale, chipmunk, mink, bear, seal, banana, cherry, rhubarb
+target = mink
+reference set = ['mink']
+start = 4/13
+questioner: Is the animal relatively small, about the size of a cat or smaller? - type = contradictory
+questioner: Is the animal a carnivore? - type = neither
+questioner: Is the animal found in North America? - type = neither
+questioner: Is the animal a member of the weasel family? - type = neither
+questioner: Is the animal brown in color and has a white strip on its face? - type = contradictory
+questioner: Is the animal usually found climbing trees? - type = contradictory
+questioner: It seems like the item is a river otter. Am I correct? - type = neither
+questioner: I apologize for my mistake. Can you please give me another hint or clue which can lead me to the correct item? - type = contradictory
+____________________________________________
+dial_id = 23
+candidates = walrus, raspberry, fawn, otter, grapefruit, cat, banana, mink, deer, seal, dolphin, prune, pineapple, avocado, coconut, tomato
+target = tomato
+reference set = ['tomato']
+start = 6/11
+questioner: Is the item a pome fruit? - type = contradictory
+questioner: Is the item round in shape? - type = trivial
+questioner: Based on your previous answers, the item must be a raspberry. Is that correct? - type = contradictory
+questioner: Oh, I'm sorry. Based on your previous answers, the item must be a grapefruit. Is that correct? - type = contradictory
+____________________________________________
+dial_id = 28
+candidates = olive, chipmunk, cucumber, whale, pumpkin, beans, mushroom, eggplant, cow, zebra, pickle, dolphin, platypus, sheep, beaver, radish
+target = radish
+reference set = ['radish']
+start = 6/12
+questioner: I am sorry I couldn't help you identify your item. Would you like me to take a guess based on the answers you've provided? - type = contradictory
+questioner: Based on your answers, the item could be a mushroom. Am I correct? - type = contradictory
+questioner: Yes, of course. Is your item commonly used in making salads? - type = neither
+questioner: Based on your previous answers, I can guess that your item is a cucumber. Am I correct? - type = contradictory
+questioner: I'm sorry for not being able to guess correctly so far. Can you please give me one more clue about the item? - type = contradictory
+____________________________________________
+dial_id = 33
+candidates = swan, cape, robe, parakeet, blouse, stork, budgie, chicken, woodpecker, shoes, goose, penguin, bra, cloak, scarf, camisole
+target = scarf
+reference set = ['scarf']
+start = 6/11
+questioner: Is the item typically made of a thin fabric? - type = contradictory
+questioner: Is the item usually made of wool or a similar warm material? - type = neither
+questioner: Is the item a winter scarf? - type = neither
+questioner: Is the item a long scarf that can be wrapped around the neck? - type = neither
+____________________________________________
+dial_id = 34
+candidates = scarf, cape, nightgown, seagull, bra, boots, shoes, crow, rooster, stork, goose, blouse, buzzard, starling, chickadee, camisole
+target = scarf
+reference set = ['scarf']
+start = 5/8
+questioner: Is your item made of a warm and cozy material to keep someone warm? - type = neither
+questioner: Is your item usually wrapped around the neck? - type = trivial
+____________________________________________
+dial_id = 36
+candidates = bazooka, parakeet, chickadee, buzzard, canary, knife, cannon, catapult, hawk, machete, axe, falcon, shield, raven, sword, budgie
+target = raven
+reference set = ['raven']
+start = 4/9
+questioner: Does the bird you're thinking of have a crest or a tuft of feathers on its head? - type = contradictory
+questioner: Does the bird you're thinking of have a wingspan smaller than 1 meter? - type = neither
+questioner: Is the bird you're thinking of a songbird? - type = contradictory
+questioner: Is the bird you're thinking of a scavenger? - type = neither
+____________________________________________
+dial_id = 37
+candidates = gun, cannon, crow, ostrich, shield, revolver, whip, catapult, slingshot, chickadee, canary, crossbow, penguin, emu, buzzard, chicken
+target = chickadee
+reference set = ['chickadee']
+start = 7/11
+questioner: Does your item have a yellow coloration? - type = contradictory
+questioner: Is your item black? - type = neither
+questioner: Based on your responses, I believe your item is a crow. Is that correct? - type = contradictory
+____________________________________________
+dial_id = 38
+candidates = sword, axe, catapult, seagull, crow, stork, revolver, swan, chicken, emu, shield, whip, crossbow, pheasant, buzzard, slingshot
+target = swan
+reference set = ['swan']
+start = 10/12
+questioner: From the given options, is your bird a crow? - type = contradictory
+____________________________________________
+dial_id = 41
+candidates = dove, sword, machete, parakeet, axe, whip, crowbar, cannon, chicken, budgie, canary, finch, dagger, gun, swan, ostrich
+target = sword
+reference set = ['sword']
+start = 2/5
+questioner: Is the weapon you were assigned a melee weapon?(example: sword, machete, axe, dagger) - type = neither
+questioner: Is the weapon you were assigned commonly used by medieval knights? (example: sword) - type = neither
+____________________________________________
+dial_id = 42
+candidates = pumpkin, raisin, budgie, strawberry, woodpecker, chicken, ostrich, parakeet, raven, pear, buzzard, cherry, honeydew, stork, nectarine, raspberry
+target = ostrich
+reference set = ['ostrich']
+start = 5/10
+questioner: Is the bird capable of flying long distances? - type = neither
+questioner: Is the bird usually found in the wild? - type = neither
+questioner: Is the bird from the family of rails? - type = neither
+questioner: Is the bird of medium to large size? - type = neither
+____________________________________________
+dial_id = 44
+candidates = pheasant, strawberry, swan, raspberry, avocado, rhubarb, parakeet, dove, pineapple, crow, banana, tomato, budgie, buzzard, partridge, cranberry
+target = parakeet
+reference set = ['parakeet']
+start = 4/7
+questioner: Is the parrot you are thinking of commonly kept as a pet? - type = neither
+questioner: Based on your answers, I believe the item you are thinking of is a budgie. Is that correct? - type = contradictory
+____________________________________________
+dial_id = 45
+candidates = canary, goose, pumpkin, tomato, finch, chicken, woodpecker, ostrich, raspberry, pineapple, raisin, emu, grapefruit, banana, prune, raven
+target = pumpkin
+reference set = ['pumpkin']
+start = 8/10
+questioner: Is the item a type of gourd? - type = trivial
+____________________________________________
+dial_id = 46
+candidates = prune, rhubarb, pelican, goose, grapefruit, bluejay, finch, ostrich, pear, banana, olive, canary, raspberry, emu, chickadee, lemon
+target = rhubarb
+reference set = ['rhubarb']
+start = 5/8
+questioner: Is it a type of vegetable? - type = neither
+questioner: Is it a green vegetable? - type = neither
+____________________________________________
+dial_id = 47
+candidates = budgie, seagull, raspberry, tangerine, sparrow, grapefruit, stork, olive, rooster, goose, robin, avocado, pumpkin, chickadee, pear, apple
+target = grapefruit
+reference set = ['grapefruit']
+start = 3/6
+questioner: Is the fruit you have typically orange in color? - type = contradictory
+questioner: Is the fruit you have a type of lemon? - type = neither
+____________________________________________
+dial_id = 51
+candidates = stork, canary, onions, cucumber, beans, peas, crow, pickle, raven, bluejay, buzzard, oriole, pumpkin, sparrow, eggplant, potato
+target = cucumber
+reference set = ['cucumber']
+start = 5/7
+questioner: Is the vegetable you are thinking of cucurbitaceae family? - type = neither
+____________________________________________
+dial_id = 54
+candidates = spear, gun, revolver, cannon, axe, blouse, coat, robe, boots, camisole, sword, bra, machete, cape, shoes, whip
+target = shoes
+reference set = ['shoes']
+start = 4/12
+questioner: Is the item worn on the feet? - type = neither
+questioner: Is the item a type of boot? - type = contradictory
+questioner: Is the item a type of shoe? - type = neither
+questioner: Are the shoes designed for a specific sport? - type = neither
+questioner: Are the shoes high-heeled? - type = neither
+questioner: Are the shoes designed for men? - type = contradictory
+questioner: Do the shoes have laces? - type = neither
+____________________________________________
+dial_id = 56
+candidates = sword, nightgown, coat, camisole, machete, shield, blouse, cannon, bra, bazooka, cloak, catapult, boots, knife, shoes, dagger
+target = cloak
+reference set = ['cloak']
+start = 5/7
+questioner: Is the clothing item typically made of a thicker material such as wool or leather? - type = contradictory
+____________________________________________
+dial_id = 58
+candidates = shoes, bra, crowbar, camisole, shield, robe, nightgown, boots, tomahawk, spear, revolver, gun, whip, catapult, cape, blouse
+target = shield
+reference set = ['shield']
+start = 2/11
+questioner: Is the item you have a tool? - type = neither
+questioner: Is the item you have a cutting tool? - type = contradictory
+questioner: Is the item you have a hand tool? - type = neither
+questioner: Does the tool have multiple functions? - type = contradictory
+questioner: Interesting. Is the tool you have commonly used in woodworking? - type = neither
+questioner: Great! So, is the tool you have a type of saw? - type = neither
+questioner: Does the tool you have commonly have teeth? - type = contradictory
+questioner: Is the tool you have a chisel? - type = contradictory
+____________________________________________
+dial_id = 59
+candidates = cloak, blouse, machete, missile, catapult, shield, scarf, whip, crossbow, bra, nightgown, slingshot, boots, camisole, shoes, harpoon
+target = crossbow
+reference set = ['crossbow']
+start = 5/20
+questioner: Is your item primarily used for cutting or chopping? - type = contradictory
+questioner: Does your item have a long handle or a long range? - type = neither
+questioner: Is your item a type of missile or projectile? - type = neither
+questioner: Is your item propelled by an explosive charge or a rocket engine? - type = contradictory
+questioner: So, does your item rely on a physical force to launch or throw it? - type = neither
+questioner: Is your item shot by hand or with a device? - type = contradictory
+questioner: Does your item require more than one person to operate the device that shoots it? - type = neither
+questioner: So, is your item a type of weapon that can be thrown by a slingshot or a similar device? - type = contradictory
+questioner: Is your item usually used outdoors? - type = neither
+questioner: Is your item a type of javelin, spear or harpoon? - type = contradictory
+questioner: Is your item a type of missile launcher? - type = neither
+questioner: Is your item a type of throwing knife, throwing axe or throwing star? - type = neither
+questioner: Is your item a type of boomerang? - type = neither
+questioner: I'm running out of possibilities. Can you please give me a hint? - type = contradictory
+____________________________________________
+dial_id = 60
+candidates = raspberry, cloak, avocado, lime, prune, robe, shoes, bra, camisole, plum, peach, scarf, blueberry, banana, boots, blouse
+target = boots
+reference set = ['boots']
+start = 4/9
+questioner: Is the item you are thinking of a kind of boots? - type = neither
+questioner: Is the color of the boots you are thinking of is brown or dark brown? - type = contradictory
+questioner: Is the color of the boots you are thinking of black? - type = neither
+questioner: Is the item you are thinking of ankle boots? - type = neither
+____________________________________________
+dial_id = 62
+candidates = prune, tomato, bra, cloak, blouse, robe, raspberry, lemon, rhubarb, shoes, camisole, nectarine, cape, nightgown, strawberry, peach
+target = nightgown
+reference set = ['nightgown']
+start = 7/11
+questioner: Is the item you are thinking of used as an undergarment in the chest area? - type = neither
+questioner: Is the item you are thinking of a type of bra? - type = contradictory
+questioner: Is the item you are thinking of typically worn as a sleepwear? - type = neither
+____________________________________________
+dial_id = 64
+candidates = shoes, cape, olive, pear, nectarine, apple, cantaloupe, camisole, tomato, bra, robe, raisin, scarf, cloak, blouse, pineapple
+target = apple
+reference set = ['apple']
+start = 9/13
+questioner: Does the apple have a greenish-yellow color? - type = neither
+questioner: Great! The item you have is a pear, right? - type = contradictory
+questioner: Oh, I apologize for that. Is the apple variety you have typically used for baking or cooking? - type = neither
+____________________________________________
+dial_id = 66
+candidates = shoes, robe, boots, nightgown, cloak, zucchini, bra, onions, avocado, blouse, eggplant, radish, turnip, peas, camisole, cucumber
+target = nightgown
+reference set = ['nightgown']
+start = 6/8
+questioner: Is the item you are thinking of a blouse? - type = contradictory
+____________________________________________
+dial_id = 67
+candidates = tomato, pumpkin, peas, nightgown, shoes, camisole, boots, gown, blouse, avocado, radish, olive, beans, zucchini, cloak, bra
+target = bra
+reference set = ['bra']
+start = 6/10
+questioner: Is the item a nightgown? - type = contradictory
+questioner: Is the item a camisole? - type = contradictory
+questioner: Is the item a type of cloak? - type = neither
+____________________________________________
+dial_id = 68
+candidates = shoes, cauliflower, cape, pickle, nightgown, peas, scarf, radish, camisole, cloak, avocado, onions, beets, bra, blouse, turnip
+target = nightgown
+reference set = ['nightgown']
+start = 7/12
+questioner: Is the item you have a kind of lingerie? - type = neither
+questioner: Is the item you have a bra? - type = contradictory
+questioner: Is the item you have a camisole? - type = neither
+questioner: Is the item you have more similar to a blouse or a nightgown? - type = contradictory
+____________________________________________
+dial_id = 73
+candidates = peach, cannon, gun, spear, grapefruit, rhubarb, pumpkin, machete, tomahawk, whip, blueberry, avocado, pear, revolver, harpoon, olive
+target = whip
+reference set = ['whip']
+start = 5/16
+questioner: Is the weapon you're thinking of a type of club or baton? - type = trivial
+questioner: Is the weapon you're thinking of made of wood? - type = contradictory
+questioner: Is the weapon you're thinking of commonly made of metal? - type = neither
+questioner: Is the weapon you're thinking of a type of hammer? - type = contradictory
+questioner: Is the weapon you're thinking of generally used by law enforcement officers or security personnel? - type = neither
+questioner: Is the weapon you’re thinking of used for striking people at a close range? - type = neither
+questioner: The weapon you are thinking of is a police baton, am I correct? - type = contradictory
+questioner: I think the weapon you are thinking of is a PR-24 baton, am I right? - type = contradictory
+questioner: Is the weapon you’re thinking of capable of delivering an electric shock? - type = contradictory
+questioner: Is the weapon you’re thinking of also used for breaking glass or windows? - type = neither
+____________________________________________
+dial_id = 74
+candidates = revolver, gun, lime, olive, crowbar, banana, prune, tomahawk, catapult, spear, rhubarb, coconut, whip, honeydew, shield, mandarin
+target = shield
+reference set = ['shield']
+start = 5/8
+questioner: Does the item you have chosen provide some kind of protection to the user? - type = contradictory
+questioner: Is the item you have chosen a defensive weapon? - type = neither
+____________________________________________
+dial_id = 75
+candidates = catapult, avocado, pineapple, shield, revolver, strawberry, spear, gun, crowbar, whip, prune, olive, lime, stick, rhubarb, raisin
+target = rhubarb
+reference set = ['rhubarb']
+start = 6/10
+questioner: Is the item you were assigned commonly used in salads? - type = contradictory
+questioner: Is the item you were assigned green in color when ripe? - type = contradictory
+questioner: Is the item you were assigned often used to make drinks? - type = neither
+____________________________________________
+dial_id = 80
+candidates = machete, cauliflower, zucchini, dagger, whip, radish, crowbar, shotgun, bomb, onions, turnip, grenade, beets, peas, sword, pickle
+target = grenade
+reference set = ['grenade']
+start = 4/6
+questioner: Is the weapon you have a pistol? - type = neither
+____________________________________________
+dial_id = 82
+candidates = catapult, bazooka, crowbar, spear, radish, shield, tomato, beans, pumpkin, avocado, cannon, harpoon, olive, peas, whip, zucchini
+target = peas
+reference set = ['peas']
+start = 6/11
+questioner: Is your item long and cylindrical in shape? - type = contradictory
+questioner: Is your item a type of legume? - type = neither
+questioner: Is your item round and small? - type = neither
+questioner: Is the name of the vegetable similar to a word related to mathematics? - type = trivial
+____________________________________________
+dial_id = 83
+candidates = crowbar, pickle, cannon, whip, beans, tomahawk, zucchini, shield, cucumber, olive, mushroom, tomato, gun, peas, catapult, spear
+target = beans
+reference set = ['beans']
+start = 6/9
+questioner: Is your item typically served cooked instead of raw? - type = neither
+questioner: Is your item typically eaten on its own or as an ingredient in a recipe? - type = contradictory
+____________________________________________
+dial_id = 85
+candidates = banana, plum, turnip, pickle, tangerine, beets, pear, zucchini, honeydew, lime, cauliflower, peas, prune, radish, onions, peach
+target = tangerine
+reference set = ['tangerine']
+start = 3/5
+questioner: Is it small? - type = neither
+____________________________________________
+dial_id = 88
+candidates = cherry, pickle, banana, radish, zucchini, strawberry, eggplant, cucumber, beans, prune, nectarine, raspberry, mushroom, lemon, peas, coconut
+target = eggplant
+reference set = ['eggplant']
+start = 4/6
+questioner: Is the vegetable you are thinking of used as an ingredient in a popular Italian dish? - type = neither
+____________________________________________
+dial_id = 89
+candidates = pickle, honeydew, lime, apple, cranberry, prune, banana, cauliflower, peas, onions, zucchini, beets, pear, radish, turnip, plum
+target = radish
+reference set = ['radish']
+start = 9/16
+questioner: Does the item have a white color? - type = neither
+questioner: Is the item an onion? - type = neither
+questioner: Is it a root vegetable from the Brassicaceae family? - type = contradictory
+questioner: Is it a root vegetable from the Apiaceae family? - type = contradictory
+questioner: Is the item a turnip? - type = neither
+questioner: Is the item a beet? - type = contradictory

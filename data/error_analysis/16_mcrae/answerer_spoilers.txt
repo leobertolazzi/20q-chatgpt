@@ -1,0 +1,270 @@
+____________________________________________
+dial_id = 2
+target = whale
+answerer: This is the list of candidates: emu, whale, canary, pelican, chicken, rooster, goose, caribou, mink, cougar, camel, donkey, platypus, beaver, ostrich, penguin.
+questioner: Is the assigned item a bird?
+answerer: No, it is not a bird.
+questioner: Is the assigned item a mammal?
+answerer: Yes, it is a mammal.
+questioner: Is the assigned item commonly kept as a pet?
+answerer: No, it is not commonly kept as a pet.
+questioner: Is the assigned item a carnivore?
+answerer: Yes, it is a carnivore.
+questioner: Does the assigned item primarily live in water?
+answerer: Yes, it primarily lives in water.
+questioner: Is the assigned item a marine mammal?
+answerer: Yes, it is a marine mammal.
+questioner: Is the assigned item a toothed whale?
+answerer: Yes, it is a toothed whale.
+questioner: Is the assigned item a species of dolphin?
+answerer: No, it is not a species of dolphin.
+questioner: Is the assigned item a member of the porpoise family?
+answerer: No, it is not a member of the porpoise family.
+questioner: Then the assigned item must be a killer whale. Is that correct?
+answerer: No, the assigned item is not a killer whale.
+questioner: I apologize for the confusion earlier. Can you clarify further, is the assigned item a sperm whale?
+answerer: No problem. And no, the assigned item is not a sperm whale.
+questioner: I'm running out of ideas. To confirm, is the assigned item a beaked whale?
+answerer: Yes, the assigned item is a beaked whale. Specifically, it is a whale from the family Ziphiidae, which includes all beaked whale species. Congratulations on guessing it correctly!
+____________________________________________
+dial_id = 12
+target = cat
+answerer: This is the list of candidates: whale, machete, stick, crowbar, slingshot, goat, porcupine, cat, axe, sword, dolphin, buffalo, elk, crossbow, chipmunk, revolver.
+questioner: Is the item you got an animal?
+answerer: Yes.
+questioner: Is the animal you got typically found on land?
+answerer: Yes.
+questioner: Is the animal you got known for having sharp teeth?
+answerer: Yes.
+questioner: Is the animal you got a predator?
+answerer: Yes.
+questioner: Does the animal you got have fur?
+answerer: Yes.
+questioner: Is the animal you got known for its agility?
+answerer: Yes.
+questioner: Is the animal you got a wild cat?
+answerer: It depends on what you mean by "wild cat". If you mean a species of wild cat, then yes, the animal I got is a wild cat. But if you mean a cat that is not domesticated, then it's not necessarily true.
+questioner: Thank you for the clarification. Is the animal you got a large wild cat, such as a lion or tiger?
+answerer: No, the animal I got is not a large wild cat like a lion or tiger.
+questioner: Does the animal you got have retractable claws?
+answerer: Yes.
+questioner: Based on your previous answers, the animal you got is most likely a medium-sized wild cat. Is it a lynx?
+answerer: No, the animal I got is not a lynx.
+questioner: Alright. Does the animal you got have black spots or patterns on its fur?
+answerer: No, the animal I got does not have black spots or patterns on its fur.
+questioner: Is the animal you got a type of wild cat that is native to North America?
+answerer: Yes, the animal I got is a type of wild cat that is native to North America.
+questioner: Great! The animal you got is most likely either a bobcat or a cougar. Is the animal you got a bobcat?
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 16
+target = rifle
+answerer: This is the list of candidates: cannon, spear, rifle, catapult, tomahawk, deer, goat, bear, sheep, walrus, shield, bazooka, revolver, lion, whale, donkey.
+questioner: Is the item an animal?
+answerer: No, it is not an animal.
+questioner: Would the item be considered a weapon?
+answerer: Yes, it is considered a weapon.
+questioner: Is the weapon a type of firearm?
+answerer: Yes, it is a type of firearm.
+questioner: Is the firearm a type of handgun?
+answerer: No, it is not a type of handgun.
+questioner: Is the firearm a type of rifle?
+answerer: Yes, it is a rifle.
+questioner: Great! So, the item is a rifle.
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 32
+target = pelican
+answerer: This is the list of candidates: bra, blouse, seagull, camisole, partridge, penguin, stork, coat, buzzard, crow, shoes, cloak, robe, pheasant, cape, pelican.
+questioner: Is the item you are thinking of, something you can wear?
+answerer: No, you cannot wear a pelican.
+questioner: Is the item you are thinking of, a type of bird?
+answerer: Yes, a pelican is a type of bird.
+questioner: Is the bird you are thinking of a sea bird?
+answerer: Yes, pelicans are sea birds.
+questioner: Great! You were thinking of a pelican, weren't you?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 33
+target = scarf
+answerer: This is the list of candidates: swan, cape, robe, parakeet, blouse, stork, budgie, chicken, woodpecker, shoes, goose, penguin, bra, cloak, scarf, camisole.
+questioner: Is the item a type of clothing?
+answerer: Yes.
+questioner: Is the item worn on the upper body?
+answerer: No.
+questioner: Is the item a type of underwear?
+answerer: No.
+questioner: Is the item worn on the lower body?
+answerer: No.
+questioner: Is the item an accessory?
+answerer: Yes.
+questioner: Is the item worn around the neck?
+answerer: Yes.
+questioner: Is the item typically made of a thin fabric?
+answerer: It depends on the type of scarf, but generally, it can be made of thin or thick fabric.
+questioner: Is the item usually made of wool or a similar warm material?
+answerer: It can be made of wool or other warm materials, but it can also be made of lighter materials like cotton or silk.
+questioner: Is the item a winter scarf?
+answerer: It can be worn in winter, but it's not necessarily a winter scarf.
+questioner: Is the item a long scarf that can be wrapped around the neck?
+answerer: Yes, it can be.
+questioner: Based on your responses, I believe the item is a scarf. Is this correct?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 45
+target = pumpkin
+answerer: This is the list of candidates: canary, goose, pumpkin, tomato, finch, chicken, woodpecker, ostrich, raspberry, pineapple, raisin, emu, grapefruit, banana, prune, raven.
+questioner: Is the item a fruit?
+answerer: Pumpkin is technically a fruit, so the answer is yes.
+questioner: Is the item typically grown for its juice?
+answerer: No, pumpkin is not typically grown for its juice.
+questioner: Is the item a bird?
+answerer: No, the item is not a bird.
+questioner: Is the item a type of berry?
+answerer: No, the item is not a type of berry.
+questioner: Is the item a type of dried fruit?
+answerer: No, the item is not a type of dried fruit.
+questioner: Is the item orange or yellow in color on the outside?
+answerer: Yes, the item is typically orange or yellow in color on the outside.
+questioner: Is the item a type of citrus fruit?
+answerer: No, the item is not a type of citrus fruit.
+questioner: Is the item round in shape?
+answerer: Yes, the item is generally round in shape.
+questioner: Is the item a type of gourd?
+answerer: Yes, the item is a type of gourd.
+questioner: The item must be a pumpkin.
+answerer: Yes! That's correct. Congratulations!
+____________________________________________
+dial_id = 54
+target = shoes
+answerer: This is the list of candidates: spear, gun, revolver, cannon, axe, blouse, coat, robe, boots, camisole, sword, bra, machete, cape, shoes, whip.
+questioner: Is the item a weapon?
+answerer: No, it is not a weapon.
+questioner: Is the item a piece of clothing?
+answerer: Yes, it is a piece of clothing.
+questioner: Is the item worn on the upper part of the body?
+answerer: No, it is not worn on the upper part of the body.
+questioner: Is the item worn on the lower part of the body?
+answerer: Yes, it is worn on the lower part of the body.
+questioner: Is the item worn on the feet?
+answerer: Yes, it is worn on the feet.
+questioner: Is the item a type of boot?
+answerer: No, it is not a type of boot.
+questioner: Is the item a type of shoe?
+answerer: Yes, it is a type of shoe.
+questioner: Are the shoes designed for a specific sport?
+answerer: It depends on the type of shoes. Some shoes are designed for specific sports, while others are not. In the case of the shoes assigned to me, they are not designed for a specific sport.
+questioner: Are the shoes high-heeled?
+answerer: It depends on the specific type of shoes. The shoes assigned to me are not high-heeled.
+questioner: Are the shoes designed for men?
+answerer: The shoes assigned to me can be designed for both men and women.
+questioner: Do the shoes have laces?
+answerer: Yes, the shoes assigned to me have laces.
+questioner: Based on the information you provided, the item assigned to you is a pair of lace-up shoes. Is that correct?
+answerer: Yes! That's correct. Congratulations!
+____________________________________________
+dial_id = 55
+target = shoes
+answerer: This is the list of candidates: nightgown, tomahawk, boots, whip, bra, cannon, scarf, spear, gun, shoes, cloak, knife, dagger, blouse, crowbar, camisole.
+questioner: Is the item you have something you can wear?
+answerer: Yes.
+questioner: Is the item you have associated with upper body clothing?
+answerer: No.
+questioner: Is the item you have associated with lower body clothing?
+answerer: Yes.
+questioner: Is the item you have typically used for a particular sport or physical activity?
+answerer: It depends on the type of shoes. Some shoes are designed for specific sports or physical activities, while others are more general purpose.
+questioner: Is the item you have a type of shoes?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 56
+target = cloak
+answerer: This is the list of candidates: sword, nightgown, coat, camisole, machete, shield, blouse, cannon, bra, bazooka, cloak, catapult, boots, knife, shoes, dagger.
+questioner: Is the item you have a piece of clothing?
+answerer: Yes.
+questioner: Is the clothing item commonly worn as an outer layer?
+answerer: Yes.
+questioner: Is the clothing item designed to cover the upper body?
+answerer: Yes.
+questioner: Is the clothing item designed for women?
+answerer: No.
+questioner: Is the clothing item typically worn by men?
+answerer: It can be worn by both men and women, but it is more commonly associated with men.
+questioner: Is the clothing item typically made of a thicker material such as wool or leather?
+answerer: It depends on the type of cloak, but some cloaks can be made of thicker materials like wool or leather.
+questioner: Is the item you have a cloak?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 61
+target = camisole
+answerer: This is the list of candidates: avocado, scarf, cape, mandarin, blueberry, robe, bra, rhubarb, strawberry, olive, shoes, camisole, blouse, banana, tangerine, cloak.
+questioner: Does the item you were assigned belong to the category of food?
+answerer: No, the item camisole does not belong to the category of food.
+questioner: Is the item you were assigned a piece of clothing?
+answerer: Yes, the item camisole is a piece of clothing.
+questioner: Is the item you were assigned worn on the upper part of the body?
+answerer: Yes, the item camisole is worn on the upper part of the body.
+questioner: Does the item you were assigned have sleeves?
+answerer: No, the item camisole does not have sleeves.
+questioner: Is the item you were assigned usually worn underneath another piece of clothing?
+answerer: Yes, the item camisole is usually worn underneath another piece of clothing.
+questioner: Great, the item you were assigned is a camisole!
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 64
+target = apple
+answerer: This is the list of candidates: shoes, cape, olive, pear, nectarine, apple, cantaloupe, camisole, tomato, bra, robe, raisin, scarf, cloak, blouse, pineapple.
+questioner: Is the item you have edible?
+answerer: Yes.
+questioner: Is the item you have a type of fruit?
+answerer: Yes.
+questioner: Is the item you have a citrus fruit?
+answerer: No.
+questioner: Is the item you have a stone fruit?
+answerer: No.
+questioner: Is the item you have a type of berry?
+answerer: No.
+questioner: Is the item you have a type of pome fruit?
+answerer: Yes.
+questioner: Is the item you have green when it's unripe and turns red when ripe?
+answerer: It depends on the variety of the apple. Some varieties are green when unripe and turn red when ripe, while others are red when unripe and turn a deeper shade of red when ripe.
+questioner: Thanks for letting me know. Is it a red apple?
+answerer: No.
+questioner: Is the apple you have yellow or green in color?
+answerer: Yes, the apple I have is either yellow or green in color.
+questioner: Does the apple have a greenish-yellow color?
+answerer: Yes, the apple I have is greenish-yellow in color.
+questioner: Great! The item you have is a pear, right?
+answerer: No, the item I have is not a pear.
+questioner: Oh, I apologize for that. Is the apple variety you have typically used for baking or cooking?
+answerer: Yes, the apple variety I have is typically used for baking or cooking.
+questioner: Based on your description, the item you have is a Golden Delicious apple. Is that correct?
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 68
+target = nightgown
+answerer: This is the list of candidates: shoes, cauliflower, cape, pickle, nightgown, peas, scarf, radish, camisole, cloak, avocado, onions, beets, bra, blouse, turnip.
+questioner: Is the item you have edible?
+answerer: No, it is not edible.
+questioner: Is the item you have a piece of clothing?
+answerer: Yes, it is a piece of clothing.
+questioner: Is the item you have typically worn on the upper body?
+answerer: Yes, it is typically worn on the upper body.
+questioner: Is it an outerwear garment?
+answerer: No, it is not an outerwear garment.
+questioner: Is the item you have typically worn by women?
+answerer: Yes, it is typically worn by women.
+questioner: Is the item you have a kind of undergarment?
+answerer: Yes, it is a kind of undergarment.
+questioner: Is it worn under the blouse or shirt?
+answerer: No, it is not typically worn under the blouse or shirt.
+questioner: Is the item you have a kind of lingerie?
+answerer: Yes, it is a kind of lingerie.
+questioner: Is the item you have a bra?
+answerer: No, it is not a bra.
+questioner: Is the item you have a camisole?
+answerer: No, it is not a camisole.
+questioner: Is the item you have more similar to a blouse or a nightgown?
+answerer: It is more similar to a nightgown.
+questioner: Is the item you have a nightgown?
+answerer: Yes! That's correct.

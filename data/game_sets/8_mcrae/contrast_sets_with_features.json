@@ -1,0 +1,3962 @@
+{
+  "0": {
+    "items": [
+      [
+        [
+          "hamster",
+          "fox"
+        ],
+        "a_mammal (superordinate)",
+        "not a_bird (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_edible (function)"
+      ],
+      [
+        [
+          "elk",
+          "buffalo"
+        ],
+        "a_mammal (superordinate)",
+        "not a_bird (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_edible (function)"
+      ],
+      [
+        [
+          "robin",
+          "starling"
+        ],
+        "not a_mammal (superordinate)",
+        "a_bird (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_edible (function)"
+      ],
+      [
+        [
+          "chicken",
+          "partridge"
+        ],
+        "not a_mammal (superordinate)",
+        "a_bird (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_edible (function)"
+      ]
+    ]
+  },
+  "1": {
+    "items": [
+      [
+        [
+          "sheep",
+          "zebra"
+        ],
+        "a_mammal (superordinate)",
+        "not a_bird (superordinate)",
+        "is_white (external_surface_property)",
+        "not has_eyes (external_component)"
+      ],
+      [
+        [
+          "deer",
+          "fawn"
+        ],
+        "a_mammal (superordinate)",
+        "not a_bird (superordinate)",
+        "not is_white (external_surface_property)",
+        "has_eyes (external_component)"
+      ],
+      [
+        [
+          "pelican",
+          "budgie"
+        ],
+        "not a_mammal (superordinate)",
+        "a_bird (superordinate)",
+        "beh_-_flies (entity_behavior)",
+        "not beh_-_lays_eggs (entity_behavior)"
+      ],
+      [
+        [
+          "ostrich",
+          "penguin"
+        ],
+        "not a_mammal (superordinate)",
+        "a_bird (superordinate)",
+        "not beh_-_flies (entity_behavior)",
+        "beh_-_lays_eggs (entity_behavior)"
+      ]
+    ]
+  },
+  "2": {
+    "items": [
+      [
+        [
+          "otter",
+          "walrus"
+        ],
+        "a_mammal (superordinate)",
+        "not a_bird (superordinate)",
+        "lives_in_water (location)",
+        "not is_black (external_surface_property)"
+      ],
+      [
+        [
+          "zebra",
+          "bear"
+        ],
+        "a_mammal (superordinate)",
+        "not a_bird (superordinate)",
+        "not lives_in_water (location)",
+        "is_black (external_surface_property)"
+      ],
+      [
+        [
+          "chickadee",
+          "finch"
+        ],
+        "not a_mammal (superordinate)",
+        "a_bird (superordinate)",
+        "is_yellow (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "vulture",
+          "pelican"
+        ],
+        "not a_mammal (superordinate)",
+        "a_bird (superordinate)",
+        "not is_yellow (external_surface_property)",
+        "is_large (external_surface_property)"
+      ]
+    ]
+  },
+  "3": {
+    "items": [
+      [
+        [
+          "budgie",
+          "peacock"
+        ],
+        "a_bird (superordinate)",
+        "not a_mammal (superordinate)",
+        "different_colours (external_surface_property)",
+        "not is_edible (function)"
+      ],
+      [
+        [
+          "turkey",
+          "rooster"
+        ],
+        "a_bird (superordinate)",
+        "not a_mammal (superordinate)",
+        "not different_colours (external_surface_property)",
+        "is_edible (function)"
+      ],
+      [
+        [
+          "pig",
+          "deer"
+        ],
+        "not a_bird (superordinate)",
+        "a_mammal (superordinate)",
+        "is_edible (function)",
+        "not beh_-_swims (entity_behavior)"
+      ],
+      [
+        [
+          "platypus",
+          "beaver"
+        ],
+        "not a_bird (superordinate)",
+        "a_mammal (superordinate)",
+        "not is_edible (function)",
+        "beh_-_swims (entity_behavior)"
+      ]
+    ]
+  },
+  "4": {
+    "items": [
+      [
+        [
+          "eagle",
+          "pigeon"
+        ],
+        "a_bird (superordinate)",
+        "not a_mammal (superordinate)",
+        "beh_-_eats (entity_behavior)",
+        "not has_eyes (external_component)"
+      ],
+      [
+        [
+          "owl",
+          "falcon"
+        ],
+        "a_bird (superordinate)",
+        "not a_mammal (superordinate)",
+        "not beh_-_eats (entity_behavior)",
+        "has_eyes (external_component)"
+      ],
+      [
+        [
+          "chimp",
+          "fawn"
+        ],
+        "not a_bird (superordinate)",
+        "a_mammal (superordinate)",
+        "beh_-_eats (entity_behavior)",
+        "not lives_in_water (location)"
+      ],
+      [
+        [
+          "beaver",
+          "platypus"
+        ],
+        "not a_bird (superordinate)",
+        "a_mammal (superordinate)",
+        "not beh_-_eats (entity_behavior)",
+        "lives_in_water (location)"
+      ]
+    ]
+  },
+  "5": {
+    "items": [
+      [
+        [
+          "falcon",
+          "owl"
+        ],
+        "a_bird (superordinate)",
+        "not a_mammal (superordinate)",
+        "has_eyes (external_component)",
+        "not is_colourful (external_surface_property)"
+      ],
+      [
+        [
+          "peacock",
+          "parakeet"
+        ],
+        "a_bird (superordinate)",
+        "not a_mammal (superordinate)",
+        "not has_eyes (external_component)",
+        "is_colourful (external_surface_property)"
+      ],
+      [
+        [
+          "hamster",
+          "fawn"
+        ],
+        "not a_bird (superordinate)",
+        "a_mammal (superordinate)",
+        "is_soft (external_surface_property)",
+        "not is_yellow (external_surface_property)"
+      ],
+      [
+        [
+          "cheetah",
+          "giraffe"
+        ],
+        "not a_bird (superordinate)",
+        "a_mammal (superordinate)",
+        "not is_soft (external_surface_property)",
+        "is_yellow (external_surface_property)"
+      ]
+    ]
+  },
+  "6": {
+    "items": [
+      [
+        [
+          "hamster",
+          "chipmunk"
+        ],
+        "a_mammal (superordinate)",
+        "not clothing (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_black (external_surface_property)"
+      ],
+      [
+        [
+          "bear",
+          "zebra"
+        ],
+        "a_mammal (superordinate)",
+        "not clothing (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_black (external_surface_property)"
+      ],
+      [
+        [
+          "gown",
+          "boots"
+        ],
+        "not a_mammal (superordinate)",
+        "clothing (superordinate)",
+        "is_long (external_surface_property)",
+        "not is_colourful (external_surface_property)"
+      ],
+      [
+        [
+          "leotards",
+          "mittens"
+        ],
+        "not a_mammal (superordinate)",
+        "clothing (superordinate)",
+        "not is_long (external_surface_property)",
+        "is_colourful (external_surface_property)"
+      ]
+    ]
+  },
+  "7": {
+    "items": [
+      [
+        [
+          "cougar",
+          "ox"
+        ],
+        "a_mammal (superordinate)",
+        "not clothing (superordinate)",
+        "is_large (external_surface_property)",
+        "not beh_-_swims (entity_behavior)"
+      ],
+      [
+        [
+          "beaver",
+          "dolphin"
+        ],
+        "a_mammal (superordinate)",
+        "not clothing (superordinate)",
+        "not is_large (external_surface_property)",
+        "beh_-_swims (entity_behavior)"
+      ],
+      [
+        [
+          "trousers",
+          "pants"
+        ],
+        "not a_mammal (superordinate)",
+        "clothing (superordinate)",
+        "has_legs (external_component)",
+        "not different_sizes (external_surface_property)"
+      ],
+      [
+        [
+          "bra",
+          "shoes"
+        ],
+        "not a_mammal (superordinate)",
+        "clothing (superordinate)",
+        "not has_legs (external_component)",
+        "different_sizes (external_surface_property)"
+      ]
+    ]
+  },
+  "8": {
+    "items": [
+      [
+        [
+          "deer",
+          "fawn"
+        ],
+        "a_mammal (superordinate)",
+        "not clothing (superordinate)",
+        "is_brown (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "gorilla",
+          "elephant"
+        ],
+        "a_mammal (superordinate)",
+        "not clothing (superordinate)",
+        "not is_brown (external_surface_property)",
+        "is_large (external_surface_property)"
+      ],
+      [
+        [
+          "bra",
+          "shoes"
+        ],
+        "not a_mammal (superordinate)",
+        "clothing (superordinate)",
+        "different_sizes (external_surface_property)",
+        "not is_thin (external_surface_property)"
+      ],
+      [
+        [
+          "tie",
+          "belt"
+        ],
+        "not a_mammal (superordinate)",
+        "clothing (superordinate)",
+        "not different_sizes (external_surface_property)",
+        "is_thin (external_surface_property)"
+      ]
+    ]
+  },
+  "9": {
+    "items": [
+      [
+        [
+          "cape",
+          "boots"
+        ],
+        "clothing (superordinate)",
+        "not a_mammal (superordinate)",
+        "is_black (external_surface_property)",
+        "not different_colours (external_surface_property)"
+      ],
+      [
+        [
+          "swimsuit",
+          "trousers"
+        ],
+        "clothing (superordinate)",
+        "not a_mammal (superordinate)",
+        "not is_black (external_surface_property)",
+        "different_colours (external_surface_property)"
+      ],
+      [
+        [
+          "fawn",
+          "porcupine"
+        ],
+        "not clothing (superordinate)",
+        "a_mammal (superordinate)",
+        "is_small (external_surface_property)",
+        "not lives_in_water (location)"
+      ],
+      [
+        [
+          "seal",
+          "otter"
+        ],
+        "not clothing (superordinate)",
+        "a_mammal (superordinate)",
+        "not is_small (external_surface_property)",
+        "lives_in_water (location)"
+      ]
+    ]
+  },
+  "10": {
+    "items": [
+      [
+        [
+          "scarf",
+          "blouse"
+        ],
+        "clothing (superordinate)",
+        "not a_mammal (superordinate)",
+        "is_soft (external_surface_property)",
+        "not is_thin (external_surface_property)"
+      ],
+      [
+        [
+          "tie",
+          "belt"
+        ],
+        "clothing (superordinate)",
+        "not a_mammal (superordinate)",
+        "not is_soft (external_surface_property)",
+        "is_thin (external_surface_property)"
+      ],
+      [
+        [
+          "seal",
+          "pig"
+        ],
+        "not clothing (superordinate)",
+        "a_mammal (superordinate)",
+        "is_edible (function)",
+        "not is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "otter",
+          "cougar"
+        ],
+        "not clothing (superordinate)",
+        "a_mammal (superordinate)",
+        "not is_edible (function)",
+        "is_brown (external_surface_property)"
+      ]
+    ]
+  },
+  "11": {
+    "items": [
+      [
+        [
+          "belt",
+          "tie"
+        ],
+        "clothing (superordinate)",
+        "not a_mammal (superordinate)",
+        "is_thin (external_surface_property)",
+        "not is_soft (external_surface_property)"
+      ],
+      [
+        [
+          "pajamas",
+          "blouse"
+        ],
+        "clothing (superordinate)",
+        "not a_mammal (superordinate)",
+        "not is_thin (external_surface_property)",
+        "is_soft (external_surface_property)"
+      ],
+      [
+        [
+          "donkey",
+          "chimp"
+        ],
+        "not clothing (superordinate)",
+        "a_mammal (superordinate)",
+        "is_brown (external_surface_property)",
+        "not lives_in_water (location)"
+      ],
+      [
+        [
+          "walrus",
+          "platypus"
+        ],
+        "not clothing (superordinate)",
+        "a_mammal (superordinate)",
+        "not is_brown (external_surface_property)",
+        "lives_in_water (location)"
+      ]
+    ]
+  },
+  "12": {
+    "items": [
+      [
+        [
+          "hamster",
+          "chipmunk"
+        ],
+        "a_mammal (superordinate)",
+        "not a_weapon (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_edible (function)"
+      ],
+      [
+        [
+          "seal",
+          "deer"
+        ],
+        "a_mammal (superordinate)",
+        "not a_weapon (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_edible (function)"
+      ],
+      [
+        [
+          "rocket",
+          "shotgun"
+        ],
+        "not a_mammal (superordinate)",
+        "a_weapon (superordinate)",
+        "made_of_metal (made_of)",
+        "not made_of_wood (made_of)"
+      ],
+      [
+        [
+          "spear",
+          "tomahawk"
+        ],
+        "not a_mammal (superordinate)",
+        "a_weapon (superordinate)",
+        "not made_of_metal (made_of)",
+        "made_of_wood (made_of)"
+      ]
+    ]
+  },
+  "13": {
+    "items": [
+      [
+        [
+          "zebra",
+          "bear"
+        ],
+        "a_mammal (superordinate)",
+        "not a_weapon (superordinate)",
+        "is_black (external_surface_property)",
+        "not has_legs (external_component)"
+      ],
+      [
+        [
+          "goat",
+          "squirrel"
+        ],
+        "a_mammal (superordinate)",
+        "not a_weapon (superordinate)",
+        "not is_black (external_surface_property)",
+        "has_legs (external_component)"
+      ],
+      [
+        [
+          "crowbar",
+          "whip"
+        ],
+        "not a_mammal (superordinate)",
+        "a_weapon (superordinate)",
+        "is_black (external_surface_property)",
+        "not is_round (external_surface_property)"
+      ],
+      [
+        [
+          "rocket",
+          "grenade"
+        ],
+        "not a_mammal (superordinate)",
+        "a_weapon (superordinate)",
+        "not is_black (external_surface_property)",
+        "is_round (external_surface_property)"
+      ]
+    ]
+  },
+  "14": {
+    "items": [
+      [
+        [
+          "cougar",
+          "goat"
+        ],
+        "a_mammal (superordinate)",
+        "not a_weapon (superordinate)",
+        "beh_-_eats (entity_behavior)",
+        "not beh_-_swims (entity_behavior)"
+      ],
+      [
+        [
+          "seal",
+          "walrus"
+        ],
+        "a_mammal (superordinate)",
+        "not a_weapon (superordinate)",
+        "not beh_-_eats (entity_behavior)",
+        "beh_-_swims (entity_behavior)"
+      ],
+      [
+        [
+          "revolver",
+          "missile"
+        ],
+        "not a_mammal (superordinate)",
+        "a_weapon (superordinate)",
+        "used_for_killing (function)",
+        "not is_sharp (external_surface_property)"
+      ],
+      [
+        [
+          "sword",
+          "tomahawk"
+        ],
+        "not a_mammal (superordinate)",
+        "a_weapon (superordinate)",
+        "not used_for_killing (function)",
+        "is_sharp (external_surface_property)"
+      ]
+    ]
+  },
+  "15": {
+    "items": [
+      [
+        [
+          "stick",
+          "missile"
+        ],
+        "a_weapon (superordinate)",
+        "not a_mammal (superordinate)",
+        "is_long (external_surface_property)",
+        "not is_loud (external_surface_property)"
+      ],
+      [
+        [
+          "shotgun",
+          "bomb"
+        ],
+        "a_weapon (superordinate)",
+        "not a_mammal (superordinate)",
+        "not is_long (external_surface_property)",
+        "is_loud (external_surface_property)"
+      ],
+      [
+        [
+          "buffalo",
+          "deer"
+        ],
+        "not a_weapon (superordinate)",
+        "a_mammal (superordinate)",
+        "is_edible (function)",
+        "not is_black (external_surface_property)"
+      ],
+      [
+        [
+          "sheep",
+          "cow"
+        ],
+        "not a_weapon (superordinate)",
+        "a_mammal (superordinate)",
+        "not is_edible (function)",
+        "is_black (external_surface_property)"
+      ]
+    ]
+  },
+  "16": {
+    "items": [
+      [
+        [
+          "pistol",
+          "shotgun"
+        ],
+        "a_weapon (superordinate)",
+        "not a_mammal (superordinate)",
+        "is_loud (external_surface_property)",
+        "not is_sharp (external_surface_property)"
+      ],
+      [
+        [
+          "dagger",
+          "spear"
+        ],
+        "a_weapon (superordinate)",
+        "not a_mammal (superordinate)",
+        "not is_loud (external_surface_property)",
+        "is_sharp (external_surface_property)"
+      ],
+      [
+        [
+          "goat",
+          "deer"
+        ],
+        "not a_weapon (superordinate)",
+        "a_mammal (superordinate)",
+        "has_4_legs (external_component)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "lion",
+          "gorilla"
+        ],
+        "not a_weapon (superordinate)",
+        "a_mammal (superordinate)",
+        "not has_4_legs (external_component)",
+        "is_large (external_surface_property)"
+      ]
+    ]
+  },
+  "17": {
+    "items": [
+      [
+        [
+          "whip",
+          "stick"
+        ],
+        "a_weapon (superordinate)",
+        "not a_mammal (superordinate)",
+        "is_thin (external_surface_property)",
+        "not is_sharp (external_surface_property)"
+      ],
+      [
+        [
+          "knife",
+          "harpoon"
+        ],
+        "a_weapon (superordinate)",
+        "not a_mammal (superordinate)",
+        "not is_thin (external_surface_property)",
+        "is_sharp (external_surface_property)"
+      ],
+      [
+        [
+          "walrus",
+          "seal"
+        ],
+        "not a_weapon (superordinate)",
+        "a_mammal (superordinate)",
+        "beh_-_swims (entity_behavior)",
+        "not is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "buffalo",
+          "cow"
+        ],
+        "not a_weapon (superordinate)",
+        "a_mammal (superordinate)",
+        "not beh_-_swims (entity_behavior)",
+        "is_brown (external_surface_property)"
+      ]
+    ]
+  },
+  "18": {
+    "items": [
+      [
+        [
+          "porcupine",
+          "hamster"
+        ],
+        "a_mammal (superordinate)",
+        "not a_fruit (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "elephant",
+          "caribou"
+        ],
+        "a_mammal (superordinate)",
+        "not a_fruit (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_large (external_surface_property)"
+      ],
+      [
+        [
+          "strawberry",
+          "plum"
+        ],
+        "not a_mammal (superordinate)",
+        "a_fruit (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "pumpkin",
+          "grapefruit"
+        ],
+        "not a_mammal (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_large (external_surface_property)"
+      ]
+    ]
+  },
+  "19": {
+    "items": [
+      [
+        [
+          "sheep",
+          "zebra"
+        ],
+        "a_mammal (superordinate)",
+        "not a_fruit (superordinate)",
+        "is_white (external_surface_property)",
+        "not lives_in_water (location)"
+      ],
+      [
+        [
+          "otter",
+          "whale"
+        ],
+        "a_mammal (superordinate)",
+        "not a_fruit (superordinate)",
+        "not is_white (external_surface_property)",
+        "lives_in_water (location)"
+      ],
+      [
+        [
+          "banana",
+          "honeydew"
+        ],
+        "not a_mammal (superordinate)",
+        "a_fruit (superordinate)",
+        "tastes_good (internal_surface_property)",
+        "not is_small (external_surface_property)"
+      ],
+      [
+        [
+          "tangerine",
+          "cranberry"
+        ],
+        "not a_mammal (superordinate)",
+        "a_fruit (superordinate)",
+        "not tastes_good (internal_surface_property)",
+        "is_small (external_surface_property)"
+      ]
+    ]
+  },
+  "20": {
+    "items": [
+      [
+        [
+          "seal",
+          "beaver"
+        ],
+        "a_mammal (superordinate)",
+        "not a_fruit (superordinate)",
+        "beh_-_swims (entity_behavior)",
+        "not has_eyes (external_component)"
+      ],
+      [
+        [
+          "deer",
+          "cow"
+        ],
+        "a_mammal (superordinate)",
+        "not a_fruit (superordinate)",
+        "not beh_-_swims (entity_behavior)",
+        "has_eyes (external_component)"
+      ],
+      [
+        [
+          "tomato",
+          "grapefruit"
+        ],
+        "not a_mammal (superordinate)",
+        "a_fruit (superordinate)",
+        "is_juicy (internal_surface_property)",
+        "not tastes_sweet (internal_surface_property)"
+      ],
+      [
+        [
+          "coconut",
+          "cherry"
+        ],
+        "not a_mammal (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_juicy (internal_surface_property)",
+        "tastes_sweet (internal_surface_property)"
+      ]
+    ]
+  },
+  "21": {
+    "items": [
+      [
+        [
+          "strawberry",
+          "avocado"
+        ],
+        "a_fruit (superordinate)",
+        "not a_mammal (superordinate)",
+        "is_edible (function)",
+        "not has_skin (external_component)"
+      ],
+      [
+        [
+          "pineapple",
+          "tangerine"
+        ],
+        "a_fruit (superordinate)",
+        "not a_mammal (superordinate)",
+        "not is_edible (function)",
+        "has_skin (external_component)"
+      ],
+      [
+        [
+          "deer",
+          "fawn"
+        ],
+        "not a_fruit (superordinate)",
+        "a_mammal (superordinate)",
+        "is_edible (function)",
+        "not is_yellow (external_surface_property)"
+      ],
+      [
+        [
+          "cheetah",
+          "giraffe"
+        ],
+        "not a_fruit (superordinate)",
+        "a_mammal (superordinate)",
+        "not is_edible (function)",
+        "is_yellow (external_surface_property)"
+      ]
+    ]
+  },
+  "22": {
+    "items": [
+      [
+        [
+          "cherry",
+          "apple"
+        ],
+        "a_fruit (superordinate)",
+        "not a_mammal (superordinate)",
+        "is_red (external_surface_property)",
+        "not is_edible (function)"
+      ],
+      [
+        [
+          "grapefruit",
+          "pear"
+        ],
+        "a_fruit (superordinate)",
+        "not a_mammal (superordinate)",
+        "not is_red (external_surface_property)",
+        "is_edible (function)"
+      ],
+      [
+        [
+          "cougar",
+          "elephant"
+        ],
+        "not a_fruit (superordinate)",
+        "a_mammal (superordinate)",
+        "beh_-_eats (entity_behavior)",
+        "not beh_-_swims (entity_behavior)"
+      ],
+      [
+        [
+          "beaver",
+          "platypus"
+        ],
+        "not a_fruit (superordinate)",
+        "a_mammal (superordinate)",
+        "not beh_-_eats (entity_behavior)",
+        "beh_-_swims (entity_behavior)"
+      ]
+    ]
+  },
+  "23": {
+    "items": [
+      [
+        [
+          "tangerine",
+          "cranberry"
+        ],
+        "a_fruit (superordinate)",
+        "not a_mammal (superordinate)",
+        "has_skin (external_component)",
+        "not grows_in_gardens (location)"
+      ],
+      [
+        [
+          "tomato",
+          "rhubarb"
+        ],
+        "a_fruit (superordinate)",
+        "not a_mammal (superordinate)",
+        "not has_skin (external_component)",
+        "grows_in_gardens (location)"
+      ],
+      [
+        [
+          "hamster",
+          "mink"
+        ],
+        "not a_fruit (superordinate)",
+        "a_mammal (superordinate)",
+        "is_soft (external_surface_property)",
+        "not is_yellow (external_surface_property)"
+      ],
+      [
+        [
+          "giraffe",
+          "cheetah"
+        ],
+        "not a_fruit (superordinate)",
+        "a_mammal (superordinate)",
+        "not is_soft (external_surface_property)",
+        "is_yellow (external_surface_property)"
+      ]
+    ]
+  },
+  "24": {
+    "items": [
+      [
+        [
+          "mink",
+          "squirrel"
+        ],
+        "a_mammal (superordinate)",
+        "not a_vegetable (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "whale",
+          "cow"
+        ],
+        "a_mammal (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_large (external_surface_property)"
+      ],
+      [
+        [
+          "radish",
+          "mushroom"
+        ],
+        "not a_mammal (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_long (external_surface_property)"
+      ],
+      [
+        [
+          "celery",
+          "asparagus"
+        ],
+        "not a_mammal (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_long (external_surface_property)"
+      ]
+    ]
+  },
+  "25": {
+    "items": [
+      [
+        [
+          "gorilla",
+          "sheep"
+        ],
+        "a_mammal (superordinate)",
+        "not a_vegetable (superordinate)",
+        "is_black (external_surface_property)",
+        "not beh_-_swims (entity_behavior)"
+      ],
+      [
+        [
+          "walrus",
+          "dolphin"
+        ],
+        "a_mammal (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not is_black (external_surface_property)",
+        "beh_-_swims (entity_behavior)"
+      ],
+      [
+        [
+          "peas",
+          "broccoli"
+        ],
+        "not a_mammal (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_green (external_surface_property)",
+        "not is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "mushroom",
+          "potato"
+        ],
+        "not a_mammal (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_green (external_surface_property)",
+        "is_brown (external_surface_property)"
+      ]
+    ]
+  },
+  "26": {
+    "items": [
+      [
+        [
+          "otter",
+          "lion"
+        ],
+        "a_mammal (superordinate)",
+        "not a_vegetable (superordinate)",
+        "has_a_tail (external_component)",
+        "not is_edible (function)"
+      ],
+      [
+        [
+          "elk",
+          "seal"
+        ],
+        "a_mammal (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not has_a_tail (external_component)",
+        "is_edible (function)"
+      ],
+      [
+        [
+          "pumpkin",
+          "tomato"
+        ],
+        "not a_mammal (superordinate)",
+        "a_vegetable (superordinate)",
+        "has_seeds (internal_component)",
+        "not is_long (external_surface_property)"
+      ],
+      [
+        [
+          "celery",
+          "asparagus"
+        ],
+        "not a_mammal (superordinate)",
+        "a_vegetable (superordinate)",
+        "not has_seeds (internal_component)",
+        "is_long (external_surface_property)"
+      ]
+    ]
+  },
+  "27": {
+    "items": [
+      [
+        [
+          "pumpkin",
+          "peas"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_mammal (superordinate)",
+        "is_round (external_surface_property)",
+        "not is_white (external_surface_property)"
+      ],
+      [
+        [
+          "mushroom",
+          "cauliflower"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_mammal (superordinate)",
+        "not is_round (external_surface_property)",
+        "is_white (external_surface_property)"
+      ],
+      [
+        [
+          "deer",
+          "fawn"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_mammal (superordinate)",
+        "is_edible (function)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "cougar",
+          "gorilla"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_mammal (superordinate)",
+        "not is_edible (function)",
+        "is_large (external_surface_property)"
+      ]
+    ]
+  },
+  "28": {
+    "items": [
+      [
+        [
+          "radish",
+          "beets"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_mammal (superordinate)",
+        "is_red (external_surface_property)",
+        "not is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "potato",
+          "beans"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_mammal (superordinate)",
+        "not is_red (external_surface_property)",
+        "is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "pig",
+          "deer"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_mammal (superordinate)",
+        "has_legs (external_component)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "bison",
+          "whale"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_mammal (superordinate)",
+        "not has_legs (external_component)",
+        "is_large (external_surface_property)"
+      ]
+    ]
+  },
+  "29": {
+    "items": [
+      [
+        [
+          "potato",
+          "onions"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_mammal (superordinate)",
+        "has_skin (external_component)",
+        "not has_seeds (internal_component)"
+      ],
+      [
+        [
+          "pumpkin",
+          "eggplant"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_mammal (superordinate)",
+        "not has_skin (external_component)",
+        "has_seeds (internal_component)"
+      ],
+      [
+        [
+          "platypus",
+          "walrus"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_mammal (superordinate)",
+        "lives_in_water (location)",
+        "not is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "chimp",
+          "fawn"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_mammal (superordinate)",
+        "not lives_in_water (location)",
+        "is_brown (external_surface_property)"
+      ]
+    ]
+  },
+  "30": {
+    "items": [
+      [
+        [
+          "penguin",
+          "bluejay"
+        ],
+        "a_bird (superordinate)",
+        "not clothing (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "vulture",
+          "buzzard"
+        ],
+        "a_bird (superordinate)",
+        "not clothing (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_large (external_surface_property)"
+      ],
+      [
+        [
+          "cloak",
+          "boots"
+        ],
+        "not a_bird (superordinate)",
+        "clothing (superordinate)",
+        "is_long (external_surface_property)",
+        "not different_colours (external_surface_property)"
+      ],
+      [
+        [
+          "sweater",
+          "trousers"
+        ],
+        "not a_bird (superordinate)",
+        "clothing (superordinate)",
+        "not is_long (external_surface_property)",
+        "different_colours (external_surface_property)"
+      ]
+    ]
+  },
+  "31": {
+    "items": [
+      [
+        [
+          "eagle",
+          "stork"
+        ],
+        "a_bird (superordinate)",
+        "not clothing (superordinate)",
+        "is_large (external_surface_property)",
+        "not is_loud (external_surface_property)"
+      ],
+      [
+        [
+          "woodpecker",
+          "parakeet"
+        ],
+        "a_bird (superordinate)",
+        "not clothing (superordinate)",
+        "not is_large (external_surface_property)",
+        "is_loud (external_surface_property)"
+      ],
+      [
+        [
+          "camisole",
+          "bra"
+        ],
+        "not a_bird (superordinate)",
+        "clothing (superordinate)",
+        "is_white (external_surface_property)",
+        "not is_thin (external_surface_property)"
+      ],
+      [
+        [
+          "tie",
+          "belt"
+        ],
+        "not a_bird (superordinate)",
+        "clothing (superordinate)",
+        "not is_white (external_surface_property)",
+        "is_thin (external_surface_property)"
+      ]
+    ]
+  },
+  "32": {
+    "items": [
+      [
+        [
+          "peacock",
+          "budgie"
+        ],
+        "a_bird (superordinate)",
+        "not clothing (superordinate)",
+        "different_colours (external_surface_property)",
+        "not has_eyes (external_component)"
+      ],
+      [
+        [
+          "falcon",
+          "hawk"
+        ],
+        "a_bird (superordinate)",
+        "not clothing (superordinate)",
+        "not different_colours (external_surface_property)",
+        "has_eyes (external_component)"
+      ],
+      [
+        [
+          "bra",
+          "shoes"
+        ],
+        "not a_bird (superordinate)",
+        "clothing (superordinate)",
+        "different_sizes (external_surface_property)",
+        "not is_thin (external_surface_property)"
+      ],
+      [
+        [
+          "tie",
+          "belt"
+        ],
+        "not a_bird (superordinate)",
+        "clothing (superordinate)",
+        "not different_sizes (external_surface_property)",
+        "is_thin (external_surface_property)"
+      ]
+    ]
+  },
+  "33": {
+    "items": [
+      [
+        [
+          "boots",
+          "bra"
+        ],
+        "clothing (superordinate)",
+        "not a_bird (superordinate)",
+        "is_black (external_surface_property)",
+        "not is_colourful (external_surface_property)"
+      ],
+      [
+        [
+          "leotards",
+          "skirt"
+        ],
+        "clothing (superordinate)",
+        "not a_bird (superordinate)",
+        "not is_black (external_surface_property)",
+        "is_colourful (external_surface_property)"
+      ],
+      [
+        [
+          "raven",
+          "eagle"
+        ],
+        "not clothing (superordinate)",
+        "a_bird (superordinate)",
+        "is_large (external_surface_property)",
+        "not is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "chickadee",
+          "owl"
+        ],
+        "not clothing (superordinate)",
+        "a_bird (superordinate)",
+        "not is_large (external_surface_property)",
+        "is_brown (external_surface_property)"
+      ]
+    ]
+  },
+  "34": {
+    "items": [
+      [
+        [
+          "pajamas",
+          "slippers"
+        ],
+        "clothing (superordinate)",
+        "not a_bird (superordinate)",
+        "is_soft (external_surface_property)",
+        "not is_thin (external_surface_property)"
+      ],
+      [
+        [
+          "belt",
+          "tie"
+        ],
+        "clothing (superordinate)",
+        "not a_bird (superordinate)",
+        "not is_soft (external_surface_property)",
+        "is_thin (external_surface_property)"
+      ],
+      [
+        [
+          "rooster",
+          "partridge"
+        ],
+        "not clothing (superordinate)",
+        "a_bird (superordinate)",
+        "is_edible (function)",
+        "not is_loud (external_surface_property)"
+      ],
+      [
+        [
+          "woodpecker",
+          "parakeet"
+        ],
+        "not clothing (superordinate)",
+        "a_bird (superordinate)",
+        "not is_edible (function)",
+        "is_loud (external_surface_property)"
+      ]
+    ]
+  },
+  "35": {
+    "items": [
+      [
+        [
+          "tie",
+          "belt"
+        ],
+        "clothing (superordinate)",
+        "not a_bird (superordinate)",
+        "is_thin (external_surface_property)",
+        "not different_sizes (external_surface_property)"
+      ],
+      [
+        [
+          "bra",
+          "shoes"
+        ],
+        "clothing (superordinate)",
+        "not a_bird (superordinate)",
+        "not is_thin (external_surface_property)",
+        "different_sizes (external_surface_property)"
+      ],
+      [
+        [
+          "penguin",
+          "oriole"
+        ],
+        "not clothing (superordinate)",
+        "a_bird (superordinate)",
+        "is_black (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "goose",
+          "peacock"
+        ],
+        "not clothing (superordinate)",
+        "a_bird (superordinate)",
+        "not is_black (external_surface_property)",
+        "is_large (external_surface_property)"
+      ]
+    ]
+  },
+  "36": {
+    "items": [
+      [
+        [
+          "penguin",
+          "budgie"
+        ],
+        "a_bird (superordinate)",
+        "not a_weapon (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_edible (function)"
+      ],
+      [
+        [
+          "rooster",
+          "duck"
+        ],
+        "a_bird (superordinate)",
+        "not a_weapon (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_edible (function)"
+      ],
+      [
+        [
+          "rocket",
+          "cannon"
+        ],
+        "not a_bird (superordinate)",
+        "a_weapon (superordinate)",
+        "made_of_metal (made_of)",
+        "not made_of_wood (made_of)"
+      ],
+      [
+        [
+          "catapult",
+          "spear"
+        ],
+        "not a_bird (superordinate)",
+        "a_weapon (superordinate)",
+        "not made_of_metal (made_of)",
+        "made_of_wood (made_of)"
+      ]
+    ]
+  },
+  "37": {
+    "items": [
+      [
+        [
+          "starling",
+          "penguin"
+        ],
+        "a_bird (superordinate)",
+        "not a_weapon (superordinate)",
+        "is_black (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "pelican",
+          "ostrich"
+        ],
+        "a_bird (superordinate)",
+        "not a_weapon (superordinate)",
+        "not is_black (external_surface_property)",
+        "is_large (external_surface_property)"
+      ],
+      [
+        [
+          "rocket",
+          "stone"
+        ],
+        "not a_bird (superordinate)",
+        "a_weapon (superordinate)",
+        "is_round (external_surface_property)",
+        "not used_for_killing (function)"
+      ],
+      [
+        [
+          "rifle",
+          "shotgun"
+        ],
+        "not a_bird (superordinate)",
+        "a_weapon (superordinate)",
+        "not is_round (external_surface_property)",
+        "used_for_killing (function)"
+      ]
+    ]
+  },
+  "38": {
+    "items": [
+      [
+        [
+          "stork",
+          "seagull"
+        ],
+        "a_bird (superordinate)",
+        "not a_weapon (superordinate)",
+        "beh_-_eats (entity_behavior)",
+        "not is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "chickadee",
+          "owl"
+        ],
+        "a_bird (superordinate)",
+        "not a_weapon (superordinate)",
+        "not beh_-_eats (entity_behavior)",
+        "is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "axe",
+          "knife"
+        ],
+        "not a_bird (superordinate)",
+        "a_weapon (superordinate)",
+        "used_for_killing (function)",
+        "not is_long (external_surface_property)"
+      ],
+      [
+        [
+          "stick",
+          "crowbar"
+        ],
+        "not a_bird (superordinate)",
+        "a_weapon (superordinate)",
+        "not used_for_killing (function)",
+        "is_long (external_surface_property)"
+      ]
+    ]
+  },
+  "39": {
+    "items": [
+      [
+        [
+          "catapult",
+          "bazooka"
+        ],
+        "a_weapon (superordinate)",
+        "not a_bird (superordinate)",
+        "is_large (external_surface_property)",
+        "not is_thin (external_surface_property)"
+      ],
+      [
+        [
+          "stick",
+          "whip"
+        ],
+        "a_weapon (superordinate)",
+        "not a_bird (superordinate)",
+        "not is_large (external_surface_property)",
+        "is_thin (external_surface_property)"
+      ],
+      [
+        [
+          "pheasant",
+          "rooster"
+        ],
+        "not a_weapon (superordinate)",
+        "a_bird (superordinate)",
+        "is_edible (function)",
+        "not different_colours (external_surface_property)"
+      ],
+      [
+        [
+          "budgie",
+          "peacock"
+        ],
+        "not a_weapon (superordinate)",
+        "a_bird (superordinate)",
+        "not is_edible (function)",
+        "different_colours (external_surface_property)"
+      ]
+    ]
+  },
+  "40": {
+    "items": [
+      [
+        [
+          "rifle",
+          "bomb"
+        ],
+        "a_weapon (superordinate)",
+        "not a_bird (superordinate)",
+        "is_loud (external_surface_property)",
+        "not is_round (external_surface_property)"
+      ],
+      [
+        [
+          "stone",
+          "grenade"
+        ],
+        "a_weapon (superordinate)",
+        "not a_bird (superordinate)",
+        "not is_loud (external_surface_property)",
+        "is_round (external_surface_property)"
+      ],
+      [
+        [
+          "flamingo",
+          "robin"
+        ],
+        "not a_weapon (superordinate)",
+        "a_bird (superordinate)",
+        "beh_-_flies (entity_behavior)",
+        "not has_wings (external_component)"
+      ],
+      [
+        [
+          "penguin",
+          "turkey"
+        ],
+        "not a_weapon (superordinate)",
+        "a_bird (superordinate)",
+        "not beh_-_flies (entity_behavior)",
+        "has_wings (external_component)"
+      ]
+    ]
+  },
+  "41": {
+    "items": [
+      [
+        [
+          "whip",
+          "stick"
+        ],
+        "a_weapon (superordinate)",
+        "not a_bird (superordinate)",
+        "is_thin (external_surface_property)",
+        "not is_sharp (external_surface_property)"
+      ],
+      [
+        [
+          "tomahawk",
+          "sword"
+        ],
+        "a_weapon (superordinate)",
+        "not a_bird (superordinate)",
+        "not is_thin (external_surface_property)",
+        "is_sharp (external_surface_property)"
+      ],
+      [
+        [
+          "penguin",
+          "pelican"
+        ],
+        "not a_weapon (superordinate)",
+        "a_bird (superordinate)",
+        "beh_-_swims (entity_behavior)",
+        "not is_loud (external_surface_property)"
+      ],
+      [
+        [
+          "woodpecker",
+          "crow"
+        ],
+        "not a_weapon (superordinate)",
+        "a_bird (superordinate)",
+        "not beh_-_swims (entity_behavior)",
+        "is_loud (external_surface_property)"
+      ]
+    ]
+  },
+  "42": {
+    "items": [
+      [
+        [
+          "budgie",
+          "finch"
+        ],
+        "a_bird (superordinate)",
+        "not a_fruit (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "raven",
+          "crow"
+        ],
+        "a_bird (superordinate)",
+        "not a_fruit (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_large (external_surface_property)"
+      ],
+      [
+        [
+          "raisin",
+          "cranberry"
+        ],
+        "not a_bird (superordinate)",
+        "a_fruit (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "grapefruit",
+          "pumpkin"
+        ],
+        "not a_bird (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_large (external_surface_property)"
+      ]
+    ]
+  },
+  "43": {
+    "items": [
+      [
+        [
+          "dove",
+          "swan"
+        ],
+        "a_bird (superordinate)",
+        "not a_fruit (superordinate)",
+        "is_white (external_surface_property)",
+        "not beh_-_eats (entity_behavior)"
+      ],
+      [
+        [
+          "buzzard",
+          "robin"
+        ],
+        "a_bird (superordinate)",
+        "not a_fruit (superordinate)",
+        "not is_white (external_surface_property)",
+        "beh_-_eats (entity_behavior)"
+      ],
+      [
+        [
+          "apple",
+          "lime"
+        ],
+        "not a_bird (superordinate)",
+        "a_fruit (superordinate)",
+        "is_green (external_surface_property)",
+        "not is_soft (external_surface_property)"
+      ],
+      [
+        [
+          "peach",
+          "strawberry"
+        ],
+        "not a_bird (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_green (external_surface_property)",
+        "is_soft (external_surface_property)"
+      ]
+    ]
+  },
+  "44": {
+    "items": [
+      [
+        [
+          "woodpecker",
+          "swan"
+        ],
+        "a_bird (superordinate)",
+        "not a_fruit (superordinate)",
+        "beh_-_lays_eggs (entity_behavior)",
+        "not has_legs (external_component)"
+      ],
+      [
+        [
+          "stork",
+          "canary"
+        ],
+        "a_bird (superordinate)",
+        "not a_fruit (superordinate)",
+        "not beh_-_lays_eggs (entity_behavior)",
+        "has_legs (external_component)"
+      ],
+      [
+        [
+          "pineapple",
+          "orange"
+        ],
+        "not a_bird (superordinate)",
+        "a_fruit (superordinate)",
+        "is_juicy (internal_surface_property)",
+        "not is_red (external_surface_property)"
+      ],
+      [
+        [
+          "cherry",
+          "rhubarb"
+        ],
+        "not a_bird (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_juicy (internal_surface_property)",
+        "is_red (external_surface_property)"
+      ]
+    ]
+  },
+  "45": {
+    "items": [
+      [
+        [
+          "grapefruit",
+          "rhubarb"
+        ],
+        "a_fruit (superordinate)",
+        "not a_bird (superordinate)",
+        "is_edible (function)",
+        "not tastes_sweet (internal_surface_property)"
+      ],
+      [
+        [
+          "apple",
+          "cherry"
+        ],
+        "a_fruit (superordinate)",
+        "not a_bird (superordinate)",
+        "not is_edible (function)",
+        "tastes_sweet (internal_surface_property)"
+      ],
+      [
+        [
+          "rooster",
+          "goose"
+        ],
+        "not a_fruit (superordinate)",
+        "a_bird (superordinate)",
+        "is_edible (function)",
+        "not has_eyes (external_component)"
+      ],
+      [
+        [
+          "falcon",
+          "owl"
+        ],
+        "not a_fruit (superordinate)",
+        "a_bird (superordinate)",
+        "not is_edible (function)",
+        "has_eyes (external_component)"
+      ]
+    ]
+  },
+  "46": {
+    "items": [
+      [
+        [
+          "banana",
+          "avocado"
+        ],
+        "a_fruit (superordinate)",
+        "not a_bird (superordinate)",
+        "is_soft (external_surface_property)",
+        "not is_juicy (internal_surface_property)"
+      ],
+      [
+        [
+          "tangerine",
+          "honeydew"
+        ],
+        "a_fruit (superordinate)",
+        "not a_bird (superordinate)",
+        "not is_soft (external_surface_property)",
+        "is_juicy (internal_surface_property)"
+      ],
+      [
+        [
+          "turkey",
+          "duck"
+        ],
+        "not a_fruit (superordinate)",
+        "a_bird (superordinate)",
+        "beh_-_eats (entity_behavior)",
+        "not is_black (external_surface_property)"
+      ],
+      [
+        [
+          "penguin",
+          "oriole"
+        ],
+        "not a_fruit (superordinate)",
+        "a_bird (superordinate)",
+        "not beh_-_eats (entity_behavior)",
+        "is_black (external_surface_property)"
+      ]
+    ]
+  },
+  "47": {
+    "items": [
+      [
+        [
+          "nectarine",
+          "prune"
+        ],
+        "a_fruit (superordinate)",
+        "not a_bird (superordinate)",
+        "has_skin (external_component)",
+        "not grows_in_gardens (location)"
+      ],
+      [
+        [
+          "rhubarb",
+          "tomato"
+        ],
+        "a_fruit (superordinate)",
+        "not a_bird (superordinate)",
+        "not has_skin (external_component)",
+        "grows_in_gardens (location)"
+      ],
+      [
+        [
+          "hawk",
+          "falcon"
+        ],
+        "not a_fruit (superordinate)",
+        "a_bird (superordinate)",
+        "has_eyes (external_component)",
+        "not is_colourful (external_surface_property)"
+      ],
+      [
+        [
+          "peacock",
+          "budgie"
+        ],
+        "not a_fruit (superordinate)",
+        "a_bird (superordinate)",
+        "not has_eyes (external_component)",
+        "is_colourful (external_surface_property)"
+      ]
+    ]
+  },
+  "48": {
+    "items": [
+      [
+        [
+          "chickadee",
+          "starling"
+        ],
+        "a_bird (superordinate)",
+        "not a_vegetable (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "crow",
+          "buzzard"
+        ],
+        "a_bird (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_large (external_surface_property)"
+      ],
+      [
+        [
+          "peas",
+          "mushroom"
+        ],
+        "not a_bird (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_long (external_surface_property)"
+      ],
+      [
+        [
+          "asparagus",
+          "cucumber"
+        ],
+        "not a_bird (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_long (external_surface_property)"
+      ]
+    ]
+  },
+  "49": {
+    "items": [
+      [
+        [
+          "blackbird",
+          "buzzard"
+        ],
+        "a_bird (superordinate)",
+        "not a_vegetable (superordinate)",
+        "is_black (external_surface_property)",
+        "not is_loud (external_surface_property)"
+      ],
+      [
+        [
+          "budgie",
+          "chicken"
+        ],
+        "a_bird (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not is_black (external_surface_property)",
+        "is_loud (external_surface_property)"
+      ],
+      [
+        [
+          "cauliflower",
+          "mushroom"
+        ],
+        "not a_bird (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_white (external_surface_property)",
+        "not has_skin (external_component)"
+      ],
+      [
+        [
+          "potato",
+          "cucumber"
+        ],
+        "not a_bird (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_white (external_surface_property)",
+        "has_skin (external_component)"
+      ]
+    ]
+  },
+  "50": {
+    "items": [
+      [
+        [
+          "parakeet",
+          "crow"
+        ],
+        "a_bird (superordinate)",
+        "not a_vegetable (superordinate)",
+        "is_loud (external_surface_property)",
+        "not is_edible (function)"
+      ],
+      [
+        [
+          "duck",
+          "rooster"
+        ],
+        "a_bird (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not is_loud (external_surface_property)",
+        "is_edible (function)"
+      ],
+      [
+        [
+          "pickle",
+          "beets"
+        ],
+        "not a_bird (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_juicy (internal_surface_property)",
+        "not has_skin (external_component)"
+      ],
+      [
+        [
+          "onions",
+          "cucumber"
+        ],
+        "not a_bird (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_juicy (internal_surface_property)",
+        "has_skin (external_component)"
+      ]
+    ]
+  },
+  "51": {
+    "items": [
+      [
+        [
+          "onions",
+          "peas"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_bird (superordinate)",
+        "is_round (external_surface_property)",
+        "not is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "mushroom",
+          "potato"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_bird (superordinate)",
+        "not is_round (external_surface_property)",
+        "is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "duck",
+          "pheasant"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_bird (superordinate)",
+        "is_edible (function)",
+        "not has_legs (external_component)"
+      ],
+      [
+        [
+          "emu",
+          "canary"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_bird (superordinate)",
+        "not is_edible (function)",
+        "has_legs (external_component)"
+      ]
+    ]
+  },
+  "52": {
+    "items": [
+      [
+        [
+          "peas",
+          "corn"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_bird (superordinate)",
+        "is_yellow (external_surface_property)",
+        "not grows_in_gardens (location)"
+      ],
+      [
+        [
+          "parsley",
+          "tomato"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_bird (superordinate)",
+        "not is_yellow (external_surface_property)",
+        "grows_in_gardens (location)"
+      ],
+      [
+        [
+          "crow",
+          "pelican"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_bird (superordinate)",
+        "has_wings (external_component)",
+        "not beh_-_lays_eggs (entity_behavior)"
+      ],
+      [
+        [
+          "robin",
+          "peacock"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_bird (superordinate)",
+        "not has_wings (external_component)",
+        "beh_-_lays_eggs (entity_behavior)"
+      ]
+    ]
+  },
+  "53": {
+    "items": [
+      [
+        [
+          "onions",
+          "potato"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_bird (superordinate)",
+        "has_skin (external_component)",
+        "not has_seeds (internal_component)"
+      ],
+      [
+        [
+          "avocado",
+          "pumpkin"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_bird (superordinate)",
+        "not has_skin (external_component)",
+        "has_seeds (internal_component)"
+      ],
+      [
+        [
+          "blackbird",
+          "sparrow"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_bird (superordinate)",
+        "beh_-_lays_eggs (entity_behavior)",
+        "not has_eyes (external_component)"
+      ],
+      [
+        [
+          "hawk",
+          "owl"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_bird (superordinate)",
+        "not beh_-_lays_eggs (entity_behavior)",
+        "has_eyes (external_component)"
+      ]
+    ]
+  },
+  "54": {
+    "items": [
+      [
+        [
+          "cape",
+          "gown"
+        ],
+        "clothing (superordinate)",
+        "not a_weapon (superordinate)",
+        "is_long (external_surface_property)",
+        "not is_soft (external_surface_property)"
+      ],
+      [
+        [
+          "blouse",
+          "camisole"
+        ],
+        "clothing (superordinate)",
+        "not a_weapon (superordinate)",
+        "not is_long (external_surface_property)",
+        "is_soft (external_surface_property)"
+      ],
+      [
+        [
+          "crowbar",
+          "harpoon"
+        ],
+        "not clothing (superordinate)",
+        "a_weapon (superordinate)",
+        "made_of_metal (made_of)",
+        "not has_a_handle (external_component)"
+      ],
+      [
+        [
+          "tomahawk",
+          "spear"
+        ],
+        "not clothing (superordinate)",
+        "a_weapon (superordinate)",
+        "not made_of_metal (made_of)",
+        "has_a_handle (external_component)"
+      ]
+    ]
+  },
+  "55": {
+    "items": [
+      [
+        [
+          "pants",
+          "trousers"
+        ],
+        "clothing (superordinate)",
+        "not a_weapon (superordinate)",
+        "has_legs (external_component)",
+        "not is_black (external_surface_property)"
+      ],
+      [
+        [
+          "cape",
+          "boots"
+        ],
+        "clothing (superordinate)",
+        "not a_weapon (superordinate)",
+        "not has_legs (external_component)",
+        "is_black (external_surface_property)"
+      ],
+      [
+        [
+          "bazooka",
+          "shield"
+        ],
+        "not clothing (superordinate)",
+        "a_weapon (superordinate)",
+        "is_large (external_surface_property)",
+        "not is_black (external_surface_property)"
+      ],
+      [
+        [
+          "whip",
+          "crowbar"
+        ],
+        "not clothing (superordinate)",
+        "a_weapon (superordinate)",
+        "not is_large (external_surface_property)",
+        "is_black (external_surface_property)"
+      ]
+    ]
+  },
+  "56": {
+    "items": [
+      [
+        [
+          "camisole",
+          "trousers"
+        ],
+        "clothing (superordinate)",
+        "not a_weapon (superordinate)",
+        "made_of_material (made_of)",
+        "not is_long (external_surface_property)"
+      ],
+      [
+        [
+          "cloak",
+          "robe"
+        ],
+        "clothing (superordinate)",
+        "not a_weapon (superordinate)",
+        "not made_of_material (made_of)",
+        "is_long (external_surface_property)"
+      ],
+      [
+        [
+          "catapult",
+          "tomahawk"
+        ],
+        "not clothing (superordinate)",
+        "a_weapon (superordinate)",
+        "made_of_wood (made_of)",
+        "not used_for_killing (function)"
+      ],
+      [
+        [
+          "bomb",
+          "bazooka"
+        ],
+        "not clothing (superordinate)",
+        "a_weapon (superordinate)",
+        "not made_of_wood (made_of)",
+        "used_for_killing (function)"
+      ]
+    ]
+  },
+  "57": {
+    "items": [
+      [
+        [
+          "stone",
+          "grenade"
+        ],
+        "a_weapon (superordinate)",
+        "not clothing (superordinate)",
+        "is_small (external_surface_property)",
+        "not has_a_handle (external_component)"
+      ],
+      [
+        [
+          "revolver",
+          "axe"
+        ],
+        "a_weapon (superordinate)",
+        "not clothing (superordinate)",
+        "not is_small (external_surface_property)",
+        "has_a_handle (external_component)"
+      ],
+      [
+        [
+          "cape",
+          "boots"
+        ],
+        "not a_weapon (superordinate)",
+        "clothing (superordinate)",
+        "is_black (external_surface_property)",
+        "not has_legs (external_component)"
+      ],
+      [
+        [
+          "pants",
+          "trousers"
+        ],
+        "not a_weapon (superordinate)",
+        "clothing (superordinate)",
+        "not is_black (external_surface_property)",
+        "has_legs (external_component)"
+      ]
+    ]
+  },
+  "58": {
+    "items": [
+      [
+        [
+          "stick",
+          "spear"
+        ],
+        "a_weapon (superordinate)",
+        "not clothing (superordinate)",
+        "is_long (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "catapult",
+          "cannon"
+        ],
+        "a_weapon (superordinate)",
+        "not clothing (superordinate)",
+        "not is_long (external_surface_property)",
+        "is_large (external_surface_property)"
+      ],
+      [
+        [
+          "robe",
+          "camisole"
+        ],
+        "not a_weapon (superordinate)",
+        "clothing (superordinate)",
+        "is_soft (external_surface_property)",
+        "not has_legs (external_component)"
+      ],
+      [
+        [
+          "pants",
+          "trousers"
+        ],
+        "not a_weapon (superordinate)",
+        "clothing (superordinate)",
+        "not is_soft (external_surface_property)",
+        "has_legs (external_component)"
+      ]
+    ]
+  },
+  "59": {
+    "items": [
+      [
+        [
+          "rocket",
+          "stone"
+        ],
+        "a_weapon (superordinate)",
+        "not clothing (superordinate)",
+        "is_round (external_surface_property)",
+        "not used_for_killing (function)"
+      ],
+      [
+        [
+          "bomb",
+          "missile"
+        ],
+        "a_weapon (superordinate)",
+        "not clothing (superordinate)",
+        "not is_round (external_surface_property)",
+        "used_for_killing (function)"
+      ],
+      [
+        [
+          "belt",
+          "tie"
+        ],
+        "not a_weapon (superordinate)",
+        "clothing (superordinate)",
+        "is_thin (external_surface_property)",
+        "not different_sizes (external_surface_property)"
+      ],
+      [
+        [
+          "bra",
+          "shoes"
+        ],
+        "not a_weapon (superordinate)",
+        "clothing (superordinate)",
+        "not is_thin (external_surface_property)",
+        "different_sizes (external_surface_property)"
+      ]
+    ]
+  },
+  "60": {
+    "items": [
+      [
+        [
+          "cloak",
+          "cape"
+        ],
+        "clothing (superordinate)",
+        "not a_fruit (superordinate)",
+        "is_long (external_surface_property)",
+        "not different_colours (external_surface_property)"
+      ],
+      [
+        [
+          "jacket",
+          "swimsuit"
+        ],
+        "clothing (superordinate)",
+        "not a_fruit (superordinate)",
+        "not is_long (external_surface_property)",
+        "different_colours (external_surface_property)"
+      ],
+      [
+        [
+          "raisin",
+          "prune"
+        ],
+        "not clothing (superordinate)",
+        "a_fruit (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "grapefruit",
+          "pumpkin"
+        ],
+        "not clothing (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_large (external_surface_property)"
+      ]
+    ]
+  },
+  "61": {
+    "items": [
+      [
+        [
+          "pants",
+          "trousers"
+        ],
+        "clothing (superordinate)",
+        "not a_fruit (superordinate)",
+        "has_legs (external_component)",
+        "not is_soft (external_surface_property)"
+      ],
+      [
+        [
+          "pajamas",
+          "camisole"
+        ],
+        "clothing (superordinate)",
+        "not a_fruit (superordinate)",
+        "not has_legs (external_component)",
+        "is_soft (external_surface_property)"
+      ],
+      [
+        [
+          "grapefruit",
+          "pumpkin"
+        ],
+        "not clothing (superordinate)",
+        "a_fruit (superordinate)",
+        "is_large (external_surface_property)",
+        "not grows_in_gardens (location)"
+      ],
+      [
+        [
+          "tomato",
+          "rhubarb"
+        ],
+        "not clothing (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_large (external_surface_property)",
+        "grows_in_gardens (location)"
+      ]
+    ]
+  },
+  "62": {
+    "items": [
+      [
+        [
+          "socks",
+          "bra"
+        ],
+        "clothing (superordinate)",
+        "not a_fruit (superordinate)",
+        "made_of_material (made_of)",
+        "not is_long (external_surface_property)"
+      ],
+      [
+        [
+          "cloak",
+          "coat"
+        ],
+        "clothing (superordinate)",
+        "not a_fruit (superordinate)",
+        "not made_of_material (made_of)",
+        "is_long (external_surface_property)"
+      ],
+      [
+        [
+          "honeydew",
+          "cantaloupe"
+        ],
+        "not clothing (superordinate)",
+        "a_fruit (superordinate)",
+        "is_round (external_surface_property)",
+        "not is_soft (external_surface_property)"
+      ],
+      [
+        [
+          "avocado",
+          "pear"
+        ],
+        "not clothing (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_round (external_surface_property)",
+        "is_soft (external_surface_property)"
+      ]
+    ]
+  },
+  "63": {
+    "items": [
+      [
+        [
+          "plum",
+          "cranberry"
+        ],
+        "a_fruit (superordinate)",
+        "not clothing (superordinate)",
+        "is_small (external_surface_property)",
+        "not has_seeds (internal_component)"
+      ],
+      [
+        [
+          "apple",
+          "pumpkin"
+        ],
+        "a_fruit (superordinate)",
+        "not clothing (superordinate)",
+        "not is_small (external_surface_property)",
+        "has_seeds (internal_component)"
+      ],
+      [
+        [
+          "boots",
+          "bra"
+        ],
+        "not a_fruit (superordinate)",
+        "clothing (superordinate)",
+        "is_black (external_surface_property)",
+        "not has_legs (external_component)"
+      ],
+      [
+        [
+          "trousers",
+          "pants"
+        ],
+        "not a_fruit (superordinate)",
+        "clothing (superordinate)",
+        "not is_black (external_surface_property)",
+        "has_legs (external_component)"
+      ]
+    ]
+  },
+  "64": {
+    "items": [
+      [
+        [
+          "peach",
+          "coconut"
+        ],
+        "a_fruit (superordinate)",
+        "not clothing (superordinate)",
+        "is_edible (function)",
+        "not is_small (external_surface_property)"
+      ],
+      [
+        [
+          "cranberry",
+          "cherry"
+        ],
+        "a_fruit (superordinate)",
+        "not clothing (superordinate)",
+        "not is_edible (function)",
+        "is_small (external_surface_property)"
+      ],
+      [
+        [
+          "robe",
+          "scarf"
+        ],
+        "not a_fruit (superordinate)",
+        "clothing (superordinate)",
+        "is_soft (external_surface_property)",
+        "not made_of_material (made_of)"
+      ],
+      [
+        [
+          "skirt",
+          "shoes"
+        ],
+        "not a_fruit (superordinate)",
+        "clothing (superordinate)",
+        "not is_soft (external_surface_property)",
+        "made_of_material (made_of)"
+      ]
+    ]
+  },
+  "65": {
+    "items": [
+      [
+        [
+          "coconut",
+          "raisin"
+        ],
+        "a_fruit (superordinate)",
+        "not clothing (superordinate)",
+        "is_brown (external_surface_property)",
+        "not is_soft (external_surface_property)"
+      ],
+      [
+        [
+          "strawberry",
+          "pear"
+        ],
+        "a_fruit (superordinate)",
+        "not clothing (superordinate)",
+        "not is_brown (external_surface_property)",
+        "is_soft (external_surface_property)"
+      ],
+      [
+        [
+          "tie",
+          "belt"
+        ],
+        "not a_fruit (superordinate)",
+        "clothing (superordinate)",
+        "is_thin (external_surface_property)",
+        "not is_colourful (external_surface_property)"
+      ],
+      [
+        [
+          "mittens",
+          "skirt"
+        ],
+        "not a_fruit (superordinate)",
+        "clothing (superordinate)",
+        "not is_thin (external_surface_property)",
+        "is_colourful (external_surface_property)"
+      ]
+    ]
+  },
+  "66": {
+    "items": [
+      [
+        [
+          "cloak",
+          "boots"
+        ],
+        "clothing (superordinate)",
+        "not a_vegetable (superordinate)",
+        "is_long (external_surface_property)",
+        "not different_colours (external_surface_property)"
+      ],
+      [
+        [
+          "blouse",
+          "socks"
+        ],
+        "clothing (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not is_long (external_surface_property)",
+        "different_colours (external_surface_property)"
+      ],
+      [
+        [
+          "olive",
+          "mushroom"
+        ],
+        "not clothing (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_long (external_surface_property)"
+      ],
+      [
+        [
+          "zucchini",
+          "cucumber"
+        ],
+        "not clothing (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_long (external_surface_property)"
+      ]
+    ]
+  },
+  "67": {
+    "items": [
+      [
+        [
+          "pants",
+          "trousers"
+        ],
+        "clothing (superordinate)",
+        "not a_vegetable (superordinate)",
+        "has_legs (external_component)",
+        "not is_soft (external_surface_property)"
+      ],
+      [
+        [
+          "blouse",
+          "slippers"
+        ],
+        "clothing (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not has_legs (external_component)",
+        "is_soft (external_surface_property)"
+      ],
+      [
+        [
+          "rhubarb",
+          "zucchini"
+        ],
+        "not clothing (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_long (external_surface_property)",
+        "not has_skin (external_component)"
+      ],
+      [
+        [
+          "potato",
+          "onions"
+        ],
+        "not clothing (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_long (external_surface_property)",
+        "has_skin (external_component)"
+      ]
+    ]
+  },
+  "68": {
+    "items": [
+      [
+        [
+          "camisole",
+          "shoes"
+        ],
+        "clothing (superordinate)",
+        "not a_vegetable (superordinate)",
+        "made_of_material (made_of)",
+        "not different_colours (external_surface_property)"
+      ],
+      [
+        [
+          "nightgown",
+          "swimsuit"
+        ],
+        "clothing (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not made_of_material (made_of)",
+        "different_colours (external_surface_property)"
+      ],
+      [
+        [
+          "beans",
+          "mushroom"
+        ],
+        "not clothing (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_brown (external_surface_property)",
+        "not is_juicy (internal_surface_property)"
+      ],
+      [
+        [
+          "beets",
+          "pickle"
+        ],
+        "not clothing (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_brown (external_surface_property)",
+        "is_juicy (internal_surface_property)"
+      ]
+    ]
+  },
+  "69": {
+    "items": [
+      [
+        [
+          "peas",
+          "mushroom"
+        ],
+        "a_vegetable (superordinate)",
+        "not clothing (superordinate)",
+        "is_small (external_surface_property)",
+        "not grows_in_gardens (location)"
+      ],
+      [
+        [
+          "cucumber",
+          "broccoli"
+        ],
+        "a_vegetable (superordinate)",
+        "not clothing (superordinate)",
+        "not is_small (external_surface_property)",
+        "grows_in_gardens (location)"
+      ],
+      [
+        [
+          "cloak",
+          "boots"
+        ],
+        "not a_vegetable (superordinate)",
+        "clothing (superordinate)",
+        "is_black (external_surface_property)",
+        "not different_colours (external_surface_property)"
+      ],
+      [
+        [
+          "scarf",
+          "coat"
+        ],
+        "not a_vegetable (superordinate)",
+        "clothing (superordinate)",
+        "not is_black (external_surface_property)",
+        "different_colours (external_surface_property)"
+      ]
+    ]
+  },
+  "70": {
+    "items": [
+      [
+        [
+          "onions",
+          "pumpkin"
+        ],
+        "a_vegetable (superordinate)",
+        "not clothing (superordinate)",
+        "is_round (external_surface_property)",
+        "not is_edible (function)"
+      ],
+      [
+        [
+          "potato",
+          "olive"
+        ],
+        "a_vegetable (superordinate)",
+        "not clothing (superordinate)",
+        "not is_round (external_surface_property)",
+        "is_edible (function)"
+      ],
+      [
+        [
+          "camisole",
+          "nightgown"
+        ],
+        "not a_vegetable (superordinate)",
+        "clothing (superordinate)",
+        "is_soft (external_surface_property)",
+        "not is_colourful (external_surface_property)"
+      ],
+      [
+        [
+          "leotards",
+          "mittens"
+        ],
+        "not a_vegetable (superordinate)",
+        "clothing (superordinate)",
+        "not is_soft (external_surface_property)",
+        "is_colourful (external_surface_property)"
+      ]
+    ]
+  },
+  "71": {
+    "items": [
+      [
+        [
+          "cabbage",
+          "cauliflower"
+        ],
+        "a_vegetable (superordinate)",
+        "not clothing (superordinate)",
+        "is_white (external_surface_property)",
+        "not is_yellow (external_surface_property)"
+      ],
+      [
+        [
+          "peas",
+          "beans"
+        ],
+        "a_vegetable (superordinate)",
+        "not clothing (superordinate)",
+        "not is_white (external_surface_property)",
+        "is_yellow (external_surface_property)"
+      ],
+      [
+        [
+          "tie",
+          "belt"
+        ],
+        "not a_vegetable (superordinate)",
+        "clothing (superordinate)",
+        "is_thin (external_surface_property)",
+        "not different_sizes (external_surface_property)"
+      ],
+      [
+        [
+          "shoes",
+          "bra"
+        ],
+        "not a_vegetable (superordinate)",
+        "clothing (superordinate)",
+        "not is_thin (external_surface_property)",
+        "different_sizes (external_surface_property)"
+      ]
+    ]
+  },
+  "72": {
+    "items": [
+      [
+        [
+          "revolver",
+          "shotgun"
+        ],
+        "a_weapon (superordinate)",
+        "not a_fruit (superordinate)",
+        "made_of_metal (made_of)",
+        "not is_long (external_surface_property)"
+      ],
+      [
+        [
+          "stick",
+          "spear"
+        ],
+        "a_weapon (superordinate)",
+        "not a_fruit (superordinate)",
+        "not made_of_metal (made_of)",
+        "is_long (external_surface_property)"
+      ],
+      [
+        [
+          "prune",
+          "raisin"
+        ],
+        "not a_weapon (superordinate)",
+        "a_fruit (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "pumpkin",
+          "grapefruit"
+        ],
+        "not a_weapon (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_large (external_surface_property)"
+      ]
+    ]
+  },
+  "73": {
+    "items": [
+      [
+        [
+          "gun",
+          "cannon"
+        ],
+        "a_weapon (superordinate)",
+        "not a_fruit (superordinate)",
+        "is_black (external_surface_property)",
+        "not is_round (external_surface_property)"
+      ],
+      [
+        [
+          "grenade",
+          "rocket"
+        ],
+        "a_weapon (superordinate)",
+        "not a_fruit (superordinate)",
+        "not is_black (external_surface_property)",
+        "is_round (external_surface_property)"
+      ],
+      [
+        [
+          "olive",
+          "raisin"
+        ],
+        "not a_weapon (superordinate)",
+        "a_fruit (superordinate)",
+        "is_black (external_surface_property)",
+        "not is_round (external_surface_property)"
+      ],
+      [
+        [
+          "plum",
+          "cherry"
+        ],
+        "not a_weapon (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_black (external_surface_property)",
+        "is_round (external_surface_property)"
+      ]
+    ]
+  },
+  "74": {
+    "items": [
+      [
+        [
+          "bomb",
+          "crossbow"
+        ],
+        "a_weapon (superordinate)",
+        "not a_fruit (superordinate)",
+        "used_for_killing (function)",
+        "not is_hard (external_surface_property)"
+      ],
+      [
+        [
+          "stone",
+          "rock"
+        ],
+        "a_weapon (superordinate)",
+        "not a_fruit (superordinate)",
+        "not used_for_killing (function)",
+        "is_hard (external_surface_property)"
+      ],
+      [
+        [
+          "apple",
+          "cherry"
+        ],
+        "not a_weapon (superordinate)",
+        "a_fruit (superordinate)",
+        "is_red (external_surface_property)",
+        "not is_large (external_surface_property)"
+      ],
+      [
+        [
+          "grapefruit",
+          "pumpkin"
+        ],
+        "not a_weapon (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_red (external_surface_property)",
+        "is_large (external_surface_property)"
+      ]
+    ]
+  },
+  "75": {
+    "items": [
+      [
+        [
+          "rhubarb",
+          "banana"
+        ],
+        "a_fruit (superordinate)",
+        "not a_weapon (superordinate)",
+        "is_long (external_surface_property)",
+        "not has_seeds (internal_component)"
+      ],
+      [
+        [
+          "lime",
+          "orange"
+        ],
+        "a_fruit (superordinate)",
+        "not a_weapon (superordinate)",
+        "not is_long (external_surface_property)",
+        "has_seeds (internal_component)"
+      ],
+      [
+        [
+          "crowbar",
+          "missile"
+        ],
+        "not a_fruit (superordinate)",
+        "a_weapon (superordinate)",
+        "is_long (external_surface_property)",
+        "not made_of_wood (made_of)"
+      ],
+      [
+        [
+          "crossbow",
+          "shield"
+        ],
+        "not a_fruit (superordinate)",
+        "a_weapon (superordinate)",
+        "not is_long (external_surface_property)",
+        "made_of_wood (made_of)"
+      ]
+    ]
+  },
+  "76": {
+    "items": [
+      [
+        [
+          "plum",
+          "peach"
+        ],
+        "a_fruit (superordinate)",
+        "not a_weapon (superordinate)",
+        "tastes_good (internal_surface_property)",
+        "not is_green (external_surface_property)"
+      ],
+      [
+        [
+          "rhubarb",
+          "apple"
+        ],
+        "a_fruit (superordinate)",
+        "not a_weapon (superordinate)",
+        "not tastes_good (internal_surface_property)",
+        "is_green (external_surface_property)"
+      ],
+      [
+        [
+          "pistol",
+          "rifle"
+        ],
+        "not a_fruit (superordinate)",
+        "a_weapon (superordinate)",
+        "is_loud (external_surface_property)",
+        "not is_black (external_surface_property)"
+      ],
+      [
+        [
+          "whip",
+          "crowbar"
+        ],
+        "not a_fruit (superordinate)",
+        "a_weapon (superordinate)",
+        "not is_loud (external_surface_property)",
+        "is_black (external_surface_property)"
+      ]
+    ]
+  },
+  "77": {
+    "items": [
+      [
+        [
+          "grape",
+          "honeydew"
+        ],
+        "a_fruit (superordinate)",
+        "not a_weapon (superordinate)",
+        "tastes_sweet (internal_surface_property)",
+        "not grows_in_gardens (location)"
+      ],
+      [
+        [
+          "tomato",
+          "rhubarb"
+        ],
+        "a_fruit (superordinate)",
+        "not a_weapon (superordinate)",
+        "not tastes_sweet (internal_surface_property)",
+        "grows_in_gardens (location)"
+      ],
+      [
+        [
+          "stick",
+          "whip"
+        ],
+        "not a_fruit (superordinate)",
+        "a_weapon (superordinate)",
+        "is_thin (external_surface_property)",
+        "not is_sharp (external_surface_property)"
+      ],
+      [
+        [
+          "knife",
+          "sword"
+        ],
+        "not a_fruit (superordinate)",
+        "a_weapon (superordinate)",
+        "not is_thin (external_surface_property)",
+        "is_sharp (external_surface_property)"
+      ]
+    ]
+  },
+  "78": {
+    "items": [
+      [
+        [
+          "bazooka",
+          "missile"
+        ],
+        "a_weapon (superordinate)",
+        "not a_vegetable (superordinate)",
+        "made_of_metal (made_of)",
+        "not made_of_wood (made_of)"
+      ],
+      [
+        [
+          "catapult",
+          "slingshot"
+        ],
+        "a_weapon (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not made_of_metal (made_of)",
+        "made_of_wood (made_of)"
+      ],
+      [
+        [
+          "beans",
+          "olive"
+        ],
+        "not a_weapon (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_round (external_surface_property)"
+      ],
+      [
+        [
+          "onions",
+          "pickle"
+        ],
+        "not a_weapon (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_round (external_surface_property)"
+      ]
+    ]
+  },
+  "79": {
+    "items": [
+      [
+        [
+          "cannon",
+          "crowbar"
+        ],
+        "a_weapon (superordinate)",
+        "not a_vegetable (superordinate)",
+        "is_black (external_surface_property)",
+        "not is_round (external_surface_property)"
+      ],
+      [
+        [
+          "rocket",
+          "grenade"
+        ],
+        "a_weapon (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not is_black (external_surface_property)",
+        "is_round (external_surface_property)"
+      ],
+      [
+        [
+          "pickle",
+          "avocado"
+        ],
+        "not a_weapon (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_green (external_surface_property)",
+        "not is_small (external_surface_property)"
+      ],
+      [
+        [
+          "radish",
+          "mushroom"
+        ],
+        "not a_weapon (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_green (external_surface_property)",
+        "is_small (external_surface_property)"
+      ]
+    ]
+  },
+  "80": {
+    "items": [
+      [
+        [
+          "bazooka",
+          "axe"
+        ],
+        "a_weapon (superordinate)",
+        "not a_vegetable (superordinate)",
+        "used_for_killing (function)",
+        "not has_wheels (external_component)"
+      ],
+      [
+        [
+          "catapult",
+          "cannon"
+        ],
+        "a_weapon (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not used_for_killing (function)",
+        "has_wheels (external_component)"
+      ],
+      [
+        [
+          "corn",
+          "pickle"
+        ],
+        "not a_weapon (superordinate)",
+        "a_vegetable (superordinate)",
+        "tastes_sweet (internal_surface_property)",
+        "not has_skin (external_component)"
+      ],
+      [
+        [
+          "potato",
+          "cucumber"
+        ],
+        "not a_weapon (superordinate)",
+        "a_vegetable (superordinate)",
+        "not tastes_sweet (internal_surface_property)",
+        "has_skin (external_component)"
+      ]
+    ]
+  },
+  "81": {
+    "items": [
+      [
+        [
+          "turnip",
+          "radish"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_weapon (superordinate)",
+        "is_round (external_surface_property)",
+        "not is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "potato",
+          "mushroom"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_weapon (superordinate)",
+        "not is_round (external_surface_property)",
+        "is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "harpoon",
+          "rifle"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_weapon (superordinate)",
+        "is_long (external_surface_property)",
+        "not is_round (external_surface_property)"
+      ],
+      [
+        [
+          "grenade",
+          "stone"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_weapon (superordinate)",
+        "not is_long (external_surface_property)",
+        "is_round (external_surface_property)"
+      ]
+    ]
+  },
+  "82": {
+    "items": [
+      [
+        [
+          "beans",
+          "peas"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_weapon (superordinate)",
+        "is_yellow (external_surface_property)",
+        "not is_white (external_surface_property)"
+      ],
+      [
+        [
+          "cauliflower",
+          "cabbage"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_weapon (superordinate)",
+        "not is_yellow (external_surface_property)",
+        "is_white (external_surface_property)"
+      ],
+      [
+        [
+          "rifle",
+          "bomb"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_weapon (superordinate)",
+        "is_loud (external_surface_property)",
+        "not is_hard (external_surface_property)"
+      ],
+      [
+        [
+          "rock",
+          "stone"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_weapon (superordinate)",
+        "not is_loud (external_surface_property)",
+        "is_hard (external_surface_property)"
+      ]
+    ]
+  },
+  "83": {
+    "items": [
+      [
+        [
+          "carrot",
+          "broccoli"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_weapon (superordinate)",
+        "grows_in_gardens (location)",
+        "not is_white (external_surface_property)"
+      ],
+      [
+        [
+          "mushroom",
+          "onions"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_weapon (superordinate)",
+        "not grows_in_gardens (location)",
+        "is_white (external_surface_property)"
+      ],
+      [
+        [
+          "whip",
+          "stick"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_weapon (superordinate)",
+        "is_thin (external_surface_property)",
+        "not is_sharp (external_surface_property)"
+      ],
+      [
+        [
+          "tomahawk",
+          "axe"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_weapon (superordinate)",
+        "not is_thin (external_surface_property)",
+        "is_sharp (external_surface_property)"
+      ]
+    ]
+  },
+  "84": {
+    "items": [
+      [
+        [
+          "lime",
+          "prune"
+        ],
+        "a_fruit (superordinate)",
+        "not a_vegetable (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_edible (function)"
+      ],
+      [
+        [
+          "banana",
+          "grapefruit"
+        ],
+        "a_fruit (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_edible (function)"
+      ],
+      [
+        [
+          "mushroom",
+          "beans"
+        ],
+        "not a_fruit (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_small (external_surface_property)",
+        "not is_long (external_surface_property)"
+      ],
+      [
+        [
+          "zucchini",
+          "celery"
+        ],
+        "not a_fruit (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_small (external_surface_property)",
+        "is_long (external_surface_property)"
+      ]
+    ]
+  },
+  "85": {
+    "items": [
+      [
+        [
+          "banana",
+          "peach"
+        ],
+        "a_fruit (superordinate)",
+        "not a_vegetable (superordinate)",
+        "tastes_good (internal_surface_property)",
+        "not is_small (external_surface_property)"
+      ],
+      [
+        [
+          "cranberry",
+          "tangerine"
+        ],
+        "a_fruit (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not tastes_good (internal_surface_property)",
+        "is_small (external_surface_property)"
+      ],
+      [
+        [
+          "beans",
+          "mushroom"
+        ],
+        "not a_fruit (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_brown (external_surface_property)",
+        "not is_juicy (internal_surface_property)"
+      ],
+      [
+        [
+          "beets",
+          "pickle"
+        ],
+        "not a_fruit (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_brown (external_surface_property)",
+        "is_juicy (internal_surface_property)"
+      ]
+    ]
+  },
+  "86": {
+    "items": [
+      [
+        [
+          "lemon",
+          "orange"
+        ],
+        "a_fruit (superordinate)",
+        "not a_vegetable (superordinate)",
+        "is_juicy (internal_surface_property)",
+        "not tastes_good (internal_surface_property)"
+      ],
+      [
+        [
+          "coconut",
+          "raspberry"
+        ],
+        "a_fruit (superordinate)",
+        "not a_vegetable (superordinate)",
+        "not is_juicy (internal_surface_property)",
+        "tastes_good (internal_surface_property)"
+      ],
+      [
+        [
+          "radish",
+          "beets"
+        ],
+        "not a_fruit (superordinate)",
+        "a_vegetable (superordinate)",
+        "is_red (external_surface_property)",
+        "not is_brown (external_surface_property)"
+      ],
+      [
+        [
+          "mushroom",
+          "beans"
+        ],
+        "not a_fruit (superordinate)",
+        "a_vegetable (superordinate)",
+        "not is_red (external_surface_property)",
+        "is_brown (external_surface_property)"
+      ]
+    ]
+  },
+  "87": {
+    "items": [
+      [
+        [
+          "beans",
+          "lettuce"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_fruit (superordinate)",
+        "is_edible (function)",
+        "not is_long (external_surface_property)"
+      ],
+      [
+        [
+          "carrot",
+          "zucchini"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_fruit (superordinate)",
+        "not is_edible (function)",
+        "is_long (external_surface_property)"
+      ],
+      [
+        [
+          "orange",
+          "plum"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_fruit (superordinate)",
+        "is_round (external_surface_property)",
+        "not is_yellow (external_surface_property)"
+      ],
+      [
+        [
+          "lemon",
+          "pineapple"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_round (external_surface_property)",
+        "is_yellow (external_surface_property)"
+      ]
+    ]
+  },
+  "88": {
+    "items": [
+      [
+        [
+          "pickle",
+          "zucchini"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_fruit (superordinate)",
+        "tastes_good (internal_surface_property)",
+        "not is_small (external_surface_property)"
+      ],
+      [
+        [
+          "beans",
+          "radish"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_fruit (superordinate)",
+        "not tastes_good (internal_surface_property)",
+        "is_small (external_surface_property)"
+      ],
+      [
+        [
+          "strawberry",
+          "peach"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_fruit (superordinate)",
+        "is_soft (external_surface_property)",
+        "not is_yellow (external_surface_property)"
+      ],
+      [
+        [
+          "honeydew",
+          "pineapple"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_fruit (superordinate)",
+        "not is_soft (external_surface_property)",
+        "is_yellow (external_surface_property)"
+      ]
+    ]
+  },
+  "89": {
+    "items": [
+      [
+        [
+          "beets",
+          "pickle"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_fruit (superordinate)",
+        "is_juicy (internal_surface_property)",
+        "not is_yellow (external_surface_property)"
+      ],
+      [
+        [
+          "onions",
+          "beans"
+        ],
+        "a_vegetable (superordinate)",
+        "not a_fruit (superordinate)",
+        "not is_juicy (internal_surface_property)",
+        "is_yellow (external_surface_property)"
+      ],
+      [
+        [
+          "pineapple",
+          "peach"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_fruit (superordinate)",
+        "has_skin (external_component)",
+        "not has_seeds (internal_component)"
+      ],
+      [
+        [
+          "raspberry",
+          "strawberry"
+        ],
+        "not a_vegetable (superordinate)",
+        "a_fruit (superordinate)",
+        "not has_skin (external_component)",
+        "has_seeds (internal_component)"
+      ]
+    ]
+  }
+}

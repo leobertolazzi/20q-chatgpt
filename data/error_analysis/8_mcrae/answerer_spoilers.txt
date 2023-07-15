@@ -1,0 +1,248 @@
+____________________________________________
+dial_id = 44
+target = woodpecker
+answerer: This is the list of candidates: pineapple, rhubarb, woodpecker, stork, swan, orange, canary, cherry.
+questioner: Is it a fruit?
+answerer: No, it is not a fruit.
+questioner: Is it a bird?
+answerer: Yes, it is a bird.
+questioner: Is the bird small enough to fit in a human hand?
+answerer: Some species of woodpeckers are small enough to fit in a human hand, but generally, they are larger than that. So, the answer is no.
+questioner: Is the bird well known for its singing abilities?
+answerer: No, the woodpecker is not well known for its singing abilities.
+questioner: Is the bird black and white?
+answerer: Yes, many species of woodpeckers have black and white feathers.
+questioner: Based on the information given, I believe that your item is a woodpecker. Is that right?
+answerer: Yes! That's correct. Congratulations!
+____________________________________________
+dial_id = 51
+target = potato
+answerer: This is the list of candidates: duck, mushroom, peas, pheasant, potato, emu, canary, onions.
+questioner: Is the item you were assigned an animal?
+answerer: No, it is not an animal.
+questioner: Is the item you were assigned a vegetable?
+answerer: Yes, it is a vegetable.
+questioner: Is the vegetable you were assigned commonly used in salads?
+answerer: No, it is not commonly used in salads.
+questioner: Is the vegetable you were assigned a root vegetable?
+answerer: Yes, it is a root vegetable.
+questioner: Is the vegetable you were assigned a type of potato?
+answerer: Yes, the vegetable I was assigned is a potato.
+questioner: Great, you were assigned a potato!
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 55
+target = cape
+answerer: This is the list of candidates: bazooka, trousers, shield, whip, boots, crowbar, pants, cape.
+questioner: Is the item wearable?
+answerer: Yes.
+questioner: Is the item a type of footwear?
+answerer: No.
+questioner: Is the item meant to be worn on the upper body?
+answerer: Yes.
+questioner: Is the item a type of protective gear?
+answerer: It can be used for protection, but it's not primarily designed for that purpose.
+questioner: Is the item typically associated with a particular profession or activity?
+answerer: Yes, it is often associated with a particular activity.
+questioner: Is the item typically used in outdoor activities?
+answerer: Yes, it is typically used in outdoor activities.
+questioner: Does the item provide a means of transportation or support while being used?
+answerer: No, it doesn't provide any means of transportation or support while being used.
+questioner: Is the item a type of weapon?
+answerer: No, it's not a weapon.
+questioner: Is the item a type of clothing that covers the torso?
+answerer: Yes, it is a type of clothing that covers the torso.
+questioner: Is the item made of one piece of fabric?
+answerer: It depends on the specific type of cape, but generally, yes, it is made of one piece of fabric.
+questioner: Great! So, the item is a cape, right?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 56
+target = trousers
+answerer: This is the list of candidates: trousers, tomahawk, bazooka, camisole, cloak, catapult, robe, bomb.
+questioner: Is it a piece of clothing?
+answerer: Yes.
+questioner: Is it worn on the upper body?
+answerer: No.
+questioner: Is it worn on the lower body?
+answerer: Yes.
+questioner: Is it a type of pants?
+answerer: Yes.
+questioner: Is it a type of formal pants?
+answerer: It can be worn as formal pants, but it's not necessarily always formal.
+questioner: Does it have pockets?
+answerer: Yes.
+questioner: Is it made of denim fabric?
+answerer: It can be made of denim fabric, but it's not necessarily always made of denim.
+questioner: Is it a type of trousers that men usually wear?
+answerer: Both men and women can wear this type of trousers.
+questioner: Is it a type of chinos?
+answerer: No, it's not a type of chinos.
+questioner: Is it a type of dress pants?
+answerer: It can be worn as dress pants, but it's not necessarily always dress pants.
+questioner: Is the design of the trousers more formal than casual?
+answerer: It depends on the design, but generally, it can be worn as both formal and casual.
+questioner: Is it a type of slacks?
+answerer: Yes, it is a type of slacks.
+questioner: Thanks for playing this game with me. I guessed that your item was a pair of slacks.
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 59
+target = missile
+answerer: This is the list of candidates: bra, belt, bomb, tie, missile, rocket, shoes, stone.
+questioner: Is the item you have selected something that can be worn?
+answerer: No, the item missile cannot be worn.
+questioner: Is the item you have selected typically worn around the waist?
+answerer: No, the item missile is not typically worn around the waist.
+questioner: Is the item you have selected typically made of fabric or leather?
+answerer: No, the item missile is not typically made of fabric or leather.
+questioner: Is the item you have selected a type of explosive?
+answerer: Yes, the item missile is a type of explosive.
+questioner: Is the item you have selected capable of being guided electronically towards its target?
+answerer: Yes, the item missile is capable of being guided electronically towards its target.
+questioner: Great, based on your answers the item you have selected is Missile!
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 60
+target = swimsuit
+answerer: This is the list of candidates: cloak, raisin, jacket, pumpkin, cape, swimsuit, prune, grapefruit.
+questioner: Is your item worn on the body?
+answerer: Yes.
+questioner: Does your item provide warmth?
+answerer: No.
+questioner: Is your item usually worn outdoors?
+answerer: Yes.
+questioner: Is your item a type of clothing?
+answerer: Yes.
+questioner: Is your item worn as an upper body garment?
+answerer: No.
+questioner: Is your item worn as a lower body garment?
+answerer: Yes.
+questioner: Is your item typically worn by women?
+answerer: It can be worn by both men and women.
+questioner: Is your item made of denim?
+answerer: No.
+questioner: Is your item made of a material that is heavier than cotton?
+answerer: It depends on the specific swimsuit, but generally, swimsuits are made of lighter materials than cotton.
+questioner: Ah, I see. So your item is a swimsuit! Is that correct?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 66
+target = socks
+answerer: This is the list of candidates: mushroom, cloak, cucumber, blouse, socks, olive, zucchini, boots.
+questioner: Is the item you have an article of clothing?
+answerer: Yes.
+questioner: Is the item you have a type of footwear?
+answerer: Yes.
+questioner: Does the footwear cover the ankle?
+answerer: It depends on the type of socks. Some socks cover the ankle, while others do not.
+questioner: Thank you for the correction. Is the footwear you have boots?
+answerer: No. The item is not boots.
+questioner: Is the item you have worn exclusively indoors?
+answerer: No, the item can be worn both indoors and outdoors.
+questioner: Is the item you have a type of socks?
+answerer: Yes, the item is socks.
+questioner: Great! That means you have one of the following types of socks: ordinary sock, sport sock, dress sock, woolly sock or compression sock. Am I correct?
+answerer: Yes, you are correct.
+____________________________________________
+dial_id = 67
+target = blouse
+answerer: This is the list of candidates: zucchini, trousers, onions, potato, blouse, pants, slippers, rhubarb.
+questioner: Is the item you have edible?
+answerer: No, it is not edible.
+questioner: Is it an article of clothing?
+answerer: Yes, it is an article of clothing.
+questioner: Is it a type of footwear?
+answerer: No, it is not a type of footwear.
+questioner: Is it a top or an outerwear?
+answerer: Yes, it is a top.
+questioner: Does the item have long sleeves?
+answerer: It depends on the specific blouse, but some blouses do have long sleeves.
+questioner: Is the item made specifically for women?
+answerer: Yes, it is typically made for women.
+questioner: Is the item you have a blouse?
+answerer: Yes! That's correct. Congratulations!
+____________________________________________
+dial_id = 68
+target = swimsuit
+answerer: This is the list of candidates: beans, pickle, swimsuit, beets, nightgown, shoes, mushroom, camisole.
+questioner: Is the item you're thinking of worn on the body?
+answerer: Yes.
+questioner: Is the item worn on the feet?
+answerer: No.
+questioner: Is the item you're thinking of made of fabric?
+answerer: Yes.
+questioner: Is the item you're thinking of worn on the upper body?
+answerer: It can be worn on the upper body, but it's not necessarily always worn on the upper body.
+questioner: Does the item you're thinking of cover a specific part of the body?
+answerer: Yes, it does.
+questioner: Is the item you're thinking of a type of undergarment?
+answerer: No, it's not an undergarment.
+questioner: Is the item you're thinking of a type of footwear?
+answerer: No, it's not a type of footwear.
+questioner: Is the item you're thinking of a type of clothing typically worn outside?
+answerer: Yes, it's typically worn outside.
+questioner: Does the item you're thinking of have sleeves?
+answerer: It depends on the specific type of swimsuit, but many swimsuits do not have sleeves.
+questioner: Ah, I see. Is the item you're thinking of a swimsuit?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 83
+target = mushroom
+answerer: This is the list of candidates: tomahawk, mushroom, axe, stick, onions, whip, broccoli, carrot.
+questioner: Is your item a type of food?
+answerer: Yes.
+questioner: Is your item a type of vegetable?
+answerer: Mushroom is often considered as a vegetable, but technically it is not a vegetable. So, the answer is No.
+questioner: Thank you for letting me know. Does your item belong to the onion family?
+answerer: No, mushroom does not belong to the onion family. So, the answer is No.
+questioner: Thank you for clarifying. Is your item a type of root vegetable?
+answerer: No, mushroom is not a root vegetable. So, the answer is No.
+questioner: My apologies for guessing wrong earlier. Is your item a type of fungus?
+answerer: Yes, mushroom is a type of fungus. So, the answer is Yes.
+questioner: Great! To narrow it down, does your item have a cap and stem?
+answerer: Yes, mushroom has a cap and stem. So, the answer is Yes.
+questioner: Wonderful! So, by the answers you have given, the item assigned to you is mushroom.
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 86
+target = coconut
+answerer: This is the list of candidates: lemon, beets, orange, beans, mushroom, coconut, raspberry, radish.
+questioner: Is the item you have a fruit?
+answerer: Yes, it is a fruit.
+questioner: Is the fruit you have a citrus fruit?
+answerer: No, it is not a citrus fruit.
+questioner: Does the fruit you have have a red or pink color?
+answerer: No, it does not have a red or pink color.
+questioner: Is the fruit you have commonly yellow in color when ripe?
+answerer: No, it is not commonly yellow when ripe.
+questioner: Is the fruit you have normally purple or deep red in color?
+answerer: No, it is not normally purple or deep red in color.
+questioner: Is the fruit you have commonly used for making desserts or sweets?
+answerer: Yes, it is commonly used for making desserts or sweets.
+questioner: Is the fruit you have small in size and usually red?
+answerer: No, it is not small in size and usually red.
+questioner: Does the fruit you have have a fuzzy exterior?
+answerer: No, it does not have a fuzzy exterior.
+questioner: Is the fruit you have commonly used for making juices?
+answerer: Yes, it is commonly used for making juices.
+questioner: Based on your previous answers, I believe the item you have is 'orange'. Is that correct?
+answerer: No, I'm sorry, that's not correct. The item assigned to me is coconut.
+questioner: I see. I apologize for the mistake. Thank you for playing the game!
+answerer: You're welcome! It was fun playing the game with you.
+questioner: I'm glad to hear that. If you would like to play again with a different list of candidates, just let me know.
+answerer: Sure, I'd love to play again with a different list of candidates. Let's start!
+questioner: Great! Here is your new list of candidates: pencil, pen, marker, crayon, chalk, highlighter, paintbrush, eraser.
+answerer: Thank you! I'm ready to play.
+questioner: Is the item you have used mainly for drawing or coloring?
+answerer: Yes, it is mainly used for drawing or coloring.
+questioner: Is the item you have made of wax?
+answerer: Yes, it is made of wax.
+questioner: Can the item you have be sharpened?
+answerer: Yes, it can be sharpened.
+questioner: Is the item you have usually long and thin?
+answerer: Yes, it is usually long and thin.
+questioner: Does the item you have come in a box with multiple colors?
+answerer: Yes, it often comes in a box with multiple colors.
+questioner: Based on your previous answers, I believe the item you have is 'crayon'. Is that correct?
+answerer: Yes, that's correct! Well done!

@@ -1,0 +1,132 @@
+____________________________________________
+dial_id = 10
+target = coverall
+answerer: This is the list of candidates: blouse, panther, pantsuit, squirrel, coverall, sweatsuit, man, monkey.
+questioner: Is the item you are thinking of an article of clothing?
+answerer: Yes.
+questioner: Is the item you are thinking of typically worn by women?
+answerer: It can be worn by both men and women.
+questioner: Is the item you are thinking of a full-body garment?
+answerer: Yes.
+questioner: Is the item you are thinking of mainly worn for formal occasions?
+answerer: No.
+questioner: Does the item you are thinking of have a particular color?
+answerer: It can come in different colors, but there is a common color associated with it.
+questioner: Is the common color associated with the item black?
+answerer: Yes, that's correct.
+____________________________________________
+dial_id = 23
+target = pump
+answerer: This is the list of candidates: pump, dolphin, pear, manatee, tiger, chihuahua, walnut, pumpkin.
+questioner: Is the item an animal?
+answerer: No, it is not an animal.
+questioner: Is it a fruit or vegetable?
+answerer: No, it is not a fruit or vegetable.
+questioner: Does the item have a hard outer shell?
+answerer: No, it does not have a hard outer shell.
+questioner: Does the item contain liquids?
+answerer: Yes, the item can contain liquids.
+questioner: Is the item typically used for drinking?
+answerer: Yes, the item can be used for drinking.
+questioner: Is the item made of glass or plastic?
+answerer: It can be made of glass or plastic.
+questioner: Is the item a cup or a glass?
+answerer: No, it is not a cup or a glass.
+questioner: Is the item typically used for storing liquids?
+answerer: Yes, the item is typically used for storing liquids.
+questioner: Is the item a bottle?
+answerer: No, it is not a bottle.
+questioner: Is the item a container?
+answerer: Yes, the item is a container.
+questioner: Is the item usually found in the kitchen?
+answerer: Yes, the item is usually found in the kitchen.
+questioner: Is it a jar or a canister?
+answerer: No, it is not a jar or a canister.
+questioner: Is it a pitcher or a carafe?
+answerer: Yes, the item is a pitcher or a carafe.
+questioner: Great! We have identified the item.
+answerer: Yes! That's correct. The item assigned to me was a pump.
+____________________________________________
+dial_id = 57
+target = stockings
+answerer: This is the list of candidates: bikini, snowsuit, sword, stockings, arrow, overalls, blowgun, trident.
+questioner: Is the item you were assigned a piece of clothing?
+answerer: Yes.
+questioner: Does the item you were assigned cover the entire body?
+answerer: No.
+questioner: Is the item you were assigned mainly worn during warm weather?
+answerer: No.
+questioner: Is the item you were assigned usually made of two pieces instead of one?
+answerer: No.
+questioner: Is the item you were assigned mainly worn by women?
+answerer: Yes.
+questioner: Is the item you were assigned typically worn at the beach or swimming pool?
+answerer: No.
+questioner: Is the item you were assigned worn on the upper part of the body?
+answerer: No.
+questioner: Is the item you were assigned hosiery?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 60
+target = bikini
+answerer: This is the list of candidates: navel, leotard, swimsuit, bikini, raisin, blouse, pump, walnut.
+questioner: Is the item you are thinking of something that is worn?
+answerer: Yes.
+questioner: Is the item you are thinking of associated with swimming or going to the beach?
+answerer: Yes.
+questioner: Does the item you are thinking of cover more than half of a person's body?
+answerer: No.
+questioner: Is the item you are thinking of commonly worn by men?
+answerer: No.
+questioner: Does the item you are thinking of usually consist of two pieces?
+answerer: Yes.
+questioner: Is the top part of the item you are thinking of usually strapless?
+answerer: No.
+questioner: Is the item you are thinking of usually made of a stretchable material?
+answerer: Yes.
+questioner: Is the item you are thinking of a swimsuit?
+answerer: Yes! That's correct. The item assigned to me was a bikini.
+____________________________________________
+dial_id = 64
+target = pump
+answerer: This is the list of candidates: walnut, bikini, raincoat, navel, muff, pump, vest, coconut.
+questioner: Is the item you have related to clothing?
+answerer: No, it is not related to clothing.
+questioner: Is the item you have edible?
+answerer: No, it is not edible.
+questioner: Does the item you have come from a tree?
+answerer: No, it does not come from a tree.
+questioner: Is the item you have used for decoration?
+answerer: It can be used for decoration, but that is not its primary purpose.
+questioner: Is the item you have primarily made of metal?
+answerer: No, it is not primarily made of metal.
+questioner: Is the item you have round in shape?
+answerer: Yes, it is round in shape.
+questioner: Does the item you have have a hard shell or surface?
+answerer: No, it does not have a hard shell or surface.
+questioner: Is the item you have used in games or sports?
+answerer: Yes, it is used in games or sports.
+questioner: Is the item you have relatively small in size?
+answerer: Yes, it is relatively small in size.
+questioner: The item you have is a ball. Is that correct?
+answerer: Yes! That's correct. The item assigned to me was a pump, which is used to inflate balls.
+____________________________________________
+dial_id = 66
+target = dress
+answerer: This is the list of candidates: rhubarb, radish, skirt, stockings, bikini, dress, zucchini, sprouts.
+questioner: Is the item edible?
+answerer: No, it is not edible.
+questioner: Is the item usually worn?
+answerer: Yes, it is usually worn.
+questioner: Is the item a type of clothing?
+answerer: Yes, it is a type of clothing.
+questioner: Is the item typically worn on the upper part of the body?
+answerer: No, it is not typically worn on the upper part of the body.
+questioner: Is the item typically worn on the lower part of the body?
+answerer: Yes, it is typically worn on the lower part of the body.
+questioner: Does the item cover the legs?
+answerer: Yes, it covers the legs.
+questioner: Is the item usually worn by women?
+answerer: Yes, it is usually worn by women.
+questioner: Is the item relatively tight-fitting and extends only from the waist to the ankles?
+answerer: Yes, that's correct.

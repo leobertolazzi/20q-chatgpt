@@ -1,0 +1,10973 @@
+[
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "goose",
+      "pigeon",
+      "pelican",
+      "pheasant",
+      "airplane",
+      "tractor",
+      "motorcycle"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "airplane",
+      "tractor",
+      "motorcycle"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "stork",
+      "submarine",
+      "flamingo",
+      "sparrow",
+      "chickadee",
+      "wheelbarrow",
+      "bike"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "wheelbarrow",
+      "bike"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "cart",
+      "balloon",
+      "trolley",
+      "dove",
+      "helicopter",
+      "pigeon",
+      "pelican"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "cart",
+      "balloon",
+      "trolley",
+      "helicopter"
+    ]
+  },
+  {
+    "dialogue_id": 4,
+    "num_candidates": 8,
+    "candidates": [
+      "tractor",
+      "ship",
+      "swan",
+      "cart",
+      "submarine",
+      "penguin",
+      "robin",
+      "raven"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "tractor",
+      "ship",
+      "cart",
+      "submarine"
+    ]
+  },
+  {
+    "dialogue_id": 5,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "dove",
+      "chickadee",
+      "crow",
+      "yacht",
+      "helicopter",
+      "turkey",
+      "ship"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "balloon",
+      "yacht",
+      "helicopter",
+      "turkey",
+      "ship"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "swan",
+      "helicopter",
+      "bike",
+      "airplane",
+      "rooster",
+      "motorcycle",
+      "pheasant"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "stork",
+      "swan",
+      "rooster",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 7,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "balloon",
+      "skateboard",
+      "pelican",
+      "airplane",
+      "dove",
+      "pheasant",
+      "tricycle"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "penguin",
+      "skateboard",
+      "pelican",
+      "airplane",
+      "dove",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 8,
+    "num_candidates": 8,
+    "candidates": [
+      "yacht",
+      "balloon",
+      "rooster",
+      "raven",
+      "ship",
+      "pigeon",
+      "blackbird",
+      "airplane"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "rooster",
+      "raven",
+      "pigeon",
+      "blackbird"
+    ]
+  },
+  {
+    "dialogue_id": 9,
+    "num_candidates": 8,
+    "candidates": [
+      "sparrow",
+      "oriole",
+      "rooster",
+      "sailboat",
+      "balloon",
+      "pheasant",
+      "airplane",
+      "submarine"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "sparrow",
+      "oriole",
+      "rooster",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "chipmunk",
+      "balloon",
+      "fox",
+      "airplane",
+      "dog",
+      "wheelbarrow",
+      "hamster",
+      "car"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "balloon",
+      "airplane",
+      "wheelbarrow",
+      "car"
+    ]
+  },
+  {
+    "dialogue_id": 11,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "chipmunk",
+      "airplane",
+      "dog",
+      "fox",
+      "hamster",
+      "car",
+      "wheelbarrow"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "airplane",
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 12,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "balloon",
+      "airplane",
+      "chipmunk",
+      "car",
+      "wheelbarrow",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "balloon",
+      "airplane",
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 13,
+    "num_candidates": 8,
+    "candidates": [
+      "fox",
+      "rat",
+      "sailboat",
+      "dog",
+      "mouse",
+      "submarine",
+      "cart",
+      "tractor"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "sailboat",
+      "submarine",
+      "cart",
+      "tractor"
+    ]
+  },
+  {
+    "dialogue_id": 14,
+    "num_candidates": 8,
+    "candidates": [
+      "submarine",
+      "rat",
+      "tractor",
+      "dog",
+      "sailboat",
+      "cart",
+      "mouse",
+      "fox"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "submarine",
+      "tractor",
+      "sailboat",
+      "cart"
+    ]
+  },
+  {
+    "dialogue_id": 15,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "rat",
+      "sailboat",
+      "submarine",
+      "cart",
+      "dog",
+      "tractor",
+      "fox"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "sailboat",
+      "submarine",
+      "cart",
+      "tractor"
+    ]
+  },
+  {
+    "dialogue_id": 16,
+    "num_candidates": 8,
+    "candidates": [
+      "unicycle",
+      "tractor",
+      "squirrel",
+      "chipmunk",
+      "fox",
+      "helicopter",
+      "airplane",
+      "hyena"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "squirrel",
+      "chipmunk",
+      "fox",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 17,
+    "num_candidates": 8,
+    "candidates": [
+      "airplane",
+      "unicycle",
+      "squirrel",
+      "tractor",
+      "helicopter",
+      "fox",
+      "chipmunk",
+      "hyena"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "squirrel",
+      "fox",
+      "chipmunk",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 18,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "unicycle",
+      "yacht",
+      "squirrel",
+      "hyena",
+      "dog",
+      "submarine",
+      "truck"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "mouse",
+      "squirrel",
+      "hyena",
+      "dog"
+    ]
+  },
+  {
+    "dialogue_id": 19,
+    "num_candidates": 8,
+    "candidates": [
+      "toilet",
+      "cottage",
+      "balloon",
+      "cupboard",
+      "house",
+      "cart",
+      "helicopter",
+      "tractor"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "balloon",
+      "helicopter",
+      "cart",
+      "tractor"
+    ]
+  },
+  {
+    "dialogue_id": 20,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "wheelbarrow",
+      "tent",
+      "sailboat",
+      "tractor",
+      "house",
+      "boat",
+      "apartment"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "sailboat",
+      "tractor",
+      "boat"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "car",
+      "cottage",
+      "airplane",
+      "cage",
+      "balloon",
+      "wheelbarrow",
+      "bungalow",
+      "cabin"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "cottage",
+      "cage",
+      "balloon",
+      "wheelbarrow",
+      "bungalow",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 22,
+    "num_candidates": 8,
+    "candidates": [
+      "ship",
+      "bungalow",
+      "bike",
+      "tent",
+      "cottage",
+      "boat",
+      "unicycle",
+      "hut"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "ship",
+      "bike",
+      "tent",
+      "boat",
+      "unicycle"
+    ]
+  },
+  {
+    "dialogue_id": 23,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shack",
+      "yacht",
+      "cage",
+      "hut",
+      "balloon",
+      "sailboat",
+      "cupboard"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "shack",
+      "cage",
+      "hut",
+      "cupboard"
+    ]
+  },
+  {
+    "dialogue_id": 24,
+    "num_candidates": 8,
+    "candidates": [
+      "airplane",
+      "skateboard",
+      "closet",
+      "cupboard",
+      "house",
+      "cart",
+      "balloon",
+      "bungalow"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "closet",
+      "cupboard",
+      "house",
+      "cart",
+      "balloon",
+      "bungalow"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "cage",
+      "airplane",
+      "helicopter",
+      "cabin",
+      "apartment",
+      "motorcycle",
+      "cart"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "cottage",
+      "cage",
+      "cabin",
+      "apartment"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "helicopter",
+      "ship",
+      "airplane",
+      "tent",
+      "yacht",
+      "cabin",
+      "bedroom"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "shack",
+      "helicopter",
+      "airplane",
+      "tent",
+      "cabin",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "hut",
+      "cage",
+      "balloon",
+      "boat",
+      "sailboat",
+      "helicopter",
+      "cupboard"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "shack",
+      "hut",
+      "cage",
+      "cupboard"
+    ]
+  },
+  {
+    "dialogue_id": 28,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "hose",
+      "shawl",
+      "airplane",
+      "balloon",
+      "jacket",
+      "motorcycle",
+      "cart"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "airplane",
+      "balloon",
+      "motorcycle",
+      "cart"
+    ]
+  },
+  {
+    "dialogue_id": 29,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "yacht",
+      "sailboat",
+      "camisole",
+      "nightgown",
+      "bike",
+      "truck",
+      "socks"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "yacht",
+      "sailboat",
+      "bike",
+      "truck"
+    ]
+  },
+  {
+    "dialogue_id": 30,
+    "num_candidates": 8,
+    "candidates": [
+      "jacket",
+      "socks",
+      "nylons",
+      "helicopter",
+      "car",
+      "tricycle",
+      "airplane",
+      "coat"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "helicopter",
+      "car",
+      "tricycle",
+      "airplane"
+    ]
+  },
+  {
+    "dialogue_id": 31,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "jacket",
+      "ship",
+      "hose",
+      "car",
+      "leotards",
+      "wagon",
+      "shawl"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "boat",
+      "ship",
+      "hose",
+      "car",
+      "wagon"
+    ]
+  },
+  {
+    "dialogue_id": 32,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shawl",
+      "ship",
+      "nightgown",
+      "sailboat",
+      "pants",
+      "coat",
+      "airplane"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "helicopter",
+      "ship",
+      "sailboat",
+      "airplane"
+    ]
+  },
+  {
+    "dialogue_id": 33,
+    "num_candidates": 8,
+    "candidates": [
+      "shawl",
+      "airplane",
+      "hose",
+      "motorcycle",
+      "helicopter",
+      "jacket",
+      "socks",
+      "tricycle"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "shawl",
+      "jacket",
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 34,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "leotards",
+      "trolley",
+      "shawl",
+      "car",
+      "helicopter",
+      "airplane",
+      "coat"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "socks",
+      "leotards",
+      "shawl",
+      "coat"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "nylons",
+      "submarine",
+      "nightgown",
+      "socks",
+      "bra",
+      "helicopter",
+      "balloon"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "nylons",
+      "nightgown",
+      "socks",
+      "bra"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "nightgown",
+      "coat",
+      "airplane",
+      "boat",
+      "sailboat",
+      "shawl",
+      "helicopter"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "camisole",
+      "nightgown",
+      "coat",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 37,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "porcupine",
+      "stork",
+      "dog",
+      "flamingo",
+      "dove",
+      "fox",
+      "chipmunk"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "turkey",
+      "stork",
+      "flamingo",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 38,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "stork",
+      "dove",
+      "dog",
+      "turkey",
+      "porcupine",
+      "chipmunk",
+      "fox"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "flamingo",
+      "stork",
+      "dove",
+      "turkey"
+    ]
+  },
+  {
+    "dialogue_id": 39,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "dove",
+      "dog",
+      "chipmunk",
+      "stork",
+      "fox",
+      "turkey",
+      "porcupine"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "flamingo",
+      "dove",
+      "stork",
+      "turkey"
+    ]
+  },
+  {
+    "dialogue_id": 40,
+    "num_candidates": 8,
+    "candidates": [
+      "hyena",
+      "chickadee",
+      "starling",
+      "fox",
+      "mouse",
+      "rat",
+      "goose",
+      "stork"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "chickadee",
+      "starling",
+      "goose"
+    ]
+  },
+  {
+    "dialogue_id": 41,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "stork",
+      "hyena",
+      "rat",
+      "goose",
+      "starling",
+      "chickadee",
+      "fox"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "stork",
+      "goose",
+      "starling",
+      "chickadee"
+    ]
+  },
+  {
+    "dialogue_id": 42,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "starling",
+      "rat",
+      "hyena",
+      "fox",
+      "chickadee",
+      "mouse",
+      "goose"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "stork",
+      "starling",
+      "chickadee",
+      "goose"
+    ]
+  },
+  {
+    "dialogue_id": 43,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "pheasant",
+      "fox",
+      "penguin",
+      "hyena",
+      "rat",
+      "dove",
+      "pelican"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "squirrel",
+      "fox",
+      "hyena",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "pheasant",
+      "rat",
+      "squirrel",
+      "hyena",
+      "fox",
+      "dove",
+      "penguin"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "rat",
+      "squirrel",
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 45,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "penguin",
+      "chipmunk",
+      "chickadee",
+      "pelican",
+      "hyena",
+      "dog",
+      "blackbird"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "hamster",
+      "penguin",
+      "chipmunk",
+      "chickadee",
+      "pelican",
+      "hyena",
+      "dog",
+      "blackbird"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "apartment",
+      "rooster",
+      "pelican",
+      "closet",
+      "penguin",
+      "cupboard",
+      "turkey",
+      "cottage"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "rooster",
+      "pelican",
+      "penguin",
+      "turkey"
+    ]
+  },
+  {
+    "dialogue_id": 47,
+    "num_candidates": 8,
+    "candidates": [
+      "oriole",
+      "tent",
+      "swan",
+      "penguin",
+      "bungalow",
+      "hut",
+      "house",
+      "starling"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "oriole",
+      "swan",
+      "penguin"
+    ]
+  },
+  {
+    "dialogue_id": 48,
+    "num_candidates": 8,
+    "candidates": [
+      "toilet",
+      "duck",
+      "house",
+      "pigeon",
+      "cage",
+      "penguin",
+      "dove",
+      "cottage"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "pigeon",
+      "penguin",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 49,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "apartment",
+      "shack",
+      "raven",
+      "goose",
+      "tent",
+      "nightingale",
+      "house"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "pelican",
+      "raven",
+      "goose",
+      "nightingale"
+    ]
+  },
+  {
+    "dialogue_id": 50,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "tent",
+      "dove",
+      "cupboard",
+      "toilet",
+      "blackbird",
+      "nightingale",
+      "rooster"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "dove",
+      "blackbird",
+      "nightingale",
+      "rooster"
+    ]
+  },
+  {
+    "dialogue_id": 51,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "house",
+      "turkey",
+      "apartment",
+      "penguin",
+      "cupboard",
+      "bedroom",
+      "dove"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "house",
+      "apartment",
+      "cupboard",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 52,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "goose",
+      "cottage",
+      "cage",
+      "cabin",
+      "duck",
+      "dove",
+      "bungalow"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "cottage",
+      "cage",
+      "cabin",
+      "bungalow"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "dove",
+      "turkey",
+      "toilet",
+      "shack",
+      "closet",
+      "sparrow",
+      "hut",
+      "chickadee"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "toilet",
+      "shack",
+      "closet"
+    ]
+  },
+  {
+    "dialogue_id": 54,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "pheasant",
+      "bedroom",
+      "shack",
+      "pigeon",
+      "finch",
+      "closet",
+      "crow"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "tent",
+      "bedroom",
+      "shack",
+      "closet"
+    ]
+  },
+  {
+    "dialogue_id": 55,
+    "num_candidates": 8,
+    "candidates": [
+      "pigeon",
+      "hose",
+      "goose",
+      "duck",
+      "jacket",
+      "dove",
+      "coat",
+      "leotards"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "pigeon",
+      "goose",
+      "duck",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 56,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "penguin",
+      "crow",
+      "pants",
+      "socks",
+      "robin",
+      "camisole",
+      "flamingo"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "penguin",
+      "crow",
+      "robin",
+      "flamingo"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "stork",
+      "coat",
+      "jacket",
+      "penguin",
+      "leotards",
+      "pheasant",
+      "pigeon"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "stork",
+      "penguin",
+      "pheasant",
+      "pigeon"
+    ]
+  },
+  {
+    "dialogue_id": 58,
+    "num_candidates": 8,
+    "candidates": [
+      "shawl",
+      "swan",
+      "nightingale",
+      "socks",
+      "duck",
+      "nylons",
+      "jacket",
+      "crow"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "swan",
+      "nightingale",
+      "duck",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "bra",
+      "coat",
+      "camisole",
+      "jacket",
+      "pheasant",
+      "dove",
+      "sparrow",
+      "starling"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "pheasant",
+      "dove",
+      "sparrow",
+      "starling"
+    ]
+  },
+  {
+    "dialogue_id": 60,
+    "num_candidates": 8,
+    "candidates": [
+      "swan",
+      "nylons",
+      "coat",
+      "dove",
+      "pelican",
+      "rooster",
+      "jacket",
+      "hose"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "nylons",
+      "coat",
+      "jacket",
+      "hose"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "jacket",
+      "leotards",
+      "shawl",
+      "rooster",
+      "swan",
+      "pigeon",
+      "duck"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "socks",
+      "jacket",
+      "leotards",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "starling",
+      "finch",
+      "pants",
+      "nylons",
+      "pheasant",
+      "dove",
+      "camisole"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "socks",
+      "pants",
+      "nylons",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "coat",
+      "bra",
+      "dove",
+      "shawl",
+      "raven",
+      "crow",
+      "camisole"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "coat",
+      "bra",
+      "shawl",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 64,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "fox",
+      "hamster",
+      "hyena",
+      "closet",
+      "house",
+      "cage",
+      "bungalow"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "squirrel",
+      "fox",
+      "hamster",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 65,
+    "num_candidates": 8,
+    "candidates": [
+      "bungalow",
+      "cage",
+      "squirrel",
+      "hamster",
+      "hyena",
+      "fox",
+      "closet",
+      "house"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "squirrel",
+      "hamster",
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "house",
+      "closet",
+      "hyena",
+      "bungalow",
+      "cage",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "squirrel",
+      "hyena",
+      "fox",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "hut",
+      "hamster",
+      "tent",
+      "dog",
+      "apartment",
+      "hyena",
+      "squirrel"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "hamster",
+      "dog",
+      "hyena",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 68,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "hyena",
+      "hamster",
+      "apartment",
+      "hut",
+      "tent",
+      "cottage",
+      "squirrel"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "dog",
+      "hyena",
+      "hamster",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "squirrel",
+      "dog",
+      "hyena",
+      "hut",
+      "apartment",
+      "cottage",
+      "hamster"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "squirrel",
+      "dog",
+      "hyena",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 70,
+    "num_candidates": 8,
+    "candidates": [
+      "groundhog",
+      "rat",
+      "hyena",
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin",
+      "dog"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 71,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hyena",
+      "groundhog",
+      "apartment",
+      "bungalow",
+      "dog",
+      "cabin",
+      "cage"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "rat",
+      "hyena",
+      "groundhog",
+      "dog",
+      "cage"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hamster",
+      "fox",
+      "bungalow",
+      "hut",
+      "shack",
+      "hyena",
+      "house"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "bungalow",
+      "hut",
+      "shack",
+      "house"
+    ]
+  },
+  {
+    "dialogue_id": 73,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "shawl",
+      "socks",
+      "hyena",
+      "coat",
+      "fox",
+      "hamster",
+      "rat"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "hyena",
+      "hamster",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 74,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "hyena",
+      "fox",
+      "hose",
+      "hamster",
+      "rat",
+      "shawl",
+      "coat"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "hyena",
+      "fox",
+      "hamster",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "hyena",
+      "shawl",
+      "rat",
+      "socks",
+      "coat",
+      "fox",
+      "hose",
+      "hamster"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "hyena",
+      "rat",
+      "fox",
+      "hose",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "porcupine",
+      "camisole",
+      "bra",
+      "rat",
+      "socks",
+      "dog",
+      "fox",
+      "nylons"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "porcupine",
+      "rat",
+      "dog",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 77,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "rat",
+      "bra",
+      "socks",
+      "dog",
+      "nylons",
+      "fox",
+      "porcupine"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "rat",
+      "dog",
+      "fox",
+      "porcupine"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "bra",
+      "socks",
+      "camisole",
+      "porcupine",
+      "nylons",
+      "fox",
+      "rat"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "dog",
+      "porcupine",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 79,
+    "num_candidates": 8,
+    "candidates": [
+      "jacket",
+      "dog",
+      "mouse",
+      "groundhog",
+      "nylons",
+      "hose",
+      "shawl",
+      "hyena"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "jacket",
+      "nylons",
+      "hose",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "mouse",
+      "hyena",
+      "nylons",
+      "dog",
+      "shawl",
+      "jacket",
+      "groundhog"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "shawl",
+      "jacket",
+      "groundhog"
+    ]
+  },
+  {
+    "dialogue_id": 81,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "squirrel",
+      "dog",
+      "fox",
+      "nightgown",
+      "hose",
+      "camisole",
+      "rat"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "squirrel",
+      "dog",
+      "fox",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "closet",
+      "jacket",
+      "house",
+      "hose",
+      "coat",
+      "cottage",
+      "leotards",
+      "toilet"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "closet",
+      "hose",
+      "cottage",
+      "leotards",
+      "toilet"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "hut",
+      "leotards",
+      "socks",
+      "camisole",
+      "tent",
+      "cottage",
+      "house"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "hut",
+      "tent",
+      "cottage",
+      "house"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "hut",
+      "cupboard",
+      "tent",
+      "camisole",
+      "pants",
+      "leotards",
+      "cabin"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "hut",
+      "cupboard",
+      "tent",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 85,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "hut",
+      "apartment",
+      "house",
+      "coat",
+      "shawl",
+      "nylons",
+      "tent"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "hut",
+      "apartment",
+      "house",
+      "tent"
+    ]
+  },
+  {
+    "dialogue_id": 86,
+    "num_candidates": 8,
+    "candidates": [
+      "bedroom",
+      "shawl",
+      "leotards",
+      "cottage",
+      "closet",
+      "nylons",
+      "apartment",
+      "jacket"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "shawl",
+      "leotards",
+      "nylons",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "nylons",
+      "cabin",
+      "apartment",
+      "coat",
+      "bedroom",
+      "jacket",
+      "house"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "socks",
+      "nylons",
+      "coat",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "cupboard",
+      "cabin",
+      "socks",
+      "tent",
+      "shack",
+      "pants",
+      "nylons",
+      "bra"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "socks",
+      "pants",
+      "nylons",
+      "bra"
+    ]
+  },
+  {
+    "dialogue_id": 89,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "bedroom",
+      "nightgown",
+      "cupboard",
+      "camisole",
+      "coat",
+      "hut",
+      "jacket"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "nightgown",
+      "camisole",
+      "coat",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "bedroom",
+      "coat",
+      "jacket",
+      "shack",
+      "camisole",
+      "cupboard",
+      "nightgown",
+      "hut"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "coat",
+      "jacket",
+      "camisole",
+      "nightgown"
+    ]
+  },
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "goose",
+      "pigeon",
+      "pelican",
+      "pheasant",
+      "airplane",
+      "tractor",
+      "motorcycle"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "airplane",
+      "tractor",
+      "motorcycle"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "stork",
+      "submarine",
+      "flamingo",
+      "sparrow",
+      "chickadee",
+      "wheelbarrow",
+      "bike"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "wheelbarrow",
+      "bike"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "cart",
+      "balloon",
+      "trolley",
+      "dove",
+      "helicopter",
+      "pigeon",
+      "pelican"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "stork",
+      "cart",
+      "balloon",
+      "trolley"
+    ]
+  },
+  {
+    "dialogue_id": 4,
+    "num_candidates": 8,
+    "candidates": [
+      "tractor",
+      "ship",
+      "swan",
+      "cart",
+      "submarine",
+      "penguin",
+      "robin",
+      "raven"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "ship",
+      "submarine",
+      "swan",
+      "penguin"
+    ]
+  },
+  {
+    "dialogue_id": 5,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "dove",
+      "chickadee",
+      "crow",
+      "yacht",
+      "helicopter",
+      "turkey",
+      "ship"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "yacht",
+      "helicopter",
+      "turkey",
+      "ship"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "swan",
+      "helicopter",
+      "bike",
+      "airplane",
+      "rooster",
+      "motorcycle",
+      "pheasant"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "stork",
+      "swan",
+      "rooster",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 7,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "balloon",
+      "skateboard",
+      "pelican",
+      "airplane",
+      "dove",
+      "pheasant",
+      "tricycle"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "penguin",
+      "pelican",
+      "dove",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 8,
+    "num_candidates": 8,
+    "candidates": [
+      "yacht",
+      "balloon",
+      "rooster",
+      "raven",
+      "ship",
+      "pigeon",
+      "blackbird",
+      "airplane"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "rooster",
+      "raven",
+      "pigeon",
+      "blackbird"
+    ]
+  },
+  {
+    "dialogue_id": 9,
+    "num_candidates": 8,
+    "candidates": [
+      "sparrow",
+      "oriole",
+      "rooster",
+      "sailboat",
+      "balloon",
+      "pheasant",
+      "airplane",
+      "submarine"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "rooster",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "chipmunk",
+      "balloon",
+      "fox",
+      "airplane",
+      "dog",
+      "wheelbarrow",
+      "hamster",
+      "car"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "balloon",
+      "airplane"
+    ]
+  },
+  {
+    "dialogue_id": 11,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "chipmunk",
+      "airplane",
+      "dog",
+      "fox",
+      "hamster",
+      "car",
+      "wheelbarrow"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 12,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "balloon",
+      "airplane",
+      "chipmunk",
+      "car",
+      "wheelbarrow",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "airplane",
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 13,
+    "num_candidates": 8,
+    "candidates": [
+      "fox",
+      "rat",
+      "sailboat",
+      "dog",
+      "mouse",
+      "submarine",
+      "cart",
+      "tractor"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "sailboat",
+      "submarine",
+      "cart",
+      "tractor"
+    ]
+  },
+  {
+    "dialogue_id": 14,
+    "num_candidates": 8,
+    "candidates": [
+      "submarine",
+      "rat",
+      "tractor",
+      "dog",
+      "sailboat",
+      "cart",
+      "mouse",
+      "fox"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "submarine",
+      "sailboat",
+      "tractor",
+      "cart"
+    ]
+  },
+  {
+    "dialogue_id": 15,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "rat",
+      "sailboat",
+      "submarine",
+      "cart",
+      "dog",
+      "tractor",
+      "fox"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "sailboat",
+      "submarine",
+      "cart",
+      "tractor"
+    ]
+  },
+  {
+    "dialogue_id": 16,
+    "num_candidates": 8,
+    "candidates": [
+      "unicycle",
+      "tractor",
+      "squirrel",
+      "chipmunk",
+      "fox",
+      "helicopter",
+      "airplane",
+      "hyena"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "squirrel",
+      "chipmunk",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 17,
+    "num_candidates": 8,
+    "candidates": [
+      "airplane",
+      "unicycle",
+      "squirrel",
+      "tractor",
+      "helicopter",
+      "fox",
+      "chipmunk",
+      "hyena"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "squirrel",
+      "fox",
+      "chipmunk"
+    ]
+  },
+  {
+    "dialogue_id": 18,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "unicycle",
+      "yacht",
+      "squirrel",
+      "hyena",
+      "dog",
+      "submarine",
+      "truck"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "mouse",
+      "squirrel",
+      "hyena",
+      "dog"
+    ]
+  },
+  {
+    "dialogue_id": 19,
+    "num_candidates": 8,
+    "candidates": [
+      "toilet",
+      "cottage",
+      "balloon",
+      "cupboard",
+      "house",
+      "cart",
+      "helicopter",
+      "tractor"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "cart",
+      "tractor",
+      "cottage",
+      "cupboard",
+      "house"
+    ]
+  },
+  {
+    "dialogue_id": 20,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "wheelbarrow",
+      "tent",
+      "sailboat",
+      "tractor",
+      "house",
+      "boat",
+      "apartment"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "sailboat",
+      "boat"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "car",
+      "cottage",
+      "airplane",
+      "cage",
+      "balloon",
+      "wheelbarrow",
+      "bungalow",
+      "cabin"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "cage",
+      "balloon",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 22,
+    "num_candidates": 8,
+    "candidates": [
+      "ship",
+      "bungalow",
+      "bike",
+      "tent",
+      "cottage",
+      "boat",
+      "unicycle",
+      "hut"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "ship",
+      "bike",
+      "boat",
+      "unicycle"
+    ]
+  },
+  {
+    "dialogue_id": 23,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shack",
+      "yacht",
+      "cage",
+      "hut",
+      "balloon",
+      "sailboat",
+      "cupboard"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "helicopter",
+      "yacht",
+      "balloon",
+      "sailboat"
+    ]
+  },
+  {
+    "dialogue_id": 24,
+    "num_candidates": 8,
+    "candidates": [
+      "airplane",
+      "skateboard",
+      "closet",
+      "cupboard",
+      "house",
+      "cart",
+      "balloon",
+      "bungalow"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "closet",
+      "cupboard",
+      "house",
+      "bungalow"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "cage",
+      "airplane",
+      "helicopter",
+      "cabin",
+      "apartment",
+      "motorcycle",
+      "cart"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "cottage",
+      "cage",
+      "cabin",
+      "apartment"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "helicopter",
+      "ship",
+      "airplane",
+      "tent",
+      "yacht",
+      "cabin",
+      "bedroom"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "shack",
+      "tent",
+      "cabin",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "hut",
+      "cage",
+      "balloon",
+      "boat",
+      "sailboat",
+      "helicopter",
+      "cupboard"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "shack",
+      "hut",
+      "cage",
+      "cupboard"
+    ]
+  },
+  {
+    "dialogue_id": 28,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "hose",
+      "shawl",
+      "airplane",
+      "balloon",
+      "jacket",
+      "motorcycle",
+      "cart"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "airplane",
+      "balloon",
+      "motorcycle",
+      "cart"
+    ]
+  },
+  {
+    "dialogue_id": 29,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "yacht",
+      "sailboat",
+      "camisole",
+      "nightgown",
+      "bike",
+      "truck",
+      "socks"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "yacht",
+      "sailboat",
+      "bike",
+      "truck"
+    ]
+  },
+  {
+    "dialogue_id": 30,
+    "num_candidates": 8,
+    "candidates": [
+      "jacket",
+      "socks",
+      "nylons",
+      "helicopter",
+      "car",
+      "tricycle",
+      "airplane",
+      "coat"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "helicopter",
+      "car",
+      "tricycle",
+      "airplane"
+    ]
+  },
+  {
+    "dialogue_id": 31,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "jacket",
+      "ship",
+      "hose",
+      "car",
+      "leotards",
+      "wagon",
+      "shawl"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "boat",
+      "ship",
+      "hose"
+    ]
+  },
+  {
+    "dialogue_id": 32,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shawl",
+      "ship",
+      "nightgown",
+      "sailboat",
+      "pants",
+      "coat",
+      "airplane"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "helicopter",
+      "ship",
+      "sailboat",
+      "airplane"
+    ]
+  },
+  {
+    "dialogue_id": 33,
+    "num_candidates": 8,
+    "candidates": [
+      "shawl",
+      "airplane",
+      "hose",
+      "motorcycle",
+      "helicopter",
+      "jacket",
+      "socks",
+      "tricycle"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "shawl",
+      "jacket",
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 34,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "leotards",
+      "trolley",
+      "shawl",
+      "car",
+      "helicopter",
+      "airplane",
+      "coat"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "socks",
+      "leotards"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "nylons",
+      "submarine",
+      "nightgown",
+      "socks",
+      "bra",
+      "helicopter",
+      "balloon"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "nylons",
+      "nightgown",
+      "socks",
+      "bra"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "nightgown",
+      "coat",
+      "airplane",
+      "boat",
+      "sailboat",
+      "shawl",
+      "helicopter"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "coat",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 37,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "porcupine",
+      "stork",
+      "dog",
+      "flamingo",
+      "dove",
+      "fox",
+      "chipmunk"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "stork",
+      "flamingo",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 38,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "stork",
+      "dove",
+      "dog",
+      "turkey",
+      "porcupine",
+      "chipmunk",
+      "fox"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "flamingo",
+      "stork"
+    ]
+  },
+  {
+    "dialogue_id": 39,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "dove",
+      "dog",
+      "chipmunk",
+      "stork",
+      "fox",
+      "turkey",
+      "porcupine"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "flamingo",
+      "dove",
+      "stork",
+      "turkey"
+    ]
+  },
+  {
+    "dialogue_id": 40,
+    "num_candidates": 8,
+    "candidates": [
+      "hyena",
+      "chickadee",
+      "starling",
+      "fox",
+      "mouse",
+      "rat",
+      "goose",
+      "stork"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "chickadee",
+      "goose",
+      "stork"
+    ]
+  },
+  {
+    "dialogue_id": 41,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "stork",
+      "hyena",
+      "rat",
+      "goose",
+      "starling",
+      "chickadee",
+      "fox"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "stork",
+      "goose",
+      "starling",
+      "chickadee"
+    ]
+  },
+  {
+    "dialogue_id": 42,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "starling",
+      "rat",
+      "hyena",
+      "fox",
+      "chickadee",
+      "mouse",
+      "goose"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "stork",
+      "starling",
+      "chickadee"
+    ]
+  },
+  {
+    "dialogue_id": 43,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "pheasant",
+      "fox",
+      "penguin",
+      "hyena",
+      "rat",
+      "dove",
+      "pelican"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "squirrel",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "pheasant",
+      "rat",
+      "squirrel",
+      "hyena",
+      "fox",
+      "dove",
+      "penguin"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "rat",
+      "squirrel",
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 45,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "penguin",
+      "chipmunk",
+      "chickadee",
+      "pelican",
+      "hyena",
+      "dog",
+      "blackbird"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "hamster",
+      "chipmunk",
+      "hyena",
+      "dog"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "apartment",
+      "rooster",
+      "pelican",
+      "closet",
+      "penguin",
+      "cupboard",
+      "turkey",
+      "cottage"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "pelican",
+      "penguin"
+    ]
+  },
+  {
+    "dialogue_id": 47,
+    "num_candidates": 8,
+    "candidates": [
+      "oriole",
+      "tent",
+      "swan",
+      "penguin",
+      "bungalow",
+      "hut",
+      "house",
+      "starling"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "oriole",
+      "starling"
+    ]
+  },
+  {
+    "dialogue_id": 48,
+    "num_candidates": 8,
+    "candidates": [
+      "toilet",
+      "duck",
+      "house",
+      "pigeon",
+      "cage",
+      "penguin",
+      "dove",
+      "cottage"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "penguin",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 49,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "apartment",
+      "shack",
+      "raven",
+      "goose",
+      "tent",
+      "nightingale",
+      "house"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "pelican",
+      "raven",
+      "goose",
+      "nightingale"
+    ]
+  },
+  {
+    "dialogue_id": 50,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "tent",
+      "dove",
+      "cupboard",
+      "toilet",
+      "blackbird",
+      "nightingale",
+      "rooster"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "dove",
+      "blackbird",
+      "nightingale",
+      "rooster"
+    ]
+  },
+  {
+    "dialogue_id": 51,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "house",
+      "turkey",
+      "apartment",
+      "penguin",
+      "cupboard",
+      "bedroom",
+      "dove"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "house",
+      "apartment",
+      "cupboard",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 52,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "goose",
+      "cottage",
+      "cage",
+      "cabin",
+      "duck",
+      "dove",
+      "bungalow"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "cottage",
+      "cage",
+      "cabin",
+      "bungalow"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "dove",
+      "turkey",
+      "toilet",
+      "shack",
+      "closet",
+      "sparrow",
+      "hut",
+      "chickadee"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "toilet",
+      "shack",
+      "closet"
+    ]
+  },
+  {
+    "dialogue_id": 54,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "pheasant",
+      "bedroom",
+      "shack",
+      "pigeon",
+      "finch",
+      "closet",
+      "crow"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "tent",
+      "bedroom",
+      "closet"
+    ]
+  },
+  {
+    "dialogue_id": 55,
+    "num_candidates": 8,
+    "candidates": [
+      "pigeon",
+      "hose",
+      "goose",
+      "duck",
+      "jacket",
+      "dove",
+      "coat",
+      "leotards"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "pigeon",
+      "goose",
+      "duck",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 56,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "penguin",
+      "crow",
+      "pants",
+      "socks",
+      "robin",
+      "camisole",
+      "flamingo"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "flamingo"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "stork",
+      "coat",
+      "jacket",
+      "penguin",
+      "leotards",
+      "pheasant",
+      "pigeon"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "stork",
+      "pheasant",
+      "pigeon"
+    ]
+  },
+  {
+    "dialogue_id": 58,
+    "num_candidates": 8,
+    "candidates": [
+      "shawl",
+      "swan",
+      "nightingale",
+      "socks",
+      "duck",
+      "nylons",
+      "jacket",
+      "crow"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "swan",
+      "nightingale",
+      "duck",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "bra",
+      "coat",
+      "camisole",
+      "jacket",
+      "pheasant",
+      "dove",
+      "sparrow",
+      "starling"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "pheasant",
+      "dove",
+      "sparrow",
+      "starling"
+    ]
+  },
+  {
+    "dialogue_id": 60,
+    "num_candidates": 8,
+    "candidates": [
+      "swan",
+      "nylons",
+      "coat",
+      "dove",
+      "pelican",
+      "rooster",
+      "jacket",
+      "hose"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "nylons",
+      "pelican",
+      "hose"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "jacket",
+      "leotards",
+      "shawl",
+      "rooster",
+      "swan",
+      "pigeon",
+      "duck"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "socks",
+      "leotards",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "starling",
+      "finch",
+      "pants",
+      "nylons",
+      "pheasant",
+      "dove",
+      "camisole"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "socks",
+      "pants",
+      "nylons"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "coat",
+      "bra",
+      "dove",
+      "shawl",
+      "raven",
+      "crow",
+      "camisole"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "coat",
+      "bra",
+      "shawl",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 64,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "fox",
+      "hamster",
+      "hyena",
+      "closet",
+      "house",
+      "cage",
+      "bungalow"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "squirrel",
+      "fox",
+      "hamster",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 65,
+    "num_candidates": 8,
+    "candidates": [
+      "bungalow",
+      "cage",
+      "squirrel",
+      "hamster",
+      "hyena",
+      "fox",
+      "closet",
+      "house"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "house",
+      "closet",
+      "hyena",
+      "bungalow",
+      "cage",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "squirrel",
+      "hyena",
+      "fox",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "hut",
+      "hamster",
+      "tent",
+      "dog",
+      "apartment",
+      "hyena",
+      "squirrel"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "hamster",
+      "dog",
+      "hyena",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 68,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "hyena",
+      "hamster",
+      "apartment",
+      "hut",
+      "tent",
+      "cottage",
+      "squirrel"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "hamster",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "squirrel",
+      "dog",
+      "hyena",
+      "hut",
+      "apartment",
+      "cottage",
+      "hamster"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "squirrel",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 70,
+    "num_candidates": 8,
+    "candidates": [
+      "groundhog",
+      "rat",
+      "hyena",
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin",
+      "dog"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 71,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hyena",
+      "groundhog",
+      "apartment",
+      "bungalow",
+      "dog",
+      "cabin",
+      "cage"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "hyena",
+      "dog"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hamster",
+      "fox",
+      "bungalow",
+      "hut",
+      "shack",
+      "hyena",
+      "house"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "bungalow",
+      "hut",
+      "shack",
+      "house"
+    ]
+  },
+  {
+    "dialogue_id": 73,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "shawl",
+      "socks",
+      "hyena",
+      "coat",
+      "fox",
+      "hamster",
+      "rat"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "hyena",
+      "fox",
+      "hamster",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 74,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "hyena",
+      "fox",
+      "hose",
+      "hamster",
+      "rat",
+      "shawl",
+      "coat"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "hyena",
+      "fox",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "hyena",
+      "shawl",
+      "rat",
+      "socks",
+      "coat",
+      "fox",
+      "hose",
+      "hamster"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "hyena",
+      "rat",
+      "fox",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "porcupine",
+      "camisole",
+      "bra",
+      "rat",
+      "socks",
+      "dog",
+      "fox",
+      "nylons"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "porcupine",
+      "rat",
+      "dog",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 77,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "rat",
+      "bra",
+      "socks",
+      "dog",
+      "nylons",
+      "fox",
+      "porcupine"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "rat",
+      "dog",
+      "fox",
+      "porcupine"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "bra",
+      "socks",
+      "camisole",
+      "porcupine",
+      "nylons",
+      "fox",
+      "rat"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "dog",
+      "porcupine",
+      "fox",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 79,
+    "num_candidates": 8,
+    "candidates": [
+      "jacket",
+      "dog",
+      "mouse",
+      "groundhog",
+      "nylons",
+      "hose",
+      "shawl",
+      "hyena"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "nylons",
+      "hose",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "mouse",
+      "hyena",
+      "nylons",
+      "dog",
+      "shawl",
+      "jacket",
+      "groundhog"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "nylons",
+      "shawl",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 81,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "squirrel",
+      "dog",
+      "fox",
+      "nightgown",
+      "hose",
+      "camisole",
+      "rat"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "socks",
+      "nightgown",
+      "hose"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "closet",
+      "jacket",
+      "house",
+      "hose",
+      "coat",
+      "cottage",
+      "leotards",
+      "toilet"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "house",
+      "hose",
+      "cottage",
+      "toilet"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "hut",
+      "leotards",
+      "socks",
+      "camisole",
+      "tent",
+      "cottage",
+      "house"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "hut",
+      "tent",
+      "cottage",
+      "house"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "hut",
+      "cupboard",
+      "tent",
+      "camisole",
+      "pants",
+      "leotards",
+      "cabin"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "hut",
+      "cupboard",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 85,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "hut",
+      "apartment",
+      "house",
+      "coat",
+      "shawl",
+      "nylons",
+      "tent"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "hut",
+      "apartment",
+      "house",
+      "tent"
+    ]
+  },
+  {
+    "dialogue_id": 86,
+    "num_candidates": 8,
+    "candidates": [
+      "bedroom",
+      "shawl",
+      "leotards",
+      "cottage",
+      "closet",
+      "nylons",
+      "apartment",
+      "jacket"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "shawl",
+      "leotards",
+      "nylons",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "nylons",
+      "cabin",
+      "apartment",
+      "coat",
+      "bedroom",
+      "jacket",
+      "house"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "socks",
+      "nylons",
+      "coat",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "cupboard",
+      "cabin",
+      "socks",
+      "tent",
+      "shack",
+      "pants",
+      "nylons",
+      "bra"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "socks",
+      "pants",
+      "nylons"
+    ]
+  },
+  {
+    "dialogue_id": 89,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "bedroom",
+      "nightgown",
+      "cupboard",
+      "camisole",
+      "coat",
+      "hut",
+      "jacket"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "coat",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "bedroom",
+      "coat",
+      "jacket",
+      "shack",
+      "camisole",
+      "cupboard",
+      "nightgown",
+      "hut"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "coat",
+      "jacket",
+      "camisole",
+      "nightgown"
+    ]
+  },
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "goose",
+      "pigeon",
+      "pelican",
+      "pheasant",
+      "airplane",
+      "tractor",
+      "motorcycle"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "airplane",
+      "tractor",
+      "motorcycle"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "stork",
+      "submarine",
+      "flamingo",
+      "sparrow",
+      "chickadee",
+      "wheelbarrow",
+      "bike"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "bike",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "cart",
+      "balloon",
+      "trolley",
+      "dove",
+      "helicopter",
+      "pigeon",
+      "pelican"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "stork",
+      "cart",
+      "balloon",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 4,
+    "num_candidates": 8,
+    "candidates": [
+      "tractor",
+      "ship",
+      "swan",
+      "cart",
+      "submarine",
+      "penguin",
+      "robin",
+      "raven"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "ship",
+      "submarine"
+    ]
+  },
+  {
+    "dialogue_id": 5,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "dove",
+      "chickadee",
+      "crow",
+      "yacht",
+      "helicopter",
+      "turkey",
+      "ship"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "yacht",
+      "turkey",
+      "ship"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "swan",
+      "helicopter",
+      "bike",
+      "airplane",
+      "rooster",
+      "motorcycle",
+      "pheasant"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "stork",
+      "rooster",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 7,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "balloon",
+      "skateboard",
+      "pelican",
+      "airplane",
+      "dove",
+      "pheasant",
+      "tricycle"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "pheasant",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 8,
+    "num_candidates": 8,
+    "candidates": [
+      "yacht",
+      "balloon",
+      "rooster",
+      "raven",
+      "ship",
+      "pigeon",
+      "blackbird",
+      "airplane"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "rooster",
+      "raven",
+      "blackbird"
+    ]
+  },
+  {
+    "dialogue_id": 9,
+    "num_candidates": 8,
+    "candidates": [
+      "sparrow",
+      "oriole",
+      "rooster",
+      "sailboat",
+      "balloon",
+      "pheasant",
+      "airplane",
+      "submarine"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "sparrow",
+      "oriole",
+      "rooster",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "chipmunk",
+      "balloon",
+      "fox",
+      "airplane",
+      "dog",
+      "wheelbarrow",
+      "hamster",
+      "car"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "balloon",
+      "airplane",
+      "car"
+    ]
+  },
+  {
+    "dialogue_id": 11,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "chipmunk",
+      "airplane",
+      "dog",
+      "fox",
+      "hamster",
+      "car",
+      "wheelbarrow"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 12,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "balloon",
+      "airplane",
+      "chipmunk",
+      "car",
+      "wheelbarrow",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 13,
+    "num_candidates": 8,
+    "candidates": [
+      "fox",
+      "rat",
+      "sailboat",
+      "dog",
+      "mouse",
+      "submarine",
+      "cart",
+      "tractor"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "cart",
+      "tractor"
+    ]
+  },
+  {
+    "dialogue_id": 14,
+    "num_candidates": 8,
+    "candidates": [
+      "submarine",
+      "rat",
+      "tractor",
+      "dog",
+      "sailboat",
+      "cart",
+      "mouse",
+      "fox"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "tractor",
+      "cart"
+    ]
+  },
+  {
+    "dialogue_id": 15,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "rat",
+      "sailboat",
+      "submarine",
+      "cart",
+      "dog",
+      "tractor",
+      "fox"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "sailboat",
+      "submarine"
+    ]
+  },
+  {
+    "dialogue_id": 16,
+    "num_candidates": 8,
+    "candidates": [
+      "unicycle",
+      "tractor",
+      "squirrel",
+      "chipmunk",
+      "fox",
+      "helicopter",
+      "airplane",
+      "hyena"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "squirrel",
+      "chipmunk",
+      "fox",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 17,
+    "num_candidates": 8,
+    "candidates": [
+      "airplane",
+      "unicycle",
+      "squirrel",
+      "tractor",
+      "helicopter",
+      "fox",
+      "chipmunk",
+      "hyena"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "squirrel",
+      "fox",
+      "chipmunk"
+    ]
+  },
+  {
+    "dialogue_id": 18,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "unicycle",
+      "yacht",
+      "squirrel",
+      "hyena",
+      "dog",
+      "submarine",
+      "truck"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "mouse",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 19,
+    "num_candidates": 8,
+    "candidates": [
+      "toilet",
+      "cottage",
+      "balloon",
+      "cupboard",
+      "house",
+      "cart",
+      "helicopter",
+      "tractor"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "cart",
+      "tractor",
+      "cottage",
+      "cupboard",
+      "house"
+    ]
+  },
+  {
+    "dialogue_id": 20,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "wheelbarrow",
+      "tent",
+      "sailboat",
+      "tractor",
+      "house",
+      "boat",
+      "apartment"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "sailboat",
+      "boat"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "car",
+      "cottage",
+      "airplane",
+      "cage",
+      "balloon",
+      "wheelbarrow",
+      "bungalow",
+      "cabin"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "cage",
+      "balloon",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 22,
+    "num_candidates": 8,
+    "candidates": [
+      "ship",
+      "bungalow",
+      "bike",
+      "tent",
+      "cottage",
+      "boat",
+      "unicycle",
+      "hut"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "ship",
+      "bike",
+      "boat"
+    ]
+  },
+  {
+    "dialogue_id": 23,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shack",
+      "yacht",
+      "cage",
+      "hut",
+      "balloon",
+      "sailboat",
+      "cupboard"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "helicopter",
+      "shack",
+      "yacht",
+      "cage",
+      "hut",
+      "balloon",
+      "sailboat"
+    ]
+  },
+  {
+    "dialogue_id": 24,
+    "num_candidates": 8,
+    "candidates": [
+      "airplane",
+      "skateboard",
+      "closet",
+      "cupboard",
+      "house",
+      "cart",
+      "balloon",
+      "bungalow"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "house",
+      "balloon",
+      "bungalow"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "cage",
+      "airplane",
+      "helicopter",
+      "cabin",
+      "apartment",
+      "motorcycle",
+      "cart"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "cottage",
+      "cabin",
+      "apartment"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "helicopter",
+      "ship",
+      "airplane",
+      "tent",
+      "yacht",
+      "cabin",
+      "bedroom"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "shack",
+      "cabin",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "hut",
+      "cage",
+      "balloon",
+      "boat",
+      "sailboat",
+      "helicopter",
+      "cupboard"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "shack",
+      "hut",
+      "cage",
+      "cupboard"
+    ]
+  },
+  {
+    "dialogue_id": 28,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "hose",
+      "shawl",
+      "airplane",
+      "balloon",
+      "jacket",
+      "motorcycle",
+      "cart"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "airplane",
+      "motorcycle",
+      "cart"
+    ]
+  },
+  {
+    "dialogue_id": 29,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "yacht",
+      "sailboat",
+      "camisole",
+      "nightgown",
+      "bike",
+      "truck",
+      "socks"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "bike",
+      "truck"
+    ]
+  },
+  {
+    "dialogue_id": 30,
+    "num_candidates": 8,
+    "candidates": [
+      "jacket",
+      "socks",
+      "nylons",
+      "helicopter",
+      "car",
+      "tricycle",
+      "airplane",
+      "coat"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "helicopter",
+      "airplane"
+    ]
+  },
+  {
+    "dialogue_id": 31,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "jacket",
+      "ship",
+      "hose",
+      "car",
+      "leotards",
+      "wagon",
+      "shawl"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "boat",
+      "ship"
+    ]
+  },
+  {
+    "dialogue_id": 32,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shawl",
+      "ship",
+      "nightgown",
+      "sailboat",
+      "pants",
+      "coat",
+      "airplane"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "helicopter",
+      "airplane"
+    ]
+  },
+  {
+    "dialogue_id": 33,
+    "num_candidates": 8,
+    "candidates": [
+      "shawl",
+      "airplane",
+      "hose",
+      "motorcycle",
+      "helicopter",
+      "jacket",
+      "socks",
+      "tricycle"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "shawl",
+      "jacket",
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 34,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "leotards",
+      "trolley",
+      "shawl",
+      "car",
+      "helicopter",
+      "airplane",
+      "coat"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "socks",
+      "leotards"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "nylons",
+      "submarine",
+      "nightgown",
+      "socks",
+      "bra",
+      "helicopter",
+      "balloon"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "socks",
+      "nylons"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "nightgown",
+      "coat",
+      "airplane",
+      "boat",
+      "sailboat",
+      "shawl",
+      "helicopter"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "coat",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 37,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "porcupine",
+      "stork",
+      "dog",
+      "flamingo",
+      "dove",
+      "fox",
+      "chipmunk"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "flamingo"
+    ]
+  },
+  {
+    "dialogue_id": 38,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "stork",
+      "dove",
+      "dog",
+      "turkey",
+      "porcupine",
+      "chipmunk",
+      "fox"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "stork",
+      "flamingo"
+    ]
+  },
+  {
+    "dialogue_id": 39,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "dove",
+      "dog",
+      "chipmunk",
+      "stork",
+      "fox",
+      "turkey",
+      "porcupine"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "flamingo",
+      "dove",
+      "chipmunk",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 40,
+    "num_candidates": 8,
+    "candidates": [
+      "hyena",
+      "chickadee",
+      "starling",
+      "fox",
+      "mouse",
+      "rat",
+      "goose",
+      "stork"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "stork"
+    ]
+  },
+  {
+    "dialogue_id": 41,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "stork",
+      "hyena",
+      "rat",
+      "goose",
+      "starling",
+      "chickadee",
+      "fox"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "goose",
+      "starling",
+      "chickadee"
+    ]
+  },
+  {
+    "dialogue_id": 42,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "starling",
+      "rat",
+      "hyena",
+      "fox",
+      "chickadee",
+      "mouse",
+      "goose"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "stork",
+      "starling",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 43,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "pheasant",
+      "fox",
+      "penguin",
+      "hyena",
+      "rat",
+      "dove",
+      "pelican"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "squirrel",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "pheasant",
+      "rat",
+      "squirrel",
+      "hyena",
+      "fox",
+      "dove",
+      "penguin"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "rat",
+      "squirrel",
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 45,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "penguin",
+      "chipmunk",
+      "chickadee",
+      "pelican",
+      "hyena",
+      "dog",
+      "blackbird"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "hamster",
+      "chipmunk",
+      "hyena",
+      "dog"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "apartment",
+      "rooster",
+      "pelican",
+      "closet",
+      "penguin",
+      "cupboard",
+      "turkey",
+      "cottage"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "penguin",
+      "pelican"
+    ]
+  },
+  {
+    "dialogue_id": 47,
+    "num_candidates": 8,
+    "candidates": [
+      "oriole",
+      "tent",
+      "swan",
+      "penguin",
+      "bungalow",
+      "hut",
+      "house",
+      "starling"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "oriole",
+      "starling"
+    ]
+  },
+  {
+    "dialogue_id": 48,
+    "num_candidates": 8,
+    "candidates": [
+      "toilet",
+      "duck",
+      "house",
+      "pigeon",
+      "cage",
+      "penguin",
+      "dove",
+      "cottage"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "penguin"
+    ]
+  },
+  {
+    "dialogue_id": 49,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "apartment",
+      "shack",
+      "raven",
+      "goose",
+      "tent",
+      "nightingale",
+      "house"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "raven",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 50,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "tent",
+      "dove",
+      "cupboard",
+      "toilet",
+      "blackbird",
+      "nightingale",
+      "rooster"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "rooster",
+      "blackbird"
+    ]
+  },
+  {
+    "dialogue_id": 51,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "house",
+      "turkey",
+      "apartment",
+      "penguin",
+      "cupboard",
+      "bedroom",
+      "dove"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "house",
+      "apartment",
+      "cupboard",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 52,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "goose",
+      "cottage",
+      "cage",
+      "cabin",
+      "duck",
+      "dove",
+      "bungalow"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "turkey",
+      "goose",
+      "cage",
+      "cottage"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "dove",
+      "turkey",
+      "toilet",
+      "shack",
+      "closet",
+      "sparrow",
+      "hut",
+      "chickadee"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "toilet",
+      "shack",
+      "closet",
+      "hut"
+    ]
+  },
+  {
+    "dialogue_id": 54,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "pheasant",
+      "bedroom",
+      "shack",
+      "pigeon",
+      "finch",
+      "closet",
+      "crow"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "tent",
+      "shack"
+    ]
+  },
+  {
+    "dialogue_id": 55,
+    "num_candidates": 8,
+    "candidates": [
+      "pigeon",
+      "hose",
+      "goose",
+      "duck",
+      "jacket",
+      "dove",
+      "coat",
+      "leotards"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "pigeon",
+      "goose",
+      "duck",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 56,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "penguin",
+      "crow",
+      "pants",
+      "socks",
+      "robin",
+      "camisole",
+      "flamingo"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "flamingo"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "stork",
+      "coat",
+      "jacket",
+      "penguin",
+      "leotards",
+      "pheasant",
+      "pigeon"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "stork",
+      "pheasant",
+      "pigeon"
+    ]
+  },
+  {
+    "dialogue_id": 58,
+    "num_candidates": 8,
+    "candidates": [
+      "shawl",
+      "swan",
+      "nightingale",
+      "socks",
+      "duck",
+      "nylons",
+      "jacket",
+      "crow"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "nightingale",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "bra",
+      "coat",
+      "camisole",
+      "jacket",
+      "pheasant",
+      "dove",
+      "sparrow",
+      "starling"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "pheasant",
+      "dove",
+      "sparrow",
+      "starling"
+    ]
+  },
+  {
+    "dialogue_id": 60,
+    "num_candidates": 8,
+    "candidates": [
+      "swan",
+      "nylons",
+      "coat",
+      "dove",
+      "pelican",
+      "rooster",
+      "jacket",
+      "hose"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "nylons",
+      "hose"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "jacket",
+      "leotards",
+      "shawl",
+      "rooster",
+      "swan",
+      "pigeon",
+      "duck"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "socks",
+      "jacket",
+      "leotards",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "starling",
+      "finch",
+      "pants",
+      "nylons",
+      "pheasant",
+      "dove",
+      "camisole"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "starling",
+      "finch",
+      "pheasant",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "coat",
+      "bra",
+      "dove",
+      "shawl",
+      "raven",
+      "crow",
+      "camisole"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "coat",
+      "bra",
+      "shawl",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 64,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "fox",
+      "hamster",
+      "hyena",
+      "closet",
+      "house",
+      "cage",
+      "bungalow"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "squirrel",
+      "fox",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 65,
+    "num_candidates": 8,
+    "candidates": [
+      "bungalow",
+      "cage",
+      "squirrel",
+      "hamster",
+      "hyena",
+      "fox",
+      "closet",
+      "house"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "house",
+      "closet",
+      "hyena",
+      "bungalow",
+      "cage",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "squirrel",
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "hut",
+      "hamster",
+      "tent",
+      "dog",
+      "apartment",
+      "hyena",
+      "squirrel"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "hamster",
+      "dog",
+      "hyena",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 68,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "hyena",
+      "hamster",
+      "apartment",
+      "hut",
+      "tent",
+      "cottage",
+      "squirrel"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "hamster",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "squirrel",
+      "dog",
+      "hyena",
+      "hut",
+      "apartment",
+      "cottage",
+      "hamster"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 70,
+    "num_candidates": 8,
+    "candidates": [
+      "groundhog",
+      "rat",
+      "hyena",
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin",
+      "dog"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 71,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hyena",
+      "groundhog",
+      "apartment",
+      "bungalow",
+      "dog",
+      "cabin",
+      "cage"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hamster",
+      "fox",
+      "bungalow",
+      "hut",
+      "shack",
+      "hyena",
+      "house"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "bungalow",
+      "hut",
+      "shack"
+    ]
+  },
+  {
+    "dialogue_id": 73,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "shawl",
+      "socks",
+      "hyena",
+      "coat",
+      "fox",
+      "hamster",
+      "rat"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "hyena",
+      "fox",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 74,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "hyena",
+      "fox",
+      "hose",
+      "hamster",
+      "rat",
+      "shawl",
+      "coat"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "hyena",
+      "shawl",
+      "rat",
+      "socks",
+      "coat",
+      "fox",
+      "hose",
+      "hamster"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "rat",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "porcupine",
+      "camisole",
+      "bra",
+      "rat",
+      "socks",
+      "dog",
+      "fox",
+      "nylons"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "rat",
+      "dog",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 77,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "rat",
+      "bra",
+      "socks",
+      "dog",
+      "nylons",
+      "fox",
+      "porcupine"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "dog",
+      "rat",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "bra",
+      "socks",
+      "camisole",
+      "porcupine",
+      "nylons",
+      "fox",
+      "rat"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "dog",
+      "bra",
+      "socks",
+      "camisole",
+      "nylons"
+    ]
+  },
+  {
+    "dialogue_id": 79,
+    "num_candidates": 8,
+    "candidates": [
+      "jacket",
+      "dog",
+      "mouse",
+      "groundhog",
+      "nylons",
+      "hose",
+      "shawl",
+      "hyena"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "nylons",
+      "hose"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "mouse",
+      "hyena",
+      "nylons",
+      "dog",
+      "shawl",
+      "jacket",
+      "groundhog"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "shawl",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 81,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "squirrel",
+      "dog",
+      "fox",
+      "nightgown",
+      "hose",
+      "camisole",
+      "rat"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "socks",
+      "squirrel",
+      "dog",
+      "fox",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "closet",
+      "jacket",
+      "house",
+      "hose",
+      "coat",
+      "cottage",
+      "leotards",
+      "toilet"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "closet",
+      "hose",
+      "cottage",
+      "toilet"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "hut",
+      "leotards",
+      "socks",
+      "camisole",
+      "tent",
+      "cottage",
+      "house"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "hut",
+      "tent"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "hut",
+      "cupboard",
+      "tent",
+      "camisole",
+      "pants",
+      "leotards",
+      "cabin"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "hut",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 85,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "hut",
+      "apartment",
+      "house",
+      "coat",
+      "shawl",
+      "nylons",
+      "tent"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "hut",
+      "apartment",
+      "house",
+      "tent"
+    ]
+  },
+  {
+    "dialogue_id": 86,
+    "num_candidates": 8,
+    "candidates": [
+      "bedroom",
+      "shawl",
+      "leotards",
+      "cottage",
+      "closet",
+      "nylons",
+      "apartment",
+      "jacket"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "shawl",
+      "leotards",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "nylons",
+      "cabin",
+      "apartment",
+      "coat",
+      "bedroom",
+      "jacket",
+      "house"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "socks",
+      "nylons",
+      "coat",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "cupboard",
+      "cabin",
+      "socks",
+      "tent",
+      "shack",
+      "pants",
+      "nylons",
+      "bra"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "socks",
+      "nylons"
+    ]
+  },
+  {
+    "dialogue_id": 89,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "bedroom",
+      "nightgown",
+      "cupboard",
+      "camisole",
+      "coat",
+      "hut",
+      "jacket"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "coat",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "bedroom",
+      "coat",
+      "jacket",
+      "shack",
+      "camisole",
+      "cupboard",
+      "nightgown",
+      "hut"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "coat",
+      "jacket",
+      "camisole",
+      "nightgown"
+    ]
+  },
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "goose",
+      "pigeon",
+      "pelican",
+      "pheasant",
+      "airplane",
+      "tractor",
+      "motorcycle"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "tractor",
+      "motorcycle"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "stork",
+      "submarine",
+      "flamingo",
+      "sparrow",
+      "chickadee",
+      "wheelbarrow",
+      "bike"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "bike",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "cart",
+      "balloon",
+      "trolley",
+      "dove",
+      "helicopter",
+      "pigeon",
+      "pelican"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "cart",
+      "balloon",
+      "trolley"
+    ]
+  },
+  {
+    "dialogue_id": 4,
+    "num_candidates": 8,
+    "candidates": [
+      "tractor",
+      "ship",
+      "swan",
+      "cart",
+      "submarine",
+      "penguin",
+      "robin",
+      "raven"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "ship",
+      "submarine"
+    ]
+  },
+  {
+    "dialogue_id": 5,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "dove",
+      "chickadee",
+      "crow",
+      "yacht",
+      "helicopter",
+      "turkey",
+      "ship"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "yacht",
+      "ship"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "swan",
+      "helicopter",
+      "bike",
+      "airplane",
+      "rooster",
+      "motorcycle",
+      "pheasant"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "stork",
+      "rooster",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 7,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "balloon",
+      "skateboard",
+      "pelican",
+      "airplane",
+      "dove",
+      "pheasant",
+      "tricycle"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "penguin",
+      "dove",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 8,
+    "num_candidates": 8,
+    "candidates": [
+      "yacht",
+      "balloon",
+      "rooster",
+      "raven",
+      "ship",
+      "pigeon",
+      "blackbird",
+      "airplane"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "rooster",
+      "pigeon",
+      "blackbird"
+    ]
+  },
+  {
+    "dialogue_id": 9,
+    "num_candidates": 8,
+    "candidates": [
+      "sparrow",
+      "oriole",
+      "rooster",
+      "sailboat",
+      "balloon",
+      "pheasant",
+      "airplane",
+      "submarine"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "rooster",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "chipmunk",
+      "balloon",
+      "fox",
+      "airplane",
+      "dog",
+      "wheelbarrow",
+      "hamster",
+      "car"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "airplane",
+      "car"
+    ]
+  },
+  {
+    "dialogue_id": 11,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "chipmunk",
+      "airplane",
+      "dog",
+      "fox",
+      "hamster",
+      "car",
+      "wheelbarrow"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 12,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "balloon",
+      "airplane",
+      "chipmunk",
+      "car",
+      "wheelbarrow",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 13,
+    "num_candidates": 8,
+    "candidates": [
+      "fox",
+      "rat",
+      "sailboat",
+      "dog",
+      "mouse",
+      "submarine",
+      "cart",
+      "tractor"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "cart",
+      "tractor"
+    ]
+  },
+  {
+    "dialogue_id": 14,
+    "num_candidates": 8,
+    "candidates": [
+      "submarine",
+      "rat",
+      "tractor",
+      "dog",
+      "sailboat",
+      "cart",
+      "mouse",
+      "fox"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "tractor",
+      "cart"
+    ]
+  },
+  {
+    "dialogue_id": 15,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "rat",
+      "sailboat",
+      "submarine",
+      "cart",
+      "dog",
+      "tractor",
+      "fox"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "sailboat",
+      "submarine"
+    ]
+  },
+  {
+    "dialogue_id": 16,
+    "num_candidates": 8,
+    "candidates": [
+      "unicycle",
+      "tractor",
+      "squirrel",
+      "chipmunk",
+      "fox",
+      "helicopter",
+      "airplane",
+      "hyena"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "squirrel",
+      "chipmunk",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 17,
+    "num_candidates": 8,
+    "candidates": [
+      "airplane",
+      "unicycle",
+      "squirrel",
+      "tractor",
+      "helicopter",
+      "fox",
+      "chipmunk",
+      "hyena"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "unicycle",
+      "chipmunk"
+    ]
+  },
+  {
+    "dialogue_id": 18,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "unicycle",
+      "yacht",
+      "squirrel",
+      "hyena",
+      "dog",
+      "submarine",
+      "truck"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 19,
+    "num_candidates": 8,
+    "candidates": [
+      "toilet",
+      "cottage",
+      "balloon",
+      "cupboard",
+      "house",
+      "cart",
+      "helicopter",
+      "tractor"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "cart",
+      "tractor"
+    ]
+  },
+  {
+    "dialogue_id": 20,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "wheelbarrow",
+      "tent",
+      "sailboat",
+      "tractor",
+      "house",
+      "boat",
+      "apartment"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "sailboat",
+      "boat"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "car",
+      "cottage",
+      "airplane",
+      "cage",
+      "balloon",
+      "wheelbarrow",
+      "bungalow",
+      "cabin"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "balloon",
+      "cage",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 22,
+    "num_candidates": 8,
+    "candidates": [
+      "ship",
+      "bungalow",
+      "bike",
+      "tent",
+      "cottage",
+      "boat",
+      "unicycle",
+      "hut"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "ship",
+      "boat"
+    ]
+  },
+  {
+    "dialogue_id": 23,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shack",
+      "yacht",
+      "cage",
+      "hut",
+      "balloon",
+      "sailboat",
+      "cupboard"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "helicopter",
+      "yacht",
+      "balloon",
+      "sailboat"
+    ]
+  },
+  {
+    "dialogue_id": 24,
+    "num_candidates": 8,
+    "candidates": [
+      "airplane",
+      "skateboard",
+      "closet",
+      "cupboard",
+      "house",
+      "cart",
+      "balloon",
+      "bungalow"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "house",
+      "bungalow"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "cage",
+      "airplane",
+      "helicopter",
+      "cabin",
+      "apartment",
+      "motorcycle",
+      "cart"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "cottage",
+      "cage",
+      "cabin",
+      "apartment"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "helicopter",
+      "ship",
+      "airplane",
+      "tent",
+      "yacht",
+      "cabin",
+      "bedroom"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "shack",
+      "cabin",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "hut",
+      "cage",
+      "balloon",
+      "boat",
+      "sailboat",
+      "helicopter",
+      "cupboard"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "shack",
+      "hut",
+      "cage",
+      "cupboard"
+    ]
+  },
+  {
+    "dialogue_id": 28,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "hose",
+      "shawl",
+      "airplane",
+      "balloon",
+      "jacket",
+      "motorcycle",
+      "cart"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "airplane",
+      "cart"
+    ]
+  },
+  {
+    "dialogue_id": 29,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "yacht",
+      "sailboat",
+      "camisole",
+      "nightgown",
+      "bike",
+      "truck",
+      "socks"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "bike",
+      "truck"
+    ]
+  },
+  {
+    "dialogue_id": 30,
+    "num_candidates": 8,
+    "candidates": [
+      "jacket",
+      "socks",
+      "nylons",
+      "helicopter",
+      "car",
+      "tricycle",
+      "airplane",
+      "coat"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "airplane"
+    ]
+  },
+  {
+    "dialogue_id": 32,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shawl",
+      "ship",
+      "nightgown",
+      "sailboat",
+      "pants",
+      "coat",
+      "airplane"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "helicopter",
+      "airplane"
+    ]
+  },
+  {
+    "dialogue_id": 33,
+    "num_candidates": 8,
+    "candidates": [
+      "shawl",
+      "airplane",
+      "hose",
+      "motorcycle",
+      "helicopter",
+      "jacket",
+      "socks",
+      "tricycle"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "shawl",
+      "jacket",
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 34,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "leotards",
+      "trolley",
+      "shawl",
+      "car",
+      "helicopter",
+      "airplane",
+      "coat"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "socks",
+      "leotards"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "nylons",
+      "submarine",
+      "nightgown",
+      "socks",
+      "bra",
+      "helicopter",
+      "balloon"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "nylons",
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "nightgown",
+      "coat",
+      "airplane",
+      "boat",
+      "sailboat",
+      "shawl",
+      "helicopter"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "coat",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 38,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "stork",
+      "dove",
+      "dog",
+      "turkey",
+      "porcupine",
+      "chipmunk",
+      "fox"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "flamingo",
+      "stork",
+      "turkey"
+    ]
+  },
+  {
+    "dialogue_id": 39,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "dove",
+      "dog",
+      "chipmunk",
+      "stork",
+      "fox",
+      "turkey",
+      "porcupine"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "dove",
+      "stork",
+      "turkey"
+    ]
+  },
+  {
+    "dialogue_id": 41,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "stork",
+      "hyena",
+      "rat",
+      "goose",
+      "starling",
+      "chickadee",
+      "fox"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "stork",
+      "goose"
+    ]
+  },
+  {
+    "dialogue_id": 42,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "starling",
+      "rat",
+      "hyena",
+      "fox",
+      "chickadee",
+      "mouse",
+      "goose"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "stork",
+      "starling",
+      "chickadee"
+    ]
+  },
+  {
+    "dialogue_id": 43,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "pheasant",
+      "fox",
+      "penguin",
+      "hyena",
+      "rat",
+      "dove",
+      "pelican"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "squirrel",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "pheasant",
+      "rat",
+      "squirrel",
+      "hyena",
+      "fox",
+      "dove",
+      "penguin"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "rat",
+      "squirrel",
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 45,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "penguin",
+      "chipmunk",
+      "chickadee",
+      "pelican",
+      "hyena",
+      "dog",
+      "blackbird"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hamster",
+      "chipmunk",
+      "hyena",
+      "dog"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "apartment",
+      "rooster",
+      "pelican",
+      "closet",
+      "penguin",
+      "cupboard",
+      "turkey",
+      "cottage"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "pelican",
+      "turkey"
+    ]
+  },
+  {
+    "dialogue_id": 47,
+    "num_candidates": 8,
+    "candidates": [
+      "oriole",
+      "tent",
+      "swan",
+      "penguin",
+      "bungalow",
+      "hut",
+      "house",
+      "starling"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "oriole",
+      "starling"
+    ]
+  },
+  {
+    "dialogue_id": 50,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "tent",
+      "dove",
+      "cupboard",
+      "toilet",
+      "blackbird",
+      "nightingale",
+      "rooster"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "dove",
+      "blackbird"
+    ]
+  },
+  {
+    "dialogue_id": 51,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "house",
+      "turkey",
+      "apartment",
+      "penguin",
+      "cupboard",
+      "bedroom",
+      "dove"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "house",
+      "apartment",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 52,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "goose",
+      "cottage",
+      "cage",
+      "cabin",
+      "duck",
+      "dove",
+      "bungalow"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "cottage",
+      "cabin",
+      "bungalow"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "dove",
+      "turkey",
+      "toilet",
+      "shack",
+      "closet",
+      "sparrow",
+      "hut",
+      "chickadee"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "toilet",
+      "shack",
+      "closet",
+      "hut"
+    ]
+  },
+  {
+    "dialogue_id": 54,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "pheasant",
+      "bedroom",
+      "shack",
+      "pigeon",
+      "finch",
+      "closet",
+      "crow"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "tent",
+      "shack"
+    ]
+  },
+  {
+    "dialogue_id": 55,
+    "num_candidates": 8,
+    "candidates": [
+      "pigeon",
+      "hose",
+      "goose",
+      "duck",
+      "jacket",
+      "dove",
+      "coat",
+      "leotards"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "pigeon",
+      "goose",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "stork",
+      "coat",
+      "jacket",
+      "penguin",
+      "leotards",
+      "pheasant",
+      "pigeon"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "stork",
+      "pheasant",
+      "pigeon"
+    ]
+  },
+  {
+    "dialogue_id": 58,
+    "num_candidates": 8,
+    "candidates": [
+      "shawl",
+      "swan",
+      "nightingale",
+      "socks",
+      "duck",
+      "nylons",
+      "jacket",
+      "crow"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "nightingale",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "bra",
+      "coat",
+      "camisole",
+      "jacket",
+      "pheasant",
+      "dove",
+      "sparrow",
+      "starling"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "pigeon",
+      "crow",
+      "seagull",
+      "sparrow",
+      "starling"
+    ]
+  },
+  {
+    "dialogue_id": 60,
+    "num_candidates": 8,
+    "candidates": [
+      "swan",
+      "nylons",
+      "coat",
+      "dove",
+      "pelican",
+      "rooster",
+      "jacket",
+      "hose"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "nylons",
+      "coat",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "jacket",
+      "leotards",
+      "shawl",
+      "rooster",
+      "swan",
+      "pigeon",
+      "duck"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "socks",
+      "jacket",
+      "leotards",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "starling",
+      "finch",
+      "pants",
+      "nylons",
+      "pheasant",
+      "dove",
+      "camisole"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "socks",
+      "nylons",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "coat",
+      "bra",
+      "dove",
+      "shawl",
+      "raven",
+      "crow",
+      "camisole"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "bra",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 64,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "fox",
+      "hamster",
+      "hyena",
+      "closet",
+      "house",
+      "cage",
+      "bungalow"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "squirrel",
+      "fox",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 65,
+    "num_candidates": 8,
+    "candidates": [
+      "bungalow",
+      "cage",
+      "squirrel",
+      "hamster",
+      "hyena",
+      "fox",
+      "closet",
+      "house"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "house",
+      "closet",
+      "hyena",
+      "bungalow",
+      "cage",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "hut",
+      "hamster",
+      "tent",
+      "dog",
+      "apartment",
+      "hyena",
+      "squirrel"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hamster",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 68,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "hyena",
+      "hamster",
+      "apartment",
+      "hut",
+      "tent",
+      "cottage",
+      "squirrel"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hamster",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "squirrel",
+      "dog",
+      "hyena",
+      "hut",
+      "apartment",
+      "cottage",
+      "hamster"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 70,
+    "num_candidates": 8,
+    "candidates": [
+      "groundhog",
+      "rat",
+      "hyena",
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin",
+      "dog"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 71,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hyena",
+      "groundhog",
+      "apartment",
+      "bungalow",
+      "dog",
+      "cabin",
+      "cage"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hamster",
+      "fox",
+      "bungalow",
+      "hut",
+      "shack",
+      "hyena",
+      "house"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "rat",
+      "hamster",
+      "fox",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 73,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "shawl",
+      "socks",
+      "hyena",
+      "coat",
+      "fox",
+      "hamster",
+      "rat"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 74,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "hyena",
+      "fox",
+      "hose",
+      "hamster",
+      "rat",
+      "shawl",
+      "coat"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "hyena",
+      "shawl",
+      "rat",
+      "socks",
+      "coat",
+      "fox",
+      "hose",
+      "hamster"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "rat",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "porcupine",
+      "camisole",
+      "bra",
+      "rat",
+      "socks",
+      "dog",
+      "fox",
+      "nylons"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "rat",
+      "dog",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 77,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "rat",
+      "bra",
+      "socks",
+      "dog",
+      "nylons",
+      "fox",
+      "porcupine"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "rat",
+      "dog",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "bra",
+      "socks",
+      "camisole",
+      "porcupine",
+      "nylons",
+      "fox",
+      "rat"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "dog",
+      "fox",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "mouse",
+      "hyena",
+      "nylons",
+      "dog",
+      "shawl",
+      "jacket",
+      "groundhog"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "shawl",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 81,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "squirrel",
+      "dog",
+      "fox",
+      "nightgown",
+      "hose",
+      "camisole",
+      "rat"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "squirrel",
+      "fox",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "closet",
+      "jacket",
+      "house",
+      "hose",
+      "coat",
+      "cottage",
+      "leotards",
+      "toilet"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hose",
+      "cottage",
+      "toilet"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "hut",
+      "leotards",
+      "socks",
+      "camisole",
+      "tent",
+      "cottage",
+      "house"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "tent"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "hut",
+      "cupboard",
+      "tent",
+      "camisole",
+      "pants",
+      "leotards",
+      "cabin"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hut",
+      "cupboard",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 85,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "hut",
+      "apartment",
+      "house",
+      "coat",
+      "shawl",
+      "nylons",
+      "tent"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hut",
+      "tent"
+    ]
+  },
+  {
+    "dialogue_id": 86,
+    "num_candidates": 8,
+    "candidates": [
+      "bedroom",
+      "shawl",
+      "leotards",
+      "cottage",
+      "closet",
+      "nylons",
+      "apartment",
+      "jacket"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "nylons",
+      "cabin",
+      "apartment",
+      "coat",
+      "bedroom",
+      "jacket",
+      "house"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "coat",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "cupboard",
+      "cabin",
+      "socks",
+      "tent",
+      "shack",
+      "pants",
+      "nylons",
+      "bra"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "socks",
+      "nylons"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "bedroom",
+      "coat",
+      "jacket",
+      "shack",
+      "camisole",
+      "cupboard",
+      "nightgown",
+      "hut"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "coat",
+      "jacket",
+      "camisole",
+      "nightgown"
+    ]
+  },
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "goose",
+      "pigeon",
+      "pelican",
+      "pheasant",
+      "airplane",
+      "tractor",
+      "motorcycle"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "tractor",
+      "motorcycle"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "stork",
+      "submarine",
+      "flamingo",
+      "sparrow",
+      "chickadee",
+      "wheelbarrow",
+      "bike"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "bike",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "cart",
+      "balloon",
+      "trolley",
+      "dove",
+      "helicopter",
+      "pigeon",
+      "pelican"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "stork",
+      "cart",
+      "balloon",
+      "trolley"
+    ]
+  },
+  {
+    "dialogue_id": 4,
+    "num_candidates": 8,
+    "candidates": [
+      "tractor",
+      "ship",
+      "swan",
+      "cart",
+      "submarine",
+      "penguin",
+      "robin",
+      "raven"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "ship",
+      "swan"
+    ]
+  },
+  {
+    "dialogue_id": 5,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "dove",
+      "chickadee",
+      "crow",
+      "yacht",
+      "helicopter",
+      "turkey",
+      "ship"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "yacht",
+      "ship"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "swan",
+      "helicopter",
+      "bike",
+      "airplane",
+      "rooster",
+      "motorcycle",
+      "pheasant"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "stork",
+      "rooster",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 9,
+    "num_candidates": 8,
+    "candidates": [
+      "sparrow",
+      "oriole",
+      "rooster",
+      "sailboat",
+      "balloon",
+      "pheasant",
+      "airplane",
+      "submarine"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "oriole",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "chipmunk",
+      "balloon",
+      "fox",
+      "airplane",
+      "dog",
+      "wheelbarrow",
+      "hamster",
+      "car"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "airplane",
+      "car"
+    ]
+  },
+  {
+    "dialogue_id": 11,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "chipmunk",
+      "airplane",
+      "dog",
+      "fox",
+      "hamster",
+      "car",
+      "wheelbarrow"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 12,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "balloon",
+      "airplane",
+      "chipmunk",
+      "car",
+      "wheelbarrow",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 13,
+    "num_candidates": 8,
+    "candidates": [
+      "fox",
+      "rat",
+      "sailboat",
+      "dog",
+      "mouse",
+      "submarine",
+      "cart",
+      "tractor"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "cart",
+      "tractor"
+    ]
+  },
+  {
+    "dialogue_id": 14,
+    "num_candidates": 8,
+    "candidates": [
+      "submarine",
+      "rat",
+      "tractor",
+      "dog",
+      "sailboat",
+      "cart",
+      "mouse",
+      "fox"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "tractor",
+      "cart"
+    ]
+  },
+  {
+    "dialogue_id": 15,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "rat",
+      "sailboat",
+      "submarine",
+      "cart",
+      "dog",
+      "tractor",
+      "fox"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "sailboat",
+      "submarine"
+    ]
+  },
+  {
+    "dialogue_id": 16,
+    "num_candidates": 8,
+    "candidates": [
+      "unicycle",
+      "tractor",
+      "squirrel",
+      "chipmunk",
+      "fox",
+      "helicopter",
+      "airplane",
+      "hyena"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "squirrel",
+      "chipmunk",
+      "fox",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 17,
+    "num_candidates": 8,
+    "candidates": [
+      "airplane",
+      "unicycle",
+      "squirrel",
+      "tractor",
+      "helicopter",
+      "fox",
+      "chipmunk",
+      "hyena"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "squirrel",
+      "chipmunk"
+    ]
+  },
+  {
+    "dialogue_id": 19,
+    "num_candidates": 8,
+    "candidates": [
+      "toilet",
+      "cottage",
+      "balloon",
+      "cupboard",
+      "house",
+      "cart",
+      "helicopter",
+      "tractor"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "cart",
+      "tractor"
+    ]
+  },
+  {
+    "dialogue_id": 20,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "wheelbarrow",
+      "tent",
+      "sailboat",
+      "tractor",
+      "house",
+      "boat",
+      "apartment"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "sailboat",
+      "boat"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "car",
+      "cottage",
+      "airplane",
+      "cage",
+      "balloon",
+      "wheelbarrow",
+      "bungalow",
+      "cabin"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "balloon",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 22,
+    "num_candidates": 8,
+    "candidates": [
+      "ship",
+      "bungalow",
+      "bike",
+      "tent",
+      "cottage",
+      "boat",
+      "unicycle",
+      "hut"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "ship",
+      "boat"
+    ]
+  },
+  {
+    "dialogue_id": 23,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shack",
+      "yacht",
+      "cage",
+      "hut",
+      "balloon",
+      "sailboat",
+      "cupboard"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "helicopter",
+      "yacht",
+      "balloon",
+      "sailboat"
+    ]
+  },
+  {
+    "dialogue_id": 24,
+    "num_candidates": 8,
+    "candidates": [
+      "airplane",
+      "skateboard",
+      "closet",
+      "cupboard",
+      "house",
+      "cart",
+      "balloon",
+      "bungalow"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "house",
+      "bungalow"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "cage",
+      "airplane",
+      "helicopter",
+      "cabin",
+      "apartment",
+      "motorcycle",
+      "cart"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "cottage",
+      "cabin",
+      "apartment"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "helicopter",
+      "ship",
+      "airplane",
+      "tent",
+      "yacht",
+      "cabin",
+      "bedroom"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "cabin",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "hut",
+      "cage",
+      "balloon",
+      "boat",
+      "sailboat",
+      "helicopter",
+      "cupboard"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "shack",
+      "hut",
+      "cage",
+      "cupboard"
+    ]
+  },
+  {
+    "dialogue_id": 28,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "hose",
+      "shawl",
+      "airplane",
+      "balloon",
+      "jacket",
+      "motorcycle",
+      "cart"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "hose",
+      "shawl",
+      "balloon",
+      "jacket",
+      "cart"
+    ]
+  },
+  {
+    "dialogue_id": 29,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "yacht",
+      "sailboat",
+      "camisole",
+      "nightgown",
+      "bike",
+      "truck",
+      "socks"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "truck",
+      "bike"
+    ]
+  },
+  {
+    "dialogue_id": 30,
+    "num_candidates": 8,
+    "candidates": [
+      "jacket",
+      "socks",
+      "nylons",
+      "helicopter",
+      "car",
+      "tricycle",
+      "airplane",
+      "coat"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "airplane",
+      "car"
+    ]
+  },
+  {
+    "dialogue_id": 32,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shawl",
+      "ship",
+      "nightgown",
+      "sailboat",
+      "pants",
+      "coat",
+      "airplane"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "helicopter",
+      "airplane"
+    ]
+  },
+  {
+    "dialogue_id": 33,
+    "num_candidates": 8,
+    "candidates": [
+      "shawl",
+      "airplane",
+      "hose",
+      "motorcycle",
+      "helicopter",
+      "jacket",
+      "socks",
+      "tricycle"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "shawl",
+      "jacket",
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 34,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "leotards",
+      "trolley",
+      "shawl",
+      "car",
+      "helicopter",
+      "airplane",
+      "coat"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "socks",
+      "leotards"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "nylons",
+      "submarine",
+      "nightgown",
+      "socks",
+      "bra",
+      "helicopter",
+      "balloon"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "nightgown",
+      "coat",
+      "airplane",
+      "boat",
+      "sailboat",
+      "shawl",
+      "helicopter"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "coat",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 38,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "stork",
+      "dove",
+      "dog",
+      "turkey",
+      "porcupine",
+      "chipmunk",
+      "fox"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "flamingo",
+      "stork"
+    ]
+  },
+  {
+    "dialogue_id": 39,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "dove",
+      "dog",
+      "chipmunk",
+      "stork",
+      "fox",
+      "turkey",
+      "porcupine"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "dove",
+      "stork",
+      "turkey"
+    ]
+  },
+  {
+    "dialogue_id": 41,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "stork",
+      "hyena",
+      "rat",
+      "goose",
+      "starling",
+      "chickadee",
+      "fox"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "goose",
+      "starling",
+      "chickadee"
+    ]
+  },
+  {
+    "dialogue_id": 42,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "starling",
+      "rat",
+      "hyena",
+      "fox",
+      "chickadee",
+      "mouse",
+      "goose"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "stork",
+      "starling",
+      "goose"
+    ]
+  },
+  {
+    "dialogue_id": 43,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "pheasant",
+      "fox",
+      "penguin",
+      "hyena",
+      "rat",
+      "dove",
+      "pelican"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "squirrel",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "pheasant",
+      "rat",
+      "squirrel",
+      "hyena",
+      "fox",
+      "dove",
+      "penguin"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 45,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "penguin",
+      "chipmunk",
+      "chickadee",
+      "pelican",
+      "hyena",
+      "dog",
+      "blackbird"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "hamster",
+      "chipmunk",
+      "dog"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "apartment",
+      "rooster",
+      "pelican",
+      "closet",
+      "penguin",
+      "cupboard",
+      "turkey",
+      "cottage"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "pelican",
+      "turkey"
+    ]
+  },
+  {
+    "dialogue_id": 50,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "tent",
+      "dove",
+      "cupboard",
+      "toilet",
+      "blackbird",
+      "nightingale",
+      "rooster"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 51,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "house",
+      "turkey",
+      "apartment",
+      "penguin",
+      "cupboard",
+      "bedroom",
+      "dove"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "house",
+      "apartment",
+      "cupboard",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 52,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "goose",
+      "cottage",
+      "cage",
+      "cabin",
+      "duck",
+      "dove",
+      "bungalow"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "bungalow"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "dove",
+      "turkey",
+      "toilet",
+      "shack",
+      "closet",
+      "sparrow",
+      "hut",
+      "chickadee"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "toilet",
+      "shack",
+      "closet"
+    ]
+  },
+  {
+    "dialogue_id": 54,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "pheasant",
+      "bedroom",
+      "shack",
+      "pigeon",
+      "finch",
+      "closet",
+      "crow"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "tent",
+      "shack"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "stork",
+      "coat",
+      "jacket",
+      "penguin",
+      "leotards",
+      "pheasant",
+      "pigeon"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "stork",
+      "pheasant",
+      "pigeon"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "bra",
+      "coat",
+      "camisole",
+      "jacket",
+      "pheasant",
+      "dove",
+      "sparrow",
+      "starling"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "dove",
+      "sparrow",
+      "starling"
+    ]
+  },
+  {
+    "dialogue_id": 60,
+    "num_candidates": 8,
+    "candidates": [
+      "swan",
+      "nylons",
+      "coat",
+      "dove",
+      "pelican",
+      "rooster",
+      "jacket",
+      "hose"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "nylons",
+      "coat",
+      "jacket",
+      "hose"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "jacket",
+      "leotards",
+      "shawl",
+      "rooster",
+      "swan",
+      "pigeon",
+      "duck"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "socks",
+      "jacket",
+      "leotards",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "starling",
+      "finch",
+      "pants",
+      "nylons",
+      "pheasant",
+      "dove",
+      "camisole"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "socks",
+      "nylons",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "turkey",
+      "coat",
+      "bra",
+      "dove",
+      "shawl",
+      "raven",
+      "crow",
+      "camisole"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "bra",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 64,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "fox",
+      "hamster",
+      "hyena",
+      "closet",
+      "house",
+      "cage",
+      "bungalow"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "squirrel",
+      "hamster",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 65,
+    "num_candidates": 8,
+    "candidates": [
+      "bungalow",
+      "cage",
+      "squirrel",
+      "hamster",
+      "hyena",
+      "fox",
+      "closet",
+      "house"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "house",
+      "closet",
+      "hyena",
+      "bungalow",
+      "cage",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "squirrel",
+      "fox",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "hut",
+      "hamster",
+      "tent",
+      "dog",
+      "apartment",
+      "hyena",
+      "squirrel"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "hamster",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 68,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "hyena",
+      "hamster",
+      "apartment",
+      "hut",
+      "tent",
+      "cottage",
+      "squirrel"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "squirrel",
+      "dog",
+      "hyena",
+      "hut",
+      "apartment",
+      "cottage",
+      "hamster"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 70,
+    "num_candidates": 8,
+    "candidates": [
+      "groundhog",
+      "rat",
+      "hyena",
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin",
+      "dog"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "apartment",
+      "bungalow",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 71,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hyena",
+      "groundhog",
+      "apartment",
+      "bungalow",
+      "dog",
+      "cabin",
+      "cage"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "hyena",
+      "apartment",
+      "bungalow",
+      "cabin",
+      "cage"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hamster",
+      "fox",
+      "bungalow",
+      "hut",
+      "shack",
+      "hyena",
+      "house"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "rat",
+      "hamster",
+      "fox",
+      "bungalow",
+      "shack",
+      "hyena",
+      "house"
+    ]
+  },
+  {
+    "dialogue_id": 73,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "shawl",
+      "socks",
+      "hyena",
+      "coat",
+      "fox",
+      "hamster",
+      "rat"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 74,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "hyena",
+      "fox",
+      "hose",
+      "hamster",
+      "rat",
+      "shawl",
+      "coat"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "hyena",
+      "shawl",
+      "rat",
+      "socks",
+      "coat",
+      "fox",
+      "hose",
+      "hamster"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "rat",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "porcupine",
+      "camisole",
+      "bra",
+      "rat",
+      "socks",
+      "dog",
+      "fox",
+      "nylons"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "porcupine",
+      "rat",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 77,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "rat",
+      "bra",
+      "socks",
+      "dog",
+      "nylons",
+      "fox",
+      "porcupine"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "bra",
+      "socks",
+      "camisole",
+      "porcupine",
+      "nylons",
+      "fox",
+      "rat"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "dog",
+      "fox",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "mouse",
+      "hyena",
+      "nylons",
+      "dog",
+      "shawl",
+      "jacket",
+      "groundhog"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "nylons",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 81,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "squirrel",
+      "dog",
+      "fox",
+      "nightgown",
+      "hose",
+      "camisole",
+      "rat"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "squirrel",
+      "dog",
+      "fox",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "closet",
+      "jacket",
+      "house",
+      "hose",
+      "coat",
+      "cottage",
+      "leotards",
+      "toilet"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "hose",
+      "leotards",
+      "toilet"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "hut",
+      "leotards",
+      "socks",
+      "camisole",
+      "tent",
+      "cottage",
+      "house"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "tent",
+      "cottage"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "hut",
+      "cupboard",
+      "tent",
+      "camisole",
+      "pants",
+      "leotards",
+      "cabin"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "hut",
+      "cupboard",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "nylons",
+      "cabin",
+      "apartment",
+      "coat",
+      "bedroom",
+      "jacket",
+      "house"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "socks",
+      "nylons",
+      "coat",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "cupboard",
+      "cabin",
+      "socks",
+      "tent",
+      "shack",
+      "pants",
+      "nylons",
+      "bra"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "socks",
+      "nylons"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "bedroom",
+      "coat",
+      "jacket",
+      "shack",
+      "camisole",
+      "cupboard",
+      "nightgown",
+      "hut"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "coat",
+      "jacket",
+      "camisole",
+      "nightgown"
+    ]
+  },
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "goose",
+      "pigeon",
+      "pelican",
+      "pheasant",
+      "airplane",
+      "tractor",
+      "motorcycle"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "tractor",
+      "motorcycle"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "cart",
+      "balloon",
+      "trolley",
+      "dove",
+      "helicopter",
+      "pigeon",
+      "pelican"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "cart",
+      "balloon",
+      "trolley"
+    ]
+  },
+  {
+    "dialogue_id": 5,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "dove",
+      "chickadee",
+      "crow",
+      "yacht",
+      "helicopter",
+      "turkey",
+      "ship"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "yacht",
+      "ship"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "swan",
+      "helicopter",
+      "bike",
+      "airplane",
+      "rooster",
+      "motorcycle",
+      "pheasant"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "swan",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 9,
+    "num_candidates": 8,
+    "candidates": [
+      "sparrow",
+      "oriole",
+      "rooster",
+      "sailboat",
+      "balloon",
+      "pheasant",
+      "airplane",
+      "submarine"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "rooster",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "chipmunk",
+      "balloon",
+      "fox",
+      "airplane",
+      "dog",
+      "wheelbarrow",
+      "hamster",
+      "car"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "airplane",
+      "car"
+    ]
+  },
+  {
+    "dialogue_id": 11,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "chipmunk",
+      "airplane",
+      "dog",
+      "fox",
+      "hamster",
+      "car",
+      "wheelbarrow"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 12,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "balloon",
+      "airplane",
+      "chipmunk",
+      "car",
+      "wheelbarrow",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 13,
+    "num_candidates": 8,
+    "candidates": [
+      "fox",
+      "rat",
+      "sailboat",
+      "dog",
+      "mouse",
+      "submarine",
+      "cart",
+      "tractor"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "cart",
+      "tractor"
+    ]
+  },
+  {
+    "dialogue_id": 15,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "rat",
+      "sailboat",
+      "submarine",
+      "cart",
+      "dog",
+      "tractor",
+      "fox"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "sailboat",
+      "submarine"
+    ]
+  },
+  {
+    "dialogue_id": 16,
+    "num_candidates": 8,
+    "candidates": [
+      "unicycle",
+      "tractor",
+      "squirrel",
+      "chipmunk",
+      "fox",
+      "helicopter",
+      "airplane",
+      "hyena"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "squirrel",
+      "chipmunk"
+    ]
+  },
+  {
+    "dialogue_id": 17,
+    "num_candidates": 8,
+    "candidates": [
+      "airplane",
+      "unicycle",
+      "squirrel",
+      "tractor",
+      "helicopter",
+      "fox",
+      "chipmunk",
+      "hyena"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "squirrel",
+      "chipmunk"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "car",
+      "cottage",
+      "airplane",
+      "cage",
+      "balloon",
+      "wheelbarrow",
+      "bungalow",
+      "cabin"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "cage",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 23,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shack",
+      "yacht",
+      "cage",
+      "hut",
+      "balloon",
+      "sailboat",
+      "cupboard"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "shack",
+      "cupboard"
+    ]
+  },
+  {
+    "dialogue_id": 24,
+    "num_candidates": 8,
+    "candidates": [
+      "airplane",
+      "skateboard",
+      "closet",
+      "cupboard",
+      "house",
+      "cart",
+      "balloon",
+      "bungalow"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "bungalow"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "cage",
+      "airplane",
+      "helicopter",
+      "cabin",
+      "apartment",
+      "motorcycle",
+      "cart"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "cottage",
+      "cabin",
+      "apartment"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "helicopter",
+      "ship",
+      "airplane",
+      "tent",
+      "yacht",
+      "cabin",
+      "bedroom"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "cabin",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "hut",
+      "cage",
+      "balloon",
+      "boat",
+      "sailboat",
+      "helicopter",
+      "cupboard"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "shack",
+      "hut",
+      "cage",
+      "cupboard"
+    ]
+  },
+  {
+    "dialogue_id": 28,
+    "num_candidates": 8,
+    "candidates": [
+      "leotards",
+      "hose",
+      "shawl",
+      "airplane",
+      "balloon",
+      "jacket",
+      "motorcycle",
+      "cart"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "hose",
+      "shawl",
+      "balloon",
+      "jacket",
+      "cart"
+    ]
+  },
+  {
+    "dialogue_id": 32,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shawl",
+      "ship",
+      "nightgown",
+      "sailboat",
+      "pants",
+      "coat",
+      "airplane"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "helicopter"
+    ]
+  },
+  {
+    "dialogue_id": 33,
+    "num_candidates": 8,
+    "candidates": [
+      "shawl",
+      "airplane",
+      "hose",
+      "motorcycle",
+      "helicopter",
+      "jacket",
+      "socks",
+      "tricycle"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "shawl",
+      "jacket",
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "boat",
+      "nylons",
+      "submarine",
+      "nightgown",
+      "socks",
+      "bra",
+      "helicopter",
+      "balloon"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "nylons",
+      "nightgown"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "nightgown",
+      "coat",
+      "airplane",
+      "boat",
+      "sailboat",
+      "shawl",
+      "helicopter"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "coat",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 38,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "stork",
+      "dove",
+      "dog",
+      "turkey",
+      "porcupine",
+      "chipmunk",
+      "fox"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "flamingo",
+      "stork"
+    ]
+  },
+  {
+    "dialogue_id": 39,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "dove",
+      "dog",
+      "chipmunk",
+      "stork",
+      "fox",
+      "turkey",
+      "porcupine"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "dove",
+      "turkey"
+    ]
+  },
+  {
+    "dialogue_id": 41,
+    "num_candidates": 8,
+    "candidates": [
+      "mouse",
+      "stork",
+      "hyena",
+      "rat",
+      "goose",
+      "starling",
+      "chickadee",
+      "fox"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "stork",
+      "goose"
+    ]
+  },
+  {
+    "dialogue_id": 42,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "starling",
+      "rat",
+      "hyena",
+      "fox",
+      "chickadee",
+      "mouse",
+      "goose"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "stork",
+      "goose"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "pheasant",
+      "rat",
+      "squirrel",
+      "hyena",
+      "fox",
+      "dove",
+      "penguin"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "hyena",
+      "fox",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 45,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "penguin",
+      "chipmunk",
+      "chickadee",
+      "pelican",
+      "hyena",
+      "dog",
+      "blackbird"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "hamster",
+      "chipmunk",
+      "dog"
+    ]
+  },
+  {
+    "dialogue_id": 50,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "tent",
+      "dove",
+      "cupboard",
+      "toilet",
+      "blackbird",
+      "nightingale",
+      "rooster"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "dove",
+      "nightingale"
+    ]
+  },
+  {
+    "dialogue_id": 51,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "house",
+      "turkey",
+      "apartment",
+      "penguin",
+      "cupboard",
+      "bedroom",
+      "dove"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "house",
+      "apartment",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "dove",
+      "turkey",
+      "toilet",
+      "shack",
+      "closet",
+      "sparrow",
+      "hut",
+      "chickadee"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "toilet",
+      "closet"
+    ]
+  },
+  {
+    "dialogue_id": 54,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "pheasant",
+      "bedroom",
+      "shack",
+      "pigeon",
+      "finch",
+      "closet",
+      "crow"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "tent",
+      "shack"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "stork",
+      "coat",
+      "jacket",
+      "penguin",
+      "leotards",
+      "pheasant",
+      "pigeon"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "stork",
+      "pheasant",
+      "pigeon"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "bra",
+      "coat",
+      "camisole",
+      "jacket",
+      "pheasant",
+      "dove",
+      "sparrow",
+      "starling"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "sparrow",
+      "dove",
+      "starling"
+    ]
+  },
+  {
+    "dialogue_id": 60,
+    "num_candidates": 8,
+    "candidates": [
+      "swan",
+      "nylons",
+      "coat",
+      "dove",
+      "pelican",
+      "rooster",
+      "jacket",
+      "hose"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "nylons",
+      "jacket",
+      "hose"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "jacket",
+      "leotards",
+      "shawl",
+      "rooster",
+      "swan",
+      "pigeon",
+      "duck"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "jacket",
+      "leotards",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "starling",
+      "finch",
+      "pants",
+      "nylons",
+      "pheasant",
+      "dove",
+      "camisole"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "socks",
+      "starling",
+      "finch",
+      "pants",
+      "pheasant",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 65,
+    "num_candidates": 8,
+    "candidates": [
+      "bungalow",
+      "cage",
+      "squirrel",
+      "hamster",
+      "hyena",
+      "fox",
+      "closet",
+      "house"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "fox",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "house",
+      "closet",
+      "hyena",
+      "bungalow",
+      "cage",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "hut",
+      "hamster",
+      "tent",
+      "dog",
+      "apartment",
+      "hyena",
+      "squirrel"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "hamster",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "squirrel",
+      "dog",
+      "hyena",
+      "hut",
+      "apartment",
+      "cottage",
+      "hamster"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 70,
+    "num_candidates": 8,
+    "candidates": [
+      "groundhog",
+      "rat",
+      "hyena",
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin",
+      "dog"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 71,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hyena",
+      "groundhog",
+      "apartment",
+      "bungalow",
+      "dog",
+      "cabin",
+      "cage"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "hyena",
+      "dog"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hamster",
+      "fox",
+      "bungalow",
+      "hut",
+      "shack",
+      "hyena",
+      "house"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "rat",
+      "hamster",
+      "fox",
+      "bungalow",
+      "shack",
+      "hyena",
+      "house"
+    ]
+  },
+  {
+    "dialogue_id": 74,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "hyena",
+      "fox",
+      "hose",
+      "hamster",
+      "rat",
+      "shawl",
+      "coat"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "hyena",
+      "shawl",
+      "rat",
+      "socks",
+      "coat",
+      "fox",
+      "hose",
+      "hamster"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "porcupine",
+      "camisole",
+      "bra",
+      "rat",
+      "socks",
+      "dog",
+      "fox",
+      "nylons"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "rat",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "bra",
+      "socks",
+      "camisole",
+      "porcupine",
+      "nylons",
+      "fox",
+      "rat"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "porcupine",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "mouse",
+      "hyena",
+      "nylons",
+      "dog",
+      "shawl",
+      "jacket",
+      "groundhog"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "nylons",
+      "shawl",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 81,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "squirrel",
+      "dog",
+      "fox",
+      "nightgown",
+      "hose",
+      "camisole",
+      "rat"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "squirrel",
+      "rat"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "closet",
+      "jacket",
+      "house",
+      "hose",
+      "coat",
+      "cottage",
+      "leotards",
+      "toilet"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "closet",
+      "jacket",
+      "hose",
+      "coat",
+      "cottage",
+      "leotards",
+      "toilet"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "hut",
+      "leotards",
+      "socks",
+      "camisole",
+      "tent",
+      "cottage",
+      "house"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "tent",
+      "cottage"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "hut",
+      "cupboard",
+      "tent",
+      "camisole",
+      "pants",
+      "leotards",
+      "cabin"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "hut",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "nylons",
+      "cabin",
+      "apartment",
+      "coat",
+      "bedroom",
+      "jacket",
+      "house"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "jacket",
+      "house"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "cupboard",
+      "cabin",
+      "socks",
+      "tent",
+      "shack",
+      "pants",
+      "nylons",
+      "bra"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "socks",
+      "nylons"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "bedroom",
+      "coat",
+      "jacket",
+      "shack",
+      "camisole",
+      "cupboard",
+      "nightgown",
+      "hut"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "coat",
+      "camisole",
+      "nightgown"
+    ]
+  },
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "goose",
+      "pigeon",
+      "pelican",
+      "pheasant",
+      "airplane",
+      "tractor",
+      "motorcycle"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "tractor",
+      "motorcycle"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "cart",
+      "balloon",
+      "trolley",
+      "dove",
+      "helicopter",
+      "pigeon",
+      "pelican"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "cart",
+      "trolley"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "swan",
+      "helicopter",
+      "bike",
+      "airplane",
+      "rooster",
+      "motorcycle",
+      "pheasant"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "stork",
+      "airplane",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 9,
+    "num_candidates": 8,
+    "candidates": [
+      "sparrow",
+      "oriole",
+      "rooster",
+      "sailboat",
+      "balloon",
+      "pheasant",
+      "airplane",
+      "submarine"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "sparrow",
+      "oriole",
+      "rooster",
+      "sailboat",
+      "balloon",
+      "airplane",
+      "submarine"
+    ]
+  },
+  {
+    "dialogue_id": 12,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "balloon",
+      "airplane",
+      "chipmunk",
+      "car",
+      "wheelbarrow",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "car",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 16,
+    "num_candidates": 8,
+    "candidates": [
+      "unicycle",
+      "tractor",
+      "squirrel",
+      "chipmunk",
+      "fox",
+      "helicopter",
+      "airplane",
+      "hyena"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "chipmunk"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "car",
+      "cottage",
+      "airplane",
+      "cage",
+      "balloon",
+      "wheelbarrow",
+      "bungalow",
+      "cabin"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "cage",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 23,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shack",
+      "yacht",
+      "cage",
+      "hut",
+      "balloon",
+      "sailboat",
+      "cupboard"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "shack",
+      "cupboard"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "helicopter",
+      "ship",
+      "airplane",
+      "tent",
+      "yacht",
+      "cabin",
+      "bedroom"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "cabin",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "hut",
+      "cage",
+      "balloon",
+      "boat",
+      "sailboat",
+      "helicopter",
+      "cupboard"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "shack",
+      "hut",
+      "cage",
+      "cupboard"
+    ]
+  },
+  {
+    "dialogue_id": 32,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shawl",
+      "ship",
+      "nightgown",
+      "sailboat",
+      "pants",
+      "coat",
+      "airplane"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "helicopter"
+    ]
+  },
+  {
+    "dialogue_id": 33,
+    "num_candidates": 8,
+    "candidates": [
+      "shawl",
+      "airplane",
+      "hose",
+      "motorcycle",
+      "helicopter",
+      "jacket",
+      "socks",
+      "tricycle"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "shawl",
+      "jacket",
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "nightgown",
+      "coat",
+      "airplane",
+      "boat",
+      "sailboat",
+      "shawl",
+      "helicopter"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "coat",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 38,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "stork",
+      "dove",
+      "dog",
+      "turkey",
+      "porcupine",
+      "chipmunk",
+      "fox"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "stork",
+      "dove",
+      "dog",
+      "porcupine",
+      "chipmunk",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 39,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "dove",
+      "dog",
+      "chipmunk",
+      "stork",
+      "fox",
+      "turkey",
+      "porcupine"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "flamingo",
+      "dog",
+      "fox",
+      "turkey",
+      "porcupine"
+    ]
+  },
+  {
+    "dialogue_id": 42,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "starling",
+      "rat",
+      "hyena",
+      "fox",
+      "chickadee",
+      "mouse",
+      "goose"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "heron",
+      "goose"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "pheasant",
+      "rat",
+      "squirrel",
+      "hyena",
+      "fox",
+      "dove",
+      "penguin"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 45,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "penguin",
+      "chipmunk",
+      "chickadee",
+      "pelican",
+      "hyena",
+      "dog",
+      "blackbird"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "hamster",
+      "chipmunk",
+      "dog"
+    ]
+  },
+  {
+    "dialogue_id": 50,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "tent",
+      "dove",
+      "cupboard",
+      "toilet",
+      "blackbird",
+      "nightingale",
+      "rooster"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "dove",
+      "turkey",
+      "toilet",
+      "shack",
+      "closet",
+      "sparrow",
+      "hut",
+      "chickadee"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "toilet",
+      "shack",
+      "hut"
+    ]
+  },
+  {
+    "dialogue_id": 54,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "pheasant",
+      "bedroom",
+      "shack",
+      "pigeon",
+      "finch",
+      "closet",
+      "crow"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "tent",
+      "shack",
+      "closet"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "stork",
+      "coat",
+      "jacket",
+      "penguin",
+      "leotards",
+      "pheasant",
+      "pigeon"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "pheasant",
+      "stork"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "bra",
+      "coat",
+      "camisole",
+      "jacket",
+      "pheasant",
+      "dove",
+      "sparrow",
+      "starling"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "sparrow",
+      "starling"
+    ]
+  },
+  {
+    "dialogue_id": 60,
+    "num_candidates": 8,
+    "candidates": [
+      "swan",
+      "nylons",
+      "coat",
+      "dove",
+      "pelican",
+      "rooster",
+      "jacket",
+      "hose"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "nylons",
+      "hose"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "jacket",
+      "leotards",
+      "shawl",
+      "rooster",
+      "swan",
+      "pigeon",
+      "duck"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "jacket",
+      "leotards",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "starling",
+      "finch",
+      "pants",
+      "nylons",
+      "pheasant",
+      "dove",
+      "camisole"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "house",
+      "closet",
+      "hyena",
+      "bungalow",
+      "cage",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "squirrel",
+      "hyena",
+      "fox",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "cottage",
+      "hut",
+      "hamster",
+      "tent",
+      "dog",
+      "apartment",
+      "hyena",
+      "squirrel"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "hamster",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "squirrel",
+      "dog",
+      "hyena",
+      "hut",
+      "apartment",
+      "cottage",
+      "hamster"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "squirrel",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 70,
+    "num_candidates": 8,
+    "candidates": [
+      "groundhog",
+      "rat",
+      "hyena",
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin",
+      "dog"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "cage",
+      "apartment",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hamster",
+      "fox",
+      "bungalow",
+      "hut",
+      "shack",
+      "hyena",
+      "house"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "baseball",
+      "football",
+      "basketball",
+      "soccer",
+      "tennis",
+      "swimming",
+      "skiing",
+      "snowboarding",
+      "skateboarding"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "hyena",
+      "shawl",
+      "rat",
+      "socks",
+      "coat",
+      "fox",
+      "hose",
+      "hamster"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "porcupine",
+      "camisole",
+      "bra",
+      "rat",
+      "socks",
+      "dog",
+      "fox",
+      "nylons"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "rat",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "bra",
+      "socks",
+      "camisole",
+      "porcupine",
+      "nylons",
+      "fox",
+      "rat"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "porcupine",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "mouse",
+      "hyena",
+      "nylons",
+      "dog",
+      "shawl",
+      "jacket",
+      "groundhog"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "nylons",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 81,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "squirrel",
+      "dog",
+      "fox",
+      "nightgown",
+      "hose",
+      "camisole",
+      "rat"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "socks",
+      "nightgown",
+      "hose",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "closet",
+      "jacket",
+      "house",
+      "hose",
+      "coat",
+      "cottage",
+      "leotards",
+      "toilet"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "closet",
+      "jacket",
+      "hose",
+      "coat",
+      "cottage",
+      "leotards",
+      "toilet"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "hut",
+      "leotards",
+      "socks",
+      "camisole",
+      "tent",
+      "cottage",
+      "house"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "tent",
+      "cottage"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "nylons",
+      "hut",
+      "cupboard",
+      "tent",
+      "camisole",
+      "pants",
+      "leotards",
+      "cabin"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "hut",
+      "cupboard",
+      "cabin"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "cupboard",
+      "cabin",
+      "socks",
+      "tent",
+      "shack",
+      "pants",
+      "nylons",
+      "bra"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "socks",
+      "nylons"
+    ]
+  },
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "balloon",
+      "goose",
+      "pigeon",
+      "pelican",
+      "pheasant",
+      "airplane",
+      "tractor",
+      "motorcycle"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "tractor",
+      "motorcycle"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "cart",
+      "balloon",
+      "trolley",
+      "dove",
+      "helicopter",
+      "pigeon",
+      "pelican"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "cart",
+      "trolley"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "stork",
+      "swan",
+      "helicopter",
+      "bike",
+      "airplane",
+      "rooster",
+      "motorcycle",
+      "pheasant"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "stork",
+      "rooster",
+      "pheasant"
+    ]
+  },
+  {
+    "dialogue_id": 9,
+    "num_candidates": 8,
+    "candidates": [
+      "sparrow",
+      "oriole",
+      "rooster",
+      "sailboat",
+      "balloon",
+      "pheasant",
+      "airplane",
+      "submarine"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "sparrow",
+      "rooster",
+      "sailboat",
+      "balloon",
+      "airplane",
+      "submarine"
+    ]
+  },
+  {
+    "dialogue_id": 16,
+    "num_candidates": 8,
+    "candidates": [
+      "unicycle",
+      "tractor",
+      "squirrel",
+      "chipmunk",
+      "fox",
+      "helicopter",
+      "airplane",
+      "hyena"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "chipmunk"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "car",
+      "cottage",
+      "airplane",
+      "cage",
+      "balloon",
+      "wheelbarrow",
+      "bungalow",
+      "cabin"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "cage",
+      "wheelbarrow"
+    ]
+  },
+  {
+    "dialogue_id": 23,
+    "num_candidates": 8,
+    "candidates": [
+      "helicopter",
+      "shack",
+      "yacht",
+      "cage",
+      "hut",
+      "balloon",
+      "sailboat",
+      "cupboard"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "shack",
+      "hut",
+      "cupboard"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "helicopter",
+      "ship",
+      "airplane",
+      "tent",
+      "yacht",
+      "cabin",
+      "bedroom"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "cabin",
+      "bedroom"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "shack",
+      "hut",
+      "cage",
+      "balloon",
+      "boat",
+      "sailboat",
+      "helicopter",
+      "cupboard"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "shack",
+      "hut",
+      "cage",
+      "cupboard"
+    ]
+  },
+  {
+    "dialogue_id": 33,
+    "num_candidates": 8,
+    "candidates": [
+      "shawl",
+      "airplane",
+      "hose",
+      "motorcycle",
+      "helicopter",
+      "jacket",
+      "socks",
+      "tricycle"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "shawl",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "nightgown",
+      "coat",
+      "airplane",
+      "boat",
+      "sailboat",
+      "shawl",
+      "helicopter"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "camisole",
+      "nightgown",
+      "airplane",
+      "boat",
+      "sailboat",
+      "shawl",
+      "helicopter"
+    ]
+  },
+  {
+    "dialogue_id": 38,
+    "num_candidates": 8,
+    "candidates": [
+      "flamingo",
+      "stork",
+      "dove",
+      "dog",
+      "turkey",
+      "porcupine",
+      "chipmunk",
+      "fox"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "stork",
+      "dove",
+      "dog",
+      "porcupine",
+      "chipmunk",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "pheasant",
+      "rat",
+      "squirrel",
+      "hyena",
+      "fox",
+      "dove",
+      "penguin"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "hyena",
+      "fox"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "dove",
+      "turkey",
+      "toilet",
+      "shack",
+      "closet",
+      "sparrow",
+      "hut",
+      "chickadee"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "toilet",
+      "shack",
+      "hut"
+    ]
+  },
+  {
+    "dialogue_id": 54,
+    "num_candidates": 8,
+    "candidates": [
+      "tent",
+      "pheasant",
+      "bedroom",
+      "shack",
+      "pigeon",
+      "finch",
+      "closet",
+      "crow"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "tent",
+      "pheasant",
+      "pigeon",
+      "finch"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "jacket",
+      "leotards",
+      "shawl",
+      "rooster",
+      "swan",
+      "pigeon",
+      "duck"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "jacket",
+      "leotards",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "squirrel",
+      "house",
+      "closet",
+      "hyena",
+      "bungalow",
+      "cage",
+      "fox",
+      "hamster"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "fox",
+      "hyena"
+    ]
+  },
+  {
+    "dialogue_id": 70,
+    "num_candidates": 8,
+    "candidates": [
+      "groundhog",
+      "rat",
+      "hyena",
+      "cage",
+      "apartment",
+      "bungalow",
+      "cabin",
+      "dog"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "cage",
+      "apartment",
+      "dog"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "rat",
+      "hamster",
+      "fox",
+      "bungalow",
+      "hut",
+      "shack",
+      "hyena",
+      "house"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "baseball",
+      "football",
+      "basketball",
+      "soccer",
+      "tennis"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "porcupine",
+      "camisole",
+      "bra",
+      "rat",
+      "socks",
+      "dog",
+      "fox",
+      "nylons"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "porcupine",
+      "camisole",
+      "bra",
+      "socks",
+      "fox",
+      "nylons"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "dog",
+      "bra",
+      "socks",
+      "camisole",
+      "porcupine",
+      "nylons",
+      "fox",
+      "rat"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "porcupine"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "hose",
+      "mouse",
+      "hyena",
+      "nylons",
+      "dog",
+      "shawl",
+      "jacket",
+      "groundhog"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "nylons",
+      "shawl"
+    ]
+  },
+  {
+    "dialogue_id": 81,
+    "num_candidates": 8,
+    "candidates": [
+      "socks",
+      "squirrel",
+      "dog",
+      "fox",
+      "nightgown",
+      "hose",
+      "camisole",
+      "rat"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "socks",
+      "nightgown",
+      "hose",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "closet",
+      "jacket",
+      "house",
+      "hose",
+      "coat",
+      "cottage",
+      "leotards",
+      "toilet"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "closet",
+      "jacket",
+      "hose",
+      "coat",
+      "cottage",
+      "leotards",
+      "toilet"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "hut",
+      "leotards",
+      "socks",
+      "camisole",
+      "tent",
+      "cottage",
+      "house"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "tent",
+      "cottage"
+    ]
+  }
+]

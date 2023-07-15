@@ -1,0 +1,10053 @@
+[
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "elk",
+      "chicken",
+      "robin",
+      "starling",
+      "fox",
+      "partridge",
+      "hamster",
+      "buffalo"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "elk",
+      "fox",
+      "hamster",
+      "buffalo"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "budgie",
+      "zebra",
+      "deer",
+      "penguin",
+      "pelican",
+      "sheep",
+      "fawn",
+      "ostrich"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "budgie",
+      "zebra",
+      "deer",
+      "penguin",
+      "pelican",
+      "sheep",
+      "fawn",
+      "ostrich"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "bear",
+      "zebra",
+      "walrus",
+      "vulture",
+      "chickadee",
+      "finch",
+      "otter"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "bear",
+      "walrus",
+      "otter"
+    ]
+  },
+  {
+    "dialogue_id": 4,
+    "num_candidates": 8,
+    "candidates": [
+      "peacock",
+      "platypus",
+      "budgie",
+      "pig",
+      "turkey",
+      "beaver",
+      "deer",
+      "rooster"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "peacock",
+      "platypus",
+      "budgie",
+      "pig",
+      "turkey",
+      "beaver",
+      "deer",
+      "rooster"
+    ]
+  },
+  {
+    "dialogue_id": 5,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "eagle",
+      "fawn",
+      "owl",
+      "platypus",
+      "beaver",
+      "pigeon",
+      "chimp"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "falcon",
+      "eagle",
+      "owl",
+      "pigeon"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "fawn",
+      "hamster",
+      "falcon",
+      "cheetah",
+      "peacock",
+      "owl",
+      "parakeet",
+      "giraffe"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "fawn",
+      "hamster",
+      "falcon",
+      "cheetah",
+      "peacock",
+      "owl",
+      "parakeet",
+      "giraffe"
+    ]
+  },
+  {
+    "dialogue_id": 7,
+    "num_candidates": 8,
+    "candidates": [
+      "chipmunk",
+      "leotards",
+      "mittens",
+      "bear",
+      "hamster",
+      "boots",
+      "gown",
+      "zebra"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "chipmunk",
+      "bear",
+      "hamster",
+      "zebra"
+    ]
+  },
+  {
+    "dialogue_id": 8,
+    "num_candidates": 8,
+    "candidates": [
+      "dolphin",
+      "trousers",
+      "shoes",
+      "cougar",
+      "beaver",
+      "bra",
+      "ox",
+      "pants"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "dolphin",
+      "cougar",
+      "beaver",
+      "ox"
+    ]
+  },
+  {
+    "dialogue_id": 9,
+    "num_candidates": 8,
+    "candidates": [
+      "shoes",
+      "fawn",
+      "deer",
+      "belt",
+      "gorilla",
+      "bra",
+      "elephant",
+      "tie"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "fawn",
+      "deer",
+      "gorilla"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "boots",
+      "fawn",
+      "seal",
+      "cape",
+      "otter",
+      "swimsuit",
+      "porcupine",
+      "trousers"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "boots",
+      "cape",
+      "swimsuit",
+      "trousers"
+    ]
+  },
+  {
+    "dialogue_id": 11,
+    "num_candidates": 8,
+    "candidates": [
+      "cougar",
+      "belt",
+      "otter",
+      "tie",
+      "scarf",
+      "seal",
+      "pig",
+      "blouse"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "belt",
+      "tie",
+      "scarf",
+      "blouse"
+    ]
+  },
+  {
+    "dialogue_id": 12,
+    "num_candidates": 8,
+    "candidates": [
+      "walrus",
+      "chimp",
+      "belt",
+      "donkey",
+      "platypus",
+      "pajamas",
+      "tie",
+      "blouse"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "belt",
+      "pajamas",
+      "tie",
+      "blouse"
+    ]
+  },
+  {
+    "dialogue_id": 13,
+    "num_candidates": 8,
+    "candidates": [
+      "shotgun",
+      "seal",
+      "hamster",
+      "chipmunk",
+      "deer",
+      "spear",
+      "rocket",
+      "tomahawk"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "seal",
+      "hamster",
+      "chipmunk",
+      "deer"
+    ]
+  },
+  {
+    "dialogue_id": 14,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "bear",
+      "squirrel",
+      "grenade",
+      "whip",
+      "zebra",
+      "crowbar",
+      "rocket"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "goat",
+      "bear",
+      "squirrel",
+      "zebra"
+    ]
+  },
+  {
+    "dialogue_id": 15,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "tomahawk",
+      "sword",
+      "seal",
+      "walrus",
+      "missile",
+      "cougar",
+      "revolver"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "goat",
+      "seal",
+      "walrus",
+      "cougar"
+    ]
+  },
+  {
+    "dialogue_id": 16,
+    "num_candidates": 8,
+    "candidates": [
+      "deer",
+      "missile",
+      "stick",
+      "buffalo",
+      "sheep",
+      "shotgun",
+      "bomb",
+      "cow"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "missile",
+      "stick",
+      "shotgun",
+      "bomb"
+    ]
+  },
+  {
+    "dialogue_id": 17,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "spear",
+      "deer",
+      "pistol",
+      "gorilla",
+      "lion",
+      "dagger",
+      "shotgun"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "spear",
+      "pistol",
+      "dagger",
+      "shotgun"
+    ]
+  },
+  {
+    "dialogue_id": 18,
+    "num_candidates": 8,
+    "candidates": [
+      "harpoon",
+      "stick",
+      "buffalo",
+      "cow",
+      "walrus",
+      "whip",
+      "seal",
+      "knife"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "harpoon",
+      "stick",
+      "whip",
+      "knife"
+    ]
+  },
+  {
+    "dialogue_id": 19,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "pumpkin",
+      "porcupine",
+      "strawberry",
+      "grapefruit",
+      "elephant",
+      "caribou",
+      "plum"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "hamster",
+      "porcupine",
+      "elephant",
+      "caribou"
+    ]
+  },
+  {
+    "dialogue_id": 20,
+    "num_candidates": 8,
+    "candidates": [
+      "whale",
+      "honeydew",
+      "banana",
+      "sheep",
+      "zebra",
+      "cranberry",
+      "otter",
+      "tangerine"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "whale",
+      "sheep",
+      "zebra",
+      "otter"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "cherry",
+      "beaver",
+      "grapefruit",
+      "tomato",
+      "deer",
+      "seal",
+      "cow"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "beaver",
+      "deer",
+      "seal",
+      "cow"
+    ]
+  },
+  {
+    "dialogue_id": 22,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "cheetah",
+      "strawberry",
+      "fawn",
+      "pineapple",
+      "giraffe",
+      "deer",
+      "tangerine"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "avocado",
+      "strawberry",
+      "pineapple",
+      "tangerine"
+    ]
+  },
+  {
+    "dialogue_id": 23,
+    "num_candidates": 8,
+    "candidates": [
+      "apple",
+      "pear",
+      "beaver",
+      "cherry",
+      "cougar",
+      "platypus",
+      "elephant",
+      "grapefruit"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "apple",
+      "pear",
+      "cherry",
+      "grapefruit"
+    ]
+  },
+  {
+    "dialogue_id": 24,
+    "num_candidates": 8,
+    "candidates": [
+      "tomato",
+      "giraffe",
+      "rhubarb",
+      "hamster",
+      "tangerine",
+      "mink",
+      "cranberry",
+      "cheetah"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "tomato",
+      "rhubarb",
+      "tangerine",
+      "cranberry"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "mink",
+      "mushroom",
+      "asparagus",
+      "cow",
+      "radish",
+      "whale",
+      "celery",
+      "squirrel"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "mink",
+      "cow",
+      "whale",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "broccoli",
+      "walrus",
+      "gorilla",
+      "mushroom",
+      "potato",
+      "peas",
+      "sheep",
+      "dolphin"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "walrus",
+      "gorilla",
+      "sheep",
+      "dolphin"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "otter",
+      "seal",
+      "celery",
+      "asparagus",
+      "tomato",
+      "elk",
+      "lion",
+      "pumpkin"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "otter",
+      "seal",
+      "elk",
+      "lion"
+    ]
+  },
+  {
+    "dialogue_id": 28,
+    "num_candidates": 8,
+    "candidates": [
+      "gorilla",
+      "pumpkin",
+      "mushroom",
+      "cauliflower",
+      "fawn",
+      "peas",
+      "deer",
+      "cougar"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "pumpkin",
+      "mushroom",
+      "cauliflower",
+      "peas"
+    ]
+  },
+  {
+    "dialogue_id": 29,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "whale",
+      "beans",
+      "potato",
+      "bison",
+      "pig",
+      "beets",
+      "deer"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "radish",
+      "beans",
+      "potato",
+      "beets"
+    ]
+  },
+  {
+    "dialogue_id": 30,
+    "num_candidates": 8,
+    "candidates": [
+      "eggplant",
+      "onions",
+      "fawn",
+      "chimp",
+      "pumpkin",
+      "platypus",
+      "walrus",
+      "potato"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "eggplant",
+      "onions",
+      "pumpkin",
+      "potato"
+    ]
+  },
+  {
+    "dialogue_id": 31,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "buzzard",
+      "cloak",
+      "bluejay",
+      "boots",
+      "vulture",
+      "penguin",
+      "sweater"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "buzzard",
+      "bluejay",
+      "vulture",
+      "penguin"
+    ]
+  },
+  {
+    "dialogue_id": 32,
+    "num_candidates": 8,
+    "candidates": [
+      "tie",
+      "bra",
+      "eagle",
+      "parakeet",
+      "woodpecker",
+      "stork",
+      "belt",
+      "camisole"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "eagle",
+      "parakeet",
+      "woodpecker",
+      "stork"
+    ]
+  },
+  {
+    "dialogue_id": 33,
+    "num_candidates": 8,
+    "candidates": [
+      "hawk",
+      "peacock",
+      "falcon",
+      "tie",
+      "belt",
+      "budgie",
+      "bra",
+      "shoes"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "hawk",
+      "peacock",
+      "falcon",
+      "budgie"
+    ]
+  },
+  {
+    "dialogue_id": 34,
+    "num_candidates": 8,
+    "candidates": [
+      "chickadee",
+      "skirt",
+      "eagle",
+      "leotards",
+      "bra",
+      "boots",
+      "owl",
+      "raven"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "skirt",
+      "leotards",
+      "bra",
+      "boots"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "belt",
+      "pajamas",
+      "slippers",
+      "woodpecker",
+      "parakeet",
+      "partridge",
+      "tie"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "belt",
+      "pajamas",
+      "slippers",
+      "tie"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "shoes",
+      "goose",
+      "tie",
+      "peacock",
+      "belt",
+      "oriole",
+      "bra"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "shoes",
+      "tie",
+      "belt",
+      "bra"
+    ]
+  },
+  {
+    "dialogue_id": 37,
+    "num_candidates": 8,
+    "candidates": [
+      "rocket",
+      "duck",
+      "rooster",
+      "penguin",
+      "catapult",
+      "spear",
+      "cannon",
+      "budgie"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "duck",
+      "rooster",
+      "penguin",
+      "budgie"
+    ]
+  },
+  {
+    "dialogue_id": 38,
+    "num_candidates": 8,
+    "candidates": [
+      "shotgun",
+      "starling",
+      "pelican",
+      "rifle",
+      "penguin",
+      "stone",
+      "rocket",
+      "ostrich"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "starling",
+      "pelican",
+      "penguin",
+      "ostrich"
+    ]
+  },
+  {
+    "dialogue_id": 39,
+    "num_candidates": 8,
+    "candidates": [
+      "crowbar",
+      "stork",
+      "knife",
+      "chickadee",
+      "stick",
+      "owl",
+      "seagull",
+      "axe"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "stork",
+      "chickadee",
+      "owl",
+      "seagull"
+    ]
+  },
+  {
+    "dialogue_id": 40,
+    "num_candidates": 8,
+    "candidates": [
+      "whip",
+      "stick",
+      "budgie",
+      "rooster",
+      "catapult",
+      "pheasant",
+      "peacock",
+      "bazooka"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "whip",
+      "stick",
+      "catapult",
+      "bazooka"
+    ]
+  },
+  {
+    "dialogue_id": 41,
+    "num_candidates": 8,
+    "candidates": [
+      "rifle",
+      "grenade",
+      "stone",
+      "turkey",
+      "flamingo",
+      "bomb",
+      "robin",
+      "penguin"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "rifle",
+      "grenade",
+      "bomb"
+    ]
+  },
+  {
+    "dialogue_id": 42,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "whip",
+      "woodpecker",
+      "stick",
+      "sword",
+      "crow",
+      "tomahawk",
+      "pelican"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "whip",
+      "stick",
+      "sword",
+      "tomahawk"
+    ]
+  },
+  {
+    "dialogue_id": 43,
+    "num_candidates": 8,
+    "candidates": [
+      "budgie",
+      "finch",
+      "grapefruit",
+      "cranberry",
+      "raisin",
+      "crow",
+      "pumpkin",
+      "raven"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "budgie",
+      "finch",
+      "crow",
+      "raven"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "swan",
+      "apple",
+      "peach",
+      "buzzard",
+      "dove",
+      "lime",
+      "strawberry",
+      "robin"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "swan",
+      "buzzard",
+      "dove",
+      "robin"
+    ]
+  },
+  {
+    "dialogue_id": 45,
+    "num_candidates": 8,
+    "candidates": [
+      "pineapple",
+      "rhubarb",
+      "woodpecker",
+      "stork",
+      "swan",
+      "orange",
+      "canary",
+      "cherry"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "woodpecker",
+      "stork",
+      "swan",
+      "canary"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "owl",
+      "rhubarb",
+      "goose",
+      "cherry",
+      "apple",
+      "rooster",
+      "grapefruit"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "rhubarb",
+      "cherry",
+      "apple",
+      "grapefruit"
+    ]
+  },
+  {
+    "dialogue_id": 47,
+    "num_candidates": 8,
+    "candidates": [
+      "honeydew",
+      "avocado",
+      "duck",
+      "penguin",
+      "turkey",
+      "oriole",
+      "banana",
+      "tangerine"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "honeydew",
+      "avocado",
+      "banana",
+      "tangerine"
+    ]
+  },
+  {
+    "dialogue_id": 48,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peacock",
+      "budgie",
+      "nectarine",
+      "prune",
+      "falcon",
+      "hawk",
+      "tomato"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "rhubarb",
+      "nectarine",
+      "prune",
+      "tomato"
+    ]
+  },
+  {
+    "dialogue_id": 49,
+    "num_candidates": 8,
+    "candidates": [
+      "asparagus",
+      "chickadee",
+      "cucumber",
+      "starling",
+      "mushroom",
+      "buzzard",
+      "peas",
+      "crow"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "chickadee",
+      "starling",
+      "buzzard",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 50,
+    "num_candidates": 8,
+    "candidates": [
+      "blackbird",
+      "budgie",
+      "buzzard",
+      "mushroom",
+      "potato",
+      "cauliflower",
+      "chicken",
+      "cucumber"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "blackbird",
+      "budgie",
+      "buzzard",
+      "chicken"
+    ]
+  },
+  {
+    "dialogue_id": 51,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "duck",
+      "pickle",
+      "parakeet",
+      "crow",
+      "cucumber",
+      "onions",
+      "beets"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "rooster",
+      "duck",
+      "parakeet",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 52,
+    "num_candidates": 8,
+    "candidates": [
+      "duck",
+      "mushroom",
+      "peas",
+      "pheasant",
+      "potato",
+      "emu",
+      "canary",
+      "onions"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "mushroom",
+      "peas",
+      "potato",
+      "onions"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "robin",
+      "peas",
+      "crow",
+      "peacock",
+      "tomato",
+      "parsley",
+      "corn",
+      "pelican"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "tomato",
+      "parsley",
+      "corn"
+    ]
+  },
+  {
+    "dialogue_id": 54,
+    "num_candidates": 8,
+    "candidates": [
+      "blackbird",
+      "owl",
+      "sparrow",
+      "avocado",
+      "pumpkin",
+      "onions",
+      "hawk",
+      "potato"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "avocado",
+      "pumpkin",
+      "onions",
+      "potato"
+    ]
+  },
+  {
+    "dialogue_id": 55,
+    "num_candidates": 8,
+    "candidates": [
+      "blouse",
+      "camisole",
+      "tomahawk",
+      "crowbar",
+      "gown",
+      "spear",
+      "harpoon",
+      "cape"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "blouse",
+      "camisole",
+      "gown",
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 56,
+    "num_candidates": 8,
+    "candidates": [
+      "bazooka",
+      "trousers",
+      "shield",
+      "whip",
+      "boots",
+      "crowbar",
+      "pants",
+      "cape"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "trousers",
+      "shield",
+      "boots",
+      "pants",
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "tomahawk",
+      "bazooka",
+      "camisole",
+      "cloak",
+      "catapult",
+      "robe",
+      "bomb"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "trousers",
+      "camisole",
+      "cloak",
+      "robe"
+    ]
+  },
+  {
+    "dialogue_id": 58,
+    "num_candidates": 8,
+    "candidates": [
+      "axe",
+      "trousers",
+      "grenade",
+      "boots",
+      "pants",
+      "revolver",
+      "stone",
+      "cape"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "axe",
+      "grenade",
+      "revolver",
+      "stone"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "robe",
+      "trousers",
+      "stick",
+      "spear",
+      "camisole",
+      "catapult",
+      "cannon"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "stick",
+      "spear",
+      "catapult",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 60,
+    "num_candidates": 8,
+    "candidates": [
+      "bra",
+      "belt",
+      "bomb",
+      "tie",
+      "missile",
+      "rocket",
+      "shoes",
+      "stone"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "bra",
+      "belt",
+      "bomb",
+      "tie",
+      "rocket",
+      "shoes",
+      "stone"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "cloak",
+      "raisin",
+      "jacket",
+      "pumpkin",
+      "cape",
+      "swimsuit",
+      "prune",
+      "grapefruit"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "cloak",
+      "jacket",
+      "pumpkin",
+      "cape",
+      "swimsuit"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "pants",
+      "rhubarb",
+      "grapefruit",
+      "pajamas",
+      "trousers",
+      "pumpkin",
+      "tomato"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "camisole",
+      "pants",
+      "pajamas",
+      "trousers"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "honeydew",
+      "bra",
+      "socks",
+      "cantaloupe",
+      "pear",
+      "cloak",
+      "coat"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "bra",
+      "socks",
+      "cloak",
+      "coat"
+    ]
+  },
+  {
+    "dialogue_id": 64,
+    "num_candidates": 8,
+    "candidates": [
+      "cranberry",
+      "pants",
+      "boots",
+      "apple",
+      "pumpkin",
+      "plum",
+      "trousers",
+      "bra"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "cranberry",
+      "apple",
+      "pumpkin",
+      "plum"
+    ]
+  },
+  {
+    "dialogue_id": 65,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "cherry",
+      "robe",
+      "scarf",
+      "peach",
+      "skirt",
+      "cranberry",
+      "shoes"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "coconut",
+      "cherry",
+      "peach",
+      "cranberry"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "strawberry",
+      "belt",
+      "pear",
+      "tie",
+      "raisin",
+      "skirt",
+      "mittens"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "coconut",
+      "strawberry",
+      "belt",
+      "pear",
+      "raisin"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "mushroom",
+      "cloak",
+      "cucumber",
+      "blouse",
+      "socks",
+      "olive",
+      "zucchini",
+      "boots"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "blouse",
+      "socks",
+      "boots"
+    ]
+  },
+  {
+    "dialogue_id": 68,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "trousers",
+      "onions",
+      "potato",
+      "blouse",
+      "pants",
+      "slippers",
+      "rhubarb"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "trousers",
+      "blouse",
+      "pants",
+      "slippers"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "pickle",
+      "swimsuit",
+      "beets",
+      "nightgown",
+      "shoes",
+      "mushroom",
+      "camisole"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "swimsuit",
+      "nightgown",
+      "shoes",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 70,
+    "num_candidates": 8,
+    "candidates": [
+      "peas",
+      "mushroom",
+      "cloak",
+      "coat",
+      "scarf",
+      "boots",
+      "cucumber",
+      "broccoli"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "peas",
+      "mushroom",
+      "cucumber",
+      "broccoli"
+    ]
+  },
+  {
+    "dialogue_id": 71,
+    "num_candidates": 8,
+    "candidates": [
+      "olive",
+      "potato",
+      "leotards",
+      "onions",
+      "pumpkin",
+      "mittens",
+      "nightgown",
+      "camisole"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "olive",
+      "potato",
+      "onions",
+      "pumpkin"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "shoes",
+      "peas",
+      "beans",
+      "tie",
+      "cauliflower",
+      "belt",
+      "bra",
+      "cabbage"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "peas",
+      "beans",
+      "cauliflower",
+      "cabbage"
+    ]
+  },
+  {
+    "dialogue_id": 73,
+    "num_candidates": 8,
+    "candidates": [
+      "revolver",
+      "shotgun",
+      "raisin",
+      "grapefruit",
+      "stick",
+      "spear",
+      "pumpkin",
+      "prune"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "revolver",
+      "shotgun"
+    ]
+  },
+  {
+    "dialogue_id": 74,
+    "num_candidates": 8,
+    "candidates": [
+      "olive",
+      "gun",
+      "raisin",
+      "grenade",
+      "cherry",
+      "rocket",
+      "plum",
+      "cannon"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "gun",
+      "grenade",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "apple",
+      "rock",
+      "bomb",
+      "pumpkin",
+      "stone",
+      "grapefruit",
+      "crossbow",
+      "cherry"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "rock",
+      "bomb",
+      "pumpkin",
+      "stone",
+      "crossbow"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "orange",
+      "shield",
+      "crossbow",
+      "lime",
+      "crowbar",
+      "missile",
+      "rhubarb",
+      "banana"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "shield",
+      "crossbow",
+      "lime",
+      "crowbar",
+      "missile"
+    ]
+  },
+  {
+    "dialogue_id": 77,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peach",
+      "apple",
+      "plum",
+      "crowbar",
+      "pistol",
+      "rifle",
+      "whip"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "crowbar",
+      "pistol",
+      "rifle",
+      "whip"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "knife",
+      "honeydew",
+      "tomato",
+      "grape",
+      "sword",
+      "whip",
+      "rhubarb",
+      "stick"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "honeydew",
+      "tomato",
+      "grape",
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 79,
+    "num_candidates": 8,
+    "candidates": [
+      "onions",
+      "pickle",
+      "beans",
+      "olive",
+      "catapult",
+      "bazooka",
+      "missile",
+      "slingshot"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "catapult",
+      "bazooka",
+      "missile",
+      "slingshot"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "rocket",
+      "pickle",
+      "cannon",
+      "crowbar",
+      "avocado",
+      "grenade",
+      "radish",
+      "mushroom"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "rocket",
+      "cannon",
+      "crowbar",
+      "grenade"
+    ]
+  },
+  {
+    "dialogue_id": 81,
+    "num_candidates": 8,
+    "candidates": [
+      "catapult",
+      "cannon",
+      "corn",
+      "pickle",
+      "bazooka",
+      "cucumber",
+      "potato",
+      "axe"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "catapult",
+      "cannon",
+      "bazooka",
+      "axe"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "turnip",
+      "stone",
+      "potato",
+      "harpoon",
+      "grenade",
+      "mushroom",
+      "radish",
+      "rifle"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "turnip",
+      "potato",
+      "mushroom",
+      "radish"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "bomb",
+      "cabbage",
+      "stone",
+      "peas",
+      "beans",
+      "rock",
+      "rifle",
+      "cauliflower"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "cabbage",
+      "peas",
+      "beans",
+      "cauliflower"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "tomahawk",
+      "mushroom",
+      "axe",
+      "stick",
+      "onions",
+      "whip",
+      "broccoli",
+      "carrot"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "mushroom",
+      "onions",
+      "broccoli",
+      "carrot"
+    ]
+  },
+  {
+    "dialogue_id": 85,
+    "num_candidates": 8,
+    "candidates": [
+      "celery",
+      "mushroom",
+      "prune",
+      "grapefruit",
+      "banana",
+      "lime",
+      "zucchini",
+      "beans"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "grapefruit",
+      "banana",
+      "lime"
+    ]
+  },
+  {
+    "dialogue_id": 86,
+    "num_candidates": 8,
+    "candidates": [
+      "banana",
+      "beans",
+      "tangerine",
+      "beets",
+      "pickle",
+      "mushroom",
+      "cranberry",
+      "peach"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "banana",
+      "tangerine",
+      "peach"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "lemon",
+      "beets",
+      "orange",
+      "beans",
+      "mushroom",
+      "coconut",
+      "raspberry",
+      "radish"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "lemon",
+      "orange",
+      "coconut",
+      "raspberry"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "plum",
+      "orange",
+      "beans",
+      "pineapple",
+      "lettuce",
+      "carrot",
+      "lemon"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "zucchini",
+      "plum",
+      "orange",
+      "beans",
+      "pineapple",
+      "lettuce",
+      "carrot",
+      "lemon"
+    ]
+  },
+  {
+    "dialogue_id": 89,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "beans",
+      "zucchini",
+      "honeydew",
+      "pickle",
+      "pineapple",
+      "peach",
+      "strawberry"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "radish",
+      "beans",
+      "zucchini",
+      "pickle"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "onions",
+      "strawberry",
+      "beets",
+      "pineapple",
+      "pickle",
+      "raspberry",
+      "peach"
+    ],
+    "question_step": 1,
+    "reference_set": [
+      "beans",
+      "onions",
+      "beets",
+      "pickle"
+    ]
+  },
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "elk",
+      "chicken",
+      "robin",
+      "starling",
+      "fox",
+      "partridge",
+      "hamster",
+      "buffalo"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "elk",
+      "fox",
+      "hamster",
+      "buffalo"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "budgie",
+      "zebra",
+      "deer",
+      "penguin",
+      "pelican",
+      "sheep",
+      "fawn",
+      "ostrich"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "deer",
+      "sheep",
+      "fawn"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "bear",
+      "zebra",
+      "walrus",
+      "vulture",
+      "chickadee",
+      "finch",
+      "otter"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "bear",
+      "otter",
+      "walrus"
+    ]
+  },
+  {
+    "dialogue_id": 4,
+    "num_candidates": 8,
+    "candidates": [
+      "peacock",
+      "platypus",
+      "budgie",
+      "pig",
+      "turkey",
+      "beaver",
+      "deer",
+      "rooster"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "peacock",
+      "platypus",
+      "budgie",
+      "turkey",
+      "rooster"
+    ]
+  },
+  {
+    "dialogue_id": 5,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "eagle",
+      "fawn",
+      "owl",
+      "platypus",
+      "beaver",
+      "pigeon",
+      "chimp"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "falcon",
+      "eagle"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "fawn",
+      "hamster",
+      "falcon",
+      "cheetah",
+      "peacock",
+      "owl",
+      "parakeet",
+      "giraffe"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "falcon",
+      "peacock",
+      "owl",
+      "parakeet"
+    ]
+  },
+  {
+    "dialogue_id": 7,
+    "num_candidates": 8,
+    "candidates": [
+      "chipmunk",
+      "leotards",
+      "mittens",
+      "bear",
+      "hamster",
+      "boots",
+      "gown",
+      "zebra"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "chipmunk",
+      "hamster",
+      "bear"
+    ]
+  },
+  {
+    "dialogue_id": 8,
+    "num_candidates": 8,
+    "candidates": [
+      "dolphin",
+      "trousers",
+      "shoes",
+      "cougar",
+      "beaver",
+      "bra",
+      "ox",
+      "pants"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "dolphin",
+      "cougar",
+      "beaver",
+      "ox"
+    ]
+  },
+  {
+    "dialogue_id": 9,
+    "num_candidates": 8,
+    "candidates": [
+      "shoes",
+      "fawn",
+      "deer",
+      "belt",
+      "gorilla",
+      "bra",
+      "elephant",
+      "tie"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "fawn",
+      "deer",
+      "gorilla",
+      "elephant"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "boots",
+      "fawn",
+      "seal",
+      "cape",
+      "otter",
+      "swimsuit",
+      "porcupine",
+      "trousers"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "swimsuit",
+      "trousers"
+    ]
+  },
+  {
+    "dialogue_id": 11,
+    "num_candidates": 8,
+    "candidates": [
+      "cougar",
+      "belt",
+      "otter",
+      "tie",
+      "scarf",
+      "seal",
+      "pig",
+      "blouse"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "tie",
+      "scarf"
+    ]
+  },
+  {
+    "dialogue_id": 12,
+    "num_candidates": 8,
+    "candidates": [
+      "walrus",
+      "chimp",
+      "belt",
+      "donkey",
+      "platypus",
+      "pajamas",
+      "tie",
+      "blouse"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "belt",
+      "pajamas",
+      "tie",
+      "blouse"
+    ]
+  },
+  {
+    "dialogue_id": 13,
+    "num_candidates": 8,
+    "candidates": [
+      "shotgun",
+      "seal",
+      "hamster",
+      "chipmunk",
+      "deer",
+      "spear",
+      "rocket",
+      "tomahawk"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "seal"
+    ]
+  },
+  {
+    "dialogue_id": 14,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "bear",
+      "squirrel",
+      "grenade",
+      "whip",
+      "zebra",
+      "crowbar",
+      "rocket"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "goat",
+      "bear",
+      "squirrel",
+      "zebra"
+    ]
+  },
+  {
+    "dialogue_id": 15,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "tomahawk",
+      "sword",
+      "seal",
+      "walrus",
+      "missile",
+      "cougar",
+      "revolver"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "goat",
+      "seal",
+      "walrus",
+      "cougar"
+    ]
+  },
+  {
+    "dialogue_id": 16,
+    "num_candidates": 8,
+    "candidates": [
+      "deer",
+      "missile",
+      "stick",
+      "buffalo",
+      "sheep",
+      "shotgun",
+      "bomb",
+      "cow"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "missile",
+      "stick",
+      "shotgun",
+      "bomb"
+    ]
+  },
+  {
+    "dialogue_id": 17,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "spear",
+      "deer",
+      "pistol",
+      "gorilla",
+      "lion",
+      "dagger",
+      "shotgun"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "spear",
+      "pistol",
+      "dagger",
+      "shotgun"
+    ]
+  },
+  {
+    "dialogue_id": 18,
+    "num_candidates": 8,
+    "candidates": [
+      "harpoon",
+      "stick",
+      "buffalo",
+      "cow",
+      "walrus",
+      "whip",
+      "seal",
+      "knife"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "harpoon",
+      "stick",
+      "whip",
+      "knife"
+    ]
+  },
+  {
+    "dialogue_id": 19,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "pumpkin",
+      "porcupine",
+      "strawberry",
+      "grapefruit",
+      "elephant",
+      "caribou",
+      "plum"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "elephant",
+      "caribou"
+    ]
+  },
+  {
+    "dialogue_id": 20,
+    "num_candidates": 8,
+    "candidates": [
+      "whale",
+      "honeydew",
+      "banana",
+      "sheep",
+      "zebra",
+      "cranberry",
+      "otter",
+      "tangerine"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "zebra"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "cherry",
+      "beaver",
+      "grapefruit",
+      "tomato",
+      "deer",
+      "seal",
+      "cow"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "beaver",
+      "deer",
+      "cow"
+    ]
+  },
+  {
+    "dialogue_id": 22,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "cheetah",
+      "strawberry",
+      "fawn",
+      "pineapple",
+      "giraffe",
+      "deer",
+      "tangerine"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "avocado",
+      "strawberry",
+      "pineapple",
+      "tangerine"
+    ]
+  },
+  {
+    "dialogue_id": 23,
+    "num_candidates": 8,
+    "candidates": [
+      "apple",
+      "pear",
+      "beaver",
+      "cherry",
+      "cougar",
+      "platypus",
+      "elephant",
+      "grapefruit"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "apple",
+      "cherry",
+      "grapefruit"
+    ]
+  },
+  {
+    "dialogue_id": 24,
+    "num_candidates": 8,
+    "candidates": [
+      "tomato",
+      "giraffe",
+      "rhubarb",
+      "hamster",
+      "tangerine",
+      "mink",
+      "cranberry",
+      "cheetah"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "tomato",
+      "rhubarb",
+      "tangerine",
+      "cranberry"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "mink",
+      "mushroom",
+      "asparagus",
+      "cow",
+      "radish",
+      "whale",
+      "celery",
+      "squirrel"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "mink",
+      "cow",
+      "whale",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "broccoli",
+      "walrus",
+      "gorilla",
+      "mushroom",
+      "potato",
+      "peas",
+      "sheep",
+      "dolphin"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "broccoli",
+      "mushroom",
+      "potato",
+      "peas"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "otter",
+      "seal",
+      "celery",
+      "asparagus",
+      "tomato",
+      "elk",
+      "lion",
+      "pumpkin"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "otter",
+      "seal",
+      "elk",
+      "lion"
+    ]
+  },
+  {
+    "dialogue_id": 28,
+    "num_candidates": 8,
+    "candidates": [
+      "gorilla",
+      "pumpkin",
+      "mushroom",
+      "cauliflower",
+      "fawn",
+      "peas",
+      "deer",
+      "cougar"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "pumpkin",
+      "mushroom",
+      "cauliflower",
+      "peas"
+    ]
+  },
+  {
+    "dialogue_id": 29,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "whale",
+      "beans",
+      "potato",
+      "bison",
+      "pig",
+      "beets",
+      "deer"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "radish",
+      "whale",
+      "bison",
+      "pig"
+    ]
+  },
+  {
+    "dialogue_id": 30,
+    "num_candidates": 8,
+    "candidates": [
+      "eggplant",
+      "onions",
+      "fawn",
+      "chimp",
+      "pumpkin",
+      "platypus",
+      "walrus",
+      "potato"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "eggplant",
+      "onions",
+      "pumpkin",
+      "potato"
+    ]
+  },
+  {
+    "dialogue_id": 31,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "buzzard",
+      "cloak",
+      "bluejay",
+      "boots",
+      "vulture",
+      "penguin",
+      "sweater"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "buzzard",
+      "bluejay",
+      "vulture",
+      "penguin"
+    ]
+  },
+  {
+    "dialogue_id": 32,
+    "num_candidates": 8,
+    "candidates": [
+      "tie",
+      "bra",
+      "eagle",
+      "parakeet",
+      "woodpecker",
+      "stork",
+      "belt",
+      "camisole"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "eagle",
+      "parakeet",
+      "woodpecker",
+      "stork"
+    ]
+  },
+  {
+    "dialogue_id": 33,
+    "num_candidates": 8,
+    "candidates": [
+      "hawk",
+      "peacock",
+      "falcon",
+      "tie",
+      "belt",
+      "budgie",
+      "bra",
+      "shoes"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "hawk",
+      "peacock",
+      "falcon"
+    ]
+  },
+  {
+    "dialogue_id": 34,
+    "num_candidates": 8,
+    "candidates": [
+      "chickadee",
+      "skirt",
+      "eagle",
+      "leotards",
+      "bra",
+      "boots",
+      "owl",
+      "raven"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "chickadee",
+      "bra",
+      "leotards"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "belt",
+      "pajamas",
+      "slippers",
+      "woodpecker",
+      "parakeet",
+      "partridge",
+      "tie"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "belt",
+      "pajamas",
+      "slippers"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "shoes",
+      "goose",
+      "tie",
+      "peacock",
+      "belt",
+      "oriole",
+      "bra"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "tie",
+      "belt",
+      "bra"
+    ]
+  },
+  {
+    "dialogue_id": 37,
+    "num_candidates": 8,
+    "candidates": [
+      "rocket",
+      "duck",
+      "rooster",
+      "penguin",
+      "catapult",
+      "spear",
+      "cannon",
+      "budgie"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "duck",
+      "rooster",
+      "penguin",
+      "budgie"
+    ]
+  },
+  {
+    "dialogue_id": 38,
+    "num_candidates": 8,
+    "candidates": [
+      "shotgun",
+      "starling",
+      "pelican",
+      "rifle",
+      "penguin",
+      "stone",
+      "rocket",
+      "ostrich"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "pelican",
+      "penguin"
+    ]
+  },
+  {
+    "dialogue_id": 39,
+    "num_candidates": 8,
+    "candidates": [
+      "crowbar",
+      "stork",
+      "knife",
+      "chickadee",
+      "stick",
+      "owl",
+      "seagull",
+      "axe"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "chickadee",
+      "owl",
+      "seagull"
+    ]
+  },
+  {
+    "dialogue_id": 40,
+    "num_candidates": 8,
+    "candidates": [
+      "whip",
+      "stick",
+      "budgie",
+      "rooster",
+      "catapult",
+      "pheasant",
+      "peacock",
+      "bazooka"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "whip",
+      "stick",
+      "catapult",
+      "bazooka"
+    ]
+  },
+  {
+    "dialogue_id": 41,
+    "num_candidates": 8,
+    "candidates": [
+      "rifle",
+      "grenade",
+      "stone",
+      "turkey",
+      "flamingo",
+      "bomb",
+      "robin",
+      "penguin"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "grenade",
+      "stone",
+      "turkey",
+      "flamingo",
+      "bomb",
+      "robin",
+      "penguin"
+    ]
+  },
+  {
+    "dialogue_id": 42,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "whip",
+      "woodpecker",
+      "stick",
+      "sword",
+      "crow",
+      "tomahawk",
+      "pelican"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "whip",
+      "stick"
+    ]
+  },
+  {
+    "dialogue_id": 43,
+    "num_candidates": 8,
+    "candidates": [
+      "budgie",
+      "finch",
+      "grapefruit",
+      "cranberry",
+      "raisin",
+      "crow",
+      "pumpkin",
+      "raven"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "budgie",
+      "finch",
+      "grapefruit",
+      "cranberry",
+      "raisin",
+      "pumpkin"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "swan",
+      "apple",
+      "peach",
+      "buzzard",
+      "dove",
+      "lime",
+      "strawberry",
+      "robin"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "swan",
+      "buzzard",
+      "dove",
+      "robin"
+    ]
+  },
+  {
+    "dialogue_id": 45,
+    "num_candidates": 8,
+    "candidates": [
+      "pineapple",
+      "rhubarb",
+      "woodpecker",
+      "stork",
+      "swan",
+      "orange",
+      "canary",
+      "cherry"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "woodpecker",
+      "stork",
+      "swan",
+      "canary"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "owl",
+      "rhubarb",
+      "goose",
+      "cherry",
+      "apple",
+      "rooster",
+      "grapefruit"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 47,
+    "num_candidates": 8,
+    "candidates": [
+      "honeydew",
+      "avocado",
+      "duck",
+      "penguin",
+      "turkey",
+      "oriole",
+      "banana",
+      "tangerine"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "honeydew",
+      "banana",
+      "tangerine"
+    ]
+  },
+  {
+    "dialogue_id": 48,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peacock",
+      "budgie",
+      "nectarine",
+      "prune",
+      "falcon",
+      "hawk",
+      "tomato"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "nectarine",
+      "prune",
+      "tomato"
+    ]
+  },
+  {
+    "dialogue_id": 49,
+    "num_candidates": 8,
+    "candidates": [
+      "asparagus",
+      "chickadee",
+      "cucumber",
+      "starling",
+      "mushroom",
+      "buzzard",
+      "peas",
+      "crow"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "asparagus",
+      "cucumber",
+      "mushroom",
+      "peas"
+    ]
+  },
+  {
+    "dialogue_id": 50,
+    "num_candidates": 8,
+    "candidates": [
+      "blackbird",
+      "budgie",
+      "buzzard",
+      "mushroom",
+      "potato",
+      "cauliflower",
+      "chicken",
+      "cucumber"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "blackbird",
+      "budgie",
+      "buzzard"
+    ]
+  },
+  {
+    "dialogue_id": 51,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "duck",
+      "pickle",
+      "parakeet",
+      "crow",
+      "cucumber",
+      "onions",
+      "beets"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "parakeet",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 52,
+    "num_candidates": 8,
+    "candidates": [
+      "duck",
+      "mushroom",
+      "peas",
+      "pheasant",
+      "potato",
+      "emu",
+      "canary",
+      "onions"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "mushroom",
+      "peas",
+      "potato",
+      "onions"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "robin",
+      "peas",
+      "crow",
+      "peacock",
+      "tomato",
+      "parsley",
+      "corn",
+      "pelican"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "tomato",
+      "parsley",
+      "corn"
+    ]
+  },
+  {
+    "dialogue_id": 54,
+    "num_candidates": 8,
+    "candidates": [
+      "blackbird",
+      "owl",
+      "sparrow",
+      "avocado",
+      "pumpkin",
+      "onions",
+      "hawk",
+      "potato"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "avocado",
+      "pumpkin",
+      "onions",
+      "potato"
+    ]
+  },
+  {
+    "dialogue_id": 55,
+    "num_candidates": 8,
+    "candidates": [
+      "blouse",
+      "camisole",
+      "tomahawk",
+      "crowbar",
+      "gown",
+      "spear",
+      "harpoon",
+      "cape"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "gown",
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 56,
+    "num_candidates": 8,
+    "candidates": [
+      "bazooka",
+      "trousers",
+      "shield",
+      "whip",
+      "boots",
+      "crowbar",
+      "pants",
+      "cape"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "bazooka",
+      "shield",
+      "whip",
+      "crowbar",
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "tomahawk",
+      "bazooka",
+      "camisole",
+      "cloak",
+      "catapult",
+      "robe",
+      "bomb"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "trousers",
+      "camisole",
+      "robe"
+    ]
+  },
+  {
+    "dialogue_id": 58,
+    "num_candidates": 8,
+    "candidates": [
+      "axe",
+      "trousers",
+      "grenade",
+      "boots",
+      "pants",
+      "revolver",
+      "stone",
+      "cape"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "axe",
+      "grenade",
+      "revolver",
+      "stone"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "robe",
+      "trousers",
+      "stick",
+      "spear",
+      "camisole",
+      "catapult",
+      "cannon"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "stick",
+      "spear",
+      "catapult",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 60,
+    "num_candidates": 8,
+    "candidates": [
+      "bra",
+      "belt",
+      "bomb",
+      "tie",
+      "missile",
+      "rocket",
+      "shoes",
+      "stone"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "bra",
+      "belt",
+      "tie",
+      "rocket",
+      "shoes",
+      "stone"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "cloak",
+      "raisin",
+      "jacket",
+      "pumpkin",
+      "cape",
+      "swimsuit",
+      "prune",
+      "grapefruit"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "swimsuit",
+      "grapefruit"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "pants",
+      "rhubarb",
+      "grapefruit",
+      "pajamas",
+      "trousers",
+      "pumpkin",
+      "tomato"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "pants",
+      "trousers"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "honeydew",
+      "bra",
+      "socks",
+      "cantaloupe",
+      "pear",
+      "cloak",
+      "coat"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "bra",
+      "socks",
+      "cloak",
+      "coat"
+    ]
+  },
+  {
+    "dialogue_id": 64,
+    "num_candidates": 8,
+    "candidates": [
+      "cranberry",
+      "pants",
+      "boots",
+      "apple",
+      "pumpkin",
+      "plum",
+      "trousers",
+      "bra"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "cranberry",
+      "apple",
+      "pumpkin",
+      "plum"
+    ]
+  },
+  {
+    "dialogue_id": 65,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "cherry",
+      "robe",
+      "scarf",
+      "peach",
+      "skirt",
+      "cranberry",
+      "shoes"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "cherry",
+      "cranberry"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "strawberry",
+      "belt",
+      "pear",
+      "tie",
+      "raisin",
+      "skirt",
+      "mittens"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "coconut",
+      "strawberry",
+      "pear",
+      "raisin"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "mushroom",
+      "cloak",
+      "cucumber",
+      "blouse",
+      "socks",
+      "olive",
+      "zucchini",
+      "boots"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "boots"
+    ]
+  },
+  {
+    "dialogue_id": 68,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "trousers",
+      "onions",
+      "potato",
+      "blouse",
+      "pants",
+      "slippers",
+      "rhubarb"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "trousers",
+      "blouse",
+      "pants",
+      "slippers"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "pickle",
+      "swimsuit",
+      "beets",
+      "nightgown",
+      "shoes",
+      "mushroom",
+      "camisole"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "swimsuit",
+      "nightgown",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 70,
+    "num_candidates": 8,
+    "candidates": [
+      "peas",
+      "mushroom",
+      "cloak",
+      "coat",
+      "scarf",
+      "boots",
+      "cucumber",
+      "broccoli"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "peas",
+      "mushroom",
+      "cucumber",
+      "broccoli"
+    ]
+  },
+  {
+    "dialogue_id": 71,
+    "num_candidates": 8,
+    "candidates": [
+      "olive",
+      "potato",
+      "leotards",
+      "onions",
+      "pumpkin",
+      "mittens",
+      "nightgown",
+      "camisole"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "olive",
+      "potato",
+      "onions",
+      "pumpkin"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "shoes",
+      "peas",
+      "beans",
+      "tie",
+      "cauliflower",
+      "belt",
+      "bra",
+      "cabbage"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "peas",
+      "beans",
+      "cauliflower",
+      "cabbage"
+    ]
+  },
+  {
+    "dialogue_id": 73,
+    "num_candidates": 8,
+    "candidates": [
+      "revolver",
+      "shotgun",
+      "raisin",
+      "grapefruit",
+      "stick",
+      "spear",
+      "pumpkin",
+      "prune"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "revolver",
+      "shotgun",
+      "stick",
+      "spear"
+    ]
+  },
+  {
+    "dialogue_id": 74,
+    "num_candidates": 8,
+    "candidates": [
+      "olive",
+      "gun",
+      "raisin",
+      "grenade",
+      "cherry",
+      "rocket",
+      "plum",
+      "cannon"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "gun",
+      "grenade",
+      "rocket",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "apple",
+      "rock",
+      "bomb",
+      "pumpkin",
+      "stone",
+      "grapefruit",
+      "crossbow",
+      "cherry"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "rock",
+      "bomb",
+      "stone",
+      "crossbow"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "orange",
+      "shield",
+      "crossbow",
+      "lime",
+      "crowbar",
+      "missile",
+      "rhubarb",
+      "banana"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "shield",
+      "crowbar",
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 77,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peach",
+      "apple",
+      "plum",
+      "crowbar",
+      "pistol",
+      "rifle",
+      "whip"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "crowbar",
+      "pistol",
+      "rifle",
+      "whip"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "knife",
+      "honeydew",
+      "tomato",
+      "grape",
+      "sword",
+      "whip",
+      "rhubarb",
+      "stick"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "honeydew",
+      "tomato",
+      "grape",
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 79,
+    "num_candidates": 8,
+    "candidates": [
+      "onions",
+      "pickle",
+      "beans",
+      "olive",
+      "catapult",
+      "bazooka",
+      "missile",
+      "slingshot"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "catapult",
+      "bazooka",
+      "missile",
+      "slingshot"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "rocket",
+      "pickle",
+      "cannon",
+      "crowbar",
+      "avocado",
+      "grenade",
+      "radish",
+      "mushroom"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "rocket",
+      "cannon",
+      "grenade"
+    ]
+  },
+  {
+    "dialogue_id": 81,
+    "num_candidates": 8,
+    "candidates": [
+      "catapult",
+      "cannon",
+      "corn",
+      "pickle",
+      "bazooka",
+      "cucumber",
+      "potato",
+      "axe"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "corn",
+      "pickle",
+      "cucumber",
+      "potato",
+      "axe"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "turnip",
+      "stone",
+      "potato",
+      "harpoon",
+      "grenade",
+      "mushroom",
+      "radish",
+      "rifle"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "turnip",
+      "potato",
+      "radish"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "bomb",
+      "cabbage",
+      "stone",
+      "peas",
+      "beans",
+      "rock",
+      "rifle",
+      "cauliflower"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "cabbage",
+      "peas",
+      "beans",
+      "cauliflower"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "tomahawk",
+      "mushroom",
+      "axe",
+      "stick",
+      "onions",
+      "whip",
+      "broccoli",
+      "carrot"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "onions",
+      "broccoli",
+      "carrot"
+    ]
+  },
+  {
+    "dialogue_id": 85,
+    "num_candidates": 8,
+    "candidates": [
+      "celery",
+      "mushroom",
+      "prune",
+      "grapefruit",
+      "banana",
+      "lime",
+      "zucchini",
+      "beans"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "celery",
+      "mushroom",
+      "prune",
+      "lime",
+      "zucchini"
+    ]
+  },
+  {
+    "dialogue_id": 86,
+    "num_candidates": 8,
+    "candidates": [
+      "banana",
+      "beans",
+      "tangerine",
+      "beets",
+      "pickle",
+      "mushroom",
+      "cranberry",
+      "peach"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "banana"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "lemon",
+      "beets",
+      "orange",
+      "beans",
+      "mushroom",
+      "coconut",
+      "raspberry",
+      "radish"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "beets",
+      "coconut",
+      "raspberry"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "plum",
+      "orange",
+      "beans",
+      "pineapple",
+      "lettuce",
+      "carrot",
+      "lemon"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "zucchini",
+      "beans",
+      "lettuce",
+      "carrot"
+    ]
+  },
+  {
+    "dialogue_id": 89,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "beans",
+      "zucchini",
+      "honeydew",
+      "pickle",
+      "pineapple",
+      "peach",
+      "strawberry"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "radish",
+      "beans",
+      "zucchini",
+      "pickle"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "onions",
+      "strawberry",
+      "beets",
+      "pineapple",
+      "pickle",
+      "raspberry",
+      "peach"
+    ],
+    "question_step": 2,
+    "reference_set": [
+      "beans",
+      "onions",
+      "beets",
+      "pickle"
+    ]
+  },
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "elk",
+      "chicken",
+      "robin",
+      "starling",
+      "fox",
+      "partridge",
+      "hamster",
+      "buffalo"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "fox",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "budgie",
+      "zebra",
+      "deer",
+      "penguin",
+      "pelican",
+      "sheep",
+      "fawn",
+      "ostrich"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "deer",
+      "sheep",
+      "fawn"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "bear",
+      "zebra",
+      "walrus",
+      "vulture",
+      "chickadee",
+      "finch",
+      "otter"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "bear",
+      "walrus",
+      "otter"
+    ]
+  },
+  {
+    "dialogue_id": 4,
+    "num_candidates": 8,
+    "candidates": [
+      "peacock",
+      "platypus",
+      "budgie",
+      "pig",
+      "turkey",
+      "beaver",
+      "deer",
+      "rooster"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "peacock",
+      "budgie",
+      "rooster"
+    ]
+  },
+  {
+    "dialogue_id": 5,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "eagle",
+      "fawn",
+      "owl",
+      "platypus",
+      "beaver",
+      "pigeon",
+      "chimp"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "falcon",
+      "eagle"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "fawn",
+      "hamster",
+      "falcon",
+      "cheetah",
+      "peacock",
+      "owl",
+      "parakeet",
+      "giraffe"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "falcon",
+      "owl"
+    ]
+  },
+  {
+    "dialogue_id": 7,
+    "num_candidates": 8,
+    "candidates": [
+      "chipmunk",
+      "leotards",
+      "mittens",
+      "bear",
+      "hamster",
+      "boots",
+      "gown",
+      "zebra"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "chipmunk",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 8,
+    "num_candidates": 8,
+    "candidates": [
+      "dolphin",
+      "trousers",
+      "shoes",
+      "cougar",
+      "beaver",
+      "bra",
+      "ox",
+      "pants"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "dolphin"
+    ]
+  },
+  {
+    "dialogue_id": 9,
+    "num_candidates": 8,
+    "candidates": [
+      "shoes",
+      "fawn",
+      "deer",
+      "belt",
+      "gorilla",
+      "bra",
+      "elephant",
+      "tie"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "fawn",
+      "deer",
+      "gorilla",
+      "elephant"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "boots",
+      "fawn",
+      "seal",
+      "cape",
+      "otter",
+      "swimsuit",
+      "porcupine",
+      "trousers"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "boots",
+      "s",
+      "als"
+    ]
+  },
+  {
+    "dialogue_id": 11,
+    "num_candidates": 8,
+    "candidates": [
+      "cougar",
+      "belt",
+      "otter",
+      "tie",
+      "scarf",
+      "seal",
+      "pig",
+      "blouse"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "tie",
+      "scarf"
+    ]
+  },
+  {
+    "dialogue_id": 12,
+    "num_candidates": 8,
+    "candidates": [
+      "walrus",
+      "chimp",
+      "belt",
+      "donkey",
+      "platypus",
+      "pajamas",
+      "tie",
+      "blouse"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "belt",
+      "pajamas",
+      "tie"
+    ]
+  },
+  {
+    "dialogue_id": 14,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "bear",
+      "squirrel",
+      "grenade",
+      "whip",
+      "zebra",
+      "crowbar",
+      "rocket"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "goat",
+      "bear",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 15,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "tomahawk",
+      "sword",
+      "seal",
+      "walrus",
+      "missile",
+      "cougar",
+      "revolver"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "seal",
+      "walrus"
+    ]
+  },
+  {
+    "dialogue_id": 16,
+    "num_candidates": 8,
+    "candidates": [
+      "deer",
+      "missile",
+      "stick",
+      "buffalo",
+      "sheep",
+      "shotgun",
+      "bomb",
+      "cow"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "missile",
+      "shotgun",
+      "bomb"
+    ]
+  },
+  {
+    "dialogue_id": 17,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "spear",
+      "deer",
+      "pistol",
+      "gorilla",
+      "lion",
+      "dagger",
+      "shotgun"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "pistol",
+      "shotgun"
+    ]
+  },
+  {
+    "dialogue_id": 18,
+    "num_candidates": 8,
+    "candidates": [
+      "harpoon",
+      "stick",
+      "buffalo",
+      "cow",
+      "walrus",
+      "whip",
+      "seal",
+      "knife"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "stick",
+      "buffalo",
+      "cow",
+      "knife"
+    ]
+  },
+  {
+    "dialogue_id": 19,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "pumpkin",
+      "porcupine",
+      "strawberry",
+      "grapefruit",
+      "elephant",
+      "caribou",
+      "plum"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "elephant",
+      "caribou"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "cherry",
+      "beaver",
+      "grapefruit",
+      "tomato",
+      "deer",
+      "seal",
+      "cow"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "deer",
+      "cow"
+    ]
+  },
+  {
+    "dialogue_id": 22,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "cheetah",
+      "strawberry",
+      "fawn",
+      "pineapple",
+      "giraffe",
+      "deer",
+      "tangerine"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "avocado",
+      "strawberry",
+      "pineapple",
+      "tangerine"
+    ]
+  },
+  {
+    "dialogue_id": 23,
+    "num_candidates": 8,
+    "candidates": [
+      "apple",
+      "pear",
+      "beaver",
+      "cherry",
+      "cougar",
+      "platypus",
+      "elephant",
+      "grapefruit"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "cherry",
+      "grapefruit"
+    ]
+  },
+  {
+    "dialogue_id": 24,
+    "num_candidates": 8,
+    "candidates": [
+      "tomato",
+      "giraffe",
+      "rhubarb",
+      "hamster",
+      "tangerine",
+      "mink",
+      "cranberry",
+      "cheetah"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "tomato",
+      "rhubarb",
+      "cranberry"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "mink",
+      "mushroom",
+      "asparagus",
+      "cow",
+      "radish",
+      "whale",
+      "celery",
+      "squirrel"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "mink",
+      "cow",
+      "whale"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "broccoli",
+      "walrus",
+      "gorilla",
+      "mushroom",
+      "potato",
+      "peas",
+      "sheep",
+      "dolphin"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "gorilla",
+      "mushroom",
+      "potato",
+      "sheep"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "otter",
+      "seal",
+      "celery",
+      "asparagus",
+      "tomato",
+      "elk",
+      "lion",
+      "pumpkin"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "elk",
+      "lion"
+    ]
+  },
+  {
+    "dialogue_id": 28,
+    "num_candidates": 8,
+    "candidates": [
+      "gorilla",
+      "pumpkin",
+      "mushroom",
+      "cauliflower",
+      "fawn",
+      "peas",
+      "deer",
+      "cougar"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "pumpkin",
+      "cauliflower"
+    ]
+  },
+  {
+    "dialogue_id": 29,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "whale",
+      "beans",
+      "potato",
+      "bison",
+      "pig",
+      "beets",
+      "deer"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "radish",
+      "beans",
+      "bison"
+    ]
+  },
+  {
+    "dialogue_id": 30,
+    "num_candidates": 8,
+    "candidates": [
+      "eggplant",
+      "onions",
+      "fawn",
+      "chimp",
+      "pumpkin",
+      "platypus",
+      "walrus",
+      "potato"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "eggplant",
+      "onions",
+      "pumpkin",
+      "potato"
+    ]
+  },
+  {
+    "dialogue_id": 31,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "buzzard",
+      "cloak",
+      "bluejay",
+      "boots",
+      "vulture",
+      "penguin",
+      "sweater"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "buzzard",
+      "bluejay",
+      "vulture",
+      "penguin"
+    ]
+  },
+  {
+    "dialogue_id": 32,
+    "num_candidates": 8,
+    "candidates": [
+      "tie",
+      "bra",
+      "eagle",
+      "parakeet",
+      "woodpecker",
+      "stork",
+      "belt",
+      "camisole"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "parakeet",
+      "woodpecker",
+      "stork"
+    ]
+  },
+  {
+    "dialogue_id": 33,
+    "num_candidates": 8,
+    "candidates": [
+      "hawk",
+      "peacock",
+      "falcon",
+      "tie",
+      "belt",
+      "budgie",
+      "bra",
+      "shoes"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "hawk",
+      "peacock"
+    ]
+  },
+  {
+    "dialogue_id": 34,
+    "num_candidates": 8,
+    "candidates": [
+      "chickadee",
+      "skirt",
+      "eagle",
+      "leotards",
+      "bra",
+      "boots",
+      "owl",
+      "raven"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "bra",
+      "leotards"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "belt",
+      "pajamas",
+      "slippers",
+      "woodpecker",
+      "parakeet",
+      "partridge",
+      "tie"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "belt",
+      "slippers"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "shoes",
+      "goose",
+      "tie",
+      "peacock",
+      "belt",
+      "oriole",
+      "bra"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "peacock",
+      "oriole"
+    ]
+  },
+  {
+    "dialogue_id": 37,
+    "num_candidates": 8,
+    "candidates": [
+      "rocket",
+      "duck",
+      "rooster",
+      "penguin",
+      "catapult",
+      "spear",
+      "cannon",
+      "budgie"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "duck",
+      "rooster"
+    ]
+  },
+  {
+    "dialogue_id": 38,
+    "num_candidates": 8,
+    "candidates": [
+      "shotgun",
+      "starling",
+      "pelican",
+      "rifle",
+      "penguin",
+      "stone",
+      "rocket",
+      "ostrich"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "pelican",
+      "penguin"
+    ]
+  },
+  {
+    "dialogue_id": 39,
+    "num_candidates": 8,
+    "candidates": [
+      "crowbar",
+      "stork",
+      "knife",
+      "chickadee",
+      "stick",
+      "owl",
+      "seagull",
+      "axe"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "stork",
+      "seagull"
+    ]
+  },
+  {
+    "dialogue_id": 40,
+    "num_candidates": 8,
+    "candidates": [
+      "whip",
+      "stick",
+      "budgie",
+      "rooster",
+      "catapult",
+      "pheasant",
+      "peacock",
+      "bazooka"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "whip",
+      "stick",
+      "catapult",
+      "bazooka"
+    ]
+  },
+  {
+    "dialogue_id": 41,
+    "num_candidates": 8,
+    "candidates": [
+      "rifle",
+      "grenade",
+      "stone",
+      "turkey",
+      "flamingo",
+      "bomb",
+      "robin",
+      "penguin"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "grenade",
+      "bomb"
+    ]
+  },
+  {
+    "dialogue_id": 42,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "whip",
+      "woodpecker",
+      "stick",
+      "sword",
+      "crow",
+      "tomahawk",
+      "pelican"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "whip",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 43,
+    "num_candidates": 8,
+    "candidates": [
+      "budgie",
+      "finch",
+      "grapefruit",
+      "cranberry",
+      "raisin",
+      "crow",
+      "pumpkin",
+      "raven"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "budgie"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "swan",
+      "apple",
+      "peach",
+      "buzzard",
+      "dove",
+      "lime",
+      "strawberry",
+      "robin"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "swan",
+      "dove"
+    ]
+  },
+  {
+    "dialogue_id": 45,
+    "num_candidates": 8,
+    "candidates": [
+      "pineapple",
+      "rhubarb",
+      "woodpecker",
+      "stork",
+      "swan",
+      "orange",
+      "canary",
+      "cherry"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "stork",
+      "swan",
+      "canary"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "owl",
+      "rhubarb",
+      "goose",
+      "cherry",
+      "apple",
+      "rooster",
+      "grapefruit"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 47,
+    "num_candidates": 8,
+    "candidates": [
+      "honeydew",
+      "avocado",
+      "duck",
+      "penguin",
+      "turkey",
+      "oriole",
+      "banana",
+      "tangerine"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "honeydew",
+      "banana",
+      "tangerine"
+    ]
+  },
+  {
+    "dialogue_id": 48,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peacock",
+      "budgie",
+      "nectarine",
+      "prune",
+      "falcon",
+      "hawk",
+      "tomato"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "rhubarb",
+      "budgie",
+      "prune",
+      "nectarine"
+    ]
+  },
+  {
+    "dialogue_id": 49,
+    "num_candidates": 8,
+    "candidates": [
+      "asparagus",
+      "chickadee",
+      "cucumber",
+      "starling",
+      "mushroom",
+      "buzzard",
+      "peas",
+      "crow"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "chickadee",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 50,
+    "num_candidates": 8,
+    "candidates": [
+      "blackbird",
+      "budgie",
+      "buzzard",
+      "mushroom",
+      "potato",
+      "cauliflower",
+      "chicken",
+      "cucumber"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "blackbird",
+      "buzzard"
+    ]
+  },
+  {
+    "dialogue_id": 51,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "duck",
+      "pickle",
+      "parakeet",
+      "crow",
+      "cucumber",
+      "onions",
+      "beets"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "parakeet",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 52,
+    "num_candidates": 8,
+    "candidates": [
+      "duck",
+      "mushroom",
+      "peas",
+      "pheasant",
+      "potato",
+      "emu",
+      "canary",
+      "onions"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "potato",
+      "onions"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "robin",
+      "peas",
+      "crow",
+      "peacock",
+      "tomato",
+      "parsley",
+      "corn",
+      "pelican"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "peas",
+      "tomato",
+      "parsley",
+      "corn"
+    ]
+  },
+  {
+    "dialogue_id": 54,
+    "num_candidates": 8,
+    "candidates": [
+      "blackbird",
+      "owl",
+      "sparrow",
+      "avocado",
+      "pumpkin",
+      "onions",
+      "hawk",
+      "potato"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "avocado",
+      "pumpkin"
+    ]
+  },
+  {
+    "dialogue_id": 55,
+    "num_candidates": 8,
+    "candidates": [
+      "blouse",
+      "camisole",
+      "tomahawk",
+      "crowbar",
+      "gown",
+      "spear",
+      "harpoon",
+      "cape"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "camisole",
+      "blouse",
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 56,
+    "num_candidates": 8,
+    "candidates": [
+      "bazooka",
+      "trousers",
+      "shield",
+      "whip",
+      "boots",
+      "crowbar",
+      "pants",
+      "cape"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "shield",
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "tomahawk",
+      "bazooka",
+      "camisole",
+      "cloak",
+      "catapult",
+      "robe",
+      "bomb"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "trousers",
+      "camisole",
+      "robe"
+    ]
+  },
+  {
+    "dialogue_id": 58,
+    "num_candidates": 8,
+    "candidates": [
+      "axe",
+      "trousers",
+      "grenade",
+      "boots",
+      "pants",
+      "revolver",
+      "stone",
+      "cape"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "grenade",
+      "revolver"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "robe",
+      "trousers",
+      "stick",
+      "spear",
+      "camisole",
+      "catapult",
+      "cannon"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "stick",
+      "spear",
+      "catapult",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 60,
+    "num_candidates": 8,
+    "candidates": [
+      "bra",
+      "belt",
+      "bomb",
+      "tie",
+      "missile",
+      "rocket",
+      "shoes",
+      "stone"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "bra",
+      "belt",
+      "tie",
+      "rocket",
+      "shoes",
+      "stone"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "cloak",
+      "raisin",
+      "jacket",
+      "pumpkin",
+      "cape",
+      "swimsuit",
+      "prune",
+      "grapefruit"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "swimsuit",
+      "cloak",
+      "jacket",
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "pants",
+      "rhubarb",
+      "grapefruit",
+      "pajamas",
+      "trousers",
+      "pumpkin",
+      "tomato"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "camisole",
+      "pants",
+      "trousers",
+      "pajamas"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "honeydew",
+      "bra",
+      "socks",
+      "cantaloupe",
+      "pear",
+      "cloak",
+      "coat"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "bra",
+      "socks",
+      "cloak",
+      "coat"
+    ]
+  },
+  {
+    "dialogue_id": 64,
+    "num_candidates": 8,
+    "candidates": [
+      "cranberry",
+      "pants",
+      "boots",
+      "apple",
+      "pumpkin",
+      "plum",
+      "trousers",
+      "bra"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "cranberry",
+      "apple",
+      "pumpkin",
+      "plum"
+    ]
+  },
+  {
+    "dialogue_id": 65,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "cherry",
+      "robe",
+      "scarf",
+      "peach",
+      "skirt",
+      "cranberry",
+      "shoes"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "cherry",
+      "cranberry"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "strawberry",
+      "belt",
+      "pear",
+      "tie",
+      "raisin",
+      "skirt",
+      "mittens"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "coconut",
+      "pear",
+      "raisin"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "mushroom",
+      "cloak",
+      "cucumber",
+      "blouse",
+      "socks",
+      "olive",
+      "zucchini",
+      "boots"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "boots",
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 68,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "trousers",
+      "onions",
+      "potato",
+      "blouse",
+      "pants",
+      "slippers",
+      "rhubarb"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "trousers",
+      "blouse",
+      "pants"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "pickle",
+      "swimsuit",
+      "beets",
+      "nightgown",
+      "shoes",
+      "mushroom",
+      "camisole"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "swimsuit",
+      "nightgown",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 70,
+    "num_candidates": 8,
+    "candidates": [
+      "peas",
+      "mushroom",
+      "cloak",
+      "coat",
+      "scarf",
+      "boots",
+      "cucumber",
+      "broccoli"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "peas",
+      "cucumber",
+      "broccoli"
+    ]
+  },
+  {
+    "dialogue_id": 71,
+    "num_candidates": 8,
+    "candidates": [
+      "olive",
+      "potato",
+      "leotards",
+      "onions",
+      "pumpkin",
+      "mittens",
+      "nightgown",
+      "camisole"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "olive",
+      "potato",
+      "onions",
+      "pumpkin"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "shoes",
+      "peas",
+      "beans",
+      "tie",
+      "cauliflower",
+      "belt",
+      "bra",
+      "cabbage"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "peas",
+      "beans",
+      "cauliflower",
+      "cabbage"
+    ]
+  },
+  {
+    "dialogue_id": 73,
+    "num_candidates": 8,
+    "candidates": [
+      "revolver",
+      "shotgun",
+      "raisin",
+      "grapefruit",
+      "stick",
+      "spear",
+      "pumpkin",
+      "prune"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "stick",
+      "spear",
+      "pumpkin"
+    ]
+  },
+  {
+    "dialogue_id": 74,
+    "num_candidates": 8,
+    "candidates": [
+      "olive",
+      "gun",
+      "raisin",
+      "grenade",
+      "cherry",
+      "rocket",
+      "plum",
+      "cannon"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "gun",
+      "grenade",
+      "rocket",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "apple",
+      "rock",
+      "bomb",
+      "pumpkin",
+      "stone",
+      "grapefruit",
+      "crossbow",
+      "cherry"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "rock",
+      "bomb",
+      "stone",
+      "crossbow"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "orange",
+      "shield",
+      "crossbow",
+      "lime",
+      "crowbar",
+      "missile",
+      "rhubarb",
+      "banana"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "shield",
+      "crowbar",
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 77,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peach",
+      "apple",
+      "plum",
+      "crowbar",
+      "pistol",
+      "rifle",
+      "whip"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "rhubarb",
+      "crowbar",
+      "whip"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "knife",
+      "honeydew",
+      "tomato",
+      "grape",
+      "sword",
+      "whip",
+      "rhubarb",
+      "stick"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "honeydew",
+      "tomato",
+      "grape",
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 79,
+    "num_candidates": 8,
+    "candidates": [
+      "onions",
+      "pickle",
+      "beans",
+      "olive",
+      "catapult",
+      "bazooka",
+      "missile",
+      "slingshot"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "catapult",
+      "bazooka",
+      "missile",
+      "slingshot"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "rocket",
+      "pickle",
+      "cannon",
+      "crowbar",
+      "avocado",
+      "grenade",
+      "radish",
+      "mushroom"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "rocket",
+      "crowbar",
+      "radish"
+    ]
+  },
+  {
+    "dialogue_id": 81,
+    "num_candidates": 8,
+    "candidates": [
+      "catapult",
+      "cannon",
+      "corn",
+      "pickle",
+      "bazooka",
+      "cucumber",
+      "potato",
+      "axe"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "axe"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "turnip",
+      "stone",
+      "potato",
+      "harpoon",
+      "grenade",
+      "mushroom",
+      "radish",
+      "rifle"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "potato",
+      "radish"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "bomb",
+      "cabbage",
+      "stone",
+      "peas",
+      "beans",
+      "rock",
+      "rifle",
+      "cauliflower"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "cabbage",
+      "peas",
+      "beans",
+      "cauliflower"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "tomahawk",
+      "mushroom",
+      "axe",
+      "stick",
+      "onions",
+      "whip",
+      "broccoli",
+      "carrot"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "broccoli",
+      "carrot"
+    ]
+  },
+  {
+    "dialogue_id": 85,
+    "num_candidates": 8,
+    "candidates": [
+      "celery",
+      "mushroom",
+      "prune",
+      "grapefruit",
+      "banana",
+      "lime",
+      "zucchini",
+      "beans"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "grapefruit",
+      "lime"
+    ]
+  },
+  {
+    "dialogue_id": 86,
+    "num_candidates": 8,
+    "candidates": [
+      "banana",
+      "beans",
+      "tangerine",
+      "beets",
+      "pickle",
+      "mushroom",
+      "cranberry",
+      "peach"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "banana"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "lemon",
+      "beets",
+      "orange",
+      "beans",
+      "mushroom",
+      "coconut",
+      "raspberry",
+      "radish"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "beets",
+      "coconut",
+      "mushroom",
+      "radish"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "plum",
+      "orange",
+      "beans",
+      "pineapple",
+      "lettuce",
+      "carrot",
+      "lemon"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "zucchini",
+      "beans",
+      "lettuce",
+      "carrot"
+    ]
+  },
+  {
+    "dialogue_id": 89,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "beans",
+      "zucchini",
+      "honeydew",
+      "pickle",
+      "pineapple",
+      "peach",
+      "strawberry"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "radish",
+      "beans",
+      "zucchini",
+      "pickle"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "onions",
+      "strawberry",
+      "beets",
+      "pineapple",
+      "pickle",
+      "raspberry",
+      "peach"
+    ],
+    "question_step": 3,
+    "reference_set": [
+      "beans",
+      "onions",
+      "beets",
+      "pickle"
+    ]
+  },
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "elk",
+      "chicken",
+      "robin",
+      "starling",
+      "fox",
+      "partridge",
+      "hamster",
+      "buffalo"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "fox",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "budgie",
+      "zebra",
+      "deer",
+      "penguin",
+      "pelican",
+      "sheep",
+      "fawn",
+      "ostrich"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "deer",
+      "sheep",
+      "fawn"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "bear",
+      "zebra",
+      "walrus",
+      "vulture",
+      "chickadee",
+      "finch",
+      "otter"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "bear",
+      "otter",
+      "walrus"
+    ]
+  },
+  {
+    "dialogue_id": 4,
+    "num_candidates": 8,
+    "candidates": [
+      "peacock",
+      "platypus",
+      "budgie",
+      "pig",
+      "turkey",
+      "beaver",
+      "deer",
+      "rooster"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "peacock",
+      "budgie",
+      "turkey",
+      "rooster"
+    ]
+  },
+  {
+    "dialogue_id": 5,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "eagle",
+      "fawn",
+      "owl",
+      "platypus",
+      "beaver",
+      "pigeon",
+      "chimp"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "falcon",
+      "eagle"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "fawn",
+      "hamster",
+      "falcon",
+      "cheetah",
+      "peacock",
+      "owl",
+      "parakeet",
+      "giraffe"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "falcon",
+      "peacock"
+    ]
+  },
+  {
+    "dialogue_id": 7,
+    "num_candidates": 8,
+    "candidates": [
+      "chipmunk",
+      "leotards",
+      "mittens",
+      "bear",
+      "hamster",
+      "boots",
+      "gown",
+      "zebra"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hamster",
+      "leotards"
+    ]
+  },
+  {
+    "dialogue_id": 9,
+    "num_candidates": 8,
+    "candidates": [
+      "shoes",
+      "fawn",
+      "deer",
+      "belt",
+      "gorilla",
+      "bra",
+      "elephant",
+      "tie"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "fawn",
+      "deer",
+      "elephant"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "boots",
+      "fawn",
+      "seal",
+      "cape",
+      "otter",
+      "swimsuit",
+      "porcupine",
+      "trousers"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "boots",
+      "s",
+      "als"
+    ]
+  },
+  {
+    "dialogue_id": 11,
+    "num_candidates": 8,
+    "candidates": [
+      "cougar",
+      "belt",
+      "otter",
+      "tie",
+      "scarf",
+      "seal",
+      "pig",
+      "blouse"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "tie",
+      "scarf"
+    ]
+  },
+  {
+    "dialogue_id": 12,
+    "num_candidates": 8,
+    "candidates": [
+      "walrus",
+      "chimp",
+      "belt",
+      "donkey",
+      "platypus",
+      "pajamas",
+      "tie",
+      "blouse"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "belt",
+      "pajamas",
+      "trousers"
+    ]
+  },
+  {
+    "dialogue_id": 14,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "bear",
+      "squirrel",
+      "grenade",
+      "whip",
+      "zebra",
+      "crowbar",
+      "rocket"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "goat",
+      "bear",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 16,
+    "num_candidates": 8,
+    "candidates": [
+      "deer",
+      "missile",
+      "stick",
+      "buffalo",
+      "sheep",
+      "shotgun",
+      "bomb",
+      "cow"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "missile",
+      "shotgun",
+      "bomb"
+    ]
+  },
+  {
+    "dialogue_id": 17,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "spear",
+      "deer",
+      "pistol",
+      "gorilla",
+      "lion",
+      "dagger",
+      "shotgun"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "spear",
+      "dagger"
+    ]
+  },
+  {
+    "dialogue_id": 18,
+    "num_candidates": 8,
+    "candidates": [
+      "harpoon",
+      "stick",
+      "buffalo",
+      "cow",
+      "walrus",
+      "whip",
+      "seal",
+      "knife"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "stick"
+    ]
+  },
+  {
+    "dialogue_id": 19,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "pumpkin",
+      "porcupine",
+      "strawberry",
+      "grapefruit",
+      "elephant",
+      "caribou",
+      "plum"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "hamster",
+      "elephant",
+      "caribou"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "cherry",
+      "beaver",
+      "grapefruit",
+      "tomato",
+      "deer",
+      "seal",
+      "cow"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "beaver",
+      "deer",
+      "cow"
+    ]
+  },
+  {
+    "dialogue_id": 22,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "cheetah",
+      "strawberry",
+      "fawn",
+      "pineapple",
+      "giraffe",
+      "deer",
+      "tangerine"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "avocado",
+      "pineapple",
+      "tangerine"
+    ]
+  },
+  {
+    "dialogue_id": 24,
+    "num_candidates": 8,
+    "candidates": [
+      "tomato",
+      "giraffe",
+      "rhubarb",
+      "hamster",
+      "tangerine",
+      "mink",
+      "cranberry",
+      "cheetah"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "tomato",
+      "rhubarb",
+      "cranberry"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "mink",
+      "mushroom",
+      "asparagus",
+      "cow",
+      "radish",
+      "whale",
+      "celery",
+      "squirrel"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "mink",
+      "cow",
+      "whale"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "broccoli",
+      "walrus",
+      "gorilla",
+      "mushroom",
+      "potato",
+      "peas",
+      "sheep",
+      "dolphin"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "broccoli",
+      "mushroom",
+      "potato",
+      "peas"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "otter",
+      "seal",
+      "celery",
+      "asparagus",
+      "tomato",
+      "elk",
+      "lion",
+      "pumpkin"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "otter",
+      "lion"
+    ]
+  },
+  {
+    "dialogue_id": 29,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "whale",
+      "beans",
+      "potato",
+      "bison",
+      "pig",
+      "beets",
+      "deer"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "whale",
+      "bison",
+      "pig"
+    ]
+  },
+  {
+    "dialogue_id": 30,
+    "num_candidates": 8,
+    "candidates": [
+      "eggplant",
+      "onions",
+      "fawn",
+      "chimp",
+      "pumpkin",
+      "platypus",
+      "walrus",
+      "potato"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "eggplant",
+      "onions",
+      "pumpkin",
+      "potato"
+    ]
+  },
+  {
+    "dialogue_id": 31,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "buzzard",
+      "cloak",
+      "bluejay",
+      "boots",
+      "vulture",
+      "penguin",
+      "sweater"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "bluejay",
+      "buzzard",
+      "vulture"
+    ]
+  },
+  {
+    "dialogue_id": 32,
+    "num_candidates": 8,
+    "candidates": [
+      "tie",
+      "bra",
+      "eagle",
+      "parakeet",
+      "woodpecker",
+      "stork",
+      "belt",
+      "camisole"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "stork"
+    ]
+  },
+  {
+    "dialogue_id": 34,
+    "num_candidates": 8,
+    "candidates": [
+      "chickadee",
+      "skirt",
+      "eagle",
+      "leotards",
+      "bra",
+      "boots",
+      "owl",
+      "raven"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "bra",
+      "leotards"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "belt",
+      "pajamas",
+      "slippers",
+      "woodpecker",
+      "parakeet",
+      "partridge",
+      "tie"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "belt",
+      "pajamas"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "shoes",
+      "goose",
+      "tie",
+      "peacock",
+      "belt",
+      "oriole",
+      "bra"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "tie",
+      "belt",
+      "bra"
+    ]
+  },
+  {
+    "dialogue_id": 38,
+    "num_candidates": 8,
+    "candidates": [
+      "shotgun",
+      "starling",
+      "pelican",
+      "rifle",
+      "penguin",
+      "stone",
+      "rocket",
+      "ostrich"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "penguin",
+      "ostrich"
+    ]
+  },
+  {
+    "dialogue_id": 39,
+    "num_candidates": 8,
+    "candidates": [
+      "crowbar",
+      "stork",
+      "knife",
+      "chickadee",
+      "stick",
+      "owl",
+      "seagull",
+      "axe"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "seagull"
+    ]
+  },
+  {
+    "dialogue_id": 40,
+    "num_candidates": 8,
+    "candidates": [
+      "whip",
+      "stick",
+      "budgie",
+      "rooster",
+      "catapult",
+      "pheasant",
+      "peacock",
+      "bazooka"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "whip",
+      "catapult",
+      "bazooka"
+    ]
+  },
+  {
+    "dialogue_id": 41,
+    "num_candidates": 8,
+    "candidates": [
+      "rifle",
+      "grenade",
+      "stone",
+      "turkey",
+      "flamingo",
+      "bomb",
+      "robin",
+      "penguin"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "grenade",
+      "bomb"
+    ]
+  },
+  {
+    "dialogue_id": 43,
+    "num_candidates": 8,
+    "candidates": [
+      "budgie",
+      "finch",
+      "grapefruit",
+      "cranberry",
+      "raisin",
+      "crow",
+      "pumpkin",
+      "raven"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "budgie"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "swan",
+      "apple",
+      "peach",
+      "buzzard",
+      "dove",
+      "lime",
+      "strawberry",
+      "robin"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "dove",
+      "buzzard",
+      "robin"
+    ]
+  },
+  {
+    "dialogue_id": 45,
+    "num_candidates": 8,
+    "candidates": [
+      "pineapple",
+      "rhubarb",
+      "woodpecker",
+      "stork",
+      "swan",
+      "orange",
+      "canary",
+      "cherry"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "stork",
+      "swan",
+      "canary"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "owl",
+      "rhubarb",
+      "goose",
+      "cherry",
+      "apple",
+      "rooster",
+      "grapefruit"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 48,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peacock",
+      "budgie",
+      "nectarine",
+      "prune",
+      "falcon",
+      "hawk",
+      "tomato"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "nectarine",
+      "prune"
+    ]
+  },
+  {
+    "dialogue_id": 49,
+    "num_candidates": 8,
+    "candidates": [
+      "asparagus",
+      "chickadee",
+      "cucumber",
+      "starling",
+      "mushroom",
+      "buzzard",
+      "peas",
+      "crow"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "chickadee",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 51,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "duck",
+      "pickle",
+      "parakeet",
+      "crow",
+      "cucumber",
+      "onions",
+      "beets"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "parakeet"
+    ]
+  },
+  {
+    "dialogue_id": 52,
+    "num_candidates": 8,
+    "candidates": [
+      "duck",
+      "mushroom",
+      "peas",
+      "pheasant",
+      "potato",
+      "emu",
+      "canary",
+      "onions"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "potato",
+      "onions"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "robin",
+      "peas",
+      "crow",
+      "peacock",
+      "tomato",
+      "parsley",
+      "corn",
+      "pelican"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "tomato",
+      "corn"
+    ]
+  },
+  {
+    "dialogue_id": 54,
+    "num_candidates": 8,
+    "candidates": [
+      "blackbird",
+      "owl",
+      "sparrow",
+      "avocado",
+      "pumpkin",
+      "onions",
+      "hawk",
+      "potato"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "avocado"
+    ]
+  },
+  {
+    "dialogue_id": 55,
+    "num_candidates": 8,
+    "candidates": [
+      "blouse",
+      "camisole",
+      "tomahawk",
+      "crowbar",
+      "gown",
+      "spear",
+      "harpoon",
+      "cape"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "blouse",
+      "camisole",
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 56,
+    "num_candidates": 8,
+    "candidates": [
+      "bazooka",
+      "trousers",
+      "shield",
+      "whip",
+      "boots",
+      "crowbar",
+      "pants",
+      "cape"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "shield",
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "tomahawk",
+      "bazooka",
+      "camisole",
+      "cloak",
+      "catapult",
+      "robe",
+      "bomb"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "trousers",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 58,
+    "num_candidates": 8,
+    "candidates": [
+      "axe",
+      "trousers",
+      "grenade",
+      "boots",
+      "pants",
+      "revolver",
+      "stone",
+      "cape"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "grenade",
+      "revolver"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "robe",
+      "trousers",
+      "stick",
+      "spear",
+      "camisole",
+      "catapult",
+      "cannon"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "stick",
+      "spear",
+      "catapult",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 60,
+    "num_candidates": 8,
+    "candidates": [
+      "bra",
+      "belt",
+      "bomb",
+      "tie",
+      "missile",
+      "rocket",
+      "shoes",
+      "stone"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "bra",
+      "belt",
+      "tie",
+      "rocket",
+      "shoes",
+      "stone"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "cloak",
+      "raisin",
+      "jacket",
+      "pumpkin",
+      "cape",
+      "swimsuit",
+      "prune",
+      "grapefruit"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "cape",
+      "swimsuit",
+      "jacket"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "pants",
+      "rhubarb",
+      "grapefruit",
+      "pajamas",
+      "trousers",
+      "pumpkin",
+      "tomato"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "camisole",
+      "rhubarb",
+      "grapefruit",
+      "pumpkin",
+      "tomato"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "honeydew",
+      "bra",
+      "socks",
+      "cantaloupe",
+      "pear",
+      "cloak",
+      "coat"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "bra",
+      "cloak",
+      "coat"
+    ]
+  },
+  {
+    "dialogue_id": 64,
+    "num_candidates": 8,
+    "candidates": [
+      "cranberry",
+      "pants",
+      "boots",
+      "apple",
+      "pumpkin",
+      "plum",
+      "trousers",
+      "bra"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "cranberry",
+      "apple",
+      "pumpkin",
+      "plum"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "strawberry",
+      "belt",
+      "pear",
+      "tie",
+      "raisin",
+      "skirt",
+      "mittens"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "coconut",
+      "raisin"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "mushroom",
+      "cloak",
+      "cucumber",
+      "blouse",
+      "socks",
+      "olive",
+      "zucchini",
+      "boots"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 68,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "trousers",
+      "onions",
+      "potato",
+      "blouse",
+      "pants",
+      "slippers",
+      "rhubarb"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "blouse",
+      "trousers"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "pickle",
+      "swimsuit",
+      "beets",
+      "nightgown",
+      "shoes",
+      "mushroom",
+      "camisole"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "mushroom",
+      "swimsuit"
+    ]
+  },
+  {
+    "dialogue_id": 71,
+    "num_candidates": 8,
+    "candidates": [
+      "olive",
+      "potato",
+      "leotards",
+      "onions",
+      "pumpkin",
+      "mittens",
+      "nightgown",
+      "camisole"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "olive",
+      "potato",
+      "onions",
+      "pumpkin"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "shoes",
+      "peas",
+      "beans",
+      "tie",
+      "cauliflower",
+      "belt",
+      "bra",
+      "cabbage"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "peas",
+      "beans",
+      "cauliflower",
+      "cabbage"
+    ]
+  },
+  {
+    "dialogue_id": 73,
+    "num_candidates": 8,
+    "candidates": [
+      "revolver",
+      "shotgun",
+      "raisin",
+      "grapefruit",
+      "stick",
+      "spear",
+      "pumpkin",
+      "prune"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "revolver",
+      "shotgun",
+      "stick",
+      "spear"
+    ]
+  },
+  {
+    "dialogue_id": 74,
+    "num_candidates": 8,
+    "candidates": [
+      "olive",
+      "gun",
+      "raisin",
+      "grenade",
+      "cherry",
+      "rocket",
+      "plum",
+      "cannon"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "grenade",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "apple",
+      "rock",
+      "bomb",
+      "pumpkin",
+      "stone",
+      "grapefruit",
+      "crossbow",
+      "cherry"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "rock",
+      "bomb",
+      "stone",
+      "crossbow"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "orange",
+      "shield",
+      "crossbow",
+      "lime",
+      "crowbar",
+      "missile",
+      "rhubarb",
+      "banana"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "shield",
+      "crowbar",
+      "missile"
+    ]
+  },
+  {
+    "dialogue_id": 77,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peach",
+      "apple",
+      "plum",
+      "crowbar",
+      "pistol",
+      "rifle",
+      "whip"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "rhubarb",
+      "plum"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "knife",
+      "honeydew",
+      "tomato",
+      "grape",
+      "sword",
+      "whip",
+      "rhubarb",
+      "stick"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "tomato",
+      "grape"
+    ]
+  },
+  {
+    "dialogue_id": 79,
+    "num_candidates": 8,
+    "candidates": [
+      "onions",
+      "pickle",
+      "beans",
+      "olive",
+      "catapult",
+      "bazooka",
+      "missile",
+      "slingshot"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "catapult",
+      "bazooka",
+      "missile",
+      "slingshot"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "rocket",
+      "pickle",
+      "cannon",
+      "crowbar",
+      "avocado",
+      "grenade",
+      "radish",
+      "mushroom"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "rocket",
+      "cannon",
+      "grenade"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "turnip",
+      "stone",
+      "potato",
+      "harpoon",
+      "grenade",
+      "mushroom",
+      "radish",
+      "rifle"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "potato"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "bomb",
+      "cabbage",
+      "stone",
+      "peas",
+      "beans",
+      "rock",
+      "rifle",
+      "cauliflower"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "cabbage",
+      "cauliflower"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "tomahawk",
+      "mushroom",
+      "axe",
+      "stick",
+      "onions",
+      "whip",
+      "broccoli",
+      "carrot"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "broccoli",
+      "carrot"
+    ]
+  },
+  {
+    "dialogue_id": 85,
+    "num_candidates": 8,
+    "candidates": [
+      "celery",
+      "mushroom",
+      "prune",
+      "grapefruit",
+      "banana",
+      "lime",
+      "zucchini",
+      "beans"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "grapefruit",
+      "lime"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "lemon",
+      "beets",
+      "orange",
+      "beans",
+      "mushroom",
+      "coconut",
+      "raspberry",
+      "radish"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "beets",
+      "mushroom",
+      "coconut",
+      "radish"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "plum",
+      "orange",
+      "beans",
+      "pineapple",
+      "lettuce",
+      "carrot",
+      "lemon"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "zucchini",
+      "beans",
+      "lettuce",
+      "carrot"
+    ]
+  },
+  {
+    "dialogue_id": 89,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "beans",
+      "zucchini",
+      "honeydew",
+      "pickle",
+      "pineapple",
+      "peach",
+      "strawberry"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "radish",
+      "beans",
+      "zucchini",
+      "pickle"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "onions",
+      "strawberry",
+      "beets",
+      "pineapple",
+      "pickle",
+      "raspberry",
+      "peach"
+    ],
+    "question_step": 4,
+    "reference_set": [
+      "beans",
+      "strawberry",
+      "pineapple",
+      "pickle",
+      "raspberry",
+      "peach"
+    ]
+  },
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "elk",
+      "chicken",
+      "robin",
+      "starling",
+      "fox",
+      "partridge",
+      "hamster",
+      "buffalo"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "fox",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "budgie",
+      "zebra",
+      "deer",
+      "penguin",
+      "pelican",
+      "sheep",
+      "fawn",
+      "ostrich"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "deer",
+      "fawn"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "bear",
+      "zebra",
+      "walrus",
+      "vulture",
+      "chickadee",
+      "finch",
+      "otter"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "pelican",
+      "zebra",
+      "walrus",
+      "vulture",
+      "otter"
+    ]
+  },
+  {
+    "dialogue_id": 5,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "eagle",
+      "fawn",
+      "owl",
+      "platypus",
+      "beaver",
+      "pigeon",
+      "chimp"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "falcon",
+      "pigeon"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "fawn",
+      "hamster",
+      "falcon",
+      "cheetah",
+      "peacock",
+      "owl",
+      "parakeet",
+      "giraffe"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "falcon",
+      "owl"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "boots",
+      "fawn",
+      "seal",
+      "cape",
+      "otter",
+      "swimsuit",
+      "porcupine",
+      "trousers"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "boots",
+      "s",
+      "als"
+    ]
+  },
+  {
+    "dialogue_id": 12,
+    "num_candidates": 8,
+    "candidates": [
+      "walrus",
+      "chimp",
+      "belt",
+      "donkey",
+      "platypus",
+      "pajamas",
+      "tie",
+      "blouse"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "belt"
+    ]
+  },
+  {
+    "dialogue_id": 14,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "bear",
+      "squirrel",
+      "grenade",
+      "whip",
+      "zebra",
+      "crowbar",
+      "rocket"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "bear"
+    ]
+  },
+  {
+    "dialogue_id": 17,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "spear",
+      "deer",
+      "pistol",
+      "gorilla",
+      "lion",
+      "dagger",
+      "shotgun"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "spear",
+      "dagger"
+    ]
+  },
+  {
+    "dialogue_id": 19,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "pumpkin",
+      "porcupine",
+      "strawberry",
+      "grapefruit",
+      "elephant",
+      "caribou",
+      "plum"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "elephant",
+      "caribou"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "cherry",
+      "beaver",
+      "grapefruit",
+      "tomato",
+      "deer",
+      "seal",
+      "cow"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "coconut",
+      "cherry",
+      "grapefruit",
+      "tomato"
+    ]
+  },
+  {
+    "dialogue_id": 22,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "cheetah",
+      "strawberry",
+      "fawn",
+      "pineapple",
+      "giraffe",
+      "deer",
+      "tangerine"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "avocado"
+    ]
+  },
+  {
+    "dialogue_id": 24,
+    "num_candidates": 8,
+    "candidates": [
+      "tomato",
+      "giraffe",
+      "rhubarb",
+      "hamster",
+      "tangerine",
+      "mink",
+      "cranberry",
+      "cheetah"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "tomato",
+      "rhubarb",
+      "cranberry"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "mink",
+      "mushroom",
+      "asparagus",
+      "cow",
+      "radish",
+      "whale",
+      "celery",
+      "squirrel"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "mink",
+      "cow",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "broccoli",
+      "walrus",
+      "gorilla",
+      "mushroom",
+      "potato",
+      "peas",
+      "sheep",
+      "dolphin"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "gorilla",
+      "sheep",
+      "dolphin"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "otter",
+      "seal",
+      "celery",
+      "asparagus",
+      "tomato",
+      "elk",
+      "lion",
+      "pumpkin"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "otter",
+      "seal"
+    ]
+  },
+  {
+    "dialogue_id": 29,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "whale",
+      "beans",
+      "potato",
+      "bison",
+      "pig",
+      "beets",
+      "deer"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "radish",
+      "potato",
+      "bison",
+      "beets"
+    ]
+  },
+  {
+    "dialogue_id": 31,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "buzzard",
+      "cloak",
+      "bluejay",
+      "boots",
+      "vulture",
+      "penguin",
+      "sweater"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "buzzard",
+      "bluejay",
+      "vulture"
+    ]
+  },
+  {
+    "dialogue_id": 34,
+    "num_candidates": 8,
+    "candidates": [
+      "chickadee",
+      "skirt",
+      "eagle",
+      "leotards",
+      "bra",
+      "boots",
+      "owl",
+      "raven"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "bra",
+      "leotards"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "belt",
+      "pajamas",
+      "slippers",
+      "woodpecker",
+      "parakeet",
+      "partridge",
+      "tie"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "belt",
+      "pajamas"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "shoes",
+      "goose",
+      "tie",
+      "peacock",
+      "belt",
+      "oriole",
+      "bra"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "belt",
+      "bra"
+    ]
+  },
+  {
+    "dialogue_id": 40,
+    "num_candidates": 8,
+    "candidates": [
+      "whip",
+      "stick",
+      "budgie",
+      "rooster",
+      "catapult",
+      "pheasant",
+      "peacock",
+      "bazooka"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "whip",
+      "catapult",
+      "bazooka"
+    ]
+  },
+  {
+    "dialogue_id": 41,
+    "num_candidates": 8,
+    "candidates": [
+      "rifle",
+      "grenade",
+      "stone",
+      "turkey",
+      "flamingo",
+      "bomb",
+      "robin",
+      "penguin"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "bomb"
+    ]
+  },
+  {
+    "dialogue_id": 44,
+    "num_candidates": 8,
+    "candidates": [
+      "swan",
+      "apple",
+      "peach",
+      "buzzard",
+      "dove",
+      "lime",
+      "strawberry",
+      "robin"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "dove",
+      "robin"
+    ]
+  },
+  {
+    "dialogue_id": 45,
+    "num_candidates": 8,
+    "candidates": [
+      "pineapple",
+      "rhubarb",
+      "woodpecker",
+      "stork",
+      "swan",
+      "orange",
+      "canary",
+      "cherry"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "woodpecker"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "owl",
+      "rhubarb",
+      "goose",
+      "cherry",
+      "apple",
+      "rooster",
+      "grapefruit"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 48,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peacock",
+      "budgie",
+      "nectarine",
+      "prune",
+      "falcon",
+      "hawk",
+      "tomato"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "nectarine",
+      "prune"
+    ]
+  },
+  {
+    "dialogue_id": 49,
+    "num_candidates": 8,
+    "candidates": [
+      "asparagus",
+      "chickadee",
+      "cucumber",
+      "starling",
+      "mushroom",
+      "buzzard",
+      "peas",
+      "crow"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "chickadee",
+      "crow"
+    ]
+  },
+  {
+    "dialogue_id": 51,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "duck",
+      "pickle",
+      "parakeet",
+      "crow",
+      "cucumber",
+      "onions",
+      "beets"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "parakeet"
+    ]
+  },
+  {
+    "dialogue_id": 52,
+    "num_candidates": 8,
+    "candidates": [
+      "duck",
+      "mushroom",
+      "peas",
+      "pheasant",
+      "potato",
+      "emu",
+      "canary",
+      "onions"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "duck",
+      "mushroom",
+      "peas",
+      "pheasant",
+      "emu",
+      "canary",
+      "onions"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "robin",
+      "peas",
+      "crow",
+      "peacock",
+      "tomato",
+      "parsley",
+      "corn",
+      "pelican"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "tomato",
+      "corn"
+    ]
+  },
+  {
+    "dialogue_id": 55,
+    "num_candidates": 8,
+    "candidates": [
+      "blouse",
+      "camisole",
+      "tomahawk",
+      "crowbar",
+      "gown",
+      "spear",
+      "harpoon",
+      "cape"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "camisole",
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 56,
+    "num_candidates": 8,
+    "candidates": [
+      "bazooka",
+      "trousers",
+      "shield",
+      "whip",
+      "boots",
+      "crowbar",
+      "pants",
+      "cape"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "shield",
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "tomahawk",
+      "bazooka",
+      "camisole",
+      "cloak",
+      "catapult",
+      "robe",
+      "bomb"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "trousers",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 58,
+    "num_candidates": 8,
+    "candidates": [
+      "axe",
+      "trousers",
+      "grenade",
+      "boots",
+      "pants",
+      "revolver",
+      "stone",
+      "cape"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "grenade",
+      "revolver"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "robe",
+      "trousers",
+      "stick",
+      "spear",
+      "camisole",
+      "catapult",
+      "cannon"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "stick",
+      "spear",
+      "catapult",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 60,
+    "num_candidates": 8,
+    "candidates": [
+      "bra",
+      "belt",
+      "bomb",
+      "tie",
+      "missile",
+      "rocket",
+      "shoes",
+      "stone"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "bra",
+      "belt",
+      "bomb",
+      "tie",
+      "rocket",
+      "shoes",
+      "stone"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "cloak",
+      "raisin",
+      "jacket",
+      "pumpkin",
+      "cape",
+      "swimsuit",
+      "prune",
+      "grapefruit"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "swimsuit",
+      "pumpkin"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "pants",
+      "rhubarb",
+      "grapefruit",
+      "pajamas",
+      "trousers",
+      "pumpkin",
+      "tomato"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "pants",
+      "trousers"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "honeydew",
+      "bra",
+      "socks",
+      "cantaloupe",
+      "pear",
+      "cloak",
+      "coat"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "bra",
+      "cloak",
+      "coat"
+    ]
+  },
+  {
+    "dialogue_id": 64,
+    "num_candidates": 8,
+    "candidates": [
+      "cranberry",
+      "pants",
+      "boots",
+      "apple",
+      "pumpkin",
+      "plum",
+      "trousers",
+      "bra"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "cranberry",
+      "apple",
+      "pumpkin",
+      "plum"
+    ]
+  },
+  {
+    "dialogue_id": 66,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "strawberry",
+      "belt",
+      "pear",
+      "tie",
+      "raisin",
+      "skirt",
+      "mittens"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "coconut",
+      "pear"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "mushroom",
+      "cloak",
+      "cucumber",
+      "blouse",
+      "socks",
+      "olive",
+      "zucchini",
+      "boots"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 68,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "trousers",
+      "onions",
+      "potato",
+      "blouse",
+      "pants",
+      "slippers",
+      "rhubarb"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "blouse",
+      "trousers",
+      "pants"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "pickle",
+      "swimsuit",
+      "beets",
+      "nightgown",
+      "shoes",
+      "mushroom",
+      "camisole"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "mushroom",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 71,
+    "num_candidates": 8,
+    "candidates": [
+      "olive",
+      "potato",
+      "leotards",
+      "onions",
+      "pumpkin",
+      "mittens",
+      "nightgown",
+      "camisole"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "potato",
+      "onions",
+      "pumpkin"
+    ]
+  },
+  {
+    "dialogue_id": 72,
+    "num_candidates": 8,
+    "candidates": [
+      "shoes",
+      "peas",
+      "beans",
+      "tie",
+      "cauliflower",
+      "belt",
+      "bra",
+      "cabbage"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "cauliflower",
+      "cabbage"
+    ]
+  },
+  {
+    "dialogue_id": 74,
+    "num_candidates": 8,
+    "candidates": [
+      "olive",
+      "gun",
+      "raisin",
+      "grenade",
+      "cherry",
+      "rocket",
+      "plum",
+      "cannon"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "grenade",
+      "rocket",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "apple",
+      "rock",
+      "bomb",
+      "pumpkin",
+      "stone",
+      "grapefruit",
+      "crossbow",
+      "cherry"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "rock",
+      "bomb",
+      "crossbow"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "orange",
+      "shield",
+      "crossbow",
+      "lime",
+      "crowbar",
+      "missile",
+      "rhubarb",
+      "banana"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 77,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peach",
+      "apple",
+      "plum",
+      "crowbar",
+      "pistol",
+      "rifle",
+      "whip"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "rhubarb",
+      "plum"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "knife",
+      "honeydew",
+      "tomato",
+      "grape",
+      "sword",
+      "whip",
+      "rhubarb",
+      "stick"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "tomato",
+      "grape"
+    ]
+  },
+  {
+    "dialogue_id": 79,
+    "num_candidates": 8,
+    "candidates": [
+      "onions",
+      "pickle",
+      "beans",
+      "olive",
+      "catapult",
+      "bazooka",
+      "missile",
+      "slingshot"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "catapult",
+      "bazooka",
+      "missile"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "rocket",
+      "pickle",
+      "cannon",
+      "crowbar",
+      "avocado",
+      "grenade",
+      "radish",
+      "mushroom"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "rocket",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 82,
+    "num_candidates": 8,
+    "candidates": [
+      "turnip",
+      "stone",
+      "potato",
+      "harpoon",
+      "grenade",
+      "mushroom",
+      "radish",
+      "rifle"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "potato",
+      "radish"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "bomb",
+      "cabbage",
+      "stone",
+      "peas",
+      "beans",
+      "rock",
+      "rifle",
+      "cauliflower"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "cauliflower"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "tomahawk",
+      "mushroom",
+      "axe",
+      "stick",
+      "onions",
+      "whip",
+      "broccoli",
+      "carrot"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "tomahawk",
+      "axe",
+      "stick",
+      "whip",
+      "broccoli",
+      "carrot"
+    ]
+  },
+  {
+    "dialogue_id": 85,
+    "num_candidates": 8,
+    "candidates": [
+      "celery",
+      "mushroom",
+      "prune",
+      "grapefruit",
+      "banana",
+      "lime",
+      "zucchini",
+      "beans"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "grapefruit",
+      "lime"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "lemon",
+      "beets",
+      "orange",
+      "beans",
+      "mushroom",
+      "coconut",
+      "raspberry",
+      "radish"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "beets",
+      "beans",
+      "mushroom",
+      "coconut"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "plum",
+      "orange",
+      "beans",
+      "pineapple",
+      "lettuce",
+      "carrot",
+      "lemon"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "zucchini",
+      "beans",
+      "lettuce",
+      "carrot"
+    ]
+  },
+  {
+    "dialogue_id": 89,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "beans",
+      "zucchini",
+      "honeydew",
+      "pickle",
+      "pineapple",
+      "peach",
+      "strawberry"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "radish",
+      "beans",
+      "zucchini",
+      "pickle"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "onions",
+      "strawberry",
+      "beets",
+      "pineapple",
+      "pickle",
+      "raspberry",
+      "peach"
+    ],
+    "question_step": 5,
+    "reference_set": [
+      "beans",
+      "onions"
+    ]
+  },
+  {
+    "dialogue_id": 1,
+    "num_candidates": 8,
+    "candidates": [
+      "elk",
+      "chicken",
+      "robin",
+      "starling",
+      "fox",
+      "partridge",
+      "hamster",
+      "buffalo"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "fox",
+      "hamster"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "budgie",
+      "zebra",
+      "deer",
+      "penguin",
+      "pelican",
+      "sheep",
+      "fawn",
+      "ostrich"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "deer",
+      "fawn"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "bear",
+      "zebra",
+      "walrus",
+      "vulture",
+      "chickadee",
+      "finch",
+      "otter"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "pelican",
+      "zebra",
+      "vulture"
+    ]
+  },
+  {
+    "dialogue_id": 5,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "eagle",
+      "fawn",
+      "owl",
+      "platypus",
+      "beaver",
+      "pigeon",
+      "chimp"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "owl",
+      "pigeon"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "fawn",
+      "hamster",
+      "falcon",
+      "cheetah",
+      "peacock",
+      "owl",
+      "parakeet",
+      "giraffe"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "falcon",
+      "peacock",
+      "owl"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "boots",
+      "fawn",
+      "seal",
+      "cape",
+      "otter",
+      "swimsuit",
+      "porcupine",
+      "trousers"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "boots",
+      "s",
+      "als"
+    ]
+  },
+  {
+    "dialogue_id": 14,
+    "num_candidates": 8,
+    "candidates": [
+      "goat",
+      "bear",
+      "squirrel",
+      "grenade",
+      "whip",
+      "zebra",
+      "crowbar",
+      "rocket"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "bear"
+    ]
+  },
+  {
+    "dialogue_id": 19,
+    "num_candidates": 8,
+    "candidates": [
+      "hamster",
+      "pumpkin",
+      "porcupine",
+      "strawberry",
+      "grapefruit",
+      "elephant",
+      "caribou",
+      "plum"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "caribou"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "cherry",
+      "beaver",
+      "grapefruit",
+      "tomato",
+      "deer",
+      "seal",
+      "cow"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "coconut",
+      "cherry",
+      "grapefruit",
+      "tomato"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "mink",
+      "mushroom",
+      "asparagus",
+      "cow",
+      "radish",
+      "whale",
+      "celery",
+      "squirrel"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "mink",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 26,
+    "num_candidates": 8,
+    "candidates": [
+      "broccoli",
+      "walrus",
+      "gorilla",
+      "mushroom",
+      "potato",
+      "peas",
+      "sheep",
+      "dolphin"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "gorilla"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "otter",
+      "seal",
+      "celery",
+      "asparagus",
+      "tomato",
+      "elk",
+      "lion",
+      "pumpkin"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "otter",
+      "elk"
+    ]
+  },
+  {
+    "dialogue_id": 29,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "whale",
+      "beans",
+      "potato",
+      "bison",
+      "pig",
+      "beets",
+      "deer"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "potato",
+      "beets"
+    ]
+  },
+  {
+    "dialogue_id": 31,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "buzzard",
+      "cloak",
+      "bluejay",
+      "boots",
+      "vulture",
+      "penguin",
+      "sweater"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "bluejay",
+      "penguin"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "belt",
+      "pajamas",
+      "slippers",
+      "woodpecker",
+      "parakeet",
+      "partridge",
+      "tie"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "belt",
+      "tie"
+    ]
+  },
+  {
+    "dialogue_id": 36,
+    "num_candidates": 8,
+    "candidates": [
+      "penguin",
+      "shoes",
+      "goose",
+      "tie",
+      "peacock",
+      "belt",
+      "oriole",
+      "bra"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "bra",
+      "belt"
+    ]
+  },
+  {
+    "dialogue_id": 40,
+    "num_candidates": 8,
+    "candidates": [
+      "whip",
+      "stick",
+      "budgie",
+      "rooster",
+      "catapult",
+      "pheasant",
+      "peacock",
+      "bazooka"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "whip",
+      "catapult",
+      "bazooka"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "owl",
+      "rhubarb",
+      "goose",
+      "cherry",
+      "apple",
+      "rooster",
+      "grapefruit"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 48,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peacock",
+      "budgie",
+      "nectarine",
+      "prune",
+      "falcon",
+      "hawk",
+      "tomato"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "nectarine",
+      "prune"
+    ]
+  },
+  {
+    "dialogue_id": 49,
+    "num_candidates": 8,
+    "candidates": [
+      "asparagus",
+      "chickadee",
+      "cucumber",
+      "starling",
+      "mushroom",
+      "buzzard",
+      "peas",
+      "crow"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "crow",
+      "buzzard"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "robin",
+      "peas",
+      "crow",
+      "peacock",
+      "tomato",
+      "parsley",
+      "corn",
+      "pelican"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "tomato",
+      "corn"
+    ]
+  },
+  {
+    "dialogue_id": 55,
+    "num_candidates": 8,
+    "candidates": [
+      "blouse",
+      "camisole",
+      "tomahawk",
+      "crowbar",
+      "gown",
+      "spear",
+      "harpoon",
+      "cape"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 56,
+    "num_candidates": 8,
+    "candidates": [
+      "bazooka",
+      "trousers",
+      "shield",
+      "whip",
+      "boots",
+      "crowbar",
+      "pants",
+      "cape"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "shield",
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "tomahawk",
+      "bazooka",
+      "camisole",
+      "cloak",
+      "catapult",
+      "robe",
+      "bomb"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "trousers",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 58,
+    "num_candidates": 8,
+    "candidates": [
+      "axe",
+      "trousers",
+      "grenade",
+      "boots",
+      "pants",
+      "revolver",
+      "stone",
+      "cape"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "revolver"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "robe",
+      "trousers",
+      "stick",
+      "spear",
+      "camisole",
+      "catapult",
+      "cannon"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "stick",
+      "spear",
+      "catapult",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "cloak",
+      "raisin",
+      "jacket",
+      "pumpkin",
+      "cape",
+      "swimsuit",
+      "prune",
+      "grapefruit"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "swimsuit",
+      "pumpkin"
+    ]
+  },
+  {
+    "dialogue_id": 62,
+    "num_candidates": 8,
+    "candidates": [
+      "camisole",
+      "pants",
+      "rhubarb",
+      "grapefruit",
+      "pajamas",
+      "trousers",
+      "pumpkin",
+      "tomato"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "pants",
+      "trousers"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "honeydew",
+      "bra",
+      "socks",
+      "cantaloupe",
+      "pear",
+      "cloak",
+      "coat"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "bra",
+      "socks",
+      "cloak"
+    ]
+  },
+  {
+    "dialogue_id": 64,
+    "num_candidates": 8,
+    "candidates": [
+      "cranberry",
+      "pants",
+      "boots",
+      "apple",
+      "pumpkin",
+      "plum",
+      "trousers",
+      "bra"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "apple",
+      "plum"
+    ]
+  },
+  {
+    "dialogue_id": 67,
+    "num_candidates": 8,
+    "candidates": [
+      "mushroom",
+      "cloak",
+      "cucumber",
+      "blouse",
+      "socks",
+      "olive",
+      "zucchini",
+      "boots"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "blouse",
+      "cloak",
+      "cucumber",
+      "mushroom",
+      "olive",
+      "zucchini"
+    ]
+  },
+  {
+    "dialogue_id": 68,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "trousers",
+      "onions",
+      "potato",
+      "blouse",
+      "pants",
+      "slippers",
+      "rhubarb"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "blouse",
+      "pants"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "pickle",
+      "swimsuit",
+      "beets",
+      "nightgown",
+      "shoes",
+      "mushroom",
+      "camisole"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "mushroom",
+      "swimsuit"
+    ]
+  },
+  {
+    "dialogue_id": 71,
+    "num_candidates": 8,
+    "candidates": [
+      "olive",
+      "potato",
+      "leotards",
+      "onions",
+      "pumpkin",
+      "mittens",
+      "nightgown",
+      "camisole"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "onion",
+      "pumpkin"
+    ]
+  },
+  {
+    "dialogue_id": 74,
+    "num_candidates": 8,
+    "candidates": [
+      "olive",
+      "gun",
+      "raisin",
+      "grenade",
+      "cherry",
+      "rocket",
+      "plum",
+      "cannon"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "grenade",
+      "rocket"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "apple",
+      "rock",
+      "bomb",
+      "pumpkin",
+      "stone",
+      "grapefruit",
+      "crossbow",
+      "cherry"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "rock",
+      "bomb",
+      "crossbow"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "orange",
+      "shield",
+      "crossbow",
+      "lime",
+      "crowbar",
+      "missile",
+      "rhubarb",
+      "banana"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 77,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peach",
+      "apple",
+      "plum",
+      "crowbar",
+      "pistol",
+      "rifle",
+      "whip"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "rhubarb",
+      "plum"
+    ]
+  },
+  {
+    "dialogue_id": 78,
+    "num_candidates": 8,
+    "candidates": [
+      "knife",
+      "honeydew",
+      "tomato",
+      "grape",
+      "sword",
+      "whip",
+      "rhubarb",
+      "stick"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "tomato",
+      "grape"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "rocket",
+      "pickle",
+      "cannon",
+      "crowbar",
+      "avocado",
+      "grenade",
+      "radish",
+      "mushroom"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "rocket"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "bomb",
+      "cabbage",
+      "stone",
+      "peas",
+      "beans",
+      "rock",
+      "rifle",
+      "cauliflower"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "peas",
+      "beans"
+    ]
+  },
+  {
+    "dialogue_id": 84,
+    "num_candidates": 8,
+    "candidates": [
+      "tomahawk",
+      "mushroom",
+      "axe",
+      "stick",
+      "onions",
+      "whip",
+      "broccoli",
+      "carrot"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "tomahawk",
+      "axe",
+      "stick",
+      "whip",
+      "broccoli",
+      "carrot"
+    ]
+  },
+  {
+    "dialogue_id": 85,
+    "num_candidates": 8,
+    "candidates": [
+      "celery",
+      "mushroom",
+      "prune",
+      "grapefruit",
+      "banana",
+      "lime",
+      "zucchini",
+      "beans"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "grapefruit",
+      "lime"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "lemon",
+      "beets",
+      "orange",
+      "beans",
+      "mushroom",
+      "coconut",
+      "raspberry",
+      "radish"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "lemon",
+      "coconut",
+      "raspberry"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "plum",
+      "orange",
+      "beans",
+      "pineapple",
+      "lettuce",
+      "carrot",
+      "lemon"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "zucchini",
+      "beans",
+      "carrot"
+    ]
+  },
+  {
+    "dialogue_id": 89,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "beans",
+      "zucchini",
+      "honeydew",
+      "pickle",
+      "pineapple",
+      "peach",
+      "strawberry"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "radish",
+      "beans",
+      "zucchini",
+      "pickle"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "onions",
+      "strawberry",
+      "beets",
+      "pineapple",
+      "pickle",
+      "raspberry",
+      "peach"
+    ],
+    "question_step": 6,
+    "reference_set": [
+      "beans",
+      "pineapple",
+      "pickle"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "budgie",
+      "zebra",
+      "deer",
+      "penguin",
+      "pelican",
+      "sheep",
+      "fawn",
+      "ostrich"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "deer",
+      "sheep",
+      "fawn"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "bear",
+      "zebra",
+      "walrus",
+      "vulture",
+      "chickadee",
+      "finch",
+      "otter"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "pelican",
+      "zebra",
+      "vulture"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "fawn",
+      "hamster",
+      "falcon",
+      "cheetah",
+      "peacock",
+      "owl",
+      "parakeet",
+      "giraffe"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "falcon",
+      "owl"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "boots",
+      "fawn",
+      "seal",
+      "cape",
+      "otter",
+      "swimsuit",
+      "porcupine",
+      "trousers"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "boots",
+      "s",
+      "als"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "cherry",
+      "beaver",
+      "grapefruit",
+      "tomato",
+      "deer",
+      "seal",
+      "cow"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "coconut",
+      "cherry",
+      "grapefruit",
+      "tomato"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "mink",
+      "mushroom",
+      "asparagus",
+      "cow",
+      "radish",
+      "whale",
+      "celery",
+      "squirrel"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "mink",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 27,
+    "num_candidates": 8,
+    "candidates": [
+      "otter",
+      "seal",
+      "celery",
+      "asparagus",
+      "tomato",
+      "elk",
+      "lion",
+      "pumpkin"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "elk"
+    ]
+  },
+  {
+    "dialogue_id": 29,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "whale",
+      "beans",
+      "potato",
+      "bison",
+      "pig",
+      "beets",
+      "deer"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "whale",
+      "bison",
+      "pig"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "belt",
+      "pajamas",
+      "slippers",
+      "woodpecker",
+      "parakeet",
+      "partridge",
+      "tie"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "belt",
+      "pajamas",
+      "tie"
+    ]
+  },
+  {
+    "dialogue_id": 40,
+    "num_candidates": 8,
+    "candidates": [
+      "whip",
+      "stick",
+      "budgie",
+      "rooster",
+      "catapult",
+      "pheasant",
+      "peacock",
+      "bazooka"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "whip",
+      "stick",
+      "catapult"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "owl",
+      "rhubarb",
+      "goose",
+      "cherry",
+      "apple",
+      "rooster",
+      "grapefruit"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 53,
+    "num_candidates": 8,
+    "candidates": [
+      "robin",
+      "peas",
+      "crow",
+      "peacock",
+      "tomato",
+      "parsley",
+      "corn",
+      "pelican"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "tomato",
+      "corn"
+    ]
+  },
+  {
+    "dialogue_id": 55,
+    "num_candidates": 8,
+    "candidates": [
+      "blouse",
+      "camisole",
+      "tomahawk",
+      "crowbar",
+      "gown",
+      "spear",
+      "harpoon",
+      "cape"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "blouse",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 56,
+    "num_candidates": 8,
+    "candidates": [
+      "bazooka",
+      "trousers",
+      "shield",
+      "whip",
+      "boots",
+      "crowbar",
+      "pants",
+      "cape"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "tomahawk",
+      "bazooka",
+      "camisole",
+      "cloak",
+      "catapult",
+      "robe",
+      "bomb"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "trousers",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 58,
+    "num_candidates": 8,
+    "candidates": [
+      "axe",
+      "trousers",
+      "grenade",
+      "boots",
+      "pants",
+      "revolver",
+      "stone",
+      "cape"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "grenade",
+      "revolver"
+    ]
+  },
+  {
+    "dialogue_id": 59,
+    "num_candidates": 8,
+    "candidates": [
+      "pants",
+      "robe",
+      "trousers",
+      "stick",
+      "spear",
+      "camisole",
+      "catapult",
+      "cannon"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "stick",
+      "spear",
+      "catapult",
+      "cannon"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "cloak",
+      "raisin",
+      "jacket",
+      "pumpkin",
+      "cape",
+      "swimsuit",
+      "prune",
+      "grapefruit"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "pumpkin",
+      "swimsuit"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "honeydew",
+      "bra",
+      "socks",
+      "cantaloupe",
+      "pear",
+      "cloak",
+      "coat"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "bra",
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "pickle",
+      "swimsuit",
+      "beets",
+      "nightgown",
+      "shoes",
+      "mushroom",
+      "camisole"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "nightgown",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "apple",
+      "rock",
+      "bomb",
+      "pumpkin",
+      "stone",
+      "grapefruit",
+      "crossbow",
+      "cherry"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "crossbow"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "orange",
+      "shield",
+      "crossbow",
+      "lime",
+      "crowbar",
+      "missile",
+      "rhubarb",
+      "banana"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "shield",
+      "crossbow",
+      "crowbar",
+      "missile"
+    ]
+  },
+  {
+    "dialogue_id": 77,
+    "num_candidates": 8,
+    "candidates": [
+      "rhubarb",
+      "peach",
+      "apple",
+      "plum",
+      "crowbar",
+      "pistol",
+      "rifle",
+      "whip"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "rocket",
+      "pickle",
+      "cannon",
+      "crowbar",
+      "avocado",
+      "grenade",
+      "radish",
+      "mushroom"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "rocket"
+    ]
+  },
+  {
+    "dialogue_id": 83,
+    "num_candidates": 8,
+    "candidates": [
+      "bomb",
+      "cabbage",
+      "stone",
+      "peas",
+      "beans",
+      "rock",
+      "rifle",
+      "cauliflower"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "peas"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "lemon",
+      "beets",
+      "orange",
+      "beans",
+      "mushroom",
+      "coconut",
+      "raspberry",
+      "radish"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "coconut",
+      "mushroom",
+      "beans"
+    ]
+  },
+  {
+    "dialogue_id": 88,
+    "num_candidates": 8,
+    "candidates": [
+      "zucchini",
+      "plum",
+      "orange",
+      "beans",
+      "pineapple",
+      "lettuce",
+      "carrot",
+      "lemon"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "carrot",
+      "beans",
+      "lettuce"
+    ]
+  },
+  {
+    "dialogue_id": 89,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "beans",
+      "zucchini",
+      "honeydew",
+      "pickle",
+      "pineapple",
+      "peach",
+      "strawberry"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "beans",
+      "zucchini",
+      "honeydew",
+      "pickle",
+      "pineapple",
+      "peach"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "onions",
+      "strawberry",
+      "beets",
+      "pineapple",
+      "pickle",
+      "raspberry",
+      "peach"
+    ],
+    "question_step": 7,
+    "reference_set": [
+      "beans",
+      "pickle"
+    ]
+  },
+  {
+    "dialogue_id": 2,
+    "num_candidates": 8,
+    "candidates": [
+      "budgie",
+      "zebra",
+      "deer",
+      "penguin",
+      "pelican",
+      "sheep",
+      "fawn",
+      "ostrich"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "deer",
+      "fawn"
+    ]
+  },
+  {
+    "dialogue_id": 3,
+    "num_candidates": 8,
+    "candidates": [
+      "pelican",
+      "bear",
+      "zebra",
+      "walrus",
+      "vulture",
+      "chickadee",
+      "finch",
+      "otter"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "pelican",
+      "zebra"
+    ]
+  },
+  {
+    "dialogue_id": 6,
+    "num_candidates": 8,
+    "candidates": [
+      "fawn",
+      "hamster",
+      "falcon",
+      "cheetah",
+      "peacock",
+      "owl",
+      "parakeet",
+      "giraffe"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "peacock",
+      "falcon"
+    ]
+  },
+  {
+    "dialogue_id": 10,
+    "num_candidates": 8,
+    "candidates": [
+      "boots",
+      "fawn",
+      "seal",
+      "cape",
+      "otter",
+      "swimsuit",
+      "porcupine",
+      "trousers"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "boots",
+      "s",
+      "als"
+    ]
+  },
+  {
+    "dialogue_id": 21,
+    "num_candidates": 8,
+    "candidates": [
+      "coconut",
+      "cherry",
+      "beaver",
+      "grapefruit",
+      "tomato",
+      "deer",
+      "seal",
+      "cow"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "cow"
+    ]
+  },
+  {
+    "dialogue_id": 25,
+    "num_candidates": 8,
+    "candidates": [
+      "mink",
+      "mushroom",
+      "asparagus",
+      "cow",
+      "radish",
+      "whale",
+      "celery",
+      "squirrel"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "mink",
+      "squirrel"
+    ]
+  },
+  {
+    "dialogue_id": 35,
+    "num_candidates": 8,
+    "candidates": [
+      "rooster",
+      "belt",
+      "pajamas",
+      "slippers",
+      "woodpecker",
+      "parakeet",
+      "partridge",
+      "tie"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "belt",
+      "pajamas",
+      "tie"
+    ]
+  },
+  {
+    "dialogue_id": 40,
+    "num_candidates": 8,
+    "candidates": [
+      "whip",
+      "stick",
+      "budgie",
+      "rooster",
+      "catapult",
+      "pheasant",
+      "peacock",
+      "bazooka"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "whip",
+      "stick",
+      "catapult",
+      "bazooka"
+    ]
+  },
+  {
+    "dialogue_id": 46,
+    "num_candidates": 8,
+    "candidates": [
+      "falcon",
+      "owl",
+      "rhubarb",
+      "goose",
+      "cherry",
+      "apple",
+      "rooster",
+      "grapefruit"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 56,
+    "num_candidates": 8,
+    "candidates": [
+      "bazooka",
+      "trousers",
+      "shield",
+      "whip",
+      "boots",
+      "crowbar",
+      "pants",
+      "cape"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "cape"
+    ]
+  },
+  {
+    "dialogue_id": 57,
+    "num_candidates": 8,
+    "candidates": [
+      "trousers",
+      "tomahawk",
+      "bazooka",
+      "camisole",
+      "cloak",
+      "catapult",
+      "robe",
+      "bomb"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "trousers",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 58,
+    "num_candidates": 8,
+    "candidates": [
+      "axe",
+      "trousers",
+      "grenade",
+      "boots",
+      "pants",
+      "revolver",
+      "stone",
+      "cape"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "grenade",
+      "revolver"
+    ]
+  },
+  {
+    "dialogue_id": 61,
+    "num_candidates": 8,
+    "candidates": [
+      "cloak",
+      "raisin",
+      "jacket",
+      "pumpkin",
+      "cape",
+      "swimsuit",
+      "prune",
+      "grapefruit"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "pumpkin",
+      "swimsuit"
+    ]
+  },
+  {
+    "dialogue_id": 63,
+    "num_candidates": 8,
+    "candidates": [
+      "avocado",
+      "honeydew",
+      "bra",
+      "socks",
+      "cantaloupe",
+      "pear",
+      "cloak",
+      "coat"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "bra",
+      "socks"
+    ]
+  },
+  {
+    "dialogue_id": 69,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "pickle",
+      "swimsuit",
+      "beets",
+      "nightgown",
+      "shoes",
+      "mushroom",
+      "camisole"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "swimsuit",
+      "nightgown",
+      "camisole"
+    ]
+  },
+  {
+    "dialogue_id": 75,
+    "num_candidates": 8,
+    "candidates": [
+      "apple",
+      "rock",
+      "bomb",
+      "pumpkin",
+      "stone",
+      "grapefruit",
+      "crossbow",
+      "cherry"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "crossbow"
+    ]
+  },
+  {
+    "dialogue_id": 76,
+    "num_candidates": 8,
+    "candidates": [
+      "orange",
+      "shield",
+      "crossbow",
+      "lime",
+      "crowbar",
+      "missile",
+      "rhubarb",
+      "banana"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "rhubarb"
+    ]
+  },
+  {
+    "dialogue_id": 80,
+    "num_candidates": 8,
+    "candidates": [
+      "rocket",
+      "pickle",
+      "cannon",
+      "crowbar",
+      "avocado",
+      "grenade",
+      "radish",
+      "mushroom"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "rocket"
+    ]
+  },
+  {
+    "dialogue_id": 87,
+    "num_candidates": 8,
+    "candidates": [
+      "lemon",
+      "beets",
+      "orange",
+      "beans",
+      "mushroom",
+      "coconut",
+      "raspberry",
+      "radish"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "lemon",
+      "coconut",
+      "raspberry"
+    ]
+  },
+  {
+    "dialogue_id": 89,
+    "num_candidates": 8,
+    "candidates": [
+      "radish",
+      "beans",
+      "zucchini",
+      "honeydew",
+      "pickle",
+      "pineapple",
+      "peach",
+      "strawberry"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "beans",
+      "zucchini",
+      "pickle"
+    ]
+  },
+  {
+    "dialogue_id": 90,
+    "num_candidates": 8,
+    "candidates": [
+      "beans",
+      "onions",
+      "strawberry",
+      "beets",
+      "pineapple",
+      "pickle",
+      "raspberry",
+      "peach"
+    ],
+    "question_step": 8,
+    "reference_set": [
+      "beans",
+      "strawberry",
+      "pineapple",
+      "pickle",
+      "peach"
+    ]
+  }
+]

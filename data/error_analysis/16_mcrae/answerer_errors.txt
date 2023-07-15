@@ -1,0 +1,178 @@
+____________________________________________
+dial_id = 3
+target = rooster
+answerer: This is the list of candidates: walrus, camel, goat, moose, penguin, otter, rooster, goose, dolphin, ostrich, sheep, seal, swan, emu, chicken, canary.
+questioner: Is the item you're thinking of an aquatic animal?
+answerer: No, it is not an aquatic animal.
+questioner: Is the item you're thinking of a bird?
+answerer: Yes, it is a bird.
+questioner: Does the bird you're thinking of have the ability to fly?
+answerer: Yes, it has the ability to fly.
+questioner: Is the bird you're thinking of commonly found on farms?
+answerer: Yes, it is commonly found on farms.
+questioner: The bird you are thinking of is a chicken?
+answerer: No, it is not a chicken.
+questioner: Is the bird you're thinking of larger than a chicken?
+answerer: Yes, it is larger than a chicken.
+questioner: Is the bird you are thinking of a kind of a bird of prey?
+answerer: No, it is not a bird of prey.
+questioner: Is the bird you're thinking of mainly white in color?
+answerer: No, it is not mainly white in color.
+questioner: Is the bird you're thinking of a swan?
+answerer: No, it is not a swan.
+questioner: Is the bird you’re thinking of a kind of game bird usually hunted for sport or food?
+answerer: Yes, it is a kind of game bird usually hunted for sport or food.
+questioner: The bird you are thinking of is a goose?
+answerer: No, it is not a goose.
+questioner: Is the bird you're thinking of often white and grayish-brown in color with a long thin neck?
+answerer: No, it is not white and grayish-brown in color with a long thin neck.
+questioner: Is the bird you're thinking of typically dark in color with a red comb on its head?
+answerer: Yes, that's correct! The bird I'm thinking of is a rooster. Well done!
+____________________________________________
+dial_id = 4
+target = budgie
+answerer: This is the list of candidates: woodpecker, elephant, parakeet, pelican, budgie, whale, elk, platypus, goose, beaver, rooster, chicken, cheetah, dolphin, cat, penguin.
+questioner: Is the item you're thinking of a bird?
+answerer: Yes!
+questioner: Is the bird you're thinking of known for its colorful feathers?
+answerer: Yes!
+questioner: Is the bird you are thinking of a parakeet?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 36
+target = raven
+answerer: This is the list of candidates: bazooka, parakeet, chickadee, buzzard, canary, knife, cannon, catapult, hawk, machete, axe, falcon, shield, raven, sword, budgie.
+questioner: Is the item alive? (e.g. an animal)
+answerer: Yes.
+questioner: Is the animal you're thinking of a bird?
+answerer: Yes.
+questioner: Is the bird you're thinking of a predator?
+answerer: Yes.
+questioner: Is the bird you're thinking of a large bird of prey?
+answerer: No.
+questioner: Does the bird you're thinking of have a crest or a tuft of feathers on its head?
+answerer: No.
+questioner: Does the bird you're thinking of have a wingspan smaller than 1 meter?
+answerer: Yes.
+questioner: Is the bird you're thinking of a songbird?
+answerer: No.
+questioner: Is the bird you're thinking of a scavenger?
+answerer: Yes.
+questioner: Is the bird you're thinking of black and medium-sized?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 48
+target = stork
+answerer: This is the list of candidates: pickle, cucumber, pelican, woodpecker, beans, stork, buzzard, zucchini, penguin, crow, duck, peas, olive, radish, chicken, tomato.
+questioner: Is the item you are thinking of a bird?
+answerer: Yes.
+questioner: Is the bird you are thinking of able to fly?
+answerer: Yes.
+questioner: Does the bird you are thinking of live near the water?
+answerer: Sometimes, but not always.
+questioner: Is the bird you are thinking of predominantly black in color?
+answerer: No.
+questioner: Is the bird you are thinking of commonly found living in colder climates?
+answerer: No.
+questioner: Is the bird you are thinking of relatively small in size, compared to other birds?
+answerer: No.
+questioner: Does the bird you are thinking of have a distinctive red-colored beak?
+answerer: No.
+questioner: Is the bird you are thinking of known for being able to walk on two legs?
+answerer: Yes.
+questioner: Is the bird you are thinking of mainly black and white in color, with distinctive markings on its body?
+answerer: Yes! That's correct. The bird I was thinking of is stork.
+____________________________________________
+dial_id = 58
+target = shield
+answerer: This is the list of candidates: shoes, bra, crowbar, camisole, shield, robe, nightgown, boots, tomahawk, spear, revolver, gun, whip, catapult, cape, blouse.
+questioner: Is the item you have a piece of clothing?
+answerer: No.
+questioner: Is the item you have a weapon?
+answerer: No.
+questioner: Is the item you have a tool?
+answerer: Yes.
+questioner: Is the item you have a cutting tool?
+answerer: No.
+questioner: Is the item you have a hand tool?
+answerer: Yes.
+questioner: Does the tool have multiple functions?
+answerer: It depends on how you define "multiple functions". In general, the tool is designed for a specific purpose, but it can be used in different ways to achieve different results.
+questioner: Interesting. Is the tool you have commonly used in woodworking?
+answerer: Yes, it is commonly used in woodworking.
+questioner: Great! So, is the tool you have a type of saw?
+answerer: No, it is not a type of saw.
+questioner: Does the tool you have commonly have teeth?
+answerer: No, it does not have teeth.
+questioner: Is the tool you have a chisel?
+answerer: No, it is not a chisel.
+questioner: Based on the previous answers, I think the tool you have is a plane tool. Am I correct?
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 73
+target = whip
+answerer: This is the list of candidates: peach, cannon, gun, spear, grapefruit, rhubarb, pumpkin, machete, tomahawk, whip, blueberry, avocado, pear, revolver, harpoon, olive.
+questioner: Is the item you're thinking of a fruit?
+answerer: No, it's not a fruit.
+questioner: Is the item you’re thinking of a weapon?
+answerer: Yes, it is a weapon.
+questioner: Is the weapon you're thinking of a firearm?
+answerer: No, it's not a firearm.
+questioner: Is the weapon you're thinking of used for close combat?
+answerer: Yes, it is used for close combat.
+questioner: Is the weapon you're thinking of a bladed weapon?
+answerer: No, it's not a bladed weapon.
+questioner: Is the weapon you're thinking of a type of club or baton?
+answerer: Yes, it is a type of club or baton.
+questioner: Is the weapon you're thinking of made of wood?
+answerer: No, it's not made of wood.
+questioner: Is the weapon you're thinking of commonly made of metal?
+answerer: Yes, it is commonly made of metal.
+questioner: Is the weapon you're thinking of a type of hammer?
+answerer: No, it's not a type of hammer.
+questioner: Is the weapon you're thinking of generally used by law enforcement officers or security personnel?
+answerer: Yes, it is generally used by law enforcement officers or security personnel.
+questioner: Is the weapon you’re thinking of used for striking people at a close range?
+answerer: Yes, it is used for striking people at a close range.
+questioner: The weapon you are thinking of is a police baton, am I correct?
+answerer: No, it's not a police baton.
+questioner: I think the weapon you are thinking of is a PR-24 baton, am I right?
+answerer: No, it's not a PR-24 baton.
+questioner: Is the weapon you’re thinking of capable of delivering an electric shock?
+answerer: No, it's not capable of delivering an electric shock.
+questioner: Is the weapon you’re thinking of also used for breaking glass or windows?
+answerer: Yes, it can also be used for breaking glass or windows.
+questioner: I believe the weapon you're thinking of is a expandable baton or a steel baton, is that correct?
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 78
+target = gun
+answerer: This is the list of candidates: stick, potato, radish, olive, cucumber, zucchini, peas, machete, gun, pickle, tomato, sword, axe, revolver, knife, whip.
+questioner: Is your item a vegetable?
+answerer: No.
+questioner: Is your item a weapon?
+answerer: Yes.
+questioner: Is your item a firearm?
+answerer: Yes.
+questioner: Is your item a handgun?
+answerer: Yes.
+questioner: Is your item a revolver?
+answerer: No.
+questioner: Is your item a pistol?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 80
+target = grenade
+answerer: This is the list of candidates: machete, cauliflower, zucchini, dagger, whip, radish, crowbar, shotgun, bomb, onions, turnip, grenade, beets, peas, sword, pickle.
+questioner: Is the item you have an object commonly used as a weapon?
+answerer: Yes.
+questioner: Is it a bladed weapon?
+answerer: No.
+questioner: Is the weapon you have a firearm?
+answerer: Yes.
+questioner: Is the weapon you have a shotgun?
+answerer: No.
+questioner: Is the weapon you have a pistol?
+answerer: Yes.
+questioner: Great! Based on the questions I asked, the item you have is a pistol.
+answerer: Yes! That's correct. Well done!

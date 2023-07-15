@@ -1,0 +1,1830 @@
+******************
+target = cow
+answerer: This is the list of candidates: parakeet, seal, goose, stork, deer, finch, seagull, dog, dolphin, cow, budgie, otter, rooster, canary, walrus, sheep.
+questioner: Does the item you have in mind live in water?
+answerer: No, it doesn't.
+questioner: Is the item you have in mind a bird?
+answerer: No, it's not.
+questioner: Is the item you have in mind a mammal?
+answerer: Yes, it is.
+questioner: Is the item you have in mind a domestic animal?
+answerer: Yes, it is.
+questioner: Is the item you have in mind commonly kept as a pet in houses?
+answerer: Sometimes, but it's not very common.
+questioner: Does the item you have in mind have horns?
+answerer: Yes, it does.
+questioner: The item you have in mind is a cow, isn't it?
+answerer: Yes! That's correct.
+******************
+target = cow
+answerer: This is the list of candidates: fawn, fox, seal, deer, chickadee, platypus, budgie, beaver, cow, emu, eagle, stork, parakeet, whale, canary, peacock.
+questioner: Is the item you are thinking of a mammal?
+answerer: Yes.
+questioner: Does the item have hooves?
+answerer: Yes.
+questioner: Is the item you are thinking of a deer?
+answerer: No.
+questioner: Is the item you're thinking of a beaver?
+answerer: No.
+questioner: Is the item you're thinking of a cow?
+answerer: Yes! That's correct.
+******************
+target = whale
+answerer: This is the list of candidates: emu, whale, canary, pelican, chicken, rooster, goose, caribou, mink, cougar, camel, donkey, platypus, beaver, ostrich, penguin.
+questioner: Is the assigned item a bird?
+answerer: No, it is not a bird.
+questioner: Is the assigned item a mammal?
+answerer: Yes, it is a mammal.
+questioner: Is the assigned item commonly kept as a pet?
+answerer: No, it is not commonly kept as a pet.
+questioner: Is the assigned item a carnivore?
+answerer: Yes, it is a carnivore.
+questioner: Does the assigned item primarily live in water?
+answerer: Yes, it primarily lives in water.
+questioner: Is the assigned item a marine mammal?
+answerer: Yes, it is a marine mammal.
+questioner: Is the assigned item a toothed whale?
+answerer: Yes, it is a toothed whale.
+questioner: Is the assigned item a species of dolphin?
+answerer: No, it is not a species of dolphin.
+questioner: Is the assigned item a member of the porpoise family?
+answerer: No, it is not a member of the porpoise family.
+questioner: Then the assigned item must be a killer whale. Is that correct?
+answerer: No, the assigned item is not a killer whale.
+questioner: I apologize for the confusion earlier. Can you clarify further, is the assigned item a sperm whale?
+answerer: No problem. And no, the assigned item is not a sperm whale.
+questioner: I'm running out of ideas. To confirm, is the assigned item a beaked whale?
+answerer: Yes, the assigned item is a beaked whale. Specifically, it is a whale from the family Ziphiidae, which includes all beaked whale species. Congratulations on guessing it correctly!
+******************
+target = rooster
+answerer: This is the list of candidates: walrus, camel, goat, moose, penguin, otter, rooster, goose, dolphin, ostrich, sheep, seal, swan, emu, chicken, canary.
+questioner: Is the item you're thinking of an aquatic animal?
+answerer: No, it is not an aquatic animal.
+questioner: Is the item you're thinking of a bird?
+answerer: Yes, it is a bird.
+questioner: Does the bird you're thinking of have the ability to fly?
+answerer: Yes, it has the ability to fly.
+questioner: Is the bird you're thinking of commonly found on farms?
+answerer: Yes, it is commonly found on farms.
+questioner: The bird you are thinking of is a chicken?
+answerer: No, it is not a chicken.
+questioner: Is the bird you're thinking of larger than a chicken?
+answerer: Yes, it is larger than a chicken.
+questioner: Is the bird you are thinking of a kind of a bird of prey?
+answerer: No, it is not a bird of prey.
+questioner: Is the bird you're thinking of mainly white in color?
+answerer: No, it is not mainly white in color.
+questioner: Is the bird you're thinking of a swan?
+answerer: No, it is not a swan.
+questioner: Is the bird you’re thinking of a kind of game bird usually hunted for sport or food?
+answerer: Yes, it is a kind of game bird usually hunted for sport or food.
+questioner: The bird you are thinking of is a goose?
+answerer: No, it is not a goose.
+questioner: Is the bird you're thinking of often white and grayish-brown in color with a long thin neck?
+answerer: No, it is not white and grayish-brown in color with a long thin neck.
+questioner: Is the bird you're thinking of typically dark in color with a red comb on its head?
+answerer: Yes, that's correct! The bird I'm thinking of is a rooster. Well done!
+******************
+target = budgie
+answerer: This is the list of candidates: woodpecker, elephant, parakeet, pelican, budgie, whale, elk, platypus, goose, beaver, rooster, chicken, cheetah, dolphin, cat, penguin.
+questioner: Is the item you're thinking of a bird?
+answerer: Yes!
+questioner: Is the bird you're thinking of known for its colorful feathers?
+answerer: Yes!
+questioner: Is the bird you are thinking of a parakeet?
+answerer: Yes! That's correct.
+******************
+target = seagull
+answerer: This is the list of candidates: stork, deer, swan, mink, cat, starling, pelican, dolphin, walrus, parakeet, fawn, budgie, seagull, otter, robin, seal.
+questioner: Is the item you are thinking of a mammal?
+answerer: No, it is not a mammal.
+questioner: Does the item you are thinking of live in water?
+answerer: No, it does not live in water.
+questioner: Is the item you are thinking of a bird?
+answerer: Yes, it is a bird.
+questioner: Is the item you are thinking of a bird of prey?
+answerer: No, it is not a bird of prey.
+questioner: Does the item you are thinking of commonly live near water?
+answerer: Yes, it commonly lives near water.
+questioner: Is it a pelican?
+answerer: No, it is not a pelican.
+questioner: Is it a swan?
+answerer: No, it is not a swan.
+questioner: Does this bird have a long neck?
+answerer: No, it does not have a long neck.
+questioner: Is it a starling?
+answerer: No, it is not a starling.
+questioner: Is it a seagull?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = zebra
+answerer: This is the list of candidates: scarf, otter, coyote, zebra, walrus, blouse, shoes, cape, bra, camisole, hamster, robe, whale, elk, buffalo, cloak.
+questioner: Is the item an animal?
+answerer: Yes.
+questioner: Is the animal a sea creature?
+answerer: No.
+questioner: Is the animal a land animal?
+answerer: Yes.
+questioner: Does the animal have hooves?
+answerer: Yes.
+questioner: Is the animal a buffalo?
+answerer: No.
+questioner: Is the animal an elk?
+answerer: No.
+questioner: Is the animal a coyote?
+answerer: No.
+questioner: Is the animal a whale?
+answerer: No.
+questioner: Is the animal a walrus?
+answerer: No.
+questioner: Is the animal an otter?
+answerer: No.
+questioner: Is the animal a hamster?
+answerer: No.
+questioner: Is the animal a zebra?
+answerer: Yes! That's correct.
+******************
+target = elephant
+answerer: This is the list of candidates: shoes, blouse, otter, cape, beaver, fawn, deer, scarf, bra, lion, whale, robe, seal, elephant, boots, camisole.
+questioner: Is the item an animal?
+answerer: Yes.
+questioner: Is the animal a land animal?
+answerer: Yes.
+questioner: Is the animal a herbivore?
+answerer: Yes.
+questioner: Is the animal a type of deer?
+answerer: No.
+questioner: Is the animal you are thinking of a type of beaver?
+answerer: No.
+questioner: Is the animal you are thinking of a type of fawn?
+answerer: No.
+questioner: Is the animal you are thinking of a type of elephant?
+answerer: Yes! That's correct.
+******************
+target = cat
+answerer: This is the list of candidates: nightgown, coat, bra, elk, blouse, cape, dolphin, camisole, moose, whale, boots, pig, buffalo, camel, cat, shoes.
+questioner: Is the item an article of clothing?
+answerer: No.
+questioner: Is the item an animal?
+answerer: Yes.
+questioner: Is the animal a mammal?
+answerer: Yes.
+questioner: Is the animal a domesticated pet, like a cat or a dog?
+answerer: Yes.
+questioner: Is the animal a cat?
+answerer: Yes! That's correct.
+******************
+target = cloak
+answerer: This is the list of candidates: boots, shoes, seal, camisole, mink, blouse, nightgown, beaver, fawn, walrus, cat, deer, scarf, otter, cloak, bra.
+questioner: Is the item you have selected a piece of clothing?
+answerer: Yes.
+questioner: Is the item you have chosen designed to be worn on the upper body?
+answerer: Yes.
+questioner: Is the item you have chosen designed for women?
+answerer: It can be worn by both men and women, so the answer is no.
+questioner: Is the item you have chosen made of fur?
+answerer: No.
+questioner: Is the item you have chosen designed to cover the head?
+answerer: No.
+questioner: Is the item you have chosen a type of undergarment?
+answerer: No.
+questioner: Is the item you have chosen a type of footwear?
+answerer: No.
+questioner: Is the item you have chosen a type of outerwear?
+answerer: Yes.
+questioner: Does the item you have selected help to keep the wearer warm?
+answerer: Yes.
+questioner: Is the item you have chosen used to cover the whole body?
+answerer: No.
+questioner: Is the item you have chosen of smaller size, designed to be worn on arms and/or shoulders?
+answerer: No.
+questioner: Is the item you have chosen made of a lightweight fabric, such as silk or chiffon?
+answerer: No.
+questioner: Is the item you have chosen mainly used in cold weather?
+answerer: Yes.
+questioner: Is the item you have chosen typically made of wool or a wool blend?
+answerer: Yes.
+questioner: Is the item you have chosen a type of coat?
+answerer: It can be considered as a type of coat, so the answer is yes.
+questioner: Great! The item you have selected must be a cloak.
+answerer: Yes! That's correct. Congratulations!
+******************
+target = bra
+answerer: This is the list of candidates: scarf, shoes, cloak, fawn, boots, mink, deer, chipmunk, nightgown, cat, goat, sheep, blouse, camisole, bear, bra.
+questioner: Is the item you're thinking of a piece of clothing?
+answerer: Yes.
+questioner: Is the piece of clothing a type of tightly fitted clothing?
+answerer: It depends on how it is worn, but generally, no.
+questioner: Is the piece of clothing worn on the upper part of the body?
+answerer: Yes.
+questioner: Is the piece of clothing you are thinking of typically meant to cover the arms?
+answerer: No.
+questioner: Is the piece of clothing you are thinking of typically meant for women?
+answerer: Yes.
+questioner: Is the piece of clothing you are thinking of typically worn on formal occasions?
+answerer: It depends on the context, but generally, yes.
+questioner: Is the piece of clothing you are thinking of a blouse?
+answerer: No.
+questioner: Is the piece of clothing you are thinking of a camisole?
+answerer: No.
+questioner: Is the piece of clothing you are thinking of a nightgown?
+answerer: No.
+questioner: Is the piece of clothing you are thinking of a scarf?
+answerer: No.
+questioner: Is the piece of clothing you are thinking of a blouse?
+answerer: No.
+questioner: Is the piece of clothing you are thinking of a camisole?
+answerer: No.
+questioner: Is the piece of clothing you are thinking of a type of outerwear?
+answerer: No.
+questioner: Is the piece of clothing you are thinking of a bra?
+answerer: Yes! That's correct.
+******************
+target = bra
+answerer: This is the list of candidates: seal, walrus, blouse, camisole, shoes, goat, boots, beaver, zebra, nightgown, bra, robe, bear, otter, cape, cow.
+questioner: Is your item a piece of clothing?
+answerer: Yes.
+questioner: Is your item a top?
+answerer: Yes.
+questioner: Would your item be categorized as lingerie?
+answerer: Yes.
+questioner: Is your item worn primarily by women?
+answerer: Yes.
+questioner: Is your item a bra?
+answerer: Yes! That's correct.
+******************
+target = cat
+answerer: This is the list of candidates: whale, machete, stick, crowbar, slingshot, goat, porcupine, cat, axe, sword, dolphin, buffalo, elk, crossbow, chipmunk, revolver.
+questioner: Is the item you got an animal?
+answerer: Yes.
+questioner: Is the animal you got typically found on land?
+answerer: Yes.
+questioner: Is the animal you got known for having sharp teeth?
+answerer: Yes.
+questioner: Is the animal you got a predator?
+answerer: Yes.
+questioner: Does the animal you got have fur?
+answerer: Yes.
+questioner: Is the animal you got known for its agility?
+answerer: Yes.
+questioner: Is the animal you got a wild cat?
+answerer: It depends on what you mean by "wild cat". If you mean a species of wild cat, then yes, the animal I got is a wild cat. But if you mean a cat that is not domesticated, then it's not necessarily true.
+questioner: Thank you for the clarification. Is the animal you got a large wild cat, such as a lion or tiger?
+answerer: No, the animal I got is not a large wild cat like a lion or tiger.
+questioner: Does the animal you got have retractable claws?
+answerer: Yes.
+questioner: Based on your previous answers, the animal you got is most likely a medium-sized wild cat. Is it a lynx?
+answerer: No, the animal I got is not a lynx.
+questioner: Alright. Does the animal you got have black spots or patterns on its fur?
+answerer: No, the animal I got does not have black spots or patterns on its fur.
+questioner: Is the animal you got a type of wild cat that is native to North America?
+answerer: Yes, the animal I got is a type of wild cat that is native to North America.
+questioner: Great! The animal you got is most likely either a bobcat or a cougar. Is the animal you got a bobcat?
+answerer: Yes! That's correct. Well done!
+******************
+target = fox
+answerer: This is the list of candidates: pig, whale, fawn, caribou, crossbow, rifle, dog, bear, shield, dolphin, whip, slingshot, harpoon, catapult, crowbar, fox.
+questioner: Is the item alive?
+answerer: Yes.
+questioner: Is it a mammal?
+answerer: Yes.
+questioner: Is it a land animal?
+answerer: Yes.
+questioner: Is it a carnivore?
+answerer: Yes.
+questioner: Is it a member of the canidae family? (e.g. dog, fox, wolf)
+answerer: Yes.
+questioner: Based on your response, I think the item is either a dog or a fox. Is it a domestic animal?
+answerer: No.
+questioner: Does it have a bushy tail?
+answerer: Yes.
+questioner: Great! Based on your responses, I believe the item is a fox. Is that correct?
+answerer: Yes! That's correct. Well done!
+******************
+target = chipmunk
+answerer: This is the list of candidates: grenade, gun, chipmunk, sword, machete, fawn, deer, bear, buffalo, elk, sheep, goat, whip, shotgun, dagger, crowbar.
+questioner: Is the item an animal?
+answerer: Yes.
+questioner: Is the animal commonly found in North America?
+answerer: Yes.
+questioner: Is the animal typically hunted for sport or food?
+answerer: No.
+questioner: Is the animal generally considered to be aggressive or dangerous to humans?
+answerer: No.
+questioner: Is the animal a herbivore?
+answerer: Yes.
+questioner: Is it in the deer family?
+answerer: No.
+questioner: Is it a small mammal?
+answerer: Yes.
+questioner: Does it have stripes on its body?
+answerer: No.
+questioner: Is it a rodent?
+answerer: Yes.
+questioner: The item assigned to you is 'chipmunk'.
+answerer: Yes! That's correct.
+******************
+target = sword
+answerer: This is the list of candidates: chipmunk, mink, elephant, sword, whip, slingshot, crowbar, pistol, machete, grenade, camel, fawn, crossbow, bear, squirrel, cougar.
+questioner: Is the item an animal?
+answerer: No, it is not an animal.
+questioner: Is the item a weapon of some sort?
+answerer: Yes, it is a weapon.
+questioner: Is the weapon a firearm?
+answerer: No, it is not a firearm.
+questioner: Is the weapon a bladed object?
+answerer: Yes, it is a bladed object.
+questioner: Is the weapon a machete?
+answerer: No, it is not a machete.
+questioner: Is the weapon a sword?
+answerer: Yes! That's correct.
+******************
+target = rifle
+answerer: This is the list of candidates: cannon, spear, rifle, catapult, tomahawk, deer, goat, bear, sheep, walrus, shield, bazooka, revolver, lion, whale, donkey.
+questioner: Is the item an animal?
+answerer: No, it is not an animal.
+questioner: Would the item be considered a weapon?
+answerer: Yes, it is considered a weapon.
+questioner: Is the weapon a type of firearm?
+answerer: Yes, it is a type of firearm.
+questioner: Is the firearm a type of handgun?
+answerer: No, it is not a type of handgun.
+questioner: Is the firearm a type of rifle?
+answerer: Yes, it is a rifle.
+questioner: Great! So, the item is a rifle.
+answerer: Yes! That's correct. Well done!
+******************
+target = tomahawk
+answerer: This is the list of candidates: cow, machete, cougar, beaver, whip, sword, sheep, revolver, crowbar, caribou, gun, lion, coyote, spear, tomahawk, moose.
+questioner: Is the item you have assigned an animal?
+answerer: No, it is not an animal.
+questioner: Is the item you have assigned a weapon?
+answerer: Yes, it is a weapon.
+questioner: Is the weapon you have assigned used for long-range attacks?
+answerer: No, it is not used for long-range attacks.
+questioner: Is the weapon you have assigned primarily used for cutting or chopping?
+answerer: Yes, it is primarily used for cutting or chopping.
+questioner: Is the weapon you have assigned a machete?
+answerer: No, it is not a machete.
+questioner: Is the weapon you have assigned something that can be thrown to attack someone?
+answerer: Yes, it can be thrown to attack someone.
+questioner: Is the weapon you have assigned a spear?
+answerer: No, it is not a spear.
+questioner: Is the weapon you have assigned something that can be held with one hand?
+answerer: Yes, it can be held with one hand.
+questioner: Is the weapon you have assigned a tomahawk?
+answerer: Yes! That's correct.
+******************
+target = chimp
+answerer: This is the list of candidates: chipmunk, banana, mandarin, mink, cranberry, tomato, chimp, avocado, dog, rhubarb, whale, cherry, lion, dolphin, blueberry, cow.
+questioner: Is the item an animal?
+answerer: Yes.
+questioner: Is the animal a mammal?
+answerer: Yes.
+questioner: Is the animal a predator?
+answerer: No.
+questioner: Does the animal have hooves?
+answerer: No.
+questioner: Is the animal commonly domesticated?
+answerer: No.
+questioner: Is the animal found in North America?
+answerer: No.
+questioner: Is the animal aquatic?
+answerer: No.
+questioner: Is the animal predominantly found in the African continent?
+answerer: Yes.
+questioner: Is the animal smaller than a car?
+answerer: Yes.
+questioner: Based on all the answers, I guess the item is a monkey, chimp or ape. Am I correct?
+answerer: Yes! That's correct. The item assigned to me was chimp and you guessed it correctly.
+******************
+target = chipmunk
+answerer: This is the list of candidates: pear, elk, buffalo, chipmunk, tangerine, cantaloupe, otter, dolphin, mink, walrus, honeydew, avocado, cherry, cranberry, seal, prune.
+questioner: Is the item an animal?
+answerer: Yes.
+questioner: Is the animal you are thinking of a land animal?
+answerer: Yes.
+questioner: Is the animal you are thinking of a mammal?
+answerer: Yes.
+questioner: Is the animal you are thinking of a predator?
+answerer: No.
+questioner: Is the animal you are thinking of a herbivore?
+answerer: Yes.
+questioner: Is the animal you are thinking of relatively small in size, smaller than a human?
+answerer: Yes.
+questioner: Is the animal you are thinking of a chipmunk?
+answerer: Yes! That's correct.
+******************
+target = mink
+answerer: This is the list of candidates: buffalo, nectarine, squirrel, cranberry, pear, fox, mandarin, apple, whale, chipmunk, mink, bear, seal, banana, cherry, rhubarb.
+questioner: Is the item an animal?
+answerer: Yes.
+questioner: Is the animal a mammal?
+answerer: Yes.
+questioner: Is the animal commonly found in water?
+answerer: Yes.
+questioner: Does the animal have a thick layer of blubber?
+answerer: No.
+questioner: Is the animal relatively small, about the size of a cat or smaller?
+answerer: No.
+questioner: Is the animal a carnivore?
+answerer: Yes.
+questioner: Is the animal found in North America?
+answerer: Yes.
+questioner: Is the animal a member of the weasel family?
+answerer: Yes.
+questioner: Is the animal brown in color and has a white strip on its face?
+answerer: No.
+questioner: Is the animal usually found climbing trees?
+answerer: No.
+questioner: It seems like the item is a river otter. Am I correct?
+answerer: No, the item assigned to me is not a river otter.
+questioner: I apologize for my mistake. Can you please give me another hint or clue which can lead me to the correct item?
+answerer: Sure. The animal assigned to me is semi-aquatic and has a valuable fur.
+questioner: Ah, I think I know the answer now. Is the animal a mink?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = banana
+answerer: This is the list of candidates: fox, bear, bison, banana, fawn, peach, gorilla, beaver, plum, zebra, prune, chipmunk, avocado, olive, rhubarb, lemon.
+questioner: Is your item an animal?
+answerer: No, it's not an animal.
+questioner: Is your item a fruit?
+answerer: Yes, it is a fruit.
+questioner: Is your item usually yellow when ripe?
+answerer: Yes, it is usually yellow when ripe.
+questioner: Does your item have a curved shape?
+answerer: Yes, it does have a curved shape.
+questioner: Based on your previous answers, I believe your item is a banana. Is that correct?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = plum
+answerer: This is the list of candidates: cougar, dog, zebra, dolphin, pear, cranberry, plum, mandarin, seal, otter, sheep, walrus, apple, prune, banana, grapefruit.
+questioner: Is the item an animal?
+answerer: No, it is not an animal.
+questioner: Is the item a fruit?
+answerer: Yes, it is a fruit.
+questioner: Is the fruit yellow?
+answerer: No, it is not yellow.
+questioner: Is the fruit red or purple?
+answerer: Yes, the fruit is either red or purple.
+questioner: Is the fruit typically small in size, like a berry?
+answerer: No, the fruit is not typically small in size like a berry.
+questioner: Is the fruit a plum?
+answerer: Yes! That's correct.
+******************
+target = tomato
+answerer: This is the list of candidates: walrus, raspberry, fawn, otter, grapefruit, cat, banana, mink, deer, seal, dolphin, prune, pineapple, avocado, coconut, tomato.
+questioner: Is the item an animal?
+answerer: No, it's not an animal.
+questioner: Is the item a type of fruit?
+answerer: Yes, it is a type of fruit.
+questioner: Is the item a citrus fruit?
+answerer: No, it's not a citrus fruit.
+questioner: Does the item have a hard outer shell or skin?
+answerer: No, it doesn't have a hard outer shell or skin.
+questioner: Is the item typically red or pink in color?
+answerer: Yes, the item is typically red in color.
+questioner: Is the item a type of berry?
+answerer: No, it's not a type of berry.
+questioner: Is the item a pome fruit?
+answerer: No, it's not a pome fruit.
+questioner: Is the item round in shape?
+answerer: Yes, the item is round in shape.
+questioner: Based on your previous answers, the item must be a raspberry. Is that correct?
+answerer: No, sorry. The item assigned to me is not a raspberry.
+questioner: Oh, I'm sorry. Based on your previous answers, the item must be a grapefruit. Is that correct?
+answerer: No, sorry. The item assigned to me is not a grapefruit.
+questioner: I apologize for the confusion. Based on your previous answers, the item must be a tomato. Is that correct?
+answerer: Yes! That's correct. Well done!
+******************
+target = sheep
+answerer: This is the list of candidates: onions, gorilla, pig, bear, peas, pumpkin, caribou, cauliflower, otter, sheep, potato, cucumber, pickle, broccoli, hamster, camel.
+questioner: Is the item an animal?
+answerer: Yes.
+questioner: Is the animal a mammal?
+answerer: Yes.
+questioner: Is the mammal a herbivore?
+answerer: Yes.
+questioner: Is the mammal commonly found in North America?
+answerer: No.
+questioner: Is the mammal a primate?
+answerer: No.
+questioner: Does the mammal live in the water?
+answerer: No.
+questioner: Is the mammal domesticated?
+answerer: Yes.
+questioner: Is the mammal typically kept as a pet?
+answerer: No.
+questioner: Is the mammal usually raised for meat or as a source of wool or milk?
+answerer: Yes.
+questioner: Is the mammal a type of sheep?
+answerer: Yes! That's correct.
+******************
+target = bear
+answerer: This is the list of candidates: elk, avocado, buffalo, deer, chipmunk, beets, radish, goat, parsley, sheep, bear, celery, onions, cabbage, fawn, zucchini.
+questioner: Is the item you have selected an animal?
+answerer: Yes.
+questioner: Is the animal you have selected a mammal?
+answerer: Yes.
+questioner: Is the animal you have selected commonly found in North America?
+answerer: Yes.
+questioner: Is the animal you have selected one that is typically hunted for sport or food?
+answerer: Yes.
+questioner: Is the animal you have selected a type of deer?
+answerer: No.
+questioner: Is the animal you have selected a type of bear?
+answerer: Yes! That's correct.
+******************
+target = goat
+answerer: This is the list of candidates: beans, zucchini, buffalo, seal, fawn, tomato, peas, radish, cucumber, hamster, mushroom, bear, fox, goat, pig, pickle.
+questioner: Is the item an animal?
+answerer: Yes.
+questioner: Is the animal a domestic animal?
+answerer: Yes.
+questioner: Is the animal usually kept as a pet?
+answerer: Sometimes, but not usually.
+questioner: Is the animal a rodent?
+answerer: No.
+questioner: Is the animal a herbivore?
+answerer: Yes.
+questioner: Does the animal have fur?
+answerer: Yes.
+questioner: Is the animal a farm animal?
+answerer: Yes.
+questioner: Is the animal commonly raised for its meat?
+answerer: Yes.
+questioner: Is the animal a pig?
+answerer: No.
+questioner: Is the animal a goat?
+answerer: Yes! That's correct.
+******************
+target = pickle
+answerer: This is the list of candidates: cow, chipmunk, tomato, beans, zucchini, mushroom, cougar, mink, seal, cucumber, radish, fawn, peas, walrus, pickle, squirrel.
+questioner: Is the item an animal?
+answerer: No, it is not an animal.
+questioner: Is the item a vegetable?
+answerer: Yes, it is a vegetable.
+questioner: Is the item green?
+answerer: It can be green, but it can also be other colors.
+questioner: Is the item commonly used in salads?
+answerer: Yes, it is commonly used in salads.
+questioner: Is the item a cucumber?
+answerer: No, it is not a cucumber.
+questioner: Is the item a radish?
+answerer: No, it is not a radish.
+questioner: Is the item a tomato?
+answerer: No, it is not a tomato.
+questioner: Is the item a zucchini?
+answerer: No, it is not a zucchini.
+questioner: Is the item a pea?
+answerer: No, it is not a pea.
+questioner: Is the item a mushroom?
+answerer: No, it is not a mushroom.
+questioner: Is the item a bean?
+answerer: No, it is not a bean.
+questioner: Is the item a pickle?
+answerer: Yes! That's correct.
+******************
+target = radish
+answerer: This is the list of candidates: olive, chipmunk, cucumber, whale, pumpkin, beans, mushroom, eggplant, cow, zebra, pickle, dolphin, platypus, sheep, beaver, radish.
+questioner: Is your item an animal?
+answerer: No, it's not an animal.
+questioner: Is your item a vegetable?
+answerer: Yes, it is a vegetable.
+questioner: Is your item green in color?
+answerer: No, it's not green in color.
+questioner: Is your item commonly used in Italian cuisine?
+answerer: Yes, it is commonly used in Italian cuisine.
+questioner: Is your item a type of fruit?
+answerer: No, it's not a type of fruit.
+questioner: Based on your answers, the item must be an eggplant. Is that correct?
+answerer: No, it's not an eggplant.
+questioner: I am sorry I couldn't help you identify your item. Would you like me to take a guess based on the answers you've provided?
+answerer: Sure, please take a guess.
+questioner: Based on your answers, the item could be a mushroom. Am I correct?
+answerer: No, it's not a mushroom. Do you want to try again?
+questioner: Yes, of course. Is your item commonly used in making salads?
+answerer: Yes, it is commonly used in making salads.
+questioner: Based on your previous answers, I can guess that your item is a cucumber. Am I correct?
+answerer: No, it's not a cucumber.
+questioner: I'm sorry for not being able to guess correctly so far. Can you please give me one more clue about the item?
+answerer: Sure, here's your clue: It's a root vegetable.
+questioner: Thank you for the clue. Based on that information, I can guess that the item is a radish. Am I correct?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = zucchini
+answerer: This is the list of candidates: mink, parsley, cow, chipmunk, otter, moose, avocado, radish, sheep, beets, cougar, cabbage, onions, caribou, zucchini, cauliflower.
+questioner: Is the item you are thinking of an animal?
+answerer: No, it's not an animal.
+questioner: Is the item you are thinking of a type of vegetable or fruit?
+answerer: Yes, it is a type of vegetable.
+questioner: Is the vegetable you are thinking of commonly used as a salad ingredient?
+answerer: Yes, it is commonly used as a salad ingredient.
+questioner: Does the name of the vegetable start with the letter "L"?
+answerer: No, the name of the vegetable does not start with the letter "L".
+questioner: Is the vegetable you are thinking of green in color?
+answerer: Yes, the vegetable I'm thinking of is green in color.
+questioner: Does the name of the vegetable start with the letter "S"?
+answerer: No, the name of the vegetable does not start with the letter "S".
+questioner: Is the vegetable you are thinking of a leafy vegetable that has a crunchy texture?
+answerer: No, the vegetable I'm thinking of is not a leafy vegetable, but it has a crunchy texture.
+questioner: Is the vegetable you are thinking of a member of the brassica family? (Examples include, but are not limited to, broccoli, cauliflower, and cabbage)
+answerer: No, the vegetable I'm thinking of is not a member of the brassica family.
+questioner: Is the vegetable's name comprised of only one word?
+answerer: Yes, the name of the vegetable is comprised of only one word.
+questioner: Is the vegetable you are thinking of cucumber?
+answerer: No, the vegetable I'm thinking of is not cucumber.
+questioner: Is the vegetable you are thinking of asparagus?
+answerer: No, the vegetable I'm thinking of is not asparagus.
+questioner: Is the vegetable you are thinking of celery?
+answerer: No, the vegetable I'm thinking of is not celery.
+questioner: Is the vegetable you are thinking of lettuce?
+answerer: No, the vegetable I'm thinking of is not lettuce.
+questioner: Is the vegetable you are thinking of green beans?
+answerer: No, the vegetable I'm thinking of is not green beans.
+questioner: Is the vegetable you are thinking of zucchini?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = raven
+answerer: This is the list of candidates: robe, bra, shoes, chicken, buzzard, canary, camisole, boots, cloak, gown, raven, blouse, ostrich, starling, chickadee, emu.
+questioner: Is your item a piece of clothing?
+answerer: No, it is not a piece of clothing.
+questioner: Is your item a bird?
+answerer: Yes, it is a bird.
+questioner: Does your item belong to the group of poultry birds?
+answerer: No, it does not belong to the group of poultry birds.
+questioner: Is your item a bird of prey?
+answerer: Yes, it is a bird of prey.
+questioner: Does your item have black feathers?
+answerer: Yes, it has black feathers.
+questioner: Based on your answers, your item is a buzzard. Is that correct?
+answerer: No, I'm sorry, that's not correct. My assigned item is not a buzzard.
+questioner: My apologies. Let me try again. Based on your answers, would it be accurate to say that your item is a raven?
+answerer: Yes! That's correct. Well done!
+******************
+target = duck
+answerer: This is the list of candidates: buzzard, crow, boots, seagull, blouse, bra, cape, gown, shoes, partridge, camisole, duck, swan, coat, stork, pelican.
+questioner: Is the item you're thinking of an animal?
+answerer: Yes.
+questioner: Is the animal you're thinking of a bird?
+answerer: Yes.
+questioner: Is the bird you're thinking of a predator?
+answerer: No.
+questioner: Is the bird you're thinking of commonly found near water?
+answerer: Yes.
+questioner: Is the bird you're thinking of primarily black in color?
+answerer: No.
+questioner: Is the bird you're thinking of white in color?
+answerer: Some species of the bird I'm thinking of have white feathers, but not all of them.
+questioner: Is the bird you're thinking of a type of duck?
+answerer: Yes! That's correct.
+******************
+target = pelican
+answerer: This is the list of candidates: bra, blouse, seagull, camisole, partridge, penguin, stork, coat, buzzard, crow, shoes, cloak, robe, pheasant, cape, pelican.
+questioner: Is the item you are thinking of, something you can wear?
+answerer: No, you cannot wear a pelican.
+questioner: Is the item you are thinking of, a type of bird?
+answerer: Yes, a pelican is a type of bird.
+questioner: Is the bird you are thinking of a sea bird?
+answerer: Yes, pelicans are sea birds.
+questioner: Great! You were thinking of a pelican, weren't you?
+answerer: Yes! That's correct.
+******************
+target = scarf
+answerer: This is the list of candidates: swan, cape, robe, parakeet, blouse, stork, budgie, chicken, woodpecker, shoes, goose, penguin, bra, cloak, scarf, camisole.
+questioner: Is the item a type of clothing?
+answerer: Yes.
+questioner: Is the item worn on the upper body?
+answerer: No.
+questioner: Is the item a type of underwear?
+answerer: No.
+questioner: Is the item worn on the lower body?
+answerer: No.
+questioner: Is the item an accessory?
+answerer: Yes.
+questioner: Is the item worn around the neck?
+answerer: Yes.
+questioner: Is the item typically made of a thin fabric?
+answerer: It depends on the type of scarf, but generally, it can be made of thin or thick fabric.
+questioner: Is the item usually made of wool or a similar warm material?
+answerer: It can be made of wool or other warm materials, but it can also be made of lighter materials like cotton or silk.
+questioner: Is the item a winter scarf?
+answerer: It can be worn in winter, but it's not necessarily a winter scarf.
+questioner: Is the item a long scarf that can be wrapped around the neck?
+answerer: Yes, it can be.
+questioner: Based on your responses, I believe the item is a scarf. Is this correct?
+answerer: Yes! That's correct.
+******************
+target = scarf
+answerer: This is the list of candidates: scarf, cape, nightgown, seagull, bra, boots, shoes, crow, rooster, stork, goose, blouse, buzzard, starling, chickadee, camisole.
+questioner: Is your item something that can be worn?
+answerer: Yes.
+questioner: Does your item cover the feet?
+answerer: No.
+questioner: Is your item typically worn on the upper body?
+answerer: Yes.
+questioner: Is your item typically worn by women?
+answerer: No, it can be worn by both men and women.
+questioner: Is your item a type of outerwear?
+answerer: It can be worn as outerwear, but it's not necessarily always considered outerwear.
+questioner: Is your item made of a warm and cozy material to keep someone warm?
+answerer: Yes, it can be made of warm and cozy material to keep someone warm.
+questioner: Is your item usually wrapped around the neck?
+answerer: Yes, it is usually wrapped around the neck.
+questioner: The item you were assigned is a scarf. Is that correct?
+answerer: Yes! That's correct.
+******************
+target = boots
+answerer: This is the list of candidates: pelican, dove, parakeet, bra, seagull, scarf, stork, nightgown, boots, budgie, camisole, blouse, chickadee, shoes, cloak, starling.
+questioner: Is the item you have a clothing item?
+answerer: Yes.
+questioner: Is it a garment that is typically worn during the day?
+answerer: Yes.
+questioner: Does the garment cover the entire body?
+answerer: No.
+questioner: Is the garment you have a topwear?
+answerer: No.
+questioner: Is the garment you have a type of bottomwear?
+answerer: Yes.
+questioner: Is the garment you have a legwear like pants or jeans?
+answerer: No.
+questioner: Is the garment you have a skirt?
+answerer: No.
+questioner: Does the garment you have go over the legs and cover the feet?
+answerer: Yes.
+questioner: Is the garment you have a pair of boots?
+answerer: Yes! That's correct.
+******************
+target = raven
+answerer: This is the list of candidates: bazooka, parakeet, chickadee, buzzard, canary, knife, cannon, catapult, hawk, machete, axe, falcon, shield, raven, sword, budgie.
+questioner: Is the item alive? (e.g. an animal)
+answerer: Yes.
+questioner: Is the animal you're thinking of a bird?
+answerer: Yes.
+questioner: Is the bird you're thinking of a predator?
+answerer: Yes.
+questioner: Is the bird you're thinking of a large bird of prey?
+answerer: No.
+questioner: Does the bird you're thinking of have a crest or a tuft of feathers on its head?
+answerer: No.
+questioner: Does the bird you're thinking of have a wingspan smaller than 1 meter?
+answerer: Yes.
+questioner: Is the bird you're thinking of a songbird?
+answerer: No.
+questioner: Is the bird you're thinking of a scavenger?
+answerer: Yes.
+questioner: Is the bird you're thinking of black and medium-sized?
+answerer: Yes! That's correct.
+******************
+target = chickadee
+answerer: This is the list of candidates: gun, cannon, crow, ostrich, shield, revolver, whip, catapult, slingshot, chickadee, canary, crossbow, penguin, emu, buzzard, chicken.
+questioner: Is your item an animal?
+answerer: Yes.
+questioner: Can your item fly?
+answerer: Yes.
+questioner: Does your item belong to the bird family?
+answerer: Yes.
+questioner: Is your item commonly kept as a pet?
+answerer: No.
+questioner: Is your item a bird of prey?
+answerer: No.
+questioner: Is your item primarily found on the ground or in the water?
+answerer: No. It is primarily found on trees.
+questioner: Is your item a small bird?
+answerer: Yes.
+questioner: Does your item have a yellow coloration?
+answerer: No.
+questioner: Is your item black?
+answerer: Yes.
+questioner: Based on your responses, I believe your item is a crow. Is that correct?
+answerer: No, it's not a crow.
+questioner: I apologize for the mistake. Let me guess again. Is your item a chickadee?
+answerer: Yes! That's correct.
+******************
+target = swan
+answerer: This is the list of candidates: sword, axe, catapult, seagull, crow, stork, revolver, swan, chicken, emu, shield, whip, crossbow, pheasant, buzzard, slingshot.
+questioner: Is your item a weapon?
+answerer: No, it is not a weapon.
+questioner: Is your item a bird?
+answerer: Yes, it is a bird.
+questioner: Is your bird commonly found on land?
+answerer: Yes, it is commonly found on land.
+questioner: Does your bird have long legs?
+answerer: Yes, it has long legs.
+questioner: From the given options, is your bird an emu?
+answerer: No, it is not an emu.
+questioner: From the given options, is your bird a stork?
+answerer: No, it is not a stork.
+questioner: From the given options, is your bird a seagull?
+answerer: No, it is not a seagull.
+questioner: From the given options, is your bird a chicken?
+answerer: No, it is not a chicken.
+questioner: From the given options, is your bird a Pheasant?
+answerer: No, it is not a pheasant.
+questioner: From the given options, is your bird a buzzard?
+answerer: No, it is not a buzzard.
+questioner: From the given options, is your bird a crow?
+answerer: No, it is not a crow.
+questioner: From the given options, is your bird a swan?
+answerer: Yes! That's correct.
+******************
+target = revolver
+answerer: This is the list of candidates: gun, parakeet, buzzard, budgie, cannon, machete, robin, knife, falcon, whip, emu, chickadee, sword, revolver, ostrich, dagger.
+questioner: Is the item you are thinking of a bird?
+answerer: No, it is not a bird.
+questioner: Is it a weapon?
+answerer: Yes, it is a weapon.
+questioner: Is it a bladed weapon?
+answerer: No, it is not a bladed weapon.
+questioner: Is the weapon you are thinking of a firearm?
+answerer: Yes, it is a firearm.
+questioner: Is the firearm you are thinking of a revolver?
+answerer: Yes! That's correct.
+******************
+target = catapult
+answerer: This is the list of candidates: cannon, emu, shield, robin, ostrich, budgie, pelican, bluejay, catapult, missile, goose, parakeet, bazooka, stick, rifle, whip.
+questioner: Is the item you are thinking of an animal?
+answerer: No, it's not an animal.
+questioner: Is the item you are thinking of a weapon?
+answerer: Yes, it is a weapon.
+questioner: Is the weapon you are thinking of a handheld weapon?
+answerer: No, it's not a handheld weapon.
+questioner: Is the weapon you are thinking of a projectile weapon?
+answerer: Yes, it is a projectile weapon.
+questioner: Is the weapon you are thinking of a missile?
+answerer: Yes, it is a missile weapon.
+questioner: Is the missile weapon you are thinking of a bazooka?
+answerer: No, it's not a bazooka.
+questioner: Is the missile weapon you are thinking of a catapult?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = sword
+answerer: This is the list of candidates: dove, sword, machete, parakeet, axe, whip, crowbar, cannon, chicken, budgie, canary, finch, dagger, gun, swan, ostrich.
+questioner: Is the item you were assigned a living creature? (example: dove, parakeet, chicken, budgie, canary, finch, swan, ostrich)
+answerer: No.
+questioner: Is the item you were assigned a tool or a weapon?(example: sword, machete, axe, whip, crowbar, cannon, dagger, gun)
+answerer: It is a weapon.
+questioner: Is the weapon you were assigned a melee weapon?(example: sword, machete, axe, dagger)
+answerer: Yes.
+questioner: Is the weapon you were assigned commonly used by medieval knights? (example: sword)
+answerer: Yes.
+questioner: Is the weapon you were assigned a longsword?
+answerer: Yes! That's correct.
+******************
+target = ostrich
+answerer: This is the list of candidates: pumpkin, raisin, budgie, strawberry, woodpecker, chicken, ostrich, parakeet, raven, pear, buzzard, cherry, honeydew, stork, nectarine, raspberry.
+questioner: Is the item edible?
+answerer: Yes, it is edible.
+questioner: Is the item a fruit?
+answerer: No, it is not a fruit.
+questioner: Is the item a type of bird?
+answerer: Yes, it is a type of bird.
+questioner: Is the bird commonly consumed as food?
+answerer: Yes, it is commonly consumed as food.
+questioner: Is the bird generally white in color?
+answerer: No, it is not generally white in color.
+questioner: Is the bird capable of flying long distances?
+answerer: Yes, it is capable of flying long distances.
+questioner: Is the bird usually found in the wild?
+answerer: Yes, it is usually found in the wild.
+questioner: Is the bird from the family of rails?
+answerer: No, it is not from the family of rails.
+questioner: Is the bird of medium to large size?
+answerer: Yes, it is of medium to large size.
+questioner: Based on your answers before, I believe the item is an ostrich. Is that correct?
+answerer: Yes! That's correct. Well done!
+******************
+target = blackbird
+answerer: This is the list of candidates: budgie, rhubarb, honeydew, blackbird, blueberry, parakeet, duck, plum, apple, avocado, finch, mandarin, raven, tangerine, canary, swan.
+questioner: Is the item you are thinking of a fruit?
+answerer: No, it is not a fruit.
+questioner: Is it an animal?
+answerer: Yes, it is an animal.
+questioner: Is the animal you are thinking of a bird?
+answerer: Yes, it is a bird.
+questioner: Is the bird you are thinking of a type of parrot?
+answerer: No, it is not a type of parrot.
+questioner: Is the bird you are thinking of a passerine, commonly known as a perching bird?
+answerer: Yes, it is a passerine bird.
+questioner: Does the bird you are thinking of have a black color in its plumage?
+answerer: Yes, the bird I am thinking of has black color in its plumage.
+questioner: The bird you are thinking of is a Blackbird, am I correct?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = parakeet
+answerer: This is the list of candidates: pheasant, strawberry, swan, raspberry, avocado, rhubarb, parakeet, dove, pineapple, crow, banana, tomato, budgie, buzzard, partridge, cranberry.
+questioner: Is the item you're thinking of a fruit?
+answerer: No, it's not a fruit.
+questioner: Is the item you're thinking of a bird?
+answerer: Yes, it is a bird.
+questioner: Does the bird you are thinking of have a red breast?
+answerer: No, it doesn't have a red breast.
+questioner: Is the bird you are thinking of a type of parrot?
+answerer: Yes, it is a type of parrot.
+questioner: Is the parrot you are thinking of commonly kept as a pet?
+answerer: Yes, it is commonly kept as a pet.
+questioner: Based on your answers, I believe the item you are thinking of is a budgie. Is that correct?
+answerer: No, it's not a budgie.
+questioner: Oh, I'm sorry about that. Based on your previous answers, I now believe the item you are thinking of is a parakeet. Is that correct?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = pumpkin
+answerer: This is the list of candidates: canary, goose, pumpkin, tomato, finch, chicken, woodpecker, ostrich, raspberry, pineapple, raisin, emu, grapefruit, banana, prune, raven.
+questioner: Is the item a fruit?
+answerer: Pumpkin is technically a fruit, so the answer is yes.
+questioner: Is the item typically grown for its juice?
+answerer: No, pumpkin is not typically grown for its juice.
+questioner: Is the item a bird?
+answerer: No, the item is not a bird.
+questioner: Is the item a type of berry?
+answerer: No, the item is not a type of berry.
+questioner: Is the item a type of dried fruit?
+answerer: No, the item is not a type of dried fruit.
+questioner: Is the item orange or yellow in color on the outside?
+answerer: Yes, the item is typically orange or yellow in color on the outside.
+questioner: Is the item a type of citrus fruit?
+answerer: No, the item is not a type of citrus fruit.
+questioner: Is the item round in shape?
+answerer: Yes, the item is generally round in shape.
+questioner: Is the item a type of gourd?
+answerer: Yes, the item is a type of gourd.
+questioner: The item must be a pumpkin.
+answerer: Yes! That's correct. Congratulations!
+******************
+target = rhubarb
+answerer: This is the list of candidates: prune, rhubarb, pelican, goose, grapefruit, bluejay, finch, ostrich, pear, banana, olive, canary, raspberry, emu, chickadee, lemon.
+questioner: Is the item an animal?
+answerer: No, it is not an animal.
+questioner: Is the item a fruit?
+answerer: No, it is not a fruit.
+questioner: Is the item a bird?
+answerer: No, it is not a bird.
+questioner: Is the item a type of plant?
+answerer: Yes, it is a type of plant.
+questioner: Is it a tree?
+answerer: No, it is not a tree.
+questioner: Is it a type of vegetable?
+answerer: Yes, it is a type of vegetable.
+questioner: Is it a green vegetable?
+answerer: No, it is not a green vegetable.
+questioner: Is it rhubarb?
+answerer: Yes! That's correct. Well done!
+******************
+target = grapefruit
+answerer: This is the list of candidates: budgie, seagull, raspberry, tangerine, sparrow, grapefruit, stork, olive, rooster, goose, robin, avocado, pumpkin, chickadee, pear, apple.
+questioner: Is the item you have an animal?
+answerer: No, it is not an animal.
+questioner: Is the item you have a fruit or a vegetable?
+answerer: It is a fruit.
+questioner: Is the fruit you have a citrus fruit?
+answerer: Yes, it is a citrus fruit.
+questioner: Is the fruit you have typically orange in color?
+answerer: No, it is not typically orange in color.
+questioner: Is the fruit you have a type of lemon?
+answerer: No, it is not a type of lemon.
+questioner: Is the fruit you have a type of grapefruit?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = stork
+answerer: This is the list of candidates: pickle, cucumber, pelican, woodpecker, beans, stork, buzzard, zucchini, penguin, crow, duck, peas, olive, radish, chicken, tomato.
+questioner: Is the item you are thinking of a bird?
+answerer: Yes.
+questioner: Is the bird you are thinking of able to fly?
+answerer: Yes.
+questioner: Does the bird you are thinking of live near the water?
+answerer: Sometimes, but not always.
+questioner: Is the bird you are thinking of predominantly black in color?
+answerer: No.
+questioner: Is the bird you are thinking of commonly found living in colder climates?
+answerer: No.
+questioner: Is the bird you are thinking of relatively small in size, compared to other birds?
+answerer: No.
+questioner: Does the bird you are thinking of have a distinctive red-colored beak?
+answerer: No.
+questioner: Is the bird you are thinking of known for being able to walk on two legs?
+answerer: Yes.
+questioner: Is the bird you are thinking of mainly black and white in color, with distinctive markings on its body?
+answerer: Yes! That's correct. The bird I was thinking of is stork.
+******************
+target = sparrow
+answerer: This is the list of candidates: zucchini, finch, bluejay, blackbird, crow, tomato, canary, radish, cucumber, raven, sparrow, beans, mushroom, pickle, buzzard, peas.
+questioner: Is the candidate an animal?
+answerer: Yes.
+questioner: Does the candidate have a black color?
+answerer: No.
+questioner: Is the candidate a bird?
+answerer: Yes.
+questioner: Does the candidate have blue feathers?
+answerer: No.
+questioner: Does the candidate belong to the family Corvidae? (ravens, crows, etc.)
+answerer: No.
+questioner: Does the candidate belong to the family Fringillidae? (finches, canaries, etc.)
+answerer: No.
+questioner: Is the candidate a sparrow?
+answerer: Yes! That's correct.
+******************
+target = raven
+answerer: This is the list of candidates: peas, cucumber, turkey, onions, pickle, parakeet, cauliflower, goose, sparrow, raven, canary, chickadee, potato, pumpkin, buzzard, parsley.
+questioner: Is your item a food?
+answerer: No, it's not a food.
+questioner: Is your item a bird?
+answerer: Yes, it is a bird.
+questioner: Is your bird typically kept as a pet?
+answerer: No, it's not typically kept as a pet.
+questioner: Is your bird typically found in the wild?
+answerer: Yes, it's typically found in the wild.
+questioner: Is your bird commonly black in color?
+answerer: Yes, it is commonly black in color.
+questioner: Based on your answers so far, your item is most likely a raven. Is that correct?
+answerer: Yes! That's correct.
+******************
+target = cucumber
+answerer: This is the list of candidates: stork, canary, onions, cucumber, beans, peas, crow, pickle, raven, bluejay, buzzard, oriole, pumpkin, sparrow, eggplant, potato.
+questioner: Is the item you are thinking of an animal?
+answerer: No, it's not an animal.
+questioner: Is the item you are thinking of a fruit or a vegetable?
+answerer: It's a vegetable.
+questioner: Is the item you are thinking of a green vegetable?
+answerer: Yes, it is a green vegetable.
+questioner: Does the vegetable you are thinking of contain a large seed in the center?
+answerer: No, it doesn't contain a large seed in the center.
+questioner: Is the vegetable you are thinking of typically cooked or eaten raw?
+answerer: It can be eaten both raw and cooked.
+questioner: Is the vegetable you are thinking of cucurbitaceae family?
+answerer: Yes, it belongs to the cucurbitaceae family.
+questioner: Is the vegetable you are thinking of a cucumber?
+answerer: Yes! That's correct.
+******************
+target = asparagus
+answerer: This is the list of candidates: seagull, goose, onions, potato, budgie, parakeet, chicken, woodpecker, peas, rooster, asparagus, stork, celery, pickle, pumpkin, beans.
+questioner: Is the item an animal?
+answerer: No, it's not an animal.
+questioner: Is the item a vegetable?
+answerer: Yes, it is a vegetable.
+questioner: Is the vegetable you are thinking of green?
+answerer: Yes, it is green.
+questioner: Is the vegetable you are thinking of a type of bean?
+answerer: No, it's not a type of bean.
+questioner: Is the vegetable you are thinking of a type of squash?
+answerer: No, it's not a type of squash.
+questioner: Is the vegetable you are thinking of commonly used in salads?
+answerer: Yes, it is commonly used in salads.
+questioner: Is the vegetable you are thinking of celery?
+answerer: No, it's not celery.
+questioner: Is the vegetable you are thinking of asparagus?
+answerer: Yes! That's correct. Well done!
+******************
+target = zucchini
+answerer: This is the list of candidates: avocado, buzzard, radish, robin, crow, raven, olive, turnip, blackbird, zucchini, beets, budgie, peas, parakeet, cauliflower, bluejay.
+questioner: Is the item a fruit?
+answerer: No, it is not a fruit.
+questioner: Is the item a bird?
+answerer: No, it is not a bird.
+questioner: Is the item a vegetable?
+answerer: Yes, it is a vegetable.
+questioner: Does the item belong to the brassicaceae family? (broccoli, cauliflower, cabbage, kale, etc.)
+answerer: No, it does not belong to the brassicaceae family.
+questioner: Is the item green in color?
+answerer: Yes, it is green in color.
+questioner: Is the item a zucchini?
+answerer: Yes! That's correct.
+******************
+target = shoes
+answerer: This is the list of candidates: spear, gun, revolver, cannon, axe, blouse, coat, robe, boots, camisole, sword, bra, machete, cape, shoes, whip.
+questioner: Is the item a weapon?
+answerer: No, it is not a weapon.
+questioner: Is the item a piece of clothing?
+answerer: Yes, it is a piece of clothing.
+questioner: Is the item worn on the upper part of the body?
+answerer: No, it is not worn on the upper part of the body.
+questioner: Is the item worn on the lower part of the body?
+answerer: Yes, it is worn on the lower part of the body.
+questioner: Is the item worn on the feet?
+answerer: Yes, it is worn on the feet.
+questioner: Is the item a type of boot?
+answerer: No, it is not a type of boot.
+questioner: Is the item a type of shoe?
+answerer: Yes, it is a type of shoe.
+questioner: Are the shoes designed for a specific sport?
+answerer: It depends on the type of shoes. Some shoes are designed for specific sports, while others are not. In the case of the shoes assigned to me, they are not designed for a specific sport.
+questioner: Are the shoes high-heeled?
+answerer: It depends on the specific type of shoes. The shoes assigned to me are not high-heeled.
+questioner: Are the shoes designed for men?
+answerer: The shoes assigned to me can be designed for both men and women.
+questioner: Do the shoes have laces?
+answerer: Yes, the shoes assigned to me have laces.
+questioner: Based on the information you provided, the item assigned to you is a pair of lace-up shoes. Is that correct?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = shoes
+answerer: This is the list of candidates: nightgown, tomahawk, boots, whip, bra, cannon, scarf, spear, gun, shoes, cloak, knife, dagger, blouse, crowbar, camisole.
+questioner: Is the item you have something you can wear?
+answerer: Yes.
+questioner: Is the item you have associated with upper body clothing?
+answerer: No.
+questioner: Is the item you have associated with lower body clothing?
+answerer: Yes.
+questioner: Is the item you have typically used for a particular sport or physical activity?
+answerer: It depends on the type of shoes. Some shoes are designed for specific sports or physical activities, while others are more general purpose.
+questioner: Is the item you have a type of shoes?
+answerer: Yes! That's correct.
+******************
+target = cloak
+answerer: This is the list of candidates: sword, nightgown, coat, camisole, machete, shield, blouse, cannon, bra, bazooka, cloak, catapult, boots, knife, shoes, dagger.
+questioner: Is the item you have a piece of clothing?
+answerer: Yes.
+questioner: Is the clothing item commonly worn as an outer layer?
+answerer: Yes.
+questioner: Is the clothing item designed to cover the upper body?
+answerer: Yes.
+questioner: Is the clothing item designed for women?
+answerer: No.
+questioner: Is the clothing item typically worn by men?
+answerer: It can be worn by both men and women, but it is more commonly associated with men.
+questioner: Is the clothing item typically made of a thicker material such as wool or leather?
+answerer: It depends on the type of cloak, but some cloaks can be made of thicker materials like wool or leather.
+questioner: Is the item you have a cloak?
+answerer: Yes! That's correct.
+******************
+target = bazooka
+answerer: This is the list of candidates: grenade, camisole, stick, dagger, gun, shoes, nightgown, bazooka, crowbar, whip, boots, blouse, rocket, cloak, robe, bra.
+questioner: Is the item a weapon?
+answerer: Yes.
+questioner: Is it a firearm?
+answerer: Yes.
+questioner: Is it a small-sized firearm?
+answerer: No.
+questioner: Is the firearm a rocket launcher or bazooka?
+answerer: Yes! That's correct.
+******************
+target = shield
+answerer: This is the list of candidates: shoes, bra, crowbar, camisole, shield, robe, nightgown, boots, tomahawk, spear, revolver, gun, whip, catapult, cape, blouse.
+questioner: Is the item you have a piece of clothing?
+answerer: No.
+questioner: Is the item you have a weapon?
+answerer: No.
+questioner: Is the item you have a tool?
+answerer: Yes.
+questioner: Is the item you have a cutting tool?
+answerer: No.
+questioner: Is the item you have a hand tool?
+answerer: Yes.
+questioner: Does the tool have multiple functions?
+answerer: It depends on how you define "multiple functions". In general, the tool is designed for a specific purpose, but it can be used in different ways to achieve different results.
+questioner: Interesting. Is the tool you have commonly used in woodworking?
+answerer: Yes, it is commonly used in woodworking.
+questioner: Great! So, is the tool you have a type of saw?
+answerer: No, it is not a type of saw.
+questioner: Does the tool you have commonly have teeth?
+answerer: No, it does not have teeth.
+questioner: Is the tool you have a chisel?
+answerer: No, it is not a chisel.
+questioner: Based on the previous answers, I think the tool you have is a plane tool. Am I correct?
+answerer: Yes! That's correct. Well done!
+******************
+target = crossbow
+answerer: This is the list of candidates: cloak, blouse, machete, missile, catapult, shield, scarf, whip, crossbow, bra, nightgown, slingshot, boots, camisole, shoes, harpoon.
+questioner: Is your item a piece of clothing?
+answerer: No, it's not a piece of clothing.
+questioner: Is your item used for defense or protection?
+answerer: Yes, it can be used for defense or protection.
+questioner: Is your item generally held by hand?
+answerer: Yes, it is generally held by hand.
+questioner: Does your item primarily use force to strike or attack something?
+answerer: No, it doesn't primarily use force to strike or attack something.
+questioner: Does your item have a sharp edge?
+answerer: Yes, it has a sharp edge.
+questioner: Is your item primarily used for cutting or chopping?
+answerer: No, it's not primarily used for cutting or chopping.
+questioner: Does your item have a long handle or a long range?
+answerer: Yes, it has a long range.
+questioner: Is your item a type of missile or projectile?
+answerer: Yes, it is a type of projectile.
+questioner: Is your item propelled by an explosive charge or a rocket engine?
+answerer: No, it's not propelled by an explosive charge or a rocket engine.
+questioner: So, does your item rely on a physical force to launch or throw it?
+answerer: Yes, it relies on a physical force to launch or throw it.
+questioner: Is your item shot by hand or with a device?
+answerer: It can be shot by hand, but it is usually shot with a device.
+questioner: Does your item require more than one person to operate the device that shoots it?
+answerer: No, it doesn't require more than one person to operate the device that shoots it.
+questioner: So, is your item a type of weapon that can be thrown by a slingshot or a similar device?
+answerer: No, it's not a type of weapon that can be thrown by a slingshot or a similar device.
+questioner: Is your item usually used outdoors?
+answerer: Yes, it's usually used outdoors.
+questioner: Is your item a type of javelin, spear or harpoon?
+answerer: No, it's not a type of javelin, spear or harpoon.
+questioner: Is your item a type of missile launcher?
+answerer: No, it's not a type of missile launcher.
+questioner: Is your item a type of throwing knife, throwing axe or throwing star?
+answerer: No, it's not a type of throwing knife, throwing axe or throwing star.
+questioner: Is your item a type of boomerang?
+answerer: No, it's not a type of boomerang.
+questioner: I'm running out of possibilities. Can you please give me a hint?
+answerer: Sure! This item is a ranged weapon that uses a bow-like assembly to launch projectiles, which are called bolts or quarrels.
+questioner: Great! Is your item a crossbow?
+answerer: Yes! That's correct. Well done!
+******************
+target = boots
+answerer: This is the list of candidates: raspberry, cloak, avocado, lime, prune, robe, shoes, bra, camisole, plum, peach, scarf, blueberry, banana, boots, blouse.
+questioner: Is the item you are thinking of something you would wear?
+answerer: Yes.
+questioner: Is the item you are thinking of a type of clothing that covers the upper body?
+answerer: No.
+questioner: Is the item you are thinking of a type of footwear?
+answerer: Yes.
+questioner: Is the item you are thinking of used for athletic activities?
+answerer: It can be used for athletic activities, but it's not limited to that.
+questioner: Is the item you are thinking of a kind of boots?
+answerer: Yes.
+questioner: Is the color of the boots you are thinking of is brown or dark brown?
+answerer: No.
+questioner: Is the color of the boots you are thinking of black?
+answerer: Yes.
+questioner: Is the item you are thinking of ankle boots?
+answerer: No.
+questioner: Is the item you are thinking of knee-high boots?
+answerer: Yes! That's correct.
+******************
+target = camisole
+answerer: This is the list of candidates: avocado, scarf, cape, mandarin, blueberry, robe, bra, rhubarb, strawberry, olive, shoes, camisole, blouse, banana, tangerine, cloak.
+questioner: Does the item you were assigned belong to the category of food?
+answerer: No, the item camisole does not belong to the category of food.
+questioner: Is the item you were assigned a piece of clothing?
+answerer: Yes, the item camisole is a piece of clothing.
+questioner: Is the item you were assigned worn on the upper part of the body?
+answerer: Yes, the item camisole is worn on the upper part of the body.
+questioner: Does the item you were assigned have sleeves?
+answerer: No, the item camisole does not have sleeves.
+questioner: Is the item you were assigned usually worn underneath another piece of clothing?
+answerer: Yes, the item camisole is usually worn underneath another piece of clothing.
+questioner: Great, the item you were assigned is a camisole!
+answerer: Yes! That's correct. Well done!
+******************
+target = nightgown
+answerer: This is the list of candidates: prune, tomato, bra, cloak, blouse, robe, raspberry, lemon, rhubarb, shoes, camisole, nectarine, cape, nightgown, strawberry, peach.
+questioner: Is the item you are thinking of a piece of clothing?
+answerer: Yes.
+questioner: Is the item you are thinking of typically worn on the upper part of the body?
+answerer: Yes.
+questioner: Is the item you are thinking of worn by women?
+answerer: Yes.
+questioner: Is the item you are thinking of a type of blouse or shirt?
+answerer: No.
+questioner: Is the item you are thinking of a type of undergarment?
+answerer: Yes.
+questioner: Is the item you are thinking of worn as an outer garment?
+answerer: No.
+questioner: Is the item you are thinking of worn under the arms?
+answerer: No.
+questioner: Is the item you are thinking of used as an undergarment in the chest area?
+answerer: Yes.
+questioner: Is the item you are thinking of a type of bra?
+answerer: No.
+questioner: Is the item you are thinking of typically worn as a sleepwear?
+answerer: Yes.
+questioner: Is the item you are thinking of a type of nightgown or robe?
+answerer: Yes! That's correct.
+******************
+target = cranberry
+answerer: This is the list of candidates: pineapple, cranberry, robe, banana, bra, plum, shoes, tomato, blouse, gown, avocado, lemon, cape, olive, boots, camisole.
+questioner: Is the item you were assigned a type of clothing?
+answerer: No, it is not a type of clothing.
+questioner: Is the item you were assigned a fruit?
+answerer: Yes, it is a fruit.
+questioner: Does the fruit you were assigned have a yellow outer skin when it is ripe?
+answerer: No, the fruit I was assigned does not have a yellow outer skin when it is ripe.
+questioner: Is your fruit commonly used for cooking or baking?
+answerer: Yes, the fruit I was assigned is commonly used for cooking or baking.
+questioner: Does your fruit have a brown exterior?
+answerer: No, the fruit I was assigned does not have a brown exterior.
+questioner: Is your fruit typically green when it is unripe and yellow when it is ripe?
+answerer: No, the fruit I was assigned is not typically green when it is unripe and yellow when it is ripe.
+questioner: Is your fruit tangy in taste?
+answerer: Yes, the fruit I was assigned is tangy in taste.
+questioner: Is your fruit commonly used as sauce or juice in cooking?
+answerer: Yes, the fruit I was assigned is commonly used as sauce or juice in cooking.
+questioner: The fruit you were assigned is Cranberry.
+answerer: Yes! That's correct. The fruit I was assigned is indeed Cranberry. Well done!
+******************
+target = apple
+answerer: This is the list of candidates: shoes, cape, olive, pear, nectarine, apple, cantaloupe, camisole, tomato, bra, robe, raisin, scarf, cloak, blouse, pineapple.
+questioner: Is the item you have edible?
+answerer: Yes.
+questioner: Is the item you have a type of fruit?
+answerer: Yes.
+questioner: Is the item you have a citrus fruit?
+answerer: No.
+questioner: Is the item you have a stone fruit?
+answerer: No.
+questioner: Is the item you have a type of berry?
+answerer: No.
+questioner: Is the item you have a type of pome fruit?
+answerer: Yes.
+questioner: Is the item you have green when it's unripe and turns red when ripe?
+answerer: It depends on the variety of the apple. Some varieties are green when unripe and turn red when ripe, while others are red when unripe and turn a deeper shade of red when ripe.
+questioner: Thanks for letting me know. Is it a red apple?
+answerer: No.
+questioner: Is the apple you have yellow or green in color?
+answerer: Yes, the apple I have is either yellow or green in color.
+questioner: Does the apple have a greenish-yellow color?
+answerer: Yes, the apple I have is greenish-yellow in color.
+questioner: Great! The item you have is a pear, right?
+answerer: No, the item I have is not a pear.
+questioner: Oh, I apologize for that. Is the apple variety you have typically used for baking or cooking?
+answerer: Yes, the apple variety I have is typically used for baking or cooking.
+questioner: Based on your description, the item you have is a Golden Delicious apple. Is that correct?
+answerer: Yes! That's correct. Well done!
+******************
+target = cranberry
+answerer: This is the list of candidates: grapefruit, camisole, blouse, cantaloupe, tomato, bra, coat, nightgown, rhubarb, banana, shoes, tangerine, cranberry, honeydew, cloak, cape.
+questioner: Is the item you have assigned a type of clothing?
+answerer: No, it is not a type of clothing.
+questioner: Is the item you have assigned a type of fruit?
+answerer: Yes, it is a type of fruit.
+questioner: Is the fruit you have assigned typically red or pink in color?
+answerer: Yes, the fruit I have assigned is typically red or pink in color.
+questioner: Does the fruit you have assigned have seeds?
+answerer: Yes, the fruit I have assigned has seeds.
+questioner: Is the fruit you have assigned commonly used to make juice?
+answerer: Yes, the fruit I have assigned is commonly used to make juice.
+questioner: The item you have assigned is cranberry, am I correct?
+answerer: Yes! That's correct.
+******************
+target = nightgown
+answerer: This is the list of candidates: shoes, robe, boots, nightgown, cloak, zucchini, bra, onions, avocado, blouse, eggplant, radish, turnip, peas, camisole, cucumber.
+questioner: Is the item you are thinking of a piece of clothing?
+answerer: Yes.
+questioner: Is the item you are thinking of a footwear?
+answerer: No.
+questioner: Is the item you are thinking of used in the upper part of the body?
+answerer: Yes.
+questioner: Is the item you are thinking of a type of undergarment?
+answerer: Yes.
+questioner: Is the item you are thinking of a bra?
+answerer: No.
+questioner: Is the item you are thinking of a camisole?
+answerer: No.
+questioner: Is the item you are thinking of a blouse?
+answerer: No.
+questioner: Is the item you are thinking of a nightgown?
+answerer: Yes! That's correct.
+******************
+target = bra
+answerer: This is the list of candidates: tomato, pumpkin, peas, nightgown, shoes, camisole, boots, gown, blouse, avocado, radish, olive, beans, zucchini, cloak, bra.
+questioner: Is the item edible?
+answerer: No.
+questioner: Is the item a piece of clothing?
+answerer: Yes.
+questioner: Does the item cover the lower part of the body?
+answerer: No.
+questioner: Is the item worn on the upper part of the body?
+answerer: Yes.
+questioner: Is the item a type of shirt or blouse?
+answerer: No.
+questioner: Is the item a type of nightwear?
+answerer: Yes.
+questioner: Is the item a nightgown?
+answerer: No.
+questioner: Is the item a camisole?
+answerer: No.
+questioner: Is the item a type of cloak?
+answerer: No.
+questioner: Is the item a bra?
+answerer: Yes! That's correct.
+******************
+target = nightgown
+answerer: This is the list of candidates: shoes, cauliflower, cape, pickle, nightgown, peas, scarf, radish, camisole, cloak, avocado, onions, beets, bra, blouse, turnip.
+questioner: Is the item you have edible?
+answerer: No, it is not edible.
+questioner: Is the item you have a piece of clothing?
+answerer: Yes, it is a piece of clothing.
+questioner: Is the item you have typically worn on the upper body?
+answerer: Yes, it is typically worn on the upper body.
+questioner: Is it an outerwear garment?
+answerer: No, it is not an outerwear garment.
+questioner: Is the item you have typically worn by women?
+answerer: Yes, it is typically worn by women.
+questioner: Is the item you have a kind of undergarment?
+answerer: Yes, it is a kind of undergarment.
+questioner: Is it worn under the blouse or shirt?
+answerer: No, it is not typically worn under the blouse or shirt.
+questioner: Is the item you have a kind of lingerie?
+answerer: Yes, it is a kind of lingerie.
+questioner: Is the item you have a bra?
+answerer: No, it is not a bra.
+questioner: Is the item you have a camisole?
+answerer: No, it is not a camisole.
+questioner: Is the item you have more similar to a blouse or a nightgown?
+answerer: It is more similar to a nightgown.
+questioner: Is the item you have a nightgown?
+answerer: Yes! That's correct.
+******************
+target = beans
+answerer: This is the list of candidates: robe, cucumber, mushroom, zucchini, camisole, peas, cape, shoes, tomato, cloak, beans, radish, bra, blouse, pickle, scarf.
+questioner: Is the item you were assigned a type of clothing?
+answerer: No, it is not a type of clothing.
+questioner: Is the item you were assigned a type of food?
+answerer: Yes, it is a type of food.
+questioner: Is the item you were assigned a vegetable?
+answerer: Yes, it is a vegetable.
+questioner: Is the item you were assigned a type of legume?
+answerer: Yes, it is a type of legume.
+questioner: Is the legume you were assigned commonly used in making chili?
+answerer: Yes, the legume I was assigned is commonly used in making chili.
+questioner: You were assigned "beans". Is that correct?
+answerer: Yes! That's correct.
+******************
+target = radish
+answerer: This is the list of candidates: camisole, cape, robe, tomato, shoes, beans, boots, zucchini, bra, mushroom, peas, cucumber, blouse, scarf, pickle, radish.
+questioner: Is the item a piece of clothing?
+answerer: No.
+questioner: Is the item a type of vegetable?
+answerer: Yes.
+questioner: Is the item a type of beans?
+answerer: No.
+questioner: Is the item a type of tomato?
+answerer: No.
+questioner: Is the item a type of cucumber?
+answerer: No.
+questioner: Is the item a type of mushroom?
+answerer: No.
+questioner: Is the item a type of peas?
+answerer: No.
+questioner: Is the item a type of radish?
+answerer: Yes! That's correct.
+******************
+target = onions
+answerer: This is the list of candidates: onions, peas, bra, pickle, blouse, shoes, scarf, cauliflower, cape, camisole, parsley, robe, pumpkin, potato, cucumber, cloak.
+questioner: Is the item you have a food?
+answerer: Yes.
+questioner: Is the food you have a vegetable?
+answerer: Yes.
+questioner: Is the vegetable you have commonly used in salads?
+answerer: Yes.
+questioner: Is the vegetable you have green in color?
+answerer: No.
+questioner: Does the vegetable you have a white or cream color?
+answerer: Yes.
+questioner: The vegetable you have is an onion, is that correct?
+answerer: Yes! That's correct.
+******************
+target = whip
+answerer: This is the list of candidates: prune, peach, rhubarb, whip, slingshot, shield, lemon, nectarine, strawberry, raspberry, catapult, gun, crowbar, olive, spear, cannon.
+questioner: Is your item a fruit?
+answerer: No, it's not a fruit.
+questioner: Is your item a piece of equipment?
+answerer: Yes, it is a piece of equipment.
+questioner: Is your item a weapon?
+answerer: Yes, it is a weapon.
+questioner: Is your weapon a ranged weapon?
+answerer: No, it is not a ranged weapon.
+questioner: Is your weapon a handheld weapon?
+answerer: Yes, it is a handheld weapon.
+questioner: Is your weapon a melee weapon?
+answerer: Yes, it is a melee weapon.
+questioner: Is your weapon made of metal?
+answerer: Yes, it is made of metal.
+questioner: Is the weapon you are thinking of a type of sword?
+answerer: No, it's not a sword.
+questioner: Is the weapon you're thinking of a blunt weapon?
+answerer: No, it's not a blunt weapon.
+questioner: Is the weapon you're thinking of a type of axe?
+answerer: No, it's not an axe.
+questioner: Is the weapon you're thinking of a type of mace?
+answerer: No, it's not a mace.
+questioner: Is the weapon you're thinking of a type of dagger?
+answerer: No, it's not a dagger.
+questioner: Is the weapon you're thinking of a type of hammer?
+answerer: No, it's not a hammer.
+questioner: Is the weapon you're thinking of a type of whip?
+answerer: Yes! That's correct.
+******************
+target = whip
+answerer: This is the list of candidates: peach, cannon, gun, spear, grapefruit, rhubarb, pumpkin, machete, tomahawk, whip, blueberry, avocado, pear, revolver, harpoon, olive.
+questioner: Is the item you're thinking of a fruit?
+answerer: No, it's not a fruit.
+questioner: Is the item you’re thinking of a weapon?
+answerer: Yes, it is a weapon.
+questioner: Is the weapon you're thinking of a firearm?
+answerer: No, it's not a firearm.
+questioner: Is the weapon you're thinking of used for close combat?
+answerer: Yes, it is used for close combat.
+questioner: Is the weapon you're thinking of a bladed weapon?
+answerer: No, it's not a bladed weapon.
+questioner: Is the weapon you're thinking of a type of club or baton?
+answerer: Yes, it is a type of club or baton.
+questioner: Is the weapon you're thinking of made of wood?
+answerer: No, it's not made of wood.
+questioner: Is the weapon you're thinking of commonly made of metal?
+answerer: Yes, it is commonly made of metal.
+questioner: Is the weapon you're thinking of a type of hammer?
+answerer: No, it's not a type of hammer.
+questioner: Is the weapon you're thinking of generally used by law enforcement officers or security personnel?
+answerer: Yes, it is generally used by law enforcement officers or security personnel.
+questioner: Is the weapon you’re thinking of used for striking people at a close range?
+answerer: Yes, it is used for striking people at a close range.
+questioner: The weapon you are thinking of is a police baton, am I correct?
+answerer: No, it's not a police baton.
+questioner: I think the weapon you are thinking of is a PR-24 baton, am I right?
+answerer: No, it's not a PR-24 baton.
+questioner: Is the weapon you’re thinking of capable of delivering an electric shock?
+answerer: No, it's not capable of delivering an electric shock.
+questioner: Is the weapon you’re thinking of also used for breaking glass or windows?
+answerer: Yes, it can also be used for breaking glass or windows.
+questioner: I believe the weapon you're thinking of is a expandable baton or a steel baton, is that correct?
+answerer: Yes! That's correct. Well done!
+******************
+target = shield
+answerer: This is the list of candidates: revolver, gun, lime, olive, crowbar, banana, prune, tomahawk, catapult, spear, rhubarb, coconut, whip, honeydew, shield, mandarin.
+questioner: Is the item you have chosen a weapon?
+answerer: No.
+questioner: Is the item you have chosen a fruit or a vegetable?
+answerer: No.
+questioner: Is the item you have chosen a tool that can be used for construction or repair?
+answerer: It can be used for protection during construction or repair, but it is not primarily a tool for construction or repair.
+questioner: Is the item you have chosen typically found indoors?
+answerer: It can be found both indoors and outdoors.
+questioner: Is the item you have chosen something that is handheld?
+answerer: Yes.
+questioner: Does the item you have chosen provide some kind of protection to the user?
+answerer: Yes.
+questioner: Is the item you have chosen a defensive weapon?
+answerer: Yes, it can be considered as a defensive weapon.
+questioner: Is the item you have chosen a shield?
+answerer: Yes! That's correct.
+******************
+target = rhubarb
+answerer: This is the list of candidates: catapult, avocado, pineapple, shield, revolver, strawberry, spear, gun, crowbar, whip, prune, olive, lime, stick, rhubarb, raisin.
+questioner: Is the item you were assigned a fruit?
+answerer: No, it is not a fruit.
+questioner: Is the item you were assigned a weapon?
+answerer: No, it is not a weapon.
+questioner: Is the item you were assigned a tool?
+answerer: No, it is not a tool.
+questioner: Is the item you were assigned a type of food?
+answerer: Yes, it is a type of food.
+questioner: Is the item you were assigned a type of fruit?
+answerer: No, it is not a fruit.
+questioner: Is the item you were assigned a type of vegetable?
+answerer: Yes, it is a type of vegetable.
+questioner: Is the item you were assigned commonly used in salads?
+answerer: No, it is not commonly used in salads.
+questioner: Is the item you were assigned green in color when ripe?
+answerer: No, it is not green in color when ripe.
+questioner: Is the item you were assigned often used to make drinks?
+answerer: Yes, it is often used to make drinks.
+questioner: Is the item you were assigned a rhubarb?
+answerer: Yes! That's correct.
+******************
+target = peach
+answerer: This is the list of candidates: missile, harpoon, cherry, whip, strawberry, banana, peach, nectarine, avocado, crossbow, shield, raspberry, slingshot, catapult, lime, crowbar.
+questioner: Is your item a fruit?
+answerer: Yes.
+questioner: Is your item red?
+answerer: No.
+questioner: Is your item yellow?
+answerer: Yes.
+questioner: Is your item banana?
+answerer: No.
+questioner: Is your item a citrus fruit?
+answerer: No.
+questioner: Is your item a soft fruit?
+answerer: Yes.
+questioner: Is your item peach?
+answerer: Yes! That's correct.
+******************
+target = lime
+answerer: This is the list of candidates: crowbar, rhubarb, bazooka, raisin, grapefruit, stick, catapult, shield, lime, pineapple, olive, cannon, lemon, avocado, missile, harpoon.
+questioner: Is the item you have an edible fruit?
+answerer: Yes.
+questioner: Is the fruit round-shaped?
+answerer: Some varieties of this fruit are round-shaped, but the one assigned to me is not round-shaped. So, No.
+questioner: Does the fruit have green color?
+answerer: Yes.
+questioner: Is the fruit you have an avocado?
+answerer: No.
+questioner: Is the fruit you have a lime?
+answerer: Yes! That's correct.
+******************
+target = gun
+answerer: This is the list of candidates: stick, potato, radish, olive, cucumber, zucchini, peas, machete, gun, pickle, tomato, sword, axe, revolver, knife, whip.
+questioner: Is your item a vegetable?
+answerer: No.
+questioner: Is your item a weapon?
+answerer: Yes.
+questioner: Is your item a firearm?
+answerer: Yes.
+questioner: Is your item a handgun?
+answerer: Yes.
+questioner: Is your item a revolver?
+answerer: No.
+questioner: Is your item a pistol?
+answerer: Yes! That's correct.
+******************
+target = spear
+answerer: This is the list of candidates: catapult, zucchini, cucumber, tomato, radish, spear, gun, crowbar, olive, whip, revolver, mushroom, pickle, shield, beans, stick.
+questioner: Is the item you're thinking of a vegetable?
+answerer: No.
+questioner: Is the item you're thinking of a weapon?
+answerer: Yes.
+questioner: Is the item you're thinking of a handheld weapon?
+answerer: Yes.
+questioner: Is the item you're thinking of a firearm?
+answerer: No.
+questioner: Is the item you're thinking of a melee weapon?
+answerer: Yes.
+questioner: Is the item you're thinking of a type of blade?
+answerer: No.
+questioner: Is the item you're thinking of a type of blunt weapon?
+answerer: No.
+questioner: Is the item you're thinking of a type of polearm? (A polearm is a long weapon consisting of blade/s at the end of a pole or rod)
+answerer: Yes.
+questioner: Is the item you're thinking of a spear?
+answerer: Yes! That's correct.
+******************
+target = grenade
+answerer: This is the list of candidates: machete, cauliflower, zucchini, dagger, whip, radish, crowbar, shotgun, bomb, onions, turnip, grenade, beets, peas, sword, pickle.
+questioner: Is the item you have an object commonly used as a weapon?
+answerer: Yes.
+questioner: Is it a bladed weapon?
+answerer: No.
+questioner: Is the weapon you have a firearm?
+answerer: Yes.
+questioner: Is the weapon you have a shotgun?
+answerer: No.
+questioner: Is the weapon you have a pistol?
+answerer: Yes.
+questioner: Great! Based on the questions I asked, the item you have is a pistol.
+answerer: Yes! That's correct. Well done!
+******************
+target = pickle
+answerer: This is the list of candidates: gun, carrot, asparagus, whip, tomahawk, peas, knife, onions, sword, cannon, pickle, broccoli, pumpkin, cauliflower, spear, crowbar.
+questioner: Is your item a type of food?
+answerer: Yes.
+questioner: Is your item a type of vegetable?
+answerer: Yes.
+questioner: Is your item a green vegetable?
+answerer: Sometimes, but not always.
+questioner: Is your item a type of onion?
+answerer: No.
+questioner: Is your item a type of legume? (Legumes include peas, beans, lentils, and peanuts.)
+answerer: No.
+questioner: Is your item broccoli or cauliflower?
+answerer: No.
+questioner: Is your item a type of root vegetable? (Root vegetables include carrots, onions, potatoes, radishes, and beets among others.)
+answerer: No.
+questioner: Is your item a type of gourd or squash? (Gourds and squash include pumpkin among others.)
+answerer: No.
+questioner: Is your item a type of pickled vegetable? (Pickled vegetables are prepared with vinegar or brine.)
+answerer: Yes! That's correct.
+******************
+target = peas
+answerer: This is the list of candidates: catapult, bazooka, crowbar, spear, radish, shield, tomato, beans, pumpkin, avocado, cannon, harpoon, olive, peas, whip, zucchini.
+questioner: Is your item a weapon?
+answerer: No, it is not a weapon.
+questioner: Is your item a vegetable?
+answerer: Yes, it is a vegetable.
+questioner: Is your item commonly used in salads?
+answerer: Yes, it is commonly used in salads.
+questioner: Is your item red in color?
+answerer: No, it is not red in color.
+questioner: Is your item a type of squash?
+answerer: No, it is not a type of squash.
+questioner: Is your item green in color?
+answerer: Yes, it is green in color.
+questioner: Is your item long and cylindrical in shape?
+answerer: No, it is not long and cylindrical in shape.
+questioner: Is your item a type of legume?
+answerer: Yes, it is a type of legume.
+questioner: Is your item round and small?
+answerer: Yes, it is round and small.
+questioner: Is the name of the vegetable similar to a word related to mathematics?
+answerer: Yes, the name of the vegetable is similar to a word related to mathematics.
+questioner: Your item is "Peas", isn't it?
+answerer: Yes! That's correct.
+******************
+target = beans
+answerer: This is the list of candidates: crowbar, pickle, cannon, whip, beans, tomahawk, zucchini, shield, cucumber, olive, mushroom, tomato, gun, peas, catapult, spear.
+questioner: Is your item a weapon?
+answerer: No, it's not a weapon.
+questioner: Is your item a type of vegetable?
+answerer: Yes, it is a type of vegetable.
+questioner: Is your item a type of squash?
+answerer: No, it's not a type of squash.
+questioner: Is your item a type of legume?
+answerer: Yes, it is a type of legume.
+questioner: Is your item small and round?
+answerer: Yes, it is small and round.
+questioner: Is your item green in color?
+answerer: Not all types of this item are green, so the answer is no.
+questioner: Is your item typically served cooked instead of raw?
+answerer: Yes, it is typically served cooked instead of raw.
+questioner: Is your item typically eaten on its own or as an ingredient in a recipe?
+answerer: It can be eaten on its own or as an ingredient in a recipe.
+questioner: Based on your answers, your item is likely a type of bean. Is it a type of bean?
+answerer: Yes! That's correct. The item assigned to me was beans.
+******************
+target = lemon
+answerer: This is the list of candidates: eggplant, cherry, radish, zucchini, lemon, peas, mushroom, grapefruit, pickle, plum, cucumber, beans, raspberry, banana, pear, strawberry.
+questioner: Does your item grow on a vine?
+answerer: No, it does not grow on a vine.
+questioner: Is your item a fruit?
+answerer: Yes, it is a fruit.
+questioner: Is your item typically red or pink in color?
+answerer: No, it is not typically red or pink in color.
+questioner: Is your item typically yellow and peelable?
+answerer: Yes, it is typically yellow and peelable.
+questioner: Okay, I believe your item is a banana. Is that correct?
+answerer: No, it's not a banana. Keep guessing!
+questioner: My apologies. Based on your previous answer, it could be a lemon. Am I correct?
+answerer: Yes! That's correct. The item assigned to me was a lemon. Well done!
+******************
+target = tangerine
+answerer: This is the list of candidates: banana, plum, turnip, pickle, tangerine, beets, pear, zucchini, honeydew, lime, cauliflower, peas, prune, radish, onions, peach.
+questioner: Is the item a fruit?
+answerer: Yes.
+questioner: Is the fruit yellow?
+answerer: No.
+questioner: Is the fruit orange?
+answerer: Yes.
+questioner: Is it small?
+answerer: Yes.
+questioner: The fruit is probably a tangerine. Am I correct?
+answerer: Yes! That's correct.
+******************
+target = banana
+answerer: This is the list of candidates: radish, eggplant, beans, grapefruit, apple, mandarin, peas, banana, cranberry, zucchini, raspberry, cucumber, pear, pickle, tangerine, mushroom.
+questioner: Is the item a fruit?
+answerer: Yes.
+questioner: Is the fruit citrus? (e.g. lemon, orange, grapefruit)
+answerer: No.
+questioner: Is the fruit typically red or pink in color? (e.g. raspberry, cranberry)
+answerer: No.
+questioner: Is the fruit typically eaten fresh rather than cooked or processed? (e.g. apple, banana, pear)
+answerer: Yes.
+questioner: Is the fruit typically small in size? (e.g. raspberry, pea, tangerine)
+answerer: No.
+questioner: Is the fruit typically yellow when it is ripe? (e.g. banana, tangerine)
+answerer: Yes! That's correct.
+******************
+target = cucumber
+answerer: This is the list of candidates: grapefruit, cucumber, strawberry, zucchini, radish, peas, apple, honeydew, nectarine, raspberry, mushroom, eggplant, tangerine, pickle, beans, banana.
+questioner: Does the item you are thinking of belong to the fruit category?
+answerer: No, it doesn't.
+questioner: Is the item you are thinking of a vegetable?
+answerer: Yes, it is.
+questioner: Is the vegetable green?
+answerer: Yes, it is.
+questioner: Is the vegetable you are thinking of cucumber?
+answerer: Yes! That's correct.
+******************
+target = eggplant
+answerer: This is the list of candidates: cherry, pickle, banana, radish, zucchini, strawberry, eggplant, cucumber, beans, prune, nectarine, raspberry, mushroom, lemon, peas, coconut.
+questioner: Is the item you are thinking of a fruit?
+answerer: No, it's not a fruit.
+questioner: Is the item you are thinking of a vegetable?
+answerer: Yes, it is a vegetable.
+questioner: Is the vegetable you are thinking of typically green?
+answerer: No, it's not typically green.
+questioner: Is the vegetable you are thinking of usually eaten raw in salads?
+answerer: No, it's not usually eaten raw in salads.
+questioner: Is the vegetable you are thinking of used as an ingredient in a popular Italian dish?
+answerer: Yes, it is used as an ingredient in a popular Italian dish.
+questioner: Is the vegetable you are thinking of an eggplant?
+answerer: Yes! That's correct.
+******************
+target = radish
+answerer: This is the list of candidates: pickle, honeydew, lime, apple, cranberry, prune, banana, cauliflower, peas, onions, zucchini, beets, pear, radish, turnip, plum.
+questioner: Is the item a fruit?
+answerer: No, it's not a fruit.
+questioner: Is the item a vegetable?
+answerer: Yes, it is a vegetable.
+questioner: Is the item commonly used in salads?
+answerer: Yes, it is commonly used in salads.
+questioner: Is the item green?
+answerer: No, it's not green.
+questioner: Does the item have leaves?
+answerer: Yes, it has leaves.
+questioner: Is the item part of the cabbage family?
+answerer: No, it's not part of the cabbage family.
+questioner: Is the item a root vegetable?
+answerer: Yes, it is a root vegetable.
+questioner: Does the item have a distinctively strong taste or smell?
+answerer: Yes, it has a distinctively strong taste.
+questioner: Is the item known for its purple color?
+answerer: Some varieties of this vegetable are purple, but the one assigned to me is not purple.
+questioner: Does the item have a white color?
+answerer: Yes, it has a white color.
+questioner: Is the item an onion?
+answerer: No, it's not an onion.
+questioner: Is it a root vegetable from the Brassicaceae family?
+answerer: No, it's not from the Brassicaceae family.
+questioner: Is it a root vegetable from the Apiaceae family?
+answerer: No, it's not from the Apiaceae family.
+questioner: Is the item a turnip?
+answerer: No, it's not a turnip.
+questioner: Is the item a beet?
+answerer: No, it's not a beet.
+questioner: Is the item a radish?
+answerer: Yes! That's correct. Congratulations!

@@ -1,0 +1,1078 @@
+____________________________________________
+dial_id = 0
+target = fox
+candidates = elk, chicken, robin, starling, fox, partridge, hamster, buffalo
+turn = 3/7
+reference set = ['elk', 'fox', 'hamster', 'buffalo']
+question = Is your item a mammal?
+____________________________________________
+dial_id = 0
+target = fox
+candidates = elk, chicken, robin, starling, fox, partridge, hamster, buffalo
+turn = 6/7
+reference set = ['fox']
+question = Is your item known for having a bushy tail?
+____________________________________________
+dial_id = 1
+target = fawn
+candidates = budgie, zebra, deer, penguin, pelican, sheep, fawn, ostrich
+turn = 1/7
+reference set = dict_keys(['budgie', 'zebra', 'deer', 'penguin', 'pelican', 'sheep', 'fawn', 'ostrich'])
+question = Is the candidate an animal?
+____________________________________________
+dial_id = 1
+target = fawn
+candidates = budgie, zebra, deer, penguin, pelican, sheep, fawn, ostrich
+turn = 5/7
+reference set = ['deer', 'fawn']
+question = Is the animal famous for its antlers?
+____________________________________________
+dial_id = 1
+target = fawn
+candidates = budgie, zebra, deer, penguin, pelican, sheep, fawn, ostrich
+turn = 6/7
+reference set = ['deer', 'fawn']
+question = The item you are thinking of is a deer.
+____________________________________________
+dial_id = 1
+target = fawn
+candidates = budgie, zebra, deer, penguin, pelican, sheep, fawn, ostrich
+turn = 7/7
+reference set = ['deer', 'fawn']
+question = Sure! Is the animal you're thinking of a male deer?
+____________________________________________
+dial_id = 2
+target = zebra
+candidates = pelican, bear, zebra, walrus, vulture, chickadee, finch, otter
+turn = 4/5
+reference set = ['zebra']
+question = Is the item you're thinking of known for having distinctive stripes?
+____________________________________________
+dial_id = 3
+target = rooster
+candidates = peacock, platypus, budgie, pig, turkey, beaver, deer, rooster
+turn = 4/7
+reference set = ['peacock', 'rooster']
+question = Does the candidate you are thinking of have a long, colorful tail?
+____________________________________________
+dial_id = 4
+target = owl
+candidates = falcon, eagle, fawn, owl, platypus, beaver, pigeon, chimp
+turn = 1/9
+reference set = dict_keys(['falcon', 'eagle', 'fawn', 'owl', 'platypus', 'beaver', 'pigeon', 'chimp'])
+question = Is the item you are thinking of an animal?
+____________________________________________
+dial_id = 4
+target = owl
+candidates = falcon, eagle, fawn, owl, platypus, beaver, pigeon, chimp
+turn = 6/9
+reference set = ['owl']
+question = Is the animal you're thinking of larger than a football?
+____________________________________________
+dial_id = 4
+target = owl
+candidates = falcon, eagle, fawn, owl, platypus, beaver, pigeon, chimp
+turn = 8/9
+reference set = ['owl']
+question = Does the animal you're thinking of have feathers on the tips of its ears that resemble horns?
+____________________________________________
+dial_id = 5
+target = falcon
+candidates = fawn, hamster, falcon, cheetah, peacock, owl, parakeet, giraffe
+turn = 3/6
+reference set = ['falcon', 'peacock', 'parakeet']
+question = Is your item a male bird?
+____________________________________________
+dial_id = 6
+target = hamster
+candidates = chipmunk, leotards, mittens, bear, hamster, boots, gown, zebra
+turn = 4/6
+reference set = ['hamster']
+question = Is the item you have a small mammal?
+____________________________________________
+dial_id = 6
+target = hamster
+candidates = chipmunk, leotards, mittens, bear, hamster, boots, gown, zebra
+turn = 5/6
+reference set = ['hamster']
+question = Does the item you have commonly used as a pet?
+____________________________________________
+dial_id = 7
+target = dolphin
+candidates = dolphin, trousers, shoes, cougar, beaver, bra, ox, pants
+turn = 4/5
+reference set = ['dolphin']
+question = Is your animal primarily found in water?
+____________________________________________
+dial_id = 8
+target = deer
+candidates = shoes, fawn, deer, belt, gorilla, bra, elephant, tie
+turn = 2/7
+reference set = ['fawn', 'deer', 'gorilla', 'elephant']
+question = Does the item you have belong to the animal kingdom?
+____________________________________________
+dial_id = 8
+target = deer
+candidates = shoes, fawn, deer, belt, gorilla, bra, elephant, tie
+turn = 7/7
+reference set = ['deer']
+question = Great! I was able to identify your assigned item.
+____________________________________________
+dial_id = 9
+target = boots
+candidates = boots, fawn, seal, cape, otter, swimsuit, porcupine, trousers
+turn = 2/8
+reference set = ['boots']
+question = Is the item you are thinking of specifically designed for outdoor activities?
+____________________________________________
+dial_id = 9
+target = boots
+candidates = boots, fawn, seal, cape, otter, swimsuit, porcupine, trousers
+turn = 3/8
+reference set = ['boots']
+question = Is the item you are thinking of made of leather?
+____________________________________________
+dial_id = 10
+target = tie
+candidates = cougar, belt, otter, tie, scarf, seal, pig, blouse
+turn = 4/7
+reference set = ['tie']
+question = Is the assigned item usually worn by men?
+____________________________________________
+dial_id = 10
+target = tie
+candidates = cougar, belt, otter, tie, scarf, seal, pig, blouse
+turn = 5/7
+reference set = ['tie']
+question = Does the assigned item serve a practical purpose other than for decorative or aesthetic reasons?
+____________________________________________
+dial_id = 10
+target = tie
+candidates = cougar, belt, otter, tie, scarf, seal, pig, blouse
+turn = 6/7
+reference set = ['tie']
+question = Is the assigned item typically worn in a formal or professional setting?
+____________________________________________
+dial_id = 11
+target = belt
+candidates = walrus, chimp, belt, donkey, platypus, pajamas, tie, blouse
+turn = 4/5
+reference set = ['belt', 'tie']
+question = Is the item worn to hold something in place?
+____________________________________________
+dial_id = 12
+target = seal
+candidates = shotgun, seal, hamster, chipmunk, deer, spear, rocket, tomahawk
+turn = 3/4
+reference set = ['seal']
+question = Is your candidate a marine mammal?
+____________________________________________
+dial_id = 13
+target = bear
+candidates = goat, bear, squirrel, grenade, whip, zebra, crowbar, rocket
+turn = 2/8
+reference set = ['goat', 'bear', 'squirrel', 'zebra']
+question = Does the item primarily live on land?
+____________________________________________
+dial_id = 13
+target = bear
+candidates = goat, bear, squirrel, grenade, whip, zebra, crowbar, rocket
+turn = 4/8
+reference set = ['bear']
+question = Does the item have fur?
+____________________________________________
+dial_id = 13
+target = bear
+candidates = goat, bear, squirrel, grenade, whip, zebra, crowbar, rocket
+turn = 5/8
+reference set = ['bear']
+question = Is the item a predator?
+____________________________________________
+dial_id = 14
+target = seal
+candidates = goat, tomahawk, sword, seal, walrus, missile, cougar, revolver
+turn = 3/10
+reference set = ['seal', 'walrus']
+question = Is the item typically larger than a person?
+____________________________________________
+dial_id = 14
+target = seal
+candidates = goat, tomahawk, sword, seal, walrus, missile, cougar, revolver
+turn = 5/10
+reference set = ['seal']
+question = Does the item have whiskers?
+____________________________________________
+dial_id = 14
+target = seal
+candidates = goat, tomahawk, sword, seal, walrus, missile, cougar, revolver
+turn = 9/10
+reference set = ['seal']
+question = Does the item have fins?
+____________________________________________
+dial_id = 15
+target = missile
+candidates = deer, missile, stick, buffalo, sheep, shotgun, bomb, cow
+turn = 4/6
+reference set = ['missile', 'bomb']
+question = Is the item you're thinking of primarily used for military or defense purposes?
+____________________________________________
+dial_id = 16
+target = spear
+candidates = goat, spear, deer, pistol, gorilla, lion, dagger, shotgun
+turn = 3/4
+reference set = ['spear', 'dagger']
+question = Can you throw the item?
+____________________________________________
+dial_id = 17
+target = stick
+candidates = harpoon, stick, buffalo, cow, walrus, whip, seal, knife
+turn = 3/9
+reference set = ['harpoon', 'stick', 'knife']
+question = Does the item have a sharp point?
+____________________________________________
+dial_id = 17
+target = stick
+candidates = harpoon, stick, buffalo, cow, walrus, whip, seal, knife
+turn = 6/9
+reference set = ['stick']
+question = Is the item long and thin?
+____________________________________________
+dial_id = 17
+target = stick
+candidates = harpoon, stick, buffalo, cow, walrus, whip, seal, knife
+turn = 8/9
+reference set = ['stick']
+question = Is the item used for spearing fish or whales?
+____________________________________________
+dial_id = 17
+target = stick
+candidates = harpoon, stick, buffalo, cow, walrus, whip, seal, knife
+turn = 9/9
+reference set = ['stick']
+question = The item you are thinking of is a harpoon.
+____________________________________________
+dial_id = 18
+target = caribou
+candidates = hamster, pumpkin, porcupine, strawberry, grapefruit, elephant, caribou, plum
+turn = 4/5
+reference set = ['caribou']
+question = Does the item you are thinking of have antlers?
+____________________________________________
+dial_id = 19
+target = zebra
+candidates = whale, honeydew, banana, sheep, zebra, cranberry, otter, tangerine
+turn = 4/5
+reference set = ['zebra']
+question = Is the animal commonly found in Africa?
+____________________________________________
+dial_id = 20
+target = cow
+candidates = coconut, cherry, beaver, grapefruit, tomato, deer, seal, cow
+turn = 1/5
+reference set = dict_keys(['coconut', 'cherry', 'beaver', 'grapefruit', 'tomato', 'deer', 'seal', 'cow'])
+question = Can you eat it?
+____________________________________________
+dial_id = 20
+target = cow
+candidates = coconut, cherry, beaver, grapefruit, tomato, deer, seal, cow
+turn = 3/5
+reference set = ['beaver', 'deer', 'seal', 'cow']
+question = Is it a mammal?
+____________________________________________
+dial_id = 21
+target = avocado
+candidates = avocado, cheetah, strawberry, fawn, pineapple, giraffe, deer, tangerine
+turn = 2/4
+reference set = ['avocado', 'strawberry', 'pineapple', 'tangerine']
+question = Is the item a fruit?
+____________________________________________
+dial_id = 22
+target = cherry
+candidates = apple, pear, beaver, cherry, cougar, platypus, elephant, grapefruit
+turn = 3/5
+reference set = ['apple', 'pear', 'cherry']
+question = Does the item you have a small seed-containing core?
+____________________________________________
+dial_id = 24
+target = mink
+candidates = mink, mushroom, asparagus, cow, radish, whale, celery, squirrel
+turn = 2/5
+reference set = ['mink', 'squirrel']
+question = Does the item you have live on land?
+____________________________________________
+dial_id = 24
+target = mink
+candidates = mink, mushroom, asparagus, cow, radish, whale, celery, squirrel
+turn = 3/5
+reference set = ['mink', 'squirrel']
+question = Is the item you have a type of rodent?
+____________________________________________
+dial_id = 25
+target = gorilla
+candidates = broccoli, walrus, gorilla, mushroom, potato, peas, sheep, dolphin
+turn = 4/5
+reference set = ['gorilla']
+question = Is the item typically found in a zoo?
+____________________________________________
+dial_id = 26
+target = elk
+candidates = otter, seal, celery, asparagus, tomato, elk, lion, pumpkin
+turn = 4/5
+reference set = ['elk']
+question = Is the item commonly hunted for sport or food?
+____________________________________________
+dial_id = 27
+target = pumpkin
+candidates = gorilla, pumpkin, mushroom, cauliflower, fawn, peas, deer, cougar
+turn = 3/5
+reference set = ['pumpkin', 'cauliflower', 'peas']
+question = Does the candidate have a stem?
+____________________________________________
+dial_id = 28
+target = beans
+candidates = radish, whale, beans, potato, bison, pig, beets, deer
+turn = 4/7
+reference set = ['beans']
+question = Is the item usually cooked before being eaten?
+____________________________________________
+dial_id = 28
+target = beans
+candidates = radish, whale, beans, potato, bison, pig, beets, deer
+turn = 6/7
+reference set = ['beans']
+question = Is the item a legume?
+____________________________________________
+dial_id = 29
+target = potato
+candidates = eggplant, onions, fawn, chimp, pumpkin, platypus, walrus, potato
+turn = 2/10
+reference set = ['eggplant', 'onions', 'pumpkin', 'potato']
+question = Is the item a vegetable?
+____________________________________________
+dial_id = 29
+target = potato
+candidates = eggplant, onions, fawn, chimp, pumpkin, platypus, walrus, potato
+turn = 5/10
+reference set = ['potato']
+question = Does the item have layers when sliced open?
+____________________________________________
+dial_id = 29
+target = potato
+candidates = eggplant, onions, fawn, chimp, pumpkin, platypus, walrus, potato
+turn = 6/10
+reference set = ['potato']
+question = Is the item often used in salads or sandwiches?
+____________________________________________
+dial_id = 29
+target = potato
+candidates = eggplant, onions, fawn, chimp, pumpkin, platypus, walrus, potato
+turn = 9/10
+reference set = ['potato']
+question = Does the item have a hard outer skin?
+____________________________________________
+dial_id = 30
+target = penguin
+candidates = trousers, buzzard, cloak, bluejay, boots, vulture, penguin, sweater
+turn = 3/4
+reference set = ['penguin']
+question = Is the item you have black and white?
+____________________________________________
+dial_id = 31
+target = stork
+candidates = tie, bra, eagle, parakeet, woodpecker, stork, belt, camisole
+turn = 2/4
+reference set = ['eagle', 'parakeet', 'woodpecker', 'stork']
+question = Is the item you have a bird?
+____________________________________________
+dial_id = 32
+target = hawk
+candidates = hawk, peacock, falcon, tie, belt, budgie, bra, shoes
+turn = 3/5
+reference set = ['hawk', 'falcon']
+question = Is the bird you have commonly used for hunting?
+____________________________________________
+dial_id = 32
+target = hawk
+candidates = hawk, peacock, falcon, tie, belt, budgie, bra, shoes
+turn = 4/5
+reference set = ['hawk', 'falcon']
+question = Is the bird you have known for its sharp talons?
+____________________________________________
+dial_id = 33
+target = bra
+candidates = chickadee, skirt, eagle, leotards, bra, boots, owl, raven
+turn = 2/6
+reference set = ['skirt', 'leotards', 'bra', 'boots']
+question = Is the item you have something you wear?
+____________________________________________
+dial_id = 33
+target = bra
+candidates = chickadee, skirt, eagle, leotards, bra, boots, owl, raven
+turn = 5/6
+reference set = ['bra']
+question = Is it an undergarment?
+____________________________________________
+dial_id = 34
+target = belt
+candidates = rooster, belt, pajamas, slippers, woodpecker, parakeet, partridge, tie
+turn = 2/6
+reference set = ['belt', 'pajamas', 'slippers', 'tie']
+question = Is the item usually worn?
+____________________________________________
+dial_id = 35
+target = bra
+candidates = penguin, shoes, goose, tie, peacock, belt, oriole, bra
+turn = 2/6
+reference set = ['shoes', 'tie', 'belt', 'bra']
+question = Is the item you have something you wear?
+____________________________________________
+dial_id = 35
+target = bra
+candidates = penguin, shoes, goose, tie, peacock, belt, oriole, bra
+turn = 4/6
+reference set = ['bra']
+question = Is the item you have something women wear more commonly than men?
+____________________________________________
+dial_id = 35
+target = bra
+candidates = penguin, shoes, goose, tie, peacock, belt, oriole, bra
+turn = 5/6
+reference set = ['bra']
+question = Is the wear item you have an undergarment?
+____________________________________________
+dial_id = 36
+target = penguin
+candidates = rocket, duck, rooster, penguin, catapult, spear, cannon, budgie
+turn = 4/5
+reference set = ['penguin']
+question = Is the animal you're thinking of black and white?
+____________________________________________
+dial_id = 37
+target = penguin
+candidates = shotgun, starling, pelican, rifle, penguin, stone, rocket, ostrich
+turn = 4/6
+reference set = ['penguin', 'ostrich']
+question = Does it have feathers?
+____________________________________________
+dial_id = 38
+target = seagull
+candidates = crowbar, stork, knife, chickadee, stick, owl, seagull, axe
+turn = 2/10
+reference set = ['stork', 'chickadee', 'owl', 'seagull']
+question = Is the item a bird?
+____________________________________________
+dial_id = 38
+target = seagull
+candidates = crowbar, stork, knife, chickadee, stick, owl, seagull, axe
+turn = 6/10
+reference set = ['seagull']
+question = Does the item have long legs?
+____________________________________________
+dial_id = 38
+target = seagull
+candidates = crowbar, stork, knife, chickadee, stick, owl, seagull, axe
+turn = 9/10
+reference set = ['seagull']
+question = Is the item most commonly found near water bodies?
+____________________________________________
+dial_id = 39
+target = whip
+candidates = whip, stick, budgie, rooster, catapult, pheasant, peacock, bazooka
+turn = 5/6
+reference set = ['whip']
+question = Is the item made of leather?
+____________________________________________
+dial_id = 40
+target = bomb
+candidates = rifle, grenade, stone, turkey, flamingo, bomb, robin, penguin
+turn = 3/6
+reference set = ['rifle', 'grenade', 'bomb']
+question = Is the item commonly used for military or combat purposes?
+____________________________________________
+dial_id = 40
+target = bomb
+candidates = rifle, grenade, stone, turkey, flamingo, bomb, robin, penguin
+turn = 6/6
+reference set = ['bomb']
+question = As there is only one item left, I am going to guess. Is the item a hand grenade?
+____________________________________________
+dial_id = 41
+target = stick
+candidates = penguin, whip, woodpecker, stick, sword, crow, tomahawk, pelican
+turn = 4/7
+reference set = ['stick']
+question = Is the item you have long and thin?
+____________________________________________
+dial_id = 41
+target = stick
+candidates = penguin, whip, woodpecker, stick, sword, crow, tomahawk, pelican
+turn = 5/7
+reference set = ['stick']
+question = Is the item you have flexible?
+____________________________________________
+dial_id = 42
+target = budgie
+candidates = budgie, finch, grapefruit, cranberry, raisin, crow, pumpkin, raven
+turn = 3/5
+reference set = ['budgie', 'finch']
+question = Is the item smaller than a pigeon?
+____________________________________________
+dial_id = 42
+target = budgie
+candidates = budgie, finch, grapefruit, cranberry, raisin, crow, pumpkin, raven
+turn = 4/5
+reference set = ['budgie', 'finch']
+question = Is the item commonly kept as a pet?
+____________________________________________
+dial_id = 43
+target = dove
+candidates = swan, apple, peach, buzzard, dove, lime, strawberry, robin
+turn = 2/7
+reference set = ['swan', 'buzzard', 'dove', 'robin']
+question = Is the animal you're thinking of a bird?
+____________________________________________
+dial_id = 43
+target = dove
+candidates = swan, apple, peach, buzzard, dove, lime, strawberry, robin
+turn = 6/7
+reference set = ['dove']
+question = Does the bird you're thinking of belong to the Columbidae family?
+____________________________________________
+dial_id = 44
+target = woodpecker
+candidates = pineapple, rhubarb, woodpecker, stork, swan, orange, canary, cherry
+turn = 2/5
+reference set = ['woodpecker', 'stork', 'swan', 'canary']
+question = Does the animal fly?
+____________________________________________
+dial_id = 45
+target = rhubarb
+candidates = falcon, owl, rhubarb, goose, cherry, apple, rooster, grapefruit
+turn = 3/4
+reference set = ['rhubarb']
+question = Is the item often used in pies or desserts?
+____________________________________________
+dial_id = 46
+target = tangerine
+candidates = honeydew, avocado, duck, penguin, turkey, oriole, banana, tangerine
+turn = 2/5
+reference set = ['honeydew', 'avocado', 'banana', 'tangerine']
+question = Can the candidate be peeled?
+____________________________________________
+dial_id = 46
+target = tangerine
+candidates = honeydew, avocado, duck, penguin, turkey, oriole, banana, tangerine
+turn = 3/5
+reference set = ['honeydew', 'avocado', 'banana', 'tangerine']
+question = Can the candidate be found in tropical climates?
+____________________________________________
+dial_id = 47
+target = nectarine
+candidates = rhubarb, peacock, budgie, nectarine, prune, falcon, hawk, tomato
+turn = 5/6
+reference set = ['nectarine']
+question = Is the item you are thinking of usually eaten raw?
+____________________________________________
+dial_id = 49
+target = blackbird
+candidates = blackbird, budgie, buzzard, mushroom, potato, cauliflower, chicken, cucumber
+turn = 5/6
+reference set = ['blackbird']
+question = Is the beak of your bird mainly black?
+____________________________________________
+dial_id = 50
+target = parakeet
+candidates = rooster, duck, pickle, parakeet, crow, cucumber, onions, beets
+turn = 3/6
+reference set = ['duck', 'parakeet', 'crow']
+question = Is the animal you are thinking of a bird?
+____________________________________________
+dial_id = 50
+target = parakeet
+candidates = rooster, duck, pickle, parakeet, crow, cucumber, onions, beets
+turn = 5/6
+reference set = ['duck', 'parakeet']
+question = Is the animal you are thinking of smaller than a breadbox?
+____________________________________________
+dial_id = 51
+target = potato
+candidates = duck, mushroom, peas, pheasant, potato, emu, canary, onions
+turn = 4/5
+reference set = ['potato']
+question = Is the item you're thinking of usually white or yellow on the inside when peeled?
+____________________________________________
+dial_id = 52
+target = corn
+candidates = robin, peas, crow, peacock, tomato, parsley, corn, pelican
+turn = 2/13
+reference set = ['peas', 'tomato', 'parsley', 'corn']
+question = Is the item you are thinking of a vegetable?
+____________________________________________
+dial_id = 52
+target = corn
+candidates = robin, peas, crow, peacock, tomato, parsley, corn, pelican
+turn = 5/13
+reference set = ['corn']
+question = Is the item you are thinking of commonly used in salads?
+____________________________________________
+dial_id = 52
+target = corn
+candidates = robin, peas, crow, peacock, tomato, parsley, corn, pelican
+turn = 6/13
+reference set = ['corn']
+question = Is the item you are thinking of often used as a garnish?
+____________________________________________
+dial_id = 52
+target = corn
+candidates = robin, peas, crow, peacock, tomato, parsley, corn, pelican
+turn = 9/13
+reference set = ['corn']
+question = Is the item you are thinking of a plant?
+____________________________________________
+dial_id = 52
+target = corn
+candidates = robin, peas, crow, peacock, tomato, parsley, corn, pelican
+turn = 10/13
+reference set = ['corn']
+question = Is the item you are thinking of commonly eaten as a vegetable?
+____________________________________________
+dial_id = 52
+target = corn
+candidates = robin, peas, crow, peacock, tomato, parsley, corn, pelican
+turn = 12/13
+reference set = ['corn']
+question = Is the item you are thinking of a type of grain?
+____________________________________________
+dial_id = 53
+target = avocado
+candidates = blackbird, owl, sparrow, avocado, pumpkin, onions, hawk, potato
+turn = 4/6
+reference set = ['avocado']
+question = Is the item you were assigned a type of fruit?
+____________________________________________
+dial_id = 53
+target = avocado
+candidates = blackbird, owl, sparrow, avocado, pumpkin, onions, hawk, potato
+turn = 6/6
+reference set = ['avocado']
+question = Is the item you were assigned a fruit with green skin and a large pit in the middle?
+____________________________________________
+dial_id = 54
+target = cape
+candidates = blouse, camisole, tomahawk, crowbar, gown, spear, harpoon, cape
+turn = 7/10
+reference set = ['cape']
+question = Can the item you have be used to cover the head?
+____________________________________________
+dial_id = 54
+target = cape
+candidates = blouse, camisole, tomahawk, crowbar, gown, spear, harpoon, cape
+turn = 9/10
+reference set = ['cape']
+question = Is the item you have made of light fabric and worn over the clothes?
+____________________________________________
+dial_id = 56
+target = trousers
+candidates = trousers, tomahawk, bazooka, camisole, cloak, catapult, robe, bomb
+turn = 3/6
+reference set = ['trousers']
+question = Is the item a type of pants?
+____________________________________________
+dial_id = 56
+target = trousers
+candidates = trousers, tomahawk, bazooka, camisole, cloak, catapult, robe, bomb
+turn = 5/6
+reference set = ['trousers']
+question = Does the item have a zipper?
+____________________________________________
+dial_id = 57
+target = grenade
+candidates = axe, trousers, grenade, boots, pants, revolver, stone, cape
+turn = 3/6
+reference set = ['axe', 'grenade']
+question = Is the weapon designed to be held in one hand?
+____________________________________________
+dial_id = 58
+target = spear
+candidates = pants, robe, trousers, stick, spear, camisole, catapult, cannon
+turn = 2/8
+reference set = ['stick', 'spear', 'catapult', 'cannon']
+question = Is the item you have a weapon?
+____________________________________________
+dial_id = 58
+target = spear
+candidates = pants, robe, trousers, stick, spear, camisole, catapult, cannon
+turn = 4/8
+reference set = ['stick', 'spear']
+question = Does the item you have have a pointed end?
+____________________________________________
+dial_id = 58
+target = spear
+candidates = pants, robe, trousers, stick, spear, camisole, catapult, cannon
+turn = 6/8
+reference set = ['spear']
+question = Is the item you have generally shorter than 2 meters?
+____________________________________________
+dial_id = 59
+target = missile
+candidates = bra, belt, bomb, tie, missile, rocket, shoes, stone
+turn = 3/10
+reference set = ['bomb', 'missile', 'rocket']
+question = Is the item you are thinking of designed for military use?
+____________________________________________
+dial_id = 59
+target = missile
+candidates = bra, belt, bomb, tie, missile, rocket, shoes, stone
+turn = 4/10
+reference set = ['bomb', 'missile', 'rocket']
+question = Does the item you are thinking of use a guidance system to reach its intended target?
+____________________________________________
+dial_id = 59
+target = missile
+candidates = bra, belt, bomb, tie, missile, rocket, shoes, stone
+turn = 5/10
+reference set = ['bomb', 'missile', 'rocket']
+question = Is the item you are thinking of designed to be launched from a vehicle or a platform?
+____________________________________________
+dial_id = 59
+target = missile
+candidates = bra, belt, bomb, tie, missile, rocket, shoes, stone
+turn = 9/10
+reference set = ['missile']
+question = Is the item you are thinking of primarily designed for air-to-ground attacks?
+____________________________________________
+dial_id = 59
+target = missile
+candidates = bra, belt, bomb, tie, missile, rocket, shoes, stone
+turn = 10/10
+reference set = ['missile']
+question = Based on your answers, I think you are thinking of a MISSILE. Is that correct?
+____________________________________________
+dial_id = 60
+target = swimsuit
+candidates = cloak, raisin, jacket, pumpkin, cape, swimsuit, prune, grapefruit
+turn = 2/9
+reference set = ['cloak', 'jacket', 'cape', 'swimsuit']
+question = Is the item you have usually worn as clothing?
+____________________________________________
+dial_id = 61
+target = trousers
+candidates = camisole, pants, rhubarb, grapefruit, pajamas, trousers, pumpkin, tomato
+turn = 4/9
+reference set = ['pants', 'trousers']
+question = Is the item you have worn for formal events?
+____________________________________________
+dial_id = 61
+target = trousers
+candidates = camisole, pants, rhubarb, grapefruit, pajamas, trousers, pumpkin, tomato
+turn = 6/9
+reference set = ['trousers']
+question = Does the item have a waistband?
+____________________________________________
+dial_id = 62
+target = socks
+candidates = avocado, honeydew, bra, socks, cantaloupe, pear, cloak, coat
+turn = 3/9
+reference set = ['socks']
+question = Is the item you are thinking of worn on the feet?
+____________________________________________
+dial_id = 62
+target = socks
+candidates = avocado, honeydew, bra, socks, cantaloupe, pear, cloak, coat
+turn = 4/9
+reference set = ['socks']
+question = Is the item you are thinking of typically made of cotton?
+____________________________________________
+dial_id = 62
+target = socks
+candidates = avocado, honeydew, bra, socks, cantaloupe, pear, cloak, coat
+turn = 6/9
+reference set = ['socks']
+question = Is the item you are thinking of typically worn for warmth?
+____________________________________________
+dial_id = 62
+target = socks
+candidates = avocado, honeydew, bra, socks, cantaloupe, pear, cloak, coat
+turn = 8/9
+reference set = ['socks']
+question = Is the item you are thinking of a type of hosiery?
+____________________________________________
+dial_id = 63
+target = apple
+candidates = cranberry, pants, boots, apple, pumpkin, plum, trousers, bra
+turn = 5/6
+reference set = ['apple']
+question = Is the item you're thinking of a type of fruit?
+____________________________________________
+dial_id = 64
+target = cherry
+candidates = coconut, cherry, robe, scarf, peach, skirt, cranberry, shoes
+turn = 4/5
+reference set = ['cherry']
+question = Is the item usually small and round?
+____________________________________________
+dial_id = 66
+target = socks
+candidates = mushroom, cloak, cucumber, blouse, socks, olive, zucchini, boots
+turn = 6/7
+reference set = ['socks']
+question = Is the item you have ankle-high?
+____________________________________________
+dial_id = 67
+target = blouse
+candidates = zucchini, trousers, onions, potato, blouse, pants, slippers, rhubarb
+turn = 4/5
+reference set = ['blouse']
+question = Is the item you have typically worn by women?
+____________________________________________
+dial_id = 68
+target = swimsuit
+candidates = beans, pickle, swimsuit, beets, nightgown, shoes, mushroom, camisole
+turn = 2/6
+reference set = ['swimsuit', 'nightgown', 'shoes', 'camisole']
+question = Is the item you are thinking of a type of clothing?
+____________________________________________
+dial_id = 68
+target = swimsuit
+candidates = beans, pickle, swimsuit, beets, nightgown, shoes, mushroom, camisole
+turn = 5/6
+reference set = ['swimsuit']
+question = Is the item you are thinking of used specifically for swimming?
+____________________________________________
+dial_id = 69
+target = broccoli
+candidates = peas, mushroom, cloak, coat, scarf, boots, cucumber, broccoli
+turn = 2/8
+reference set = ['peas', 'mushroom', 'cucumber', 'broccoli']
+question = Is the item you are thinking of something that can be eaten?
+____________________________________________
+dial_id = 69
+target = broccoli
+candidates = peas, mushroom, cloak, coat, scarf, boots, cucumber, broccoli
+turn = 4/8
+reference set = ['peas', 'cucumber', 'broccoli']
+question = Is the item you are thinking of normally green in color?
+____________________________________________
+dial_id = 69
+target = broccoli
+candidates = peas, mushroom, cloak, coat, scarf, boots, cucumber, broccoli
+turn = 7/8
+reference set = ['broccoli']
+question = Is the item you are thinking of in the form of a small tree with green florets?
+____________________________________________
+dial_id = 70
+target = onions
+candidates = olive, potato, leotards, onions, pumpkin, mittens, nightgown, camisole
+turn = 4/8
+reference set = ['onions']
+question = Is the item starchy?
+____________________________________________
+dial_id = 70
+target = onions
+candidates = olive, potato, leotards, onions, pumpkin, mittens, nightgown, camisole
+turn = 7/8
+reference set = ['onions']
+question = Does the item belong to the family Allium?
+____________________________________________
+dial_id = 70
+target = onions
+candidates = olive, potato, leotards, onions, pumpkin, mittens, nightgown, camisole
+turn = 8/8
+reference set = ['onions']
+question = Based on your answers, I think the assigned item is ONION. Is it correct?
+____________________________________________
+dial_id = 71
+target = cauliflower
+candidates = shoes, peas, beans, tie, cauliflower, belt, bra, cabbage
+turn = 4/6
+reference set = ['cauliflower']
+question = Is it a type of vegetable?
+____________________________________________
+dial_id = 72
+target = spear
+candidates = revolver, shotgun, raisin, grapefruit, stick, spear, pumpkin, prune
+turn = 4/5
+reference set = ['spear']
+question = Is the item you are thinking of a sharp weapon?
+____________________________________________
+dial_id = 73
+target = grenade
+candidates = olive, gun, raisin, grenade, cherry, rocket, plum, cannon
+turn = 3/7
+reference set = ['gun', 'grenade', 'cannon']
+question = Does the weapon use ammunition?
+____________________________________________
+dial_id = 73
+target = grenade
+candidates = olive, gun, raisin, grenade, cherry, rocket, plum, cannon
+turn = 6/7
+reference set = ['grenade']
+question = Can the weapon be thrown?
+____________________________________________
+dial_id = 74
+target = bomb
+candidates = apple, rock, bomb, pumpkin, stone, grapefruit, crossbow, cherry
+turn = 4/5
+reference set = ['bomb']
+question = Is the item you are thinking of used in warfare?
+____________________________________________
+dial_id = 76
+target = rhubarb
+candidates = rhubarb, peach, apple, plum, crowbar, pistol, rifle, whip
+turn = 3/5
+reference set = ['rhubarb']
+question = Is the item usually cooked before eaten?
+____________________________________________
+dial_id = 76
+target = rhubarb
+candidates = rhubarb, peach, apple, plum, crowbar, pistol, rifle, whip
+turn = 4/5
+reference set = ['rhubarb']
+question = Does the item have red color?
+____________________________________________
+dial_id = 77
+target = tomato
+candidates = knife, honeydew, tomato, grape, sword, whip, rhubarb, stick
+turn = 4/5
+reference set = ['tomato']
+question = Does the item you are thinking of have seeds?
+____________________________________________
+dial_id = 78
+target = missile
+candidates = onions, pickle, beans, olive, catapult, bazooka, missile, slingshot
+turn = 2/7
+reference set = ['catapult', 'bazooka', 'missile', 'slingshot']
+question = Is the item a weapon?
+____________________________________________
+dial_id = 78
+target = missile
+candidates = onions, pickle, beans, olive, catapult, bazooka, missile, slingshot
+turn = 3/7
+reference set = ['catapult', 'bazooka', 'missile', 'slingshot']
+question = Is the weapon a long-range weapon?
+____________________________________________
+dial_id = 78
+target = missile
+candidates = onions, pickle, beans, olive, catapult, bazooka, missile, slingshot
+turn = 6/7
+reference set = ['missile']
+question = Is the weapon propelled by a rocket engine?
+____________________________________________
+dial_id = 79
+target = rocket
+candidates = rocket, pickle, cannon, crowbar, avocado, grenade, radish, mushroom
+turn = 7/9
+reference set = ['rocket']
+question = Is the item related to transportation?
+____________________________________________
+dial_id = 79
+target = rocket
+candidates = rocket, pickle, cannon, crowbar, avocado, grenade, radish, mushroom
+turn = 8/9
+reference set = ['rocket']
+question = Is the item attached to a vehicle?
+____________________________________________
+dial_id = 80
+target = axe
+candidates = catapult, cannon, corn, pickle, bazooka, cucumber, potato, axe
+turn = 5/6
+reference set = ['axe']
+question = Is the item you are thinking typically made of metal?
+____________________________________________
+dial_id = 81
+target = potato
+candidates = turnip, stone, potato, harpoon, grenade, mushroom, radish, rifle
+turn = 6/7
+reference set = ['turnip', 'potato']
+question = Is the item you are thinking of white or off-white in color?
+____________________________________________
+dial_id = 82
+target = peas
+candidates = bomb, cabbage, stone, peas, beans, rock, rifle, cauliflower
+turn = 5/6
+reference set = ['peas']
+question = Does the item have a pod?
+____________________________________________
+dial_id = 83
+target = mushroom
+candidates = tomahawk, mushroom, axe, stick, onions, whip, broccoli, carrot
+turn = 4/5
+reference set = ['mushroom']
+question = Is the item you are thinking of edible?
+____________________________________________
+dial_id = 84
+target = lime
+candidates = celery, mushroom, prune, grapefruit, banana, lime, zucchini, beans
+turn = 6/7
+reference set = ['lime']
+question = Is the fruit you are thinking of typically sour in taste?
+____________________________________________
+dial_id = 85
+target = banana
+candidates = banana, beans, tangerine, beets, pickle, mushroom, cranberry, peach
+turn = 4/5
+reference set = ['banana', 'tangerine']
+question = Does your fruit have a curved shape?
+____________________________________________
+dial_id = 86
+target = coconut
+candidates = lemon, beets, orange, beans, mushroom, coconut, raspberry, radish
+turn = 3/4
+reference set = ['coconut']
+question = Does the item have a hairy surface?
+____________________________________________
+dial_id = 87
+target = carrot
+candidates = zucchini, plum, orange, beans, pineapple, lettuce, carrot, lemon
+turn = 6/12
+reference set = ['carrot']
+question = Can the item you are thinking of be eaten raw?
+____________________________________________
+dial_id = 87
+target = carrot
+candidates = zucchini, plum, orange, beans, pineapple, lettuce, carrot, lemon
+turn = 10/12
+reference set = ['carrot']
+question = Is the item you are thinking of a vegetable that is commonly used in salads?
+____________________________________________
+dial_id = 87
+target = carrot
+candidates = zucchini, plum, orange, beans, pineapple, lettuce, carrot, lemon
+turn = 11/12
+reference set = ['carrot']
+question = Is the item you are thinking of white?
+____________________________________________
+dial_id = 87
+target = carrot
+candidates = zucchini, plum, orange, beans, pineapple, lettuce, carrot, lemon
+turn = 12/12
+reference set = ['carrot']
+question = Based on the answers you gave, I think you were thinking of a cauliflower. Is that correct?
+____________________________________________
+dial_id = 88
+target = pickle
+candidates = radish, beans, zucchini, honeydew, pickle, pineapple, peach, strawberry
+turn = 5/8
+reference set = ['pickle']
+question = Is your item a vegetable that is typically eaten as a side dish?
+____________________________________________
+dial_id = 88
+target = pickle
+candidates = radish, beans, zucchini, honeydew, pickle, pineapple, peach, strawberry
+turn = 7/8
+reference set = ['pickle']
+question = Is your item commonly used as a condiment?
+____________________________________________
+dial_id = 89
+target = onions
+candidates = beans, onions, strawberry, beets, pineapple, pickle, raspberry, peach
+turn = 2/5
+reference set = ['beans', 'onions', 'beets', 'pickle']
+question = Is your item a vegetable?
+____________________________________________
+dial_id = 89
+target = onions
+candidates = beans, onions, strawberry, beets, pineapple, pickle, raspberry, peach
+turn = 3/5
+reference set = ['beans', 'onions', 'beets', 'pickle']
+question = Is your item commonly used in salads?

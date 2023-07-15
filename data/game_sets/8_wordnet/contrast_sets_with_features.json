@@ -1,0 +1,3782 @@
+{
+  "0": [
+    [
+      [
+        "tractor",
+        "motorcycle"
+      ],
+      "vehicle",
+      "not bird",
+      "wheeled_vehicle",
+      "not aircraft"
+    ],
+    [
+      [
+        "balloon",
+        "airplane"
+      ],
+      "vehicle",
+      "not bird",
+      "not wheeled_vehicle",
+      "aircraft"
+    ],
+    [
+      [
+        "pelican",
+        "goose"
+      ],
+      "not vehicle",
+      "bird",
+      "aquatic_bird",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "pigeon",
+        "pheasant"
+      ],
+      "not vehicle",
+      "bird",
+      "not aquatic_bird",
+      "gallinaceous_bird"
+    ]
+  ],
+  "1": [
+    [
+      [
+        "bike",
+        "wheelbarrow"
+      ],
+      "vehicle",
+      "not bird",
+      "wheeled_vehicle",
+      "not vessel"
+    ],
+    [
+      [
+        "submarine",
+        "boat"
+      ],
+      "vehicle",
+      "not bird",
+      "not wheeled_vehicle",
+      "vessel"
+    ],
+    [
+      [
+        "flamingo",
+        "stork"
+      ],
+      "not vehicle",
+      "bird",
+      "aquatic_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "sparrow",
+        "chickadee"
+      ],
+      "not vehicle",
+      "bird",
+      "not aquatic_bird",
+      "passerine"
+    ]
+  ],
+  "2": [
+    [
+      [
+        "helicopter",
+        "balloon"
+      ],
+      "vehicle",
+      "not bird",
+      "aircraft",
+      "not wheeled_vehicle"
+    ],
+    [
+      [
+        "cart",
+        "trolley"
+      ],
+      "vehicle",
+      "not bird",
+      "not aircraft",
+      "wheeled_vehicle"
+    ],
+    [
+      [
+        "pigeon",
+        "dove"
+      ],
+      "not vehicle",
+      "bird",
+      "gallinaceous_bird",
+      "not aquatic_bird"
+    ],
+    [
+      [
+        "pelican",
+        "stork"
+      ],
+      "not vehicle",
+      "bird",
+      "not gallinaceous_bird",
+      "aquatic_bird"
+    ]
+  ],
+  "3": [
+    [
+      [
+        "airplane",
+        "balloon"
+      ],
+      "vehicle",
+      "not bird",
+      "aircraft",
+      "not vessel"
+    ],
+    [
+      [
+        "yacht",
+        "submarine"
+      ],
+      "vehicle",
+      "not bird",
+      "not aircraft",
+      "vessel"
+    ],
+    [
+      [
+        "pigeon",
+        "dove"
+      ],
+      "not vehicle",
+      "bird",
+      "gallinaceous_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "oriole",
+        "finch"
+      ],
+      "not vehicle",
+      "bird",
+      "not gallinaceous_bird",
+      "passerine"
+    ]
+  ],
+  "4": [
+    [
+      [
+        "submarine",
+        "ship"
+      ],
+      "vehicle",
+      "not bird",
+      "vessel",
+      "not wheeled_vehicle"
+    ],
+    [
+      [
+        "tractor",
+        "cart"
+      ],
+      "vehicle",
+      "not bird",
+      "not vessel",
+      "wheeled_vehicle"
+    ],
+    [
+      [
+        "robin",
+        "raven"
+      ],
+      "not vehicle",
+      "bird",
+      "passerine",
+      "not aquatic_bird"
+    ],
+    [
+      [
+        "swan",
+        "penguin"
+      ],
+      "not vehicle",
+      "bird",
+      "not passerine",
+      "aquatic_bird"
+    ]
+  ],
+  "5": [
+    [
+      [
+        "ship",
+        "yacht"
+      ],
+      "vehicle",
+      "not bird",
+      "vessel",
+      "not aircraft"
+    ],
+    [
+      [
+        "balloon",
+        "helicopter"
+      ],
+      "vehicle",
+      "not bird",
+      "not vessel",
+      "aircraft"
+    ],
+    [
+      [
+        "crow",
+        "chickadee"
+      ],
+      "not vehicle",
+      "bird",
+      "passerine",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "dove",
+        "turkey"
+      ],
+      "not vehicle",
+      "bird",
+      "not passerine",
+      "gallinaceous_bird"
+    ]
+  ],
+  "6": [
+    [
+      [
+        "car",
+        "wheelbarrow"
+      ],
+      "vehicle",
+      "not mammal",
+      "wheeled_vehicle",
+      "not aircraft"
+    ],
+    [
+      [
+        "airplane",
+        "balloon"
+      ],
+      "vehicle",
+      "not mammal",
+      "not wheeled_vehicle",
+      "aircraft"
+    ],
+    [
+      [
+        "hamster",
+        "chipmunk"
+      ],
+      "not vehicle",
+      "mammal",
+      "rodent",
+      "not canine"
+    ],
+    [
+      [
+        "dog",
+        "fox"
+      ],
+      "not vehicle",
+      "mammal",
+      "not rodent",
+      "canine"
+    ]
+  ],
+  "7": [
+    [
+      [
+        "tractor",
+        "cart"
+      ],
+      "vehicle",
+      "not mammal",
+      "wheeled_vehicle",
+      "not vessel"
+    ],
+    [
+      [
+        "sailboat",
+        "submarine"
+      ],
+      "vehicle",
+      "not mammal",
+      "not wheeled_vehicle",
+      "vessel"
+    ],
+    [
+      [
+        "fox",
+        "dog"
+      ],
+      "not vehicle",
+      "mammal",
+      "canine",
+      "not rodent"
+    ],
+    [
+      [
+        "rat",
+        "mouse"
+      ],
+      "not vehicle",
+      "mammal",
+      "not canine",
+      "rodent"
+    ]
+  ],
+  "8": [
+    [
+      [
+        "cart",
+        "tractor"
+      ],
+      "vehicle",
+      "not structure",
+      "wheeled_vehicle",
+      "not aircraft"
+    ],
+    [
+      [
+        "balloon",
+        "helicopter"
+      ],
+      "vehicle",
+      "not structure",
+      "not wheeled_vehicle",
+      "aircraft"
+    ],
+    [
+      [
+        "house",
+        "cottage"
+      ],
+      "not vehicle",
+      "structure",
+      "housing",
+      "not area"
+    ],
+    [
+      [
+        "cupboard",
+        "toilet"
+      ],
+      "not vehicle",
+      "structure",
+      "not housing",
+      "area"
+    ]
+  ],
+  "9": [
+    [
+      [
+        "wheelbarrow",
+        "tractor"
+      ],
+      "vehicle",
+      "not structure",
+      "wheeled_vehicle",
+      "not vessel"
+    ],
+    [
+      [
+        "sailboat",
+        "boat"
+      ],
+      "vehicle",
+      "not structure",
+      "not wheeled_vehicle",
+      "vessel"
+    ],
+    [
+      [
+        "house",
+        "apartment"
+      ],
+      "not vehicle",
+      "structure",
+      "housing",
+      "not shelter"
+    ],
+    [
+      [
+        "tent",
+        "shack"
+      ],
+      "not vehicle",
+      "structure",
+      "not housing",
+      "shelter"
+    ]
+  ],
+  "10": [
+    [
+      [
+        "airplane",
+        "balloon"
+      ],
+      "vehicle",
+      "not structure",
+      "aircraft",
+      "not wheeled_vehicle"
+    ],
+    [
+      [
+        "wheelbarrow",
+        "car"
+      ],
+      "vehicle",
+      "not structure",
+      "not aircraft",
+      "wheeled_vehicle"
+    ],
+    [
+      [
+        "cage",
+        "cabin"
+      ],
+      "not vehicle",
+      "structure",
+      "area",
+      "not housing"
+    ],
+    [
+      [
+        "cottage",
+        "bungalow"
+      ],
+      "not vehicle",
+      "structure",
+      "not area",
+      "housing"
+    ]
+  ],
+  "11": [
+    [
+      [
+        "balloon",
+        "helicopter"
+      ],
+      "vehicle",
+      "not structure",
+      "aircraft",
+      "not vessel"
+    ],
+    [
+      [
+        "submarine",
+        "ship"
+      ],
+      "vehicle",
+      "not structure",
+      "not aircraft",
+      "vessel"
+    ],
+    [
+      [
+        "cupboard",
+        "cage"
+      ],
+      "not vehicle",
+      "structure",
+      "area",
+      "not shelter"
+    ],
+    [
+      [
+        "hut",
+        "tent"
+      ],
+      "not vehicle",
+      "structure",
+      "not area",
+      "shelter"
+    ]
+  ],
+  "12": [
+    [
+      [
+        "boat",
+        "ship"
+      ],
+      "vehicle",
+      "not structure",
+      "vessel",
+      "not wheeled_vehicle"
+    ],
+    [
+      [
+        "bike",
+        "unicycle"
+      ],
+      "vehicle",
+      "not structure",
+      "not vessel",
+      "wheeled_vehicle"
+    ],
+    [
+      [
+        "tent",
+        "hut"
+      ],
+      "not vehicle",
+      "structure",
+      "shelter",
+      "not housing"
+    ],
+    [
+      [
+        "bungalow",
+        "cottage"
+      ],
+      "not vehicle",
+      "structure",
+      "not shelter",
+      "housing"
+    ]
+  ],
+  "13": [
+    [
+      [
+        "yacht",
+        "sailboat"
+      ],
+      "vehicle",
+      "not structure",
+      "vessel",
+      "not aircraft"
+    ],
+    [
+      [
+        "balloon",
+        "helicopter"
+      ],
+      "vehicle",
+      "not structure",
+      "not vessel",
+      "aircraft"
+    ],
+    [
+      [
+        "shack",
+        "hut"
+      ],
+      "not vehicle",
+      "structure",
+      "shelter",
+      "not area"
+    ],
+    [
+      [
+        "cupboard",
+        "cage"
+      ],
+      "not vehicle",
+      "structure",
+      "not shelter",
+      "area"
+    ]
+  ],
+  "14": [
+    [
+      [
+        "cart",
+        "motorcycle"
+      ],
+      "vehicle",
+      "not clothing",
+      "wheeled_vehicle",
+      "not aircraft"
+    ],
+    [
+      [
+        "balloon",
+        "airplane"
+      ],
+      "vehicle",
+      "not clothing",
+      "not wheeled_vehicle",
+      "aircraft"
+    ],
+    [
+      [
+        "hose",
+        "leotards"
+      ],
+      "not vehicle",
+      "clothing",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "shawl",
+        "jacket"
+      ],
+      "not vehicle",
+      "clothing",
+      "not footwear",
+      "overgarment"
+    ]
+  ],
+  "15": [
+    [
+      [
+        "truck",
+        "bike"
+      ],
+      "vehicle",
+      "not clothing",
+      "wheeled_vehicle",
+      "not vessel"
+    ],
+    [
+      [
+        "sailboat",
+        "yacht"
+      ],
+      "vehicle",
+      "not clothing",
+      "not wheeled_vehicle",
+      "vessel"
+    ],
+    [
+      [
+        "leotards",
+        "socks"
+      ],
+      "not vehicle",
+      "clothing",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "nightgown",
+        "camisole"
+      ],
+      "not vehicle",
+      "clothing",
+      "not footwear",
+      "undergarment"
+    ]
+  ],
+  "16": [
+    [
+      [
+        "helicopter",
+        "airplane"
+      ],
+      "vehicle",
+      "not clothing",
+      "aircraft",
+      "not wheeled_vehicle"
+    ],
+    [
+      [
+        "tricycle",
+        "car"
+      ],
+      "vehicle",
+      "not clothing",
+      "not aircraft",
+      "wheeled_vehicle"
+    ],
+    [
+      [
+        "nylons",
+        "socks"
+      ],
+      "not vehicle",
+      "clothing",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "jacket",
+        "coat"
+      ],
+      "not vehicle",
+      "clothing",
+      "not footwear",
+      "overgarment"
+    ]
+  ],
+  "17": [
+    [
+      [
+        "balloon",
+        "helicopter"
+      ],
+      "vehicle",
+      "not clothing",
+      "aircraft",
+      "not vessel"
+    ],
+    [
+      [
+        "sailboat",
+        "yacht"
+      ],
+      "vehicle",
+      "not clothing",
+      "not aircraft",
+      "vessel"
+    ],
+    [
+      [
+        "nylons",
+        "hose"
+      ],
+      "not vehicle",
+      "clothing",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "nightgown",
+        "pants"
+      ],
+      "not vehicle",
+      "clothing",
+      "not footwear",
+      "undergarment"
+    ]
+  ],
+  "18": [
+    [
+      [
+        "boat",
+        "ship"
+      ],
+      "vehicle",
+      "not clothing",
+      "vessel",
+      "not wheeled_vehicle"
+    ],
+    [
+      [
+        "wagon",
+        "car"
+      ],
+      "vehicle",
+      "not clothing",
+      "not vessel",
+      "wheeled_vehicle"
+    ],
+    [
+      [
+        "shawl",
+        "jacket"
+      ],
+      "not vehicle",
+      "clothing",
+      "overgarment",
+      "not footwear"
+    ],
+    [
+      [
+        "hose",
+        "leotards"
+      ],
+      "not vehicle",
+      "clothing",
+      "not overgarment",
+      "footwear"
+    ]
+  ],
+  "19": [
+    [
+      [
+        "sailboat",
+        "ship"
+      ],
+      "vehicle",
+      "not clothing",
+      "vessel",
+      "not aircraft"
+    ],
+    [
+      [
+        "airplane",
+        "helicopter"
+      ],
+      "vehicle",
+      "not clothing",
+      "not vessel",
+      "aircraft"
+    ],
+    [
+      [
+        "coat",
+        "shawl"
+      ],
+      "not vehicle",
+      "clothing",
+      "overgarment",
+      "not undergarment"
+    ],
+    [
+      [
+        "pants",
+        "nightgown"
+      ],
+      "not vehicle",
+      "clothing",
+      "not overgarment",
+      "undergarment"
+    ]
+  ],
+  "20": [
+    [
+      [
+        "swan",
+        "stork"
+      ],
+      "bird",
+      "not vehicle",
+      "aquatic_bird",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "rooster",
+        "pheasant"
+      ],
+      "bird",
+      "not vehicle",
+      "not aquatic_bird",
+      "gallinaceous_bird"
+    ],
+    [
+      [
+        "bike",
+        "motorcycle"
+      ],
+      "not bird",
+      "vehicle",
+      "wheeled_vehicle",
+      "not aircraft"
+    ],
+    [
+      [
+        "airplane",
+        "helicopter"
+      ],
+      "not bird",
+      "vehicle",
+      "not wheeled_vehicle",
+      "aircraft"
+    ]
+  ],
+  "21": [
+    [
+      [
+        "penguin",
+        "flamingo"
+      ],
+      "bird",
+      "not vehicle",
+      "aquatic_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "blackbird",
+        "nightingale"
+      ],
+      "bird",
+      "not vehicle",
+      "not aquatic_bird",
+      "passerine"
+    ],
+    [
+      [
+        "tractor",
+        "trolley"
+      ],
+      "not bird",
+      "vehicle",
+      "wheeled_vehicle",
+      "not vessel"
+    ],
+    [
+      [
+        "boat",
+        "yacht"
+      ],
+      "not bird",
+      "vehicle",
+      "not wheeled_vehicle",
+      "vessel"
+    ]
+  ],
+  "22": [
+    [
+      [
+        "pheasant",
+        "dove"
+      ],
+      "bird",
+      "not vehicle",
+      "gallinaceous_bird",
+      "not aquatic_bird"
+    ],
+    [
+      [
+        "pelican",
+        "penguin"
+      ],
+      "bird",
+      "not vehicle",
+      "not gallinaceous_bird",
+      "aquatic_bird"
+    ],
+    [
+      [
+        "airplane",
+        "balloon"
+      ],
+      "not bird",
+      "vehicle",
+      "aircraft",
+      "not wheeled_vehicle"
+    ],
+    [
+      [
+        "tricycle",
+        "skateboard"
+      ],
+      "not bird",
+      "vehicle",
+      "not aircraft",
+      "wheeled_vehicle"
+    ]
+  ],
+  "23": [
+    [
+      [
+        "pigeon",
+        "rooster"
+      ],
+      "bird",
+      "not vehicle",
+      "gallinaceous_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "raven",
+        "blackbird"
+      ],
+      "bird",
+      "not vehicle",
+      "not gallinaceous_bird",
+      "passerine"
+    ],
+    [
+      [
+        "airplane",
+        "balloon"
+      ],
+      "not bird",
+      "vehicle",
+      "aircraft",
+      "not vessel"
+    ],
+    [
+      [
+        "yacht",
+        "ship"
+      ],
+      "not bird",
+      "vehicle",
+      "not aircraft",
+      "vessel"
+    ]
+  ],
+  "24": [
+    [
+      [
+        "crow",
+        "finch"
+      ],
+      "bird",
+      "not vehicle",
+      "passerine",
+      "not aquatic_bird"
+    ],
+    [
+      [
+        "swan",
+        "flamingo"
+      ],
+      "bird",
+      "not vehicle",
+      "not passerine",
+      "aquatic_bird"
+    ],
+    [
+      [
+        "sailboat",
+        "ship"
+      ],
+      "not bird",
+      "vehicle",
+      "vessel",
+      "not wheeled_vehicle"
+    ],
+    [
+      [
+        "unicycle",
+        "truck"
+      ],
+      "not bird",
+      "vehicle",
+      "not vessel",
+      "wheeled_vehicle"
+    ]
+  ],
+  "25": [
+    [
+      [
+        "sparrow",
+        "oriole"
+      ],
+      "bird",
+      "not vehicle",
+      "passerine",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "rooster",
+        "pheasant"
+      ],
+      "bird",
+      "not vehicle",
+      "not passerine",
+      "gallinaceous_bird"
+    ],
+    [
+      [
+        "sailboat",
+        "submarine"
+      ],
+      "not bird",
+      "vehicle",
+      "vessel",
+      "not aircraft"
+    ],
+    [
+      [
+        "airplane",
+        "balloon"
+      ],
+      "not bird",
+      "vehicle",
+      "not vessel",
+      "aircraft"
+    ]
+  ],
+  "26": [
+    [
+      [
+        "flamingo",
+        "stork"
+      ],
+      "bird",
+      "not mammal",
+      "aquatic_bird",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "turkey",
+        "dove"
+      ],
+      "bird",
+      "not mammal",
+      "not aquatic_bird",
+      "gallinaceous_bird"
+    ],
+    [
+      [
+        "chipmunk",
+        "porcupine"
+      ],
+      "not bird",
+      "mammal",
+      "rodent",
+      "not canine"
+    ],
+    [
+      [
+        "fox",
+        "dog"
+      ],
+      "not bird",
+      "mammal",
+      "not rodent",
+      "canine"
+    ]
+  ],
+  "27": [
+    [
+      [
+        "goose",
+        "stork"
+      ],
+      "bird",
+      "not mammal",
+      "aquatic_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "starling",
+        "chickadee"
+      ],
+      "bird",
+      "not mammal",
+      "not aquatic_bird",
+      "passerine"
+    ],
+    [
+      [
+        "fox",
+        "hyena"
+      ],
+      "not bird",
+      "mammal",
+      "canine",
+      "not rodent"
+    ],
+    [
+      [
+        "rat",
+        "mouse"
+      ],
+      "not bird",
+      "mammal",
+      "not canine",
+      "rodent"
+    ]
+  ],
+  "28": [
+    [
+      [
+        "penguin",
+        "pelican"
+      ],
+      "bird",
+      "not structure",
+      "aquatic_bird",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "turkey",
+        "rooster"
+      ],
+      "bird",
+      "not structure",
+      "not aquatic_bird",
+      "gallinaceous_bird"
+    ],
+    [
+      [
+        "cottage",
+        "apartment"
+      ],
+      "not bird",
+      "structure",
+      "housing",
+      "not area"
+    ],
+    [
+      [
+        "cupboard",
+        "closet"
+      ],
+      "not bird",
+      "structure",
+      "not housing",
+      "area"
+    ]
+  ],
+  "29": [
+    [
+      [
+        "penguin",
+        "swan"
+      ],
+      "bird",
+      "not structure",
+      "aquatic_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "oriole",
+        "starling"
+      ],
+      "bird",
+      "not structure",
+      "not aquatic_bird",
+      "passerine"
+    ],
+    [
+      [
+        "bungalow",
+        "house"
+      ],
+      "not bird",
+      "structure",
+      "housing",
+      "not shelter"
+    ],
+    [
+      [
+        "hut",
+        "tent"
+      ],
+      "not bird",
+      "structure",
+      "not housing",
+      "shelter"
+    ]
+  ],
+  "30": [
+    [
+      [
+        "dove",
+        "pigeon"
+      ],
+      "bird",
+      "not structure",
+      "gallinaceous_bird",
+      "not aquatic_bird"
+    ],
+    [
+      [
+        "duck",
+        "penguin"
+      ],
+      "bird",
+      "not structure",
+      "not gallinaceous_bird",
+      "aquatic_bird"
+    ],
+    [
+      [
+        "toilet",
+        "cage"
+      ],
+      "not bird",
+      "structure",
+      "area",
+      "not housing"
+    ],
+    [
+      [
+        "cottage",
+        "house"
+      ],
+      "not bird",
+      "structure",
+      "not area",
+      "housing"
+    ]
+  ],
+  "31": [
+    [
+      [
+        "turkey",
+        "rooster"
+      ],
+      "bird",
+      "not structure",
+      "gallinaceous_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "finch",
+        "nightingale"
+      ],
+      "bird",
+      "not structure",
+      "not gallinaceous_bird",
+      "passerine"
+    ],
+    [
+      [
+        "cabin",
+        "closet"
+      ],
+      "not bird",
+      "structure",
+      "area",
+      "not shelter"
+    ],
+    [
+      [
+        "shack",
+        "hut"
+      ],
+      "not bird",
+      "structure",
+      "not area",
+      "shelter"
+    ]
+  ],
+  "32": [
+    [
+      [
+        "raven",
+        "nightingale"
+      ],
+      "bird",
+      "not structure",
+      "passerine",
+      "not aquatic_bird"
+    ],
+    [
+      [
+        "pelican",
+        "goose"
+      ],
+      "bird",
+      "not structure",
+      "not passerine",
+      "aquatic_bird"
+    ],
+    [
+      [
+        "shack",
+        "tent"
+      ],
+      "not bird",
+      "structure",
+      "shelter",
+      "not housing"
+    ],
+    [
+      [
+        "house",
+        "apartment"
+      ],
+      "not bird",
+      "structure",
+      "not shelter",
+      "housing"
+    ]
+  ],
+  "33": [
+    [
+      [
+        "nightingale",
+        "blackbird"
+      ],
+      "bird",
+      "not structure",
+      "passerine",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "dove",
+        "rooster"
+      ],
+      "bird",
+      "not structure",
+      "not passerine",
+      "gallinaceous_bird"
+    ],
+    [
+      [
+        "shack",
+        "tent"
+      ],
+      "not bird",
+      "structure",
+      "shelter",
+      "not area"
+    ],
+    [
+      [
+        "toilet",
+        "cupboard"
+      ],
+      "not bird",
+      "structure",
+      "not shelter",
+      "area"
+    ]
+  ],
+  "34": [
+    [
+      [
+        "duck",
+        "goose"
+      ],
+      "bird",
+      "not clothing",
+      "aquatic_bird",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "pigeon",
+        "dove"
+      ],
+      "bird",
+      "not clothing",
+      "not aquatic_bird",
+      "gallinaceous_bird"
+    ],
+    [
+      [
+        "leotards",
+        "hose"
+      ],
+      "not bird",
+      "clothing",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "jacket",
+        "coat"
+      ],
+      "not bird",
+      "clothing",
+      "not footwear",
+      "overgarment"
+    ]
+  ],
+  "35": [
+    [
+      [
+        "penguin",
+        "flamingo"
+      ],
+      "bird",
+      "not clothing",
+      "aquatic_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "crow",
+        "robin"
+      ],
+      "bird",
+      "not clothing",
+      "not aquatic_bird",
+      "passerine"
+    ],
+    [
+      [
+        "socks",
+        "hose"
+      ],
+      "not bird",
+      "clothing",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "pants",
+        "camisole"
+      ],
+      "not bird",
+      "clothing",
+      "not footwear",
+      "undergarment"
+    ]
+  ],
+  "36": [
+    [
+      [
+        "pigeon",
+        "pheasant"
+      ],
+      "bird",
+      "not clothing",
+      "gallinaceous_bird",
+      "not aquatic_bird"
+    ],
+    [
+      [
+        "penguin",
+        "stork"
+      ],
+      "bird",
+      "not clothing",
+      "not gallinaceous_bird",
+      "aquatic_bird"
+    ],
+    [
+      [
+        "leotards",
+        "nylons"
+      ],
+      "not bird",
+      "clothing",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "coat",
+        "jacket"
+      ],
+      "not bird",
+      "clothing",
+      "not footwear",
+      "overgarment"
+    ]
+  ],
+  "37": [
+    [
+      [
+        "pheasant",
+        "dove"
+      ],
+      "bird",
+      "not clothing",
+      "gallinaceous_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "oriole",
+        "starling"
+      ],
+      "bird",
+      "not clothing",
+      "not gallinaceous_bird",
+      "passerine"
+    ],
+    [
+      [
+        "hose",
+        "socks"
+      ],
+      "not bird",
+      "clothing",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "nightgown",
+        "camisole"
+      ],
+      "not bird",
+      "clothing",
+      "not footwear",
+      "undergarment"
+    ]
+  ],
+  "38": [
+    [
+      [
+        "nightingale",
+        "crow"
+      ],
+      "bird",
+      "not clothing",
+      "passerine",
+      "not aquatic_bird"
+    ],
+    [
+      [
+        "swan",
+        "duck"
+      ],
+      "bird",
+      "not clothing",
+      "not passerine",
+      "aquatic_bird"
+    ],
+    [
+      [
+        "jacket",
+        "shawl"
+      ],
+      "not bird",
+      "clothing",
+      "overgarment",
+      "not footwear"
+    ],
+    [
+      [
+        "socks",
+        "nylons"
+      ],
+      "not bird",
+      "clothing",
+      "not overgarment",
+      "footwear"
+    ]
+  ],
+  "39": [
+    [
+      [
+        "starling",
+        "sparrow"
+      ],
+      "bird",
+      "not clothing",
+      "passerine",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "pheasant",
+        "dove"
+      ],
+      "bird",
+      "not clothing",
+      "not passerine",
+      "gallinaceous_bird"
+    ],
+    [
+      [
+        "coat",
+        "jacket"
+      ],
+      "not bird",
+      "clothing",
+      "overgarment",
+      "not undergarment"
+    ],
+    [
+      [
+        "bra",
+        "camisole"
+      ],
+      "not bird",
+      "clothing",
+      "not overgarment",
+      "undergarment"
+    ]
+  ],
+  "40": [
+    [
+      [
+        "squirrel",
+        "chipmunk"
+      ],
+      "mammal",
+      "not vehicle",
+      "rodent",
+      "not canine"
+    ],
+    [
+      [
+        "hyena",
+        "fox"
+      ],
+      "mammal",
+      "not vehicle",
+      "not rodent",
+      "canine"
+    ],
+    [
+      [
+        "unicycle",
+        "tractor"
+      ],
+      "not mammal",
+      "vehicle",
+      "wheeled_vehicle",
+      "not aircraft"
+    ],
+    [
+      [
+        "helicopter",
+        "airplane"
+      ],
+      "not mammal",
+      "vehicle",
+      "not wheeled_vehicle",
+      "aircraft"
+    ]
+  ],
+  "41": [
+    [
+      [
+        "dog",
+        "hyena"
+      ],
+      "mammal",
+      "not vehicle",
+      "canine",
+      "not rodent"
+    ],
+    [
+      [
+        "squirrel",
+        "mouse"
+      ],
+      "mammal",
+      "not vehicle",
+      "not canine",
+      "rodent"
+    ],
+    [
+      [
+        "unicycle",
+        "truck"
+      ],
+      "not mammal",
+      "vehicle",
+      "wheeled_vehicle",
+      "not vessel"
+    ],
+    [
+      [
+        "yacht",
+        "submarine"
+      ],
+      "not mammal",
+      "vehicle",
+      "not wheeled_vehicle",
+      "vessel"
+    ]
+  ],
+  "42": [
+    [
+      [
+        "squirrel",
+        "rat"
+      ],
+      "mammal",
+      "not bird",
+      "rodent",
+      "not canine"
+    ],
+    [
+      [
+        "fox",
+        "hyena"
+      ],
+      "mammal",
+      "not bird",
+      "not rodent",
+      "canine"
+    ],
+    [
+      [
+        "penguin",
+        "pelican"
+      ],
+      "not mammal",
+      "bird",
+      "aquatic_bird",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "dove",
+        "pheasant"
+      ],
+      "not mammal",
+      "bird",
+      "not aquatic_bird",
+      "gallinaceous_bird"
+    ]
+  ],
+  "43": [
+    [
+      [
+        "hyena",
+        "dog"
+      ],
+      "mammal",
+      "not bird",
+      "canine",
+      "not rodent"
+    ],
+    [
+      [
+        "hamster",
+        "chipmunk"
+      ],
+      "mammal",
+      "not bird",
+      "not canine",
+      "rodent"
+    ],
+    [
+      [
+        "pelican",
+        "penguin"
+      ],
+      "not mammal",
+      "bird",
+      "aquatic_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "blackbird",
+        "chickadee"
+      ],
+      "not mammal",
+      "bird",
+      "not aquatic_bird",
+      "passerine"
+    ]
+  ],
+  "44": [
+    [
+      [
+        "hamster",
+        "squirrel"
+      ],
+      "mammal",
+      "not structure",
+      "rodent",
+      "not canine"
+    ],
+    [
+      [
+        "fox",
+        "hyena"
+      ],
+      "mammal",
+      "not structure",
+      "not rodent",
+      "canine"
+    ],
+    [
+      [
+        "bungalow",
+        "house"
+      ],
+      "not mammal",
+      "structure",
+      "housing",
+      "not area"
+    ],
+    [
+      [
+        "cage",
+        "closet"
+      ],
+      "not mammal",
+      "structure",
+      "not housing",
+      "area"
+    ]
+  ],
+  "45": [
+    [
+      [
+        "dog",
+        "hyena"
+      ],
+      "mammal",
+      "not structure",
+      "canine",
+      "not rodent"
+    ],
+    [
+      [
+        "hamster",
+        "squirrel"
+      ],
+      "mammal",
+      "not structure",
+      "not canine",
+      "rodent"
+    ],
+    [
+      [
+        "cottage",
+        "apartment"
+      ],
+      "not mammal",
+      "structure",
+      "housing",
+      "not shelter"
+    ],
+    [
+      [
+        "hut",
+        "tent"
+      ],
+      "not mammal",
+      "structure",
+      "not housing",
+      "shelter"
+    ]
+  ],
+  "46": [
+    [
+      [
+        "hamster",
+        "rat"
+      ],
+      "mammal",
+      "not clothing",
+      "rodent",
+      "not canine"
+    ],
+    [
+      [
+        "hyena",
+        "fox"
+      ],
+      "mammal",
+      "not clothing",
+      "not rodent",
+      "canine"
+    ],
+    [
+      [
+        "hose",
+        "socks"
+      ],
+      "not mammal",
+      "clothing",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "shawl",
+        "coat"
+      ],
+      "not mammal",
+      "clothing",
+      "not footwear",
+      "overgarment"
+    ]
+  ],
+  "47": [
+    [
+      [
+        "fox",
+        "dog"
+      ],
+      "mammal",
+      "not clothing",
+      "canine",
+      "not rodent"
+    ],
+    [
+      [
+        "porcupine",
+        "rat"
+      ],
+      "mammal",
+      "not clothing",
+      "not canine",
+      "rodent"
+    ],
+    [
+      [
+        "socks",
+        "nylons"
+      ],
+      "not mammal",
+      "clothing",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "camisole",
+        "bra"
+      ],
+      "not mammal",
+      "clothing",
+      "not footwear",
+      "undergarment"
+    ]
+  ],
+  "48": [
+    [
+      [
+        "bungalow",
+        "house"
+      ],
+      "structure",
+      "not vehicle",
+      "housing",
+      "not area"
+    ],
+    [
+      [
+        "cupboard",
+        "closet"
+      ],
+      "structure",
+      "not vehicle",
+      "not housing",
+      "area"
+    ],
+    [
+      [
+        "skateboard",
+        "cart"
+      ],
+      "not structure",
+      "vehicle",
+      "wheeled_vehicle",
+      "not aircraft"
+    ],
+    [
+      [
+        "balloon",
+        "airplane"
+      ],
+      "not structure",
+      "vehicle",
+      "not wheeled_vehicle",
+      "aircraft"
+    ]
+  ],
+  "49": [
+    [
+      [
+        "house",
+        "apartment"
+      ],
+      "structure",
+      "not vehicle",
+      "housing",
+      "not shelter"
+    ],
+    [
+      [
+        "shack",
+        "tent"
+      ],
+      "structure",
+      "not vehicle",
+      "not housing",
+      "shelter"
+    ],
+    [
+      [
+        "wheelbarrow",
+        "motorcycle"
+      ],
+      "not structure",
+      "vehicle",
+      "wheeled_vehicle",
+      "not vessel"
+    ],
+    [
+      [
+        "ship",
+        "sailboat"
+      ],
+      "not structure",
+      "vehicle",
+      "not wheeled_vehicle",
+      "vessel"
+    ]
+  ],
+  "50": [
+    [
+      [
+        "cabin",
+        "cage"
+      ],
+      "structure",
+      "not vehicle",
+      "area",
+      "not housing"
+    ],
+    [
+      [
+        "cottage",
+        "apartment"
+      ],
+      "structure",
+      "not vehicle",
+      "not area",
+      "housing"
+    ],
+    [
+      [
+        "helicopter",
+        "airplane"
+      ],
+      "not structure",
+      "vehicle",
+      "aircraft",
+      "not wheeled_vehicle"
+    ],
+    [
+      [
+        "cart",
+        "motorcycle"
+      ],
+      "not structure",
+      "vehicle",
+      "not aircraft",
+      "wheeled_vehicle"
+    ]
+  ],
+  "51": [
+    [
+      [
+        "bedroom",
+        "cabin"
+      ],
+      "structure",
+      "not vehicle",
+      "area",
+      "not shelter"
+    ],
+    [
+      [
+        "shack",
+        "tent"
+      ],
+      "structure",
+      "not vehicle",
+      "not area",
+      "shelter"
+    ],
+    [
+      [
+        "airplane",
+        "helicopter"
+      ],
+      "not structure",
+      "vehicle",
+      "aircraft",
+      "not vessel"
+    ],
+    [
+      [
+        "ship",
+        "yacht"
+      ],
+      "not structure",
+      "vehicle",
+      "not aircraft",
+      "vessel"
+    ]
+  ],
+  "52": [
+    [
+      [
+        "hut",
+        "shack"
+      ],
+      "structure",
+      "not vehicle",
+      "shelter",
+      "not housing"
+    ],
+    [
+      [
+        "cottage",
+        "house"
+      ],
+      "structure",
+      "not vehicle",
+      "not shelter",
+      "housing"
+    ],
+    [
+      [
+        "boat",
+        "ship"
+      ],
+      "not structure",
+      "vehicle",
+      "vessel",
+      "not wheeled_vehicle"
+    ],
+    [
+      [
+        "tractor",
+        "wheelbarrow"
+      ],
+      "not structure",
+      "vehicle",
+      "not vessel",
+      "wheeled_vehicle"
+    ]
+  ],
+  "53": [
+    [
+      [
+        "shack",
+        "hut"
+      ],
+      "structure",
+      "not vehicle",
+      "shelter",
+      "not area"
+    ],
+    [
+      [
+        "cage",
+        "cupboard"
+      ],
+      "structure",
+      "not vehicle",
+      "not shelter",
+      "area"
+    ],
+    [
+      [
+        "boat",
+        "sailboat"
+      ],
+      "not structure",
+      "vehicle",
+      "vessel",
+      "not aircraft"
+    ],
+    [
+      [
+        "balloon",
+        "helicopter"
+      ],
+      "not structure",
+      "vehicle",
+      "not vessel",
+      "aircraft"
+    ]
+  ],
+  "54": [
+    [
+      [
+        "apartment",
+        "house"
+      ],
+      "structure",
+      "not bird",
+      "housing",
+      "not area"
+    ],
+    [
+      [
+        "bedroom",
+        "cupboard"
+      ],
+      "structure",
+      "not bird",
+      "not housing",
+      "area"
+    ],
+    [
+      [
+        "penguin",
+        "stork"
+      ],
+      "not structure",
+      "bird",
+      "aquatic_bird",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "turkey",
+        "dove"
+      ],
+      "not structure",
+      "bird",
+      "not aquatic_bird",
+      "gallinaceous_bird"
+    ]
+  ],
+  "55": [
+    [
+      [
+        "bungalow",
+        "house"
+      ],
+      "structure",
+      "not bird",
+      "housing",
+      "not shelter"
+    ],
+    [
+      [
+        "shack",
+        "hut"
+      ],
+      "structure",
+      "not bird",
+      "not housing",
+      "shelter"
+    ],
+    [
+      [
+        "stork",
+        "duck"
+      ],
+      "not structure",
+      "bird",
+      "aquatic_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "blackbird",
+        "raven"
+      ],
+      "not structure",
+      "bird",
+      "not aquatic_bird",
+      "passerine"
+    ]
+  ],
+  "56": [
+    [
+      [
+        "cage",
+        "cabin"
+      ],
+      "structure",
+      "not bird",
+      "area",
+      "not housing"
+    ],
+    [
+      [
+        "bungalow",
+        "cottage"
+      ],
+      "structure",
+      "not bird",
+      "not area",
+      "housing"
+    ],
+    [
+      [
+        "dove",
+        "turkey"
+      ],
+      "not structure",
+      "bird",
+      "gallinaceous_bird",
+      "not aquatic_bird"
+    ],
+    [
+      [
+        "duck",
+        "goose"
+      ],
+      "not structure",
+      "bird",
+      "not gallinaceous_bird",
+      "aquatic_bird"
+    ]
+  ],
+  "57": [
+    [
+      [
+        "toilet",
+        "closet"
+      ],
+      "structure",
+      "not bird",
+      "area",
+      "not shelter"
+    ],
+    [
+      [
+        "shack",
+        "hut"
+      ],
+      "structure",
+      "not bird",
+      "not area",
+      "shelter"
+    ],
+    [
+      [
+        "turkey",
+        "dove"
+      ],
+      "not structure",
+      "bird",
+      "gallinaceous_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "sparrow",
+        "chickadee"
+      ],
+      "not structure",
+      "bird",
+      "not gallinaceous_bird",
+      "passerine"
+    ]
+  ],
+  "58": [
+    [
+      [
+        "tent",
+        "shack"
+      ],
+      "structure",
+      "not bird",
+      "shelter",
+      "not housing"
+    ],
+    [
+      [
+        "house",
+        "apartment"
+      ],
+      "structure",
+      "not bird",
+      "not shelter",
+      "housing"
+    ],
+    [
+      [
+        "sparrow",
+        "nightingale"
+      ],
+      "not structure",
+      "bird",
+      "passerine",
+      "not aquatic_bird"
+    ],
+    [
+      [
+        "flamingo",
+        "stork"
+      ],
+      "not structure",
+      "bird",
+      "not passerine",
+      "aquatic_bird"
+    ]
+  ],
+  "59": [
+    [
+      [
+        "shack",
+        "tent"
+      ],
+      "structure",
+      "not bird",
+      "shelter",
+      "not area"
+    ],
+    [
+      [
+        "bedroom",
+        "closet"
+      ],
+      "structure",
+      "not bird",
+      "not shelter",
+      "area"
+    ],
+    [
+      [
+        "finch",
+        "crow"
+      ],
+      "not structure",
+      "bird",
+      "passerine",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "pheasant",
+        "pigeon"
+      ],
+      "not structure",
+      "bird",
+      "not passerine",
+      "gallinaceous_bird"
+    ]
+  ],
+  "60": [
+    [
+      [
+        "bungalow",
+        "apartment"
+      ],
+      "structure",
+      "not mammal",
+      "housing",
+      "not area"
+    ],
+    [
+      [
+        "cabin",
+        "cage"
+      ],
+      "structure",
+      "not mammal",
+      "not housing",
+      "area"
+    ],
+    [
+      [
+        "rat",
+        "groundhog"
+      ],
+      "not structure",
+      "mammal",
+      "rodent",
+      "not canine"
+    ],
+    [
+      [
+        "hyena",
+        "dog"
+      ],
+      "not structure",
+      "mammal",
+      "not rodent",
+      "canine"
+    ]
+  ],
+  "61": [
+    [
+      [
+        "house",
+        "bungalow"
+      ],
+      "structure",
+      "not mammal",
+      "housing",
+      "not shelter"
+    ],
+    [
+      [
+        "hut",
+        "shack"
+      ],
+      "structure",
+      "not mammal",
+      "not housing",
+      "shelter"
+    ],
+    [
+      [
+        "hyena",
+        "fox"
+      ],
+      "not structure",
+      "mammal",
+      "canine",
+      "not rodent"
+    ],
+    [
+      [
+        "hamster",
+        "rat"
+      ],
+      "not structure",
+      "mammal",
+      "not canine",
+      "rodent"
+    ]
+  ],
+  "62": [
+    [
+      [
+        "cottage",
+        "house"
+      ],
+      "structure",
+      "not clothing",
+      "housing",
+      "not area"
+    ],
+    [
+      [
+        "toilet",
+        "closet"
+      ],
+      "structure",
+      "not clothing",
+      "not housing",
+      "area"
+    ],
+    [
+      [
+        "hose",
+        "leotards"
+      ],
+      "not structure",
+      "clothing",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "jacket",
+        "coat"
+      ],
+      "not structure",
+      "clothing",
+      "not footwear",
+      "overgarment"
+    ]
+  ],
+  "63": [
+    [
+      [
+        "cottage",
+        "house"
+      ],
+      "structure",
+      "not clothing",
+      "housing",
+      "not shelter"
+    ],
+    [
+      [
+        "hut",
+        "tent"
+      ],
+      "structure",
+      "not clothing",
+      "not housing",
+      "shelter"
+    ],
+    [
+      [
+        "leotards",
+        "socks"
+      ],
+      "not structure",
+      "clothing",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "pants",
+        "camisole"
+      ],
+      "not structure",
+      "clothing",
+      "not footwear",
+      "undergarment"
+    ]
+  ],
+  "64": [
+    [
+      [
+        "toilet",
+        "cupboard"
+      ],
+      "structure",
+      "not clothing",
+      "area",
+      "not housing"
+    ],
+    [
+      [
+        "house",
+        "bungalow"
+      ],
+      "structure",
+      "not clothing",
+      "not area",
+      "housing"
+    ],
+    [
+      [
+        "nylons",
+        "hose"
+      ],
+      "not structure",
+      "clothing",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "coat",
+        "shawl"
+      ],
+      "not structure",
+      "clothing",
+      "not footwear",
+      "overgarment"
+    ]
+  ],
+  "65": [
+    [
+      [
+        "cabin",
+        "cupboard"
+      ],
+      "structure",
+      "not clothing",
+      "area",
+      "not shelter"
+    ],
+    [
+      [
+        "tent",
+        "hut"
+      ],
+      "structure",
+      "not clothing",
+      "not area",
+      "shelter"
+    ],
+    [
+      [
+        "leotards",
+        "nylons"
+      ],
+      "not structure",
+      "clothing",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "pants",
+        "camisole"
+      ],
+      "not structure",
+      "clothing",
+      "not footwear",
+      "undergarment"
+    ]
+  ],
+  "66": [
+    [
+      [
+        "hut",
+        "tent"
+      ],
+      "structure",
+      "not clothing",
+      "shelter",
+      "not housing"
+    ],
+    [
+      [
+        "house",
+        "apartment"
+      ],
+      "structure",
+      "not clothing",
+      "not shelter",
+      "housing"
+    ],
+    [
+      [
+        "coat",
+        "shawl"
+      ],
+      "not structure",
+      "clothing",
+      "overgarment",
+      "not footwear"
+    ],
+    [
+      [
+        "nylons",
+        "leotards"
+      ],
+      "not structure",
+      "clothing",
+      "not overgarment",
+      "footwear"
+    ]
+  ],
+  "67": [
+    [
+      [
+        "shack",
+        "tent"
+      ],
+      "structure",
+      "not clothing",
+      "shelter",
+      "not area"
+    ],
+    [
+      [
+        "cupboard",
+        "toilet"
+      ],
+      "structure",
+      "not clothing",
+      "not shelter",
+      "area"
+    ],
+    [
+      [
+        "coat",
+        "shawl"
+      ],
+      "not structure",
+      "clothing",
+      "overgarment",
+      "not undergarment"
+    ],
+    [
+      [
+        "pants",
+        "nightgown"
+      ],
+      "not structure",
+      "clothing",
+      "not overgarment",
+      "undergarment"
+    ]
+  ],
+  "68": [
+    [
+      [
+        "hose",
+        "socks"
+      ],
+      "clothing",
+      "not vehicle",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "jacket",
+        "shawl"
+      ],
+      "clothing",
+      "not vehicle",
+      "not footwear",
+      "overgarment"
+    ],
+    [
+      [
+        "tricycle",
+        "motorcycle"
+      ],
+      "not clothing",
+      "vehicle",
+      "wheeled_vehicle",
+      "not aircraft"
+    ],
+    [
+      [
+        "helicopter",
+        "airplane"
+      ],
+      "not clothing",
+      "vehicle",
+      "not wheeled_vehicle",
+      "aircraft"
+    ]
+  ],
+  "69": [
+    [
+      [
+        "socks",
+        "leotards"
+      ],
+      "clothing",
+      "not vehicle",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "camisole",
+        "pants"
+      ],
+      "clothing",
+      "not vehicle",
+      "not footwear",
+      "undergarment"
+    ],
+    [
+      [
+        "tractor",
+        "buggy"
+      ],
+      "not clothing",
+      "vehicle",
+      "wheeled_vehicle",
+      "not vessel"
+    ],
+    [
+      [
+        "boat",
+        "sailboat"
+      ],
+      "not clothing",
+      "vehicle",
+      "not wheeled_vehicle",
+      "vessel"
+    ]
+  ],
+  "70": [
+    [
+      [
+        "socks",
+        "leotards"
+      ],
+      "clothing",
+      "not vehicle",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "shawl",
+        "coat"
+      ],
+      "clothing",
+      "not vehicle",
+      "not footwear",
+      "overgarment"
+    ],
+    [
+      [
+        "airplane",
+        "helicopter"
+      ],
+      "not clothing",
+      "vehicle",
+      "aircraft",
+      "not wheeled_vehicle"
+    ],
+    [
+      [
+        "car",
+        "trolley"
+      ],
+      "not clothing",
+      "vehicle",
+      "not aircraft",
+      "wheeled_vehicle"
+    ]
+  ],
+  "71": [
+    [
+      [
+        "nylons",
+        "socks"
+      ],
+      "clothing",
+      "not vehicle",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "nightgown",
+        "bra"
+      ],
+      "clothing",
+      "not vehicle",
+      "not footwear",
+      "undergarment"
+    ],
+    [
+      [
+        "helicopter",
+        "balloon"
+      ],
+      "not clothing",
+      "vehicle",
+      "aircraft",
+      "not vessel"
+    ],
+    [
+      [
+        "submarine",
+        "boat"
+      ],
+      "not clothing",
+      "vehicle",
+      "not aircraft",
+      "vessel"
+    ]
+  ],
+  "72": [
+    [
+      [
+        "coat",
+        "shawl"
+      ],
+      "clothing",
+      "not vehicle",
+      "overgarment",
+      "not footwear"
+    ],
+    [
+      [
+        "socks",
+        "hose"
+      ],
+      "clothing",
+      "not vehicle",
+      "not overgarment",
+      "footwear"
+    ],
+    [
+      [
+        "yacht",
+        "boat"
+      ],
+      "not clothing",
+      "vehicle",
+      "vessel",
+      "not wheeled_vehicle"
+    ],
+    [
+      [
+        "skateboard",
+        "car"
+      ],
+      "not clothing",
+      "vehicle",
+      "not vessel",
+      "wheeled_vehicle"
+    ]
+  ],
+  "73": [
+    [
+      [
+        "shawl",
+        "coat"
+      ],
+      "clothing",
+      "not vehicle",
+      "overgarment",
+      "not undergarment"
+    ],
+    [
+      [
+        "nightgown",
+        "camisole"
+      ],
+      "clothing",
+      "not vehicle",
+      "not overgarment",
+      "undergarment"
+    ],
+    [
+      [
+        "sailboat",
+        "boat"
+      ],
+      "not clothing",
+      "vehicle",
+      "vessel",
+      "not aircraft"
+    ],
+    [
+      [
+        "airplane",
+        "helicopter"
+      ],
+      "not clothing",
+      "vehicle",
+      "not vessel",
+      "aircraft"
+    ]
+  ],
+  "74": [
+    [
+      [
+        "nylons",
+        "hose"
+      ],
+      "clothing",
+      "not bird",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "jacket",
+        "coat"
+      ],
+      "clothing",
+      "not bird",
+      "not footwear",
+      "overgarment"
+    ],
+    [
+      [
+        "pelican",
+        "swan"
+      ],
+      "not clothing",
+      "bird",
+      "aquatic_bird",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "rooster",
+        "dove"
+      ],
+      "not clothing",
+      "bird",
+      "not aquatic_bird",
+      "gallinaceous_bird"
+    ]
+  ],
+  "75": [
+    [
+      [
+        "leotards",
+        "socks"
+      ],
+      "clothing",
+      "not bird",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "nightgown",
+        "pants"
+      ],
+      "clothing",
+      "not bird",
+      "not footwear",
+      "undergarment"
+    ],
+    [
+      [
+        "stork",
+        "swan"
+      ],
+      "not clothing",
+      "bird",
+      "aquatic_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "sparrow",
+        "blackbird"
+      ],
+      "not clothing",
+      "bird",
+      "not aquatic_bird",
+      "passerine"
+    ]
+  ],
+  "76": [
+    [
+      [
+        "socks",
+        "leotards"
+      ],
+      "clothing",
+      "not bird",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "jacket",
+        "shawl"
+      ],
+      "clothing",
+      "not bird",
+      "not footwear",
+      "overgarment"
+    ],
+    [
+      [
+        "pigeon",
+        "rooster"
+      ],
+      "not clothing",
+      "bird",
+      "gallinaceous_bird",
+      "not aquatic_bird"
+    ],
+    [
+      [
+        "duck",
+        "swan"
+      ],
+      "not clothing",
+      "bird",
+      "not gallinaceous_bird",
+      "aquatic_bird"
+    ]
+  ],
+  "77": [
+    [
+      [
+        "socks",
+        "nylons"
+      ],
+      "clothing",
+      "not bird",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "camisole",
+        "pants"
+      ],
+      "clothing",
+      "not bird",
+      "not footwear",
+      "undergarment"
+    ],
+    [
+      [
+        "dove",
+        "pheasant"
+      ],
+      "not clothing",
+      "bird",
+      "gallinaceous_bird",
+      "not passerine"
+    ],
+    [
+      [
+        "finch",
+        "starling"
+      ],
+      "not clothing",
+      "bird",
+      "not gallinaceous_bird",
+      "passerine"
+    ]
+  ],
+  "78": [
+    [
+      [
+        "jacket",
+        "shawl"
+      ],
+      "clothing",
+      "not bird",
+      "overgarment",
+      "not footwear"
+    ],
+    [
+      [
+        "nylons",
+        "socks"
+      ],
+      "clothing",
+      "not bird",
+      "not overgarment",
+      "footwear"
+    ],
+    [
+      [
+        "nightingale",
+        "crow"
+      ],
+      "not clothing",
+      "bird",
+      "passerine",
+      "not aquatic_bird"
+    ],
+    [
+      [
+        "pelican",
+        "swan"
+      ],
+      "not clothing",
+      "bird",
+      "not passerine",
+      "aquatic_bird"
+    ]
+  ],
+  "79": [
+    [
+      [
+        "shawl",
+        "coat"
+      ],
+      "clothing",
+      "not bird",
+      "overgarment",
+      "not undergarment"
+    ],
+    [
+      [
+        "bra",
+        "camisole"
+      ],
+      "clothing",
+      "not bird",
+      "not overgarment",
+      "undergarment"
+    ],
+    [
+      [
+        "raven",
+        "crow"
+      ],
+      "not clothing",
+      "bird",
+      "passerine",
+      "not gallinaceous_bird"
+    ],
+    [
+      [
+        "dove",
+        "turkey"
+      ],
+      "not clothing",
+      "bird",
+      "not passerine",
+      "gallinaceous_bird"
+    ]
+  ],
+  "80": [
+    [
+      [
+        "nylons",
+        "hose"
+      ],
+      "clothing",
+      "not mammal",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "jacket",
+        "shawl"
+      ],
+      "clothing",
+      "not mammal",
+      "not footwear",
+      "overgarment"
+    ],
+    [
+      [
+        "groundhog",
+        "mouse"
+      ],
+      "not clothing",
+      "mammal",
+      "rodent",
+      "not canine"
+    ],
+    [
+      [
+        "hyena",
+        "dog"
+      ],
+      "not clothing",
+      "mammal",
+      "not rodent",
+      "canine"
+    ]
+  ],
+  "81": [
+    [
+      [
+        "socks",
+        "hose"
+      ],
+      "clothing",
+      "not mammal",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "nightgown",
+        "camisole"
+      ],
+      "clothing",
+      "not mammal",
+      "not footwear",
+      "undergarment"
+    ],
+    [
+      [
+        "dog",
+        "fox"
+      ],
+      "not clothing",
+      "mammal",
+      "canine",
+      "not rodent"
+    ],
+    [
+      [
+        "rat",
+        "squirrel"
+      ],
+      "not clothing",
+      "mammal",
+      "not canine",
+      "rodent"
+    ]
+  ],
+  "82": [
+    [
+      [
+        "nylons",
+        "leotards"
+      ],
+      "clothing",
+      "not structure",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "shawl",
+        "jacket"
+      ],
+      "clothing",
+      "not structure",
+      "not footwear",
+      "overgarment"
+    ],
+    [
+      [
+        "cottage",
+        "apartment"
+      ],
+      "not clothing",
+      "structure",
+      "housing",
+      "not area"
+    ],
+    [
+      [
+        "bedroom",
+        "closet"
+      ],
+      "not clothing",
+      "structure",
+      "not housing",
+      "area"
+    ]
+  ],
+  "83": [
+    [
+      [
+        "leotards",
+        "nylons"
+      ],
+      "clothing",
+      "not structure",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "bra",
+        "nightgown"
+      ],
+      "clothing",
+      "not structure",
+      "not footwear",
+      "undergarment"
+    ],
+    [
+      [
+        "bungalow",
+        "apartment"
+      ],
+      "not clothing",
+      "structure",
+      "housing",
+      "not shelter"
+    ],
+    [
+      [
+        "shack",
+        "tent"
+      ],
+      "not clothing",
+      "structure",
+      "not housing",
+      "shelter"
+    ]
+  ],
+  "84": [
+    [
+      [
+        "nylons",
+        "socks"
+      ],
+      "clothing",
+      "not structure",
+      "footwear",
+      "not overgarment"
+    ],
+    [
+      [
+        "jacket",
+        "coat"
+      ],
+      "clothing",
+      "not structure",
+      "not footwear",
+      "overgarment"
+    ],
+    [
+      [
+        "bedroom",
+        "cabin"
+      ],
+      "not clothing",
+      "structure",
+      "area",
+      "not housing"
+    ],
+    [
+      [
+        "apartment",
+        "house"
+      ],
+      "not clothing",
+      "structure",
+      "not area",
+      "housing"
+    ]
+  ],
+  "85": [
+    [
+      [
+        "socks",
+        "nylons"
+      ],
+      "clothing",
+      "not structure",
+      "footwear",
+      "not undergarment"
+    ],
+    [
+      [
+        "pants",
+        "bra"
+      ],
+      "clothing",
+      "not structure",
+      "not footwear",
+      "undergarment"
+    ],
+    [
+      [
+        "cabin",
+        "cupboard"
+      ],
+      "not clothing",
+      "structure",
+      "area",
+      "not shelter"
+    ],
+    [
+      [
+        "shack",
+        "tent"
+      ],
+      "not clothing",
+      "structure",
+      "not area",
+      "shelter"
+    ]
+  ],
+  "86": [
+    [
+      [
+        "jacket",
+        "shawl"
+      ],
+      "clothing",
+      "not structure",
+      "overgarment",
+      "not footwear"
+    ],
+    [
+      [
+        "leotards",
+        "nylons"
+      ],
+      "clothing",
+      "not structure",
+      "not overgarment",
+      "footwear"
+    ],
+    [
+      [
+        "hut",
+        "shack"
+      ],
+      "not clothing",
+      "structure",
+      "shelter",
+      "not housing"
+    ],
+    [
+      [
+        "cottage",
+        "house"
+      ],
+      "not clothing",
+      "structure",
+      "not shelter",
+      "housing"
+    ]
+  ],
+  "87": [
+    [
+      [
+        "jacket",
+        "coat"
+      ],
+      "clothing",
+      "not structure",
+      "overgarment",
+      "not undergarment"
+    ],
+    [
+      [
+        "nightgown",
+        "camisole"
+      ],
+      "clothing",
+      "not structure",
+      "not overgarment",
+      "undergarment"
+    ],
+    [
+      [
+        "hut",
+        "shack"
+      ],
+      "not clothing",
+      "structure",
+      "shelter",
+      "not area"
+    ],
+    [
+      [
+        "bedroom",
+        "cupboard"
+      ],
+      "not clothing",
+      "structure",
+      "not shelter",
+      "area"
+    ]
+  ],
+  "88": [
+    [
+      [
+        "jacket",
+        "shawl"
+      ],
+      "clothing",
+      "not structure",
+      "overgarment",
+      "not footwear"
+    ],
+    [
+      [
+        "leotards",
+        "nylons"
+      ],
+      "clothing",
+      "not structure",
+      "not overgarment",
+      "footwear"
+    ],
+    [
+      [
+        "hut",
+        "shack"
+      ],
+      "not clothing",
+      "structure",
+      "shelter",
+      "not housing"
+    ],
+    [
+      [
+        "cottage",
+        "house"
+      ],
+      "not clothing",
+      "structure",
+      "not shelter",
+      "housing"
+    ]
+  ],
+  "89": [
+    [
+      [
+        "jacket",
+        "coat"
+      ],
+      "clothing",
+      "not structure",
+      "overgarment",
+      "not undergarment"
+    ],
+    [
+      [
+        "nightgown",
+        "camisole"
+      ],
+      "clothing",
+      "not structure",
+      "not overgarment",
+      "undergarment"
+    ],
+    [
+      [
+        "hut",
+        "shack"
+      ],
+      "not clothing",
+      "structure",
+      "shelter",
+      "not area"
+    ],
+    [
+      [
+        "bedroom",
+        "cupboard"
+      ],
+      "not clothing",
+      "structure",
+      "not shelter",
+      "area"
+    ]
+  ]
+}

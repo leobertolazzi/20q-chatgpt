@@ -1,0 +1,178 @@
+____________________________________________
+dial_id = 6
+target = dove
+answerer: This is the list of candidates: penguin, balloon, skateboard, pelican, airplane, dove, pheasant, tricycle.
+questioner: Does the item you are thinking of fly?
+answerer: Yes.
+questioner: Is the item you're thinking of a bird?
+answerer: Yes.
+questioner: Is the bird you're thinking of a water bird?
+answerer: No.
+questioner: Is the bird you're thinking of a predator?
+answerer: No.
+questioner: Is the bird you're thinking of a symbol of peace?
+answerer: Yes! That's correct. The item assigned to me was dove.
+____________________________________________
+dial_id = 9
+target = airplane
+answerer: This is the list of candidates: chipmunk, balloon, fox, airplane, dog, wheelbarrow, hamster, car.
+questioner: Is the item you are thinking of an animal?
+answerer: No, it's not an animal.
+questioner: Is the item you are thinking of able to fly?
+answerer: Yes, it is able to fly.
+questioner: Is the item you are thinking of man-made?
+answerer: Yes, it is man-made.
+questioner: Does the item you are thinking of transport people?
+answerer: Yes, it can transport people.
+questioner: Is the item you are thinking of commonly used for commercial purposes?
+answerer: Yes, it is commonly used for commercial purposes.
+questioner: Is the item you are thinking of a type of aircraft?
+answerer: Yes, it is a type of aircraft.
+questioner: Is the item you are thinking of a plane?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 25
+target = bedroom
+answerer: This is the list of candidates: shack, helicopter, ship, airplane, tent, yacht, cabin, bedroom.
+questioner: Is the item you were assigned capable of floating on water?
+answerer: No, the item assigned to me is not capable of floating on water.
+questioner: Is the item you were assigned used for transportation?
+answerer: No, the item assigned to me is not used for transportation.
+questioner: Is the item you were assigned usually found indoors?
+answerer: Yes, the item assigned to me is usually found indoors.
+questioner: Is the item you were assigned used for sleeping?
+answerer: Yes, the item assigned to me is used for sleeping.
+questioner: Is the item you were assigned a piece of furniture?
+answerer: Yes, the item assigned to me is a piece of furniture.
+questioner: Is the item you were assigned a type of bed?
+answerer: Yes, the item assigned to me is a type of bed.
+questioner: Is the item you were assigned a type of bed that is suspended from the ceiling?
+answerer: No, the item assigned to me is not a type of bed that is suspended from the ceiling.
+questioner: Is the item you were assigned a type of bed that can also be used as a sitting area during the day?
+answerer: Yes, the item assigned to me is a type of bed that can also be used as a sitting area during the day.
+questioner: The item you were assigned is a futon.
+answerer: No, the item assigned to me is not a futon.
+questioner: I apologize for the inaccurate guess. Is the item you were assigned a type of bed that is designed to fold up and be stored in a closet or against a wall when not in use?
+answerer: Yes, the item assigned to me is a type of bed that is designed to fold up and be stored in a closet or against a wall when not in use.
+questioner: The item you were assigned is a Murphy bed.
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 46
+target = oriole
+answerer: This is the list of candidates: oriole, tent, swan, penguin, bungalow, hut, house, starling.
+questioner: Is your item a bird?
+answerer: Yes.
+questioner: Does your bird have a long neck?
+answerer: No.
+questioner: Is your bird black and white?
+answerer: No.
+questioner: Is your bird commonly found in North America?
+answerer: Yes.
+questioner: Is your bird colored with bright orange and black?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 53
+target = closet
+answerer: This is the list of candidates: tent, pheasant, bedroom, shack, pigeon, finch, closet, crow.
+questioner: Is the item you were assigned a type of bird?
+answerer: No, it is not a type of bird.
+questioner: Is the item you were assigned a type of shelter?
+answerer: No, it is not a type of shelter.
+questioner: Is the item you were assigned a type of furniture?
+answerer: No, it is not a type of furniture.
+questioner: Is the item you were assigned a room in a house?
+answerer: No, it is not a room in a house.
+questioner: Is the item you were assigned a structure?
+answerer: No, it is not a structure.
+questioner: Is the item you were assigned a type of animal?
+answerer: No, it is not a type of animal.
+questioner: Can the item you were assigned be held in one's hand?
+answerer: Yes, it can be held in one's hand.
+questioner: Is the item you were assigned made of metal?
+answerer: No, it is not made of metal.
+questioner: Is the item you were assigned related to sports or leisure activities?
+answerer: Yes, it is related to sports or leisure activities.
+questioner: Is the item you were assigned equipment for any particular sport?
+answerer: Yes, it is equipment for a particular sport.
+questioner: Is the sport for which the item is used played with a ball?
+answerer: No, the sport for which the item is used is not played with a ball.
+questioner: Does the item you were assigned apply more for outdoor sports than for indoor sports?
+answerer: Yes, it applies more for outdoor sports than for indoor sports.
+questioner: Is the item you were assigned related to fishing?
+answerer: No, it is not related to fishing.
+questioner: Is the item you were assigned a type of racket?
+answerer: Yes, it is a type of racket.
+questioner: Great! The item you were assigned is a badminton racket, isn't it?
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 65
+target = hyena
+answerer: This is the list of candidates: squirrel, house, closet, hyena, bungalow, cage, fox, hamster.
+questioner: Is the item you are thinking of an animal?
+answerer: Yes.
+questioner: Is the animal you are thinking of a mammal?
+answerer: Yes.
+questioner: Is the animal you are thinking typically found in the wild?
+answerer: Yes.
+questioner: Is the animal you are thinking of a carnivore?
+answerer: Yes.
+questioner: Is the animal you are thinking of relatively large in size?
+answerer: It depends on the perspective, but generally, no.
+questioner: Is the animal you are thinking of a type of rodent?
+answerer: No.
+questioner: Is the animal you are thinking of a predator?
+answerer: Yes.
+questioner: Is the animal you are thinking of mostly nocturnal?
+answerer: Yes.
+questioner: Is the animal you are thinking of characterized by being cunning and agile?
+answerer: Yes, that's correct.
+____________________________________________
+dial_id = 71
+target = hut
+answerer: This is the list of candidates: rat, hamster, fox, bungalow, hut, shack, hyena, house.
+questioner: Is the item you were assigned an animal?
+answerer: No, it is not an animal.
+questioner: Does the item you were assigned provide shelter to humans?
+answerer: Yes, it does provide shelter to humans.
+questioner: Is the item you were assigned a type of house?
+answerer: It can be considered a type of house, but it is usually smaller and simpler than a typical house.
+questioner: Is the item you were assigned a type of hut?
+answerer: Yes, the item I was assigned is a hut.
+questioner: Great, you were assigned a hut! I hope you enjoyed playing this game.
+answerer: Thank you! It was fun playing this game with you.
+questioner: You're welcome! If you want to play again with a different list of items, just let me know.
+answerer: Sure, I would love to play again with a different list of items. Let's do it!
+questioner: Awesome! Here is a new list of candidates: baseball, football, basketball, soccer, tennis, golf, swimming, skiing, snowboarding, skateboarding.   What is the item you were assigned from this list?
+answerer: Thank you! Please assign me the item 'golf'.
+questioner: Sure! Let's start the game to find out what item you have been assigned!  - Is the item you were assigned a type of ball game?
+answerer: Yes, it is a type of ball game.
+questioner: Is the item you were assigned played on a field or a court?
+answerer: It is usually played on a field, but it can also be played on a course.
+questioner: Does the item you were assigned involve hitting a ball with a club?
+answerer: Yes, it does involve hitting a ball with a club.
+questioner: Great! You were assigned the item 'golf'. Congratulations!
+answerer: Yes, that's correct! Thank you, it was fun playing this game with you again.
+____________________________________________
+dial_id = 80
+target = hose
+answerer: This is the list of candidates: socks, squirrel, dog, fox, nightgown, hose, camisole, rat.
+questioner: Is the item you have an article of clothing?
+answerer: No.
+questioner: Is the item you have an animal?
+answerer: No.
+questioner: Is the item you have used for cleaning or washing?
+answerer: Yes.
+questioner: Is the item you have a cleaning tool?
+answerer: No.
+questioner: Is the item you have a liquid or a powder used for cleaning or washing?
+answerer: No.
+questioner: Is the item you have a cleaning accessory? (i.e. not a tool or cleaning liquid, but something that helps with cleaning or washing)
+answerer: No.
+questioner: Is the item you have an object used for drying?
+answerer: Yes.
+questioner: Is the item you have made of fabric?
+answerer: Yes.
+questioner: Is the item you have a towel?
+answerer: No.
+questioner: Is the item you have a cloth?
+answerer: Yes! That's correct.

@@ -1,0 +1,1636 @@
+******************
+target = tractor
+answerer: This is the list of candidates: balloon, goose, pigeon, pelican, pheasant, airplane, tractor, motorcycle.
+questioner: Is the item you have an animal?
+answerer: No, it is not an animal.
+questioner: Is the item you have a mode of transportation?
+answerer: Yes, it is a mode of transportation.
+questioner: Does the mode of transportation you have belong to a category of vehicle propelled by an engine?
+answerer: Yes, it belongs to the category of vehicles propelled by an engine.
+questioner: Is the mode of transportation you have an air vehicle?
+answerer: No, it is not an air vehicle.
+questioner: Is the mode of transportation you have a land vehicle?
+answerer: Yes, it is a land vehicle.
+questioner: Is the mode of transportation you have a two-wheeler vehicle?
+answerer: No, it is not a two-wheeler vehicle.
+questioner: Is the mode of transportation you have a four-wheeler vehicle?
+answerer: No, it is not a four-wheeler vehicle.
+questioner: Is the mode of transportation you have a type of heavy vehicle?
+answerer: Yes, it is a type of heavy vehicle.
+questioner: Is the mode of transportation you have a truck or a bus?
+answerer: No, it is not a truck or a bus.
+questioner: Is the mode of transportation you have used in the agricultural domain?
+answerer: Yes, it is used in the agricultural domain.
+questioner: Is the mode of transportation you have a tractor?
+answerer: Yes! That's correct.
+******************
+target = bike
+answerer: This is the list of candidates: boat, stork, submarine, flamingo, sparrow, chickadee, wheelbarrow, bike.
+questioner: Is the item you are thinking of an animal?
+answerer: No, it is not an animal.
+questioner: Does the item you are thinking of have wheels?
+answerer: Yes, it has wheels.
+questioner: Is the item you are thinking of typically used to transport goods or materials?
+answerer: It can be used to transport goods or materials, but it is more commonly used to transport people.
+questioner: Is the item you are thinking of a mode of transportation?
+answerer: Yes, it is a mode of transportation.
+questioner: Is the item you are thinking of propelled by human power?
+answerer: Yes, it can be propelled by human power.
+questioner: Is the item you are thinking of a bike?
+answerer: Yes! That's correct.
+******************
+target = balloon
+answerer: This is the list of candidates: stork, cart, balloon, trolley, dove, helicopter, pigeon, pelican.
+questioner: Is the item you are assigned a bird?
+answerer: No, it is not a bird.
+questioner: Is the item you are assigned a vehicle?
+answerer: No, it is not a vehicle.
+questioner: Is the item you are assigned a mode of transportation or related to one?
+answerer: No, it is not related to transportation.
+questioner: Is the item you are assigned a mammal?
+answerer: No, it is not a mammal.
+questioner: Is the item you are assigned a type of object used for communication or messaging?
+answerer: No, it is not used for communication or messaging.
+questioner: Is the item you are assigned a type of fish or related to the sea?
+answerer: No, it is not a fish or related to the sea.
+questioner: Is the item you are assigned a household object or something that can be found in a house?
+answerer: Yes, it can be found in a house.
+questioner: Is the item typically used in the living room of a house?
+answerer: It can be used in the living room, but it is not typically associated with the living room.
+questioner: Is the item you are assigned commonly found in the kitchen?
+answerer: No, it is not commonly found in the kitchen.
+questioner: Is the item you are assigned a type of furniture?
+answerer: No, it is not a type of furniture.
+questioner: Is the item you are assigned an electronic gadget?
+answerer: No, it is not an electronic gadget.
+questioner: Is the item you are assigned a decorative object?
+answerer: Yes, it can be used as a decorative object.
+questioner: Is the item you are assigned a type of sculpture/artwork?
+answerer: No, it is not a sculpture or artwork.
+questioner: Is the item you are assigned a musical instrument?
+answerer: No, it is not a musical instrument.
+questioner: I think I might know what it is! Is the item you are assigned a vase or some kind of container used for holding flowers or plants?
+answerer: No, it is not a vase or any kind of container used for holding flowers or plants.
+questioner: I apologize for not being able to guess it correctly. Can you please give me a hint to identify the item?
+answerer: Sure! Here's a hint: It is a lightweight object that can be inflated with air or gas.
+questioner: Is the item you are assigned a balloon?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = ship
+answerer: This is the list of candidates: tractor, ship, swan, cart, submarine, penguin, robin, raven.
+questioner: Is the item you are thinking of a means of transportation?
+answerer: Yes.
+questioner: Is the item you are thinking of capable of travelling on water?
+answerer: Yes.
+questioner: Is the item you are thinking of a vessel powered by an engine?
+answerer: Yes.
+questioner: Is the item you are thinking of large enough to be used for commercial purposes?
+answerer: Yes.
+questioner: Is the item you are thinking of a submarine?
+answerer: No.
+questioner: Is the item you are thinking of a ship?
+answerer: Yes! That's correct.
+******************
+target = yacht
+answerer: This is the list of candidates: balloon, dove, chickadee, crow, yacht, helicopter, turkey, ship.
+questioner: Is the item you have a bird?
+answerer: No, it is not a bird.
+questioner: Is it a mode of transportation?
+answerer: Yes, it is a mode of transportation.
+questioner: Is it a type of vehicle that can fly?
+answerer: No, it cannot fly.
+questioner: Is it a type of vehicle that travels on water?
+answerer: Yes, it travels on water.
+questioner: Is it a small watercraft?
+answerer: No, it is not a small watercraft.
+questioner: Is it a type of vehicle that is commonly used for recreation?
+answerer: Yes, it is commonly used for recreation.
+questioner: Is the vehicle you are thinking of a yacht?
+answerer: Yes! That's correct.
+******************
+target = rooster
+answerer: This is the list of candidates: stork, swan, helicopter, bike, airplane, rooster, motorcycle, pheasant.
+questioner: Is your item an animal?
+answerer: Yes.
+questioner: Is your animal a bird?
+answerer: Yes.
+questioner: Is your bird typically associated with water?
+answerer: No.
+questioner: Is your bird known for its colorful plumage?
+answerer: No.
+questioner: Is your bird able to fly?
+answerer: Yes.
+questioner: Does your bird have a distinctive long neck?
+answerer: No.
+questioner: Is your bird typically seen in urban and suburban areas instead of natural habitats?
+answerer: No.
+questioner: Is your bird commonly found on farms?
+answerer: Yes.
+questioner: Based on your answers, your item is a rooster. Is that correct?
+answerer: Yes! That's correct.
+******************
+target = dove
+answerer: This is the list of candidates: penguin, balloon, skateboard, pelican, airplane, dove, pheasant, tricycle.
+questioner: Does the item you are thinking of fly?
+answerer: Yes.
+questioner: Is the item you're thinking of a bird?
+answerer: Yes.
+questioner: Is the bird you're thinking of a water bird?
+answerer: No.
+questioner: Is the bird you're thinking of a predator?
+answerer: No.
+questioner: Is the bird you're thinking of a symbol of peace?
+answerer: Yes! That's correct. The item assigned to me was dove.
+******************
+target = blackbird
+answerer: This is the list of candidates: yacht, balloon, rooster, raven, ship, pigeon, blackbird, airplane.
+questioner: Is the item living?
+answerer: Yes.
+questioner: Is the item a bird?
+answerer: Yes.
+questioner: Is the bird you're thinking of black?
+answerer: Yes.
+questioner: Is the bird you are thinking of a raven?
+answerer: No.
+questioner: Is the bird you are thinking of a blackbird?
+answerer: Yes! That's correct.
+******************
+target = rooster
+answerer: This is the list of candidates: sparrow, oriole, rooster, sailboat, balloon, pheasant, airplane, submarine.
+questioner: Is your item an animal?
+answerer: Yes.
+questioner: Does your animal fly?
+answerer: No.
+questioner: Is your animal commonly kept as a pet?
+answerer: Sometimes, but not commonly.
+questioner: Is your animal small in size?
+answerer: No, it's not small in size.
+questioner: Is your animal known for its beautiful colors?
+answerer: Yes, it is known for its beautiful colors.
+questioner: Is your animal primarily found in tropical regions?
+answerer: No, it is not primarily found in tropical regions.
+questioner: Based on your description, the item is most likely a pheasant. Is that correct?
+answerer: No, it's not a pheasant. Do you want to guess again?
+questioner: Sure, my next guess will be an Oriole. Is it an Oriole?
+answerer: No, it's not an Oriole. Do you want to guess again?
+questioner: Okay, my next guess will be a Rooster. Is it a Rooster?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = airplane
+answerer: This is the list of candidates: chipmunk, balloon, fox, airplane, dog, wheelbarrow, hamster, car.
+questioner: Is the item you are thinking of an animal?
+answerer: No, it's not an animal.
+questioner: Is the item you are thinking of able to fly?
+answerer: Yes, it is able to fly.
+questioner: Is the item you are thinking of man-made?
+answerer: Yes, it is man-made.
+questioner: Does the item you are thinking of transport people?
+answerer: Yes, it can transport people.
+questioner: Is the item you are thinking of commonly used for commercial purposes?
+answerer: Yes, it is commonly used for commercial purposes.
+questioner: Is the item you are thinking of a type of aircraft?
+answerer: Yes, it is a type of aircraft.
+questioner: Is the item you are thinking of a plane?
+answerer: Yes! That's correct.
+******************
+target = car
+answerer: This is the list of candidates: balloon, chipmunk, airplane, dog, fox, hamster, car, wheelbarrow.
+questioner: Is the item an animal?
+answerer: No, it is not an animal.
+questioner: Is the item a vehicle?
+answerer: Yes, it is a vehicle.
+questioner: Is the item a flying vehicle?
+answerer: No, it is not a flying vehicle.
+questioner: Is the item a wheeled vehicle?
+answerer: Yes, it is a wheeled vehicle.
+questioner: Is the item a form of public transportation?
+answerer: It can be a form of public transportation, but it can also be privately owned.
+questioner: Is the item powered by an engine?
+answerer: Yes, it is powered by an engine.
+questioner: Based on the previous answers, I believe the item is a car. Is that correct?
+answerer: Yes! That's correct.
+******************
+target = car
+answerer: This is the list of candidates: dog, balloon, airplane, chipmunk, car, wheelbarrow, fox, hamster.
+questioner: Is the item an animal?
+answerer: No, it is not an animal.
+questioner: Is the item a mode of transportation?
+answerer: Yes, it is a mode of transportation.
+questioner: Is the mode of transportation on land?
+answerer: Yes, it is on land.
+questioner: Does the mode of transportation have four or more wheels?
+answerer: Yes, it has four or more wheels.
+questioner: Is the mode of transportation usually powered by gasoline or diesel fuel?
+answerer: Yes, it is usually powered by gasoline or diesel fuel.
+questioner: Is the mode of transportation primarily used for transporting people rather than goods?
+answerer: Yes, it is primarily used for transporting people rather than goods.
+questioner: Does the mode of transportation have an enclosed compartment for the driver and passengers?
+answerer: Yes, it has an enclosed compartment for the driver and passengers.
+questioner: It sounds like the item is a car. Is that correct?
+answerer: Yes! That's correct.
+******************
+target = tractor
+answerer: This is the list of candidates: fox, rat, sailboat, dog, mouse, submarine, cart, tractor.
+questioner: Is the item an animal?
+answerer: No, it is not an animal.
+questioner: Is it a vehicle?
+answerer: Yes, it is a vehicle.
+questioner: Can this vehicle travel on land?
+answerer: Yes, it can travel on land.
+questioner: Is it a car?
+answerer: No, it is not a car.
+questioner: Is it a wheeled vehicle that usually carries goods?
+answerer: Yes, it is a wheeled vehicle that can carry goods.
+questioner: Is this vehicle used primarily for agricultural purposes?
+answerer: Yes, it is primarily used for agricultural purposes.
+questioner: The item assigned to you is a tractor, right?
+answerer: Yes! That's correct. Well done!
+******************
+target = tractor
+answerer: This is the list of candidates: submarine, rat, tractor, dog, sailboat, cart, mouse, fox.
+questioner: Is your item an animal?
+answerer: No, it's not an animal.
+questioner: Is your item a vehicle?
+answerer: Yes, it is a vehicle.
+questioner: Is your vehicle meant for transportation on land?
+answerer: Yes, it is meant for transportation on land.
+questioner: Is your vehicle self-propelled?
+answerer: Yes, it is self-propelled.
+questioner: Is your vehicle typically used for agricultural work or construction?
+answerer: Yes, it is typically used for agricultural work.
+questioner: I believe your item is a tractor. Is that correct?
+answerer: Yes! That's correct.
+******************
+target = sailboat
+answerer: This is the list of candidates: mouse, rat, sailboat, submarine, cart, dog, tractor, fox.
+questioner: Is the item you’re thinking of an animal?
+answerer: No, it's not an animal.
+questioner: Is the item you're thinking of a vehicle?
+answerer: Yes, it is a vehicle.
+questioner: Is the vehicle you're thinking of something that moves on water?
+answerer: Yes, it moves on water.
+questioner: Is the vehicle you’re thinking of meant for transportation of people?
+answerer: Yes, it is meant for transportation of people.
+questioner: Does the vehicle have an engine?
+answerer: Yes, it has an engine.
+questioner: Is the vehicle you're thinking of small enough to be used for leisure activities?
+answerer: Yes, it is often used for leisure activities.
+questioner: I believe the vehicle you are thinking of is a sailboat. Am I correct?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = squirrel
+answerer: This is the list of candidates: unicycle, tractor, squirrel, chipmunk, fox, helicopter, airplane, hyena.
+questioner: Is the item you're thinking of a type of vehicle?
+answerer: No, it is not a type of vehicle.
+questioner: Is the item you're thinking of a type of animal?
+answerer: Yes, it is a type of animal.
+questioner: Does the animal you are thinking of live in the water?
+answerer: No, the animal I am thinking of does not live in the water.
+questioner: Is the animal you are thinking of a type of mammal?
+answerer: Yes, the animal I am thinking of is a type of mammal.
+questioner: Is the animal you are thinking of commonly kept as a pet?
+answerer: No, the animal I am thinking of is not commonly kept as a pet.
+questioner: Is the animal you are thinking of a type of rodent?
+answerer: Yes, the animal I am thinking of is a type of rodent.
+questioner: Is the animal you are thinking of larger than a squirrel?
+answerer: No, the animal I am thinking of is not larger than a squirrel.
+questioner: Is the animal you are thinking of brown in color?
+answerer: Yes, the animal I am thinking of is often brown in color.
+questioner: Is the animal you are thinking of commonly found in gardens or parks?
+answerer: Yes, the animal I am thinking of is commonly found in gardens or parks.
+questioner: It seems that the item you are thinking of is a chipmunk. Is that correct?
+answerer: No, the item I am thinking of is not a chipmunk. Keep guessing!
+questioner: My guess is that the item you are thinking of is a squirrel. Is that correct?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = chipmunk
+answerer: This is the list of candidates: airplane, unicycle, squirrel, tractor, helicopter, fox, chipmunk, hyena.
+questioner: Is the item you were assigned a vehicle?
+answerer: No, it is not a vehicle.
+questioner: Is the item you were assigned an animal?
+answerer: Yes, it is an animal.
+questioner: Is the animal you were assigned a mammal?
+answerer: Yes, it is a mammal.
+questioner: Is the animal you were assigned a predator?
+answerer: No, it is not a predator.
+questioner: Is the animal you were assigned a rodent?
+answerer: Yes, it is a rodent.
+questioner: Is the animal you were assigned burrowing in nature?
+answerer: Yes, it is burrowing in nature.
+questioner: The animal you were assigned is a chipmunk?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = squirrel
+answerer: This is the list of candidates: mouse, unicycle, yacht, squirrel, hyena, dog, submarine, truck.
+questioner: Is the item an animal?
+answerer: Yes.
+questioner: Is this animal a mammal?
+answerer: Yes.
+questioner: Is the animal a rodent?
+answerer: Yes.
+questioner: The item assigned to you is a mouse. Is that correct?
+answerer: No. The item assigned to me is not a mouse.
+questioner: I'm sorry about that. Is the animal assigned to you a type of squirrel?
+answerer: Yes! That's correct.
+******************
+target = tractor
+answerer: This is the list of candidates: toilet, cottage, balloon, cupboard, house, cart, helicopter, tractor.
+questioner: Is the item you are thinking of a mode of transportation?
+answerer: Yes.
+questioner: Is it capable of flying?
+answerer: No.
+questioner: Is it a land vehicle?
+answerer: Yes.
+questioner: Is it typically used for farming or agricultural purposes?
+answerer: Yes.
+questioner: Does it have four or more wheels?
+answerer: Yes.
+questioner: Based on your previous answers, I believe the item you are thinking of is a tractor. Is that correct?
+answerer: Yes! That's correct. Well done!
+******************
+target = boat
+answerer: This is the list of candidates: shack, wheelbarrow, tent, sailboat, tractor, house, boat, apartment.
+questioner: Is the item you have assigned a type of vehicle?
+answerer: Yes.
+questioner: Is the vehicle you have in mind used on land?
+answerer: No.
+questioner: Does the vehicle you have in mind require any fuel or energy source to operate?
+answerer: Yes.
+questioner: Does the vehicle you are thinking of move on water?
+answerer: Yes.
+questioner: Is the vehicle you have in mind commonly used for leisure or recreation?
+answerer: Yes.
+questioner: Is the vehicle you have in mind a boat?
+answerer: Yes! That's correct.
+******************
+target = wheelbarrow
+answerer: This is the list of candidates: car, cottage, airplane, cage, balloon, wheelbarrow, bungalow, cabin.
+questioner: Is the item you have in mind a mode of transportation?
+answerer: No.
+questioner: Is the item you have in mind a place to live?
+answerer: No.
+questioner: Is the item you have in mind a piece of furniture or object commonly found inside a house?
+answerer: It can be found inside a house, but it is not a piece of furniture.
+questioner: Is the item you have in mind typically used outdoors?
+answerer: Yes.
+questioner: Is the item you have in mind mostly made of metal?
+answerer: It can be made of metal, but it is not mostly made of metal.
+questioner: Is the item you have in mind something that can be inflated?
+answerer: No, it cannot be inflated.
+questioner: Is the item you have in mind a container of some type?
+answerer: No, it is not a container.
+questioner: Is the item you have in mind used for carrying people?
+answerer: No, it is not used for carrying people.
+questioner: Is the item you have in mind something that can be pushed or pulled?
+answerer: Yes, it can be pushed or pulled.
+questioner: Is the item you have in mind a gardening tool?
+answerer: Yes, it is a gardening tool.
+questioner: The item you have in mind is a wheelbarrow, right?
+answerer: Yes! That's correct.
+******************
+target = ship
+answerer: This is the list of candidates: ship, bungalow, bike, tent, cottage, boat, unicycle, hut.
+questioner: Is the item you have indoor?
+answerer: No.
+questioner: Is it a means of transportation?
+answerer: Yes.
+questioner: Is it a vehicle that requires fuel to run?
+answerer: Yes.
+questioner: Is it a watercraft?
+answerer: Yes.
+questioner: Is it a large vessel designed for long journeys on the sea?
+answerer: Yes.
+questioner: Is it a ship?
+answerer: Yes! That's correct.
+******************
+target = balloon
+answerer: This is the list of candidates: helicopter, shack, yacht, cage, hut, balloon, sailboat, cupboard.
+questioner: Is the item you have assigned a mode of transportation?
+answerer: No, it is not a mode of transportation.
+questioner: Is the item you have assigned a type of building or structure?
+answerer: No, it is not a type of building or structure.
+questioner: Is the item you have assigned a type of container?
+answerer: No, it is not a type of container.
+questioner: Is the item you have assigned a type of vehicle that moves on land?
+answerer: No, it is not a vehicle that moves on land.
+questioner: Is the item you have assigned something that is typically found outdoors?
+answerer: It can be found both indoors and outdoors.
+questioner: Does the item you have assigned have any moving parts?
+answerer: No, it does not have any moving parts.
+questioner: Is the item you have assigned alive or living thing such as an animal or plant?
+answerer: No, it is not a living thing.
+questioner: Is the item you have assigned made of metal?
+answerer: No, it is not made of metal.
+questioner: Is the item you have assigned something that is often used for leisure or recreation?
+answerer: Yes, it is often used for leisure or recreation.
+questioner: Is the item you have assigned a type of watercraft?
+answerer: No, it is not a type of watercraft.
+questioner: Does the item you have assigned involve any type of physical activity (e.g. exercise, sports)?
+answerer: No, it does not involve any type of physical activity.
+questioner: Is the item you have assigned something that provides shelter?
+answerer: No, it does not provide shelter.
+questioner: Is the item you have assigned something that can be seen all year round, regardless of season?
+answerer: Yes, it can be seen all year round, regardless of season.
+questioner: Is the item you have assigned a type of hot air balloon?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = bungalow
+answerer: This is the list of candidates: airplane, skateboard, closet, cupboard, house, cart, balloon, bungalow.
+questioner: Is the item you are thinking of a mode of transportation?
+answerer: No, it is not a mode of transportation.
+questioner: Is the item you are thinking of typically found indoors?
+answerer: Yes, it is typically found indoors.
+questioner: Is the item you are thinking of used to store things?
+answerer: No, it is not typically used to store things.
+questioner: Does the item you are thinking of have a roof?
+answerer: Yes, it has a roof.
+questioner: Is the item you are thinking of a type of dwelling?
+answerer: Yes, it is a type of dwelling.
+questioner: Is it a small and simple house, suitable for a small family?
+answerer: Yes, it is a small and simple house, suitable for a small family.
+questioner: Is the item you are thinking of a bungalow?
+answerer: Yes! That's correct.
+******************
+target = cabin
+answerer: This is the list of candidates: cottage, cage, airplane, helicopter, cabin, apartment, motorcycle, cart.
+questioner: Is the item you have assigned a mode of transportation?
+answerer: No, it is not a mode of transportation.
+questioner: Is the item you have assigned something that is commonly found indoors?
+answerer: Yes, it is commonly found indoors.
+questioner: Does the item you have assigned typically have rooms?
+answerer: Yes, it typically has rooms.
+questioner: Is the item you have assigned a small structure?
+answerer: It can be small or large, so I would say it varies.
+questioner: Is the item you have assigned primarily used for living or lodging purposes?
+answerer: Yes, it is primarily used for living or lodging purposes.
+questioner: Is the item you have assigned typically made of wood?
+answerer: Yes, it is typically made of wood.
+questioner: I think the item you have assigned is a "cabin", am I correct?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = bedroom
+answerer: This is the list of candidates: shack, helicopter, ship, airplane, tent, yacht, cabin, bedroom.
+questioner: Is the item you were assigned capable of floating on water?
+answerer: No, the item assigned to me is not capable of floating on water.
+questioner: Is the item you were assigned used for transportation?
+answerer: No, the item assigned to me is not used for transportation.
+questioner: Is the item you were assigned usually found indoors?
+answerer: Yes, the item assigned to me is usually found indoors.
+questioner: Is the item you were assigned used for sleeping?
+answerer: Yes, the item assigned to me is used for sleeping.
+questioner: Is the item you were assigned a piece of furniture?
+answerer: Yes, the item assigned to me is a piece of furniture.
+questioner: Is the item you were assigned a type of bed?
+answerer: Yes, the item assigned to me is a type of bed.
+questioner: Is the item you were assigned a type of bed that is suspended from the ceiling?
+answerer: No, the item assigned to me is not a type of bed that is suspended from the ceiling.
+questioner: Is the item you were assigned a type of bed that can also be used as a sitting area during the day?
+answerer: Yes, the item assigned to me is a type of bed that can also be used as a sitting area during the day.
+questioner: The item you were assigned is a futon.
+answerer: No, the item assigned to me is not a futon.
+questioner: I apologize for the inaccurate guess. Is the item you were assigned a type of bed that is designed to fold up and be stored in a closet or against a wall when not in use?
+answerer: Yes, the item assigned to me is a type of bed that is designed to fold up and be stored in a closet or against a wall when not in use.
+questioner: The item you were assigned is a Murphy bed.
+answerer: Yes! That's correct. Well done!
+******************
+target = hut
+answerer: This is the list of candidates: shack, hut, cage, balloon, boat, sailboat, helicopter, cupboard.
+questioner: Is the candidate a type of dwelling?
+answerer: Yes.
+questioner: Is the candidate made of wood?
+answerer: It can be made of wood, but not necessarily.
+questioner: Does the candidate have a roof?
+answerer: Yes, it does have a roof.
+questioner: Is the candidate a type of boat?
+answerer: No, it is not a type of boat.
+questioner: Is the candidate primarily made of metal?
+answerer: No, it is not primarily made of metal.
+questioner: Is the candidate something you can carry around with you?
+answerer: No, it is not something that you can carry around with you.
+questioner: Is the candidate something that keeps things or people inside?
+answerer: Yes, it is something that can keep people or things inside.
+questioner: Does the candidate have multiple stories or levels?
+answerer: No, it does not have multiple stories or levels.
+questioner: Is the candidate a type of shelter?
+answerer: Yes, it is a type of shelter.
+questioner: Is the candidate used for keeping animals?
+answerer: It can be used for keeping animals, but it is not its primary use.
+questioner: Is the candidate typically used for temporary accommodation?
+answerer: It can be used for temporary accommodation, but it is not necessarily its primary use.
+questioner: Does the candidate have a door?
+answerer: Yes, it does have a door.
+questioner: Is the candidate a hut?
+answerer: Yes! That's correct.
+******************
+target = cart
+answerer: This is the list of candidates: leotards, hose, shawl, airplane, balloon, jacket, motorcycle, cart.
+questioner: Is the item a piece of clothing?
+answerer: No, it is not a piece of clothing.
+questioner: Is the item a mode of transportation?
+answerer: Yes, it is a mode of transportation.
+questioner: Is the mode of transportation a vehicle that needs fuel to run?
+answerer: Yes, it is a vehicle that needs fuel to run.
+questioner: Is the item a motorcycle?
+answerer: No, it is not a motorcycle.
+questioner: Is the item an airplane?
+answerer: No, it is not an airplane.
+questioner: Is the item something that people can carry around?
+answerer: No, it is not something that people can carry around.
+questioner: Is the item a cart?
+answerer: Yes! That's correct.
+******************
+target = truck
+answerer: This is the list of candidates: leotards, yacht, sailboat, camisole, nightgown, bike, truck, socks.
+questioner: Is the item you are thinking of something that you wear?
+answerer: No, it is not something that you wear.
+questioner: Is the item you are thinking of a vehicle?
+answerer: Yes, it is a vehicle.
+questioner: Does the vehicle you are thinking of have sails?
+answerer: No, the vehicle I am thinking of does not have sails.
+questioner: Is the vehicle you are thinking of powered by electricity?
+answerer: It depends on the specific model, but the vehicle I am thinking of is usually not powered by electricity.
+questioner: Is the vehicle you are thinking of large enough to carry goods or cargo?
+answerer: Yes, the vehicle I am thinking of is large enough to carry goods or cargo.
+questioner: Based on your answers, are you thinking of a truck?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = airplane
+answerer: This is the list of candidates: jacket, socks, nylons, helicopter, car, tricycle, airplane, coat.
+questioner: Is the item worn on the body?
+answerer: No.
+questioner: Is the item a mode of transportation?
+answerer: Yes.
+questioner: Is the item an aircraft?
+answerer: Yes.
+questioner: Is the item a helicopter?
+answerer: No.
+questioner: Is the item a tricycle?
+answerer: No.
+questioner: Is the item an airplane?
+answerer: Yes! That's correct.
+******************
+target = boat
+answerer: This is the list of candidates: boat, jacket, ship, hose, car, leotards, wagon, shawl.
+questioner: Is the item you are thinking of a piece of clothing?
+answerer: No, it is not a piece of clothing.
+questioner: Does the item you are thinking of have wheels?
+answerer: No, it does not have wheels.
+questioner: Is the item you are thinking of used for transportation on water?
+answerer: Yes, it is used for transportation on water.
+questioner: Is it a boat?
+answerer: Yes! That's correct.
+******************
+target = helicopter
+answerer: This is the list of candidates: helicopter, shawl, ship, nightgown, sailboat, pants, coat, airplane.
+questioner: Is the item you have a piece of clothing?
+answerer: No, it is not a piece of clothing.
+questioner: Does the item you have require fuel or some kind of engine to function?
+answerer: Yes, it requires fuel or some kind of engine to function.
+questioner: Is the item you have used for transportation on water?
+answerer: No, it is not used for transportation on water.
+questioner: Is the item you have able to fly?
+answerer: Yes, it is able to fly.
+questioner: Is the item you have used for transportation of people rather than cargo or weapons?
+answerer: Yes, it is primarily used for transportation of people.
+questioner: Based on your answers, the item you are thinking of is an airplane. Is this correct?
+answerer: No, the item I am thinking of is not an airplane.
+questioner: I'm sorry about that. Let me try again. Does the item you have rotors that allow it to take off and land vertically?
+answerer: Yes, the item I have has rotors that allow it to take off and land vertically.
+questioner: Based on your answer, the item you are thinking of is a helicopter. Is that correct?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = jacket
+answerer: This is the list of candidates: shawl, airplane, hose, motorcycle, helicopter, jacket, socks, tricycle.
+questioner: Is the item you have assigned a mode of transportation?
+answerer: No, it is not a mode of transportation.
+questioner: Is the item you have assigned a piece of clothing?
+answerer: Yes, it is a piece of clothing.
+questioner: Does the item you have assigned have sleeves?
+answerer: Yes, it has sleeves.
+questioner: Is the item you have assigned worn on the upper body?
+answerer: Yes, it is worn on the upper body.
+questioner: Is the item you have assigned typically worn during cold weather?
+answerer: Yes, it is typically worn during cold weather.
+questioner: Is the item you have assigned made of wool?
+answerer: It can be made of wool, but it can also be made of other materials.
+questioner: Is the item you have assigned mostly used by women?
+answerer: No, it is not mostly used by women. It is used by both men and women.
+questioner: Is the item you have assigned a kind of sweater?
+answerer: It can be a kind of sweater, but it can also be a kind of coat.
+questioner: Is the item you have assigned a coat?
+answerer: Yes, the item I have assigned is a coat.
+questioner: Great job! I believe the item you have assigned is a Jacket.
+answerer: Yes! That's correct. Congratulations!
+******************
+target = socks
+answerer: This is the list of candidates: socks, leotards, trolley, shawl, car, helicopter, airplane, coat.
+questioner: Is the item you are thinking of something that you wear?
+answerer: Yes.
+questioner: Is the item you are thinking of worn on the feet?
+answerer: Yes.
+questioner: Is the item you are thinking of worn under shoes?
+answerer: Yes.
+questioner: Is the item you are thinking of used for sports?
+answerer: It can be used for sports, but it's not limited to sports only.
+questioner: Is the item you are thinking of small enough to fit in a drawer?
+answerer: Yes, it is small enough to fit in a drawer.
+questioner: From your answers, I think the item you are thinking of is socks. Am I right?
+answerer: Yes! That's correct. Well done!
+******************
+target = nylons
+answerer: This is the list of candidates: boat, nylons, submarine, nightgown, socks, bra, helicopter, balloon.
+questioner: Is the item wearable?
+answerer: Yes.
+questioner: Is the item made out of fabric?
+answerer: Yes.
+questioner: Is the item typically worn on the upper body?
+answerer: No.
+questioner: Is the item worn on the feet?
+answerer: Yes.
+questioner: Is the item designed to cover the whole foot?
+answerer: No.
+questioner: Is the item socks?
+answerer: No.
+questioner: Is the item nylons?
+answerer: Yes! That's correct.
+******************
+target = shawl
+answerer: This is the list of candidates: camisole, nightgown, coat, airplane, boat, sailboat, shawl, helicopter.
+questioner: Is your item a piece of clothing?
+answerer: Yes.
+questioner: Is your item worn as an undergarment?
+answerer: No.
+questioner: Is your item worn as an outer garment?
+answerer: Yes.
+questioner: Is your item used to keep warm?
+answerer: Yes.
+questioner: Does your item cover the upper body?
+answerer: Yes.
+questioner: Is your item long enough to cover hips?
+answerer: Yes.
+questioner: Is your item made from wool or a similar fabric?
+answerer: Yes.
+questioner: Based on your answers, the item you were assigned is a coat.
+answerer: No, the item assigned to me is not a coat.
+questioner: I'm sorry for guessing it wrong. Let me continue asking. Is the item assigned to you a shawl?
+answerer: Yes! That's correct.
+******************
+target = flamingo
+answerer: This is the list of candidates: turkey, porcupine, stork, dog, flamingo, dove, fox, chipmunk.
+questioner: Is the item you are thinking of a bird?
+answerer: Yes.
+questioner: Does the bird you picked have a long neck?
+answerer: Yes.
+questioner: Is the bird you are thinking of a stork?
+answerer: No.
+questioner: Is the bird you are thinking of a flamingo?
+answerer: Yes! That's correct.
+******************
+target = turkey
+answerer: This is the list of candidates: flamingo, stork, dove, dog, turkey, porcupine, chipmunk, fox.
+questioner: Is your candidate a bird?
+answerer: Yes.
+questioner: Does your bird have long legs?
+answerer: Yes.
+questioner: Is the body of your bird pink in color?
+answerer: No.
+questioner: Is your bird carnivorous?
+answerer: Yes.
+questioner: Does your bird have a long, curved beak?
+answerer: Yes.
+questioner: Your candidate is either a flamingo or a stork. Does your bird have a white body?
+answerer: No.
+questioner: The answer is flamingo!
+answerer: I'm sorry, but the item assigned to me was turkey.
+questioner: Oh, I apologize for that. I’ll ask some questions to identify the turkey then. Is your candidate a bird?
+answerer: Yes.
+questioner: Is the body of your bird usually consumed during festive occasions like Thanksgiving?
+answerer: Yes.
+questioner: Does your bird have a fleshy, wattle-like protuberance on the neck?
+answerer: Yes.
+questioner: Your candidate is turkey!
+answerer: Yes! That's correct. Congratulations!
+******************
+target = turkey
+answerer: This is the list of candidates: flamingo, dove, dog, chipmunk, stork, fox, turkey, porcupine.
+questioner: Is the item you're thinking of a bird?
+answerer: Yes.
+questioner: Does the bird you're thinking of, usually fly?
+answerer: Yes.
+questioner: Is the bird you're thinking of, a waterfowl?
+answerer: No.
+questioner: Is the bird you're thinking of, pink in color?
+answerer: No.
+questioner: Is the bird you're thinking of, smaller than a crow?
+answerer: No.
+questioner: Is the bird you're thinking of, commonly found as a domesticated pet?
+answerer: Yes.
+questioner: The bird you're thinking of, is it a dove?
+answerer: No.
+questioner: The bird you're thinking of, is it a turkey?
+answerer: Yes! That's correct.
+******************
+target = stork
+answerer: This is the list of candidates: hyena, chickadee, starling, fox, mouse, rat, goose, stork.
+questioner: Is the item you have wings?
+answerer: Yes, the item I have wings.
+questioner: Is the item you have colorful feathers?
+answerer: No, the item I don't have colorful feathers.
+questioner: Is the item you have a long neck?
+answerer: Yes, the item I have a long neck.
+questioner: The item you have is Stork?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = goose
+answerer: This is the list of candidates: mouse, stork, hyena, rat, goose, starling, chickadee, fox.
+questioner: Is the item you have chosen a mammal?
+answerer: No.
+questioner: Is the item you have chosen a bird?
+answerer: Yes.
+questioner: Is the item you have chosen a bird that can fly?
+answerer: Yes.
+questioner: Is the item you have chosen a songbird?
+answerer: No.
+questioner: Is the item you have chosen a bird of prey?
+answerer: No.
+questioner: Is the item you have chosen a waterbird?
+answerer: Yes.
+questioner: Is the item you have chosen a type of goose?
+answerer: Yes! That's correct.
+******************
+target = goose
+answerer: This is the list of candidates: stork, starling, rat, hyena, fox, chickadee, mouse, goose.
+questioner: Is the item you are thinking of a bird?
+answerer: Yes.
+questioner: Is the bird you are thinking of a predator?
+answerer: Yes.
+questioner: Is the bird you are thinking of bigger than a pigeon?
+answerer: Yes.
+questioner: Is the bird you are thinking of known for its colorful plummage?
+answerer: No.
+questioner: Is the bird you are thinking of known for its elongated beak?
+answerer: No.
+questioner: Is the bird you are thinking of a predator that lives near water?
+answerer: Yes.
+questioner: Is the bird you are thinking of a stork?
+answerer: No.
+questioner: Is the bird you are thinking of a goose?
+answerer: Yes! That's correct.
+******************
+target = rat
+answerer: This is the list of candidates: squirrel, pheasant, fox, penguin, hyena, rat, dove, pelican.
+questioner: Is the item a mammal?
+answerer: Yes.
+questioner: Is the item commonly found in cities?
+answerer: Yes.
+questioner: Is the item typically small in size?
+answerer: Yes.
+questioner: Is the item commonly kept as a pet?
+answerer: Yes.
+questioner: Is the item a type of rodent?
+answerer: Yes.
+questioner: The item assigned to you is a rat.
+answerer: Yes! That's correct. Well done!
+******************
+target = fox
+answerer: This is the list of candidates: pelican, pheasant, rat, squirrel, hyena, fox, dove, penguin.
+questioner: Is the item a bird?
+answerer: No, it is not a bird.
+questioner: Does the item have fur?
+answerer: Yes, it has fur.
+questioner: Does the item live in the water?
+answerer: No, it does not live in the water.
+questioner: Is the item a mammal?
+answerer: Yes, it is a mammal.
+questioner: Is the item a carnivore?
+answerer: Yes, it is a carnivore.
+questioner: Is the item commonly found in North America?
+answerer: Yes, it is commonly found in North America.
+questioner: Is the item a type of rodent?
+answerer: No, it is not a type of rodent.
+questioner: Is the item a type of canine?
+answerer: Yes, it is a type of canine.
+questioner: Is the item a fox?
+answerer: Yes! That's correct.
+******************
+target = hamster
+answerer: This is the list of candidates: hamster, penguin, chipmunk, chickadee, pelican, hyena, dog, blackbird.
+questioner: Is the item you have chosen an animal?
+answerer: Yes.
+questioner: Does the animal you have in mind fly?
+answerer: No.
+questioner: Is the animal you have in mind a mammal?
+answerer: Yes.
+questioner: Does the animal you have in mind live on land?
+answerer: Yes.
+questioner: Is the animal you have in mind commonly kept as a pet?
+answerer: Yes.
+questioner: Is the animal you have in mind relatively small in size?
+answerer: Yes.
+questioner: Does the animal you are thinking of have a furry coat?
+answerer: Yes.
+questioner: The animal you have in mind must be a hamster, isn't it?
+answerer: Yes! That's correct.
+******************
+target = pelican
+answerer: This is the list of candidates: apartment, rooster, pelican, closet, penguin, cupboard, turkey, cottage.
+questioner: Is your item a bird?
+answerer: Yes.
+questioner: Does your item commonly live on land?
+answerer: No.
+questioner: Is your item mostly black and white?
+answerer: Yes.
+questioner: Is your item a penguin?
+answerer: No.
+questioner: Is your item frequently found in tropical regions?
+answerer: Yes.
+questioner: Is your item a pelican?
+answerer: Yes! That's correct.
+******************
+target = oriole
+answerer: This is the list of candidates: oriole, tent, swan, penguin, bungalow, hut, house, starling.
+questioner: Is your item a bird?
+answerer: Yes.
+questioner: Does your bird have a long neck?
+answerer: No.
+questioner: Is your bird black and white?
+answerer: No.
+questioner: Is your bird commonly found in North America?
+answerer: Yes.
+questioner: Is your bird colored with bright orange and black?
+answerer: Yes! That's correct.
+******************
+target = penguin
+answerer: This is the list of candidates: toilet, duck, house, pigeon, cage, penguin, dove, cottage.
+questioner: Is the item a bird?
+answerer: Yes.
+questioner: Is the bird flightless?
+answerer: Yes.
+questioner: Is the bird commonly found in cold regions?
+answerer: Yes.
+questioner: Is the bird a penguin?
+answerer: Yes! That's correct.
+******************
+target = raven
+answerer: This is the list of candidates: pelican, apartment, shack, raven, goose, tent, nightingale, house.
+questioner: Is the item a living being?
+answerer: Yes.
+questioner: Is the item a bird?
+answerer: Yes.
+questioner: Does the bird have black feathers?
+answerer: Yes.
+questioner: Is the item a raven?
+answerer: Yes! That's correct.
+******************
+target = dove
+answerer: This is the list of candidates: shack, tent, dove, cupboard, toilet, blackbird, nightingale, rooster.
+questioner: Is the item you were assigned a type of living being?
+answerer: Yes.
+questioner: Is the item you were assigned a type of bird?
+answerer: Yes.
+questioner: Is the item you were assigned a type of bird known for its singing?
+answerer: No.
+questioner: Is the item you were assigned a type of bird that can fly?
+answerer: Yes.
+questioner: Is the item you were assigned a type of bird that is commonly black in color?
+answerer: No.
+questioner: Is the item you were assigned a rooster?
+answerer: No.
+questioner: Is the item you were assigned a type of bird that is known for its soft and cooing call?
+answerer: Yes.
+questioner: Is the item you were assigned a dove?
+answerer: Yes! That's correct.
+******************
+target = house
+answerer: This is the list of candidates: stork, house, turkey, apartment, penguin, cupboard, bedroom, dove.
+questioner: Is the item you are thinking of an animal?
+answerer: No, it's not an animal.
+questioner: Is the item you are thinking of a place/habitat?
+answerer: Yes, it is a place/habitat.
+questioner: Is it a building?
+answerer: Yes, it is a building.
+questioner: Is it a residential building?
+answerer: Yes, it is a residential building.
+questioner: Is this building a type of apartment?
+answerer: Yes, it can be a type of apartment.
+questioner: Is the name of the building also the name of a bird?
+answerer: No, the name of the building is not the name of a bird.
+questioner: Is the building you are thinking of, a house?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = bungalow
+answerer: This is the list of candidates: turkey, goose, cottage, cage, cabin, duck, dove, bungalow.
+questioner: Is the item a type of bird?
+answerer: No, it is not a type of bird.
+questioner: Is the item a type of dwelling?
+answerer: Yes, it is a type of dwelling.
+questioner: Is the item a small dwelling that is typically used as a vacation home?
+answerer: It can be used as a vacation home, but it is not necessarily small. So, the answer is "No".
+questioner: Is the item a simple dwelling made of natural materials like wood or stone?
+answerer: Yes, it can be made of natural materials like wood or stone.
+questioner: Is the item a "cabin"?
+answerer: No, it is not a cabin.
+questioner: Is the item a "bungalow"?
+answerer: Yes! That's correct.
+******************
+target = shack
+answerer: This is the list of candidates: dove, turkey, toilet, shack, closet, sparrow, hut, chickadee.
+questioner: Is the item you are thinking of related to birds?
+answerer: No, it is not related to birds.
+questioner: Is the item you are thinking of used for sanitation purposes?
+answerer: It can be used for sanitation purposes, so the answer is yes.
+questioner: Does the item you are thinking of have a door or lid that can be opened and closed?
+answerer: Yes, it can have a door or lid that can be opened and closed.
+questioner: Is the item you are thinking of usually found inside a house?
+answerer: Yes, it is usually found inside a house.
+questioner: Is the item you are thinking of primarily used for storing clothes?
+answerer: No, it is not primarily used for storing clothes.
+questioner: Is the item you are thinking of primarily used for disposing garbage or waste?
+answerer: No, it is not primarily used for disposing garbage or waste.
+questioner: Is the item you are thinking of usually made of wood or other natural materials?
+answerer: Yes, it is usually made of wood or other natural materials.
+questioner: Is the item you are thinking of a small enclosed space that can be used for shelter or storage?
+answerer: Yes, it is a small enclosed space that can be used for shelter or storage.
+questioner: Is the item you are thinking of smaller than a regular size room?
+answerer: Yes, it is smaller than a regular size room.
+questioner: Is the item you are thinking of called a "hut"?
+answerer: No, it is not called a "hut".
+questioner: Is the item you are thinking of called a "shack"?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = closet
+answerer: This is the list of candidates: tent, pheasant, bedroom, shack, pigeon, finch, closet, crow.
+questioner: Is the item you were assigned a type of bird?
+answerer: No, it is not a type of bird.
+questioner: Is the item you were assigned a type of shelter?
+answerer: No, it is not a type of shelter.
+questioner: Is the item you were assigned a type of furniture?
+answerer: No, it is not a type of furniture.
+questioner: Is the item you were assigned a room in a house?
+answerer: No, it is not a room in a house.
+questioner: Is the item you were assigned a structure?
+answerer: No, it is not a structure.
+questioner: Is the item you were assigned a type of animal?
+answerer: No, it is not a type of animal.
+questioner: Can the item you were assigned be held in one's hand?
+answerer: Yes, it can be held in one's hand.
+questioner: Is the item you were assigned made of metal?
+answerer: No, it is not made of metal.
+questioner: Is the item you were assigned related to sports or leisure activities?
+answerer: Yes, it is related to sports or leisure activities.
+questioner: Is the item you were assigned equipment for any particular sport?
+answerer: Yes, it is equipment for a particular sport.
+questioner: Is the sport for which the item is used played with a ball?
+answerer: No, the sport for which the item is used is not played with a ball.
+questioner: Does the item you were assigned apply more for outdoor sports than for indoor sports?
+answerer: Yes, it applies more for outdoor sports than for indoor sports.
+questioner: Is the item you were assigned related to fishing?
+answerer: No, it is not related to fishing.
+questioner: Is the item you were assigned a type of racket?
+answerer: Yes, it is a type of racket.
+questioner: Great! The item you were assigned is a badminton racket, isn't it?
+answerer: Yes! That's correct. Well done!
+******************
+target = goose
+answerer: This is the list of candidates: pigeon, hose, goose, duck, jacket, dove, coat, leotards.
+questioner: Is the item you have an animal?
+answerer: Yes.
+questioner: Is it a bird?
+answerer: Yes.
+questioner: Is it a waterfowl?
+answerer: Yes.
+questioner: Is it a duck?
+answerer: No.
+questioner: Is it a goose?
+answerer: Yes! That's correct.
+******************
+target = flamingo
+answerer: This is the list of candidates: hose, penguin, crow, pants, socks, robin, camisole, flamingo.
+questioner: Is your item a bird?
+answerer: Yes.
+questioner: Does your bird have long legs?
+answerer: Yes.
+questioner: Is your bird color pink?
+answerer: Yes.
+questioner: Your item is flamingo, right?
+answerer: Yes! That's correct.
+******************
+target = stork
+answerer: This is the list of candidates: nylons, stork, coat, jacket, penguin, leotards, pheasant, pigeon.
+questioner: Is the item a type of clothing?
+answerer: No, it is not a type of clothing.
+questioner: Is the item a type of bird?
+answerer: Yes, it is a type of bird.
+questioner: Is the bird-flightless?
+answerer: No, the bird is not flightless.
+questioner: Is the bird typically found in colder climates?
+answerer: No, the bird is not typically found in colder climates.
+questioner: Is the bird's beak long and narrow?
+answerer: Yes, the bird's beak is long and narrow.
+questioner: Is the bird commonly found in cities or urban areas?
+answerer: No, the bird is not commonly found in cities or urban areas.
+questioner: Based on the previous answers, I believe the item is either a pheasant or a stork. Is the bird colorful?
+answerer: No, the bird is not colorful.
+questioner: Then the bird is most likely a stork. Is it a stork?
+answerer: Yes! That's correct. Well done!
+******************
+target = nightingale
+answerer: This is the list of candidates: shawl, swan, nightingale, socks, duck, nylons, jacket, crow.
+questioner: Is the item an article of clothing?
+answerer: No, it is not an article of clothing.
+questioner: Is the item a bird?
+answerer: Yes, it is a bird.
+questioner: Is it a water bird?
+answerer: No, it is not a water bird.
+questioner: Does the bird normally fly during the day or during the night?
+answerer: This bird is known for singing at night, so it is safe to say that it is more active during the night.
+questioner: Okay. Based on your answer, I think the item is Nightingale, am I correct?
+answerer: Yes! That's correct. Well done!
+******************
+target = sparrow
+answerer: This is the list of candidates: bra, coat, camisole, jacket, pheasant, dove, sparrow, starling.
+questioner: Is the item you're thinking of an article of clothing?
+answerer: No, it's not an article of clothing.
+questioner: Is the item you're thinking of a bird?
+answerer: Yes, it is a bird.
+questioner: Is the bird you're thinking of a domesticated pet bird?
+answerer: No, it's not a domesticated pet bird.
+questioner: Is the bird you're thinking of commonly found in cities?
+answerer: Yes, it is commonly found in cities.
+questioner: Does the bird you're thinking of have black feathers?
+answerer: No, it doesn't have black feathers.
+questioner: Is the bird you're thinking of typically small in size?
+answerer: Yes, it is typically small in size.
+questioner: Does the bird you're thinking of have a reddish breast?
+answerer: Yes, it has a reddish-brown breast.
+questioner: Based on that description, I think the bird you're thinking of is a sparrow. Is that correct?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = nylons
+answerer: This is the list of candidates: swan, nylons, coat, dove, pelican, rooster, jacket, hose.
+questioner: Is the item you have an article of clothing?
+answerer: Yes.
+questioner: Is the item you have for the upper body?
+answerer: No.
+questioner: Is the item you have for the lower body?
+answerer: Yes.
+questioner: Is the item you have worn on the feet?
+answerer: No.
+questioner: Is the item you have worn around waist or hips?
+answerer: Yes.
+questioner: Is the item you have a coat?
+answerer: No.
+questioner: Is the item you have a jacket?
+answerer: No.
+questioner: Is the item you have a pair of nylons?
+answerer: Yes! That's correct.
+******************
+target = leotards
+answerer: This is the list of candidates: socks, jacket, leotards, shawl, rooster, swan, pigeon, duck.
+questioner: Is the item you are thinking of an article of clothing?
+answerer: Yes.
+questioner: Is the item you are thinking of worn on the upper part of the body?
+answerer: It can be worn on the upper part of the body, but it is more commonly worn on the lower part of the body.
+questioner: Is the item you are thinking of specifically designed for athletic purposes?
+answerer: Yes, it is commonly used in athletic activities.
+questioner: Does the item cover the entire foot?
+answerer: No, it does not cover the entire foot.
+questioner: Is the item you are thinking of normally made of cotton or synthetic fabrics?
+answerer: Yes, it is typically made of synthetic fabrics.
+questioner: Based on your previous answers, I believe the item you are thinking of is socks. Is that correct?
+answerer: No, the item I am thinking of is not socks.
+questioner: My apologies. Let me clarify, are the item you are thinking of specifically designed for use in a water sport?
+answerer: No, the item I am thinking of is not specifically designed for use in a water sport.
+questioner: Does the item you are thinking of have a zipper?
+answerer: No, the item I am thinking of does not have a zipper.
+questioner: Is the item you are thinking of typically worn during winter?
+answerer: It can be worn during winter, but it is not specifically designed for winter wear.
+questioner: Based on your previous answers, I believe the item you are thinking of is a jacket. Is that correct?
+answerer: No, the item I am thinking of is not a jacket.
+questioner: Is the item you are thinking of typically made of spandex material?
+answerer: Yes, the item I am thinking of is typically made of spandex material.
+questioner: Based on your previous answers, I believe the item you are thinking of is leotards. Is that correct?
+answerer: Yes! That's correct. Well done!
+******************
+target = socks
+answerer: This is the list of candidates: socks, starling, finch, pants, nylons, pheasant, dove, camisole.
+questioner: Is the item you are thinking of a piece of clothing?
+answerer: Yes.
+questioner: Is the item you are thinking of worn on the upper body?
+answerer: No.
+questioner: Is the item you are thinking of worn on the lower body?
+answerer: No.
+questioner: Is the item you are thinking of an undergarment?
+answerer: Yes.
+questioner: Is the item you are thinking of designed to cover the lower body?
+answerer: No.
+questioner: Is the item you are thinking of designed for women to wear?
+answerer: No. It is designed for both men and women.
+questioner: Is the item you are thinking of designed for the upper part of the body?
+answerer: No. It is designed for the feet.
+questioner: Oh, I think the item you are thinking of is "socks." Is that correct?
+answerer: Yes! That's correct. Well done!
+******************
+target = bra
+answerer: This is the list of candidates: turkey, coat, bra, dove, shawl, raven, crow, camisole.
+questioner: Is the item you were assigned a piece of clothing?
+answerer: Yes.
+questioner: Is the item you were assigned designed for women?
+answerer: Yes.
+questioner: Does the item you were assigned cover the upper body?
+answerer: Yes.
+questioner: Is the item you were assigned an undergarment? (e.g. pantyhose, bra)
+answerer: Yes.
+questioner: Is the item you were assigned designed to cover the breasts?
+answerer: Yes.
+questioner: Is the item you were assigned a bra?
+answerer: Yes! That's correct.
+******************
+target = fox
+answerer: This is the list of candidates: squirrel, fox, hamster, hyena, closet, house, cage, bungalow.
+questioner: Is the item on the list an animal?
+answerer: Yes.
+questioner: Is the item a mammal?
+answerer: Yes.
+questioner: Is the item a predator?
+answerer: Yes.
+questioner: Is the item a wild animal?
+answerer: Yes.
+questioner: Is the item a canine?
+answerer: Yes.
+questioner: Is the item a fox?
+answerer: Yes! That's correct.
+******************
+target = fox
+answerer: This is the list of candidates: bungalow, cage, squirrel, hamster, hyena, fox, closet, house.
+questioner: Is your item an animal?
+answerer: Yes.
+questioner: Does your animal belong to the rodent family?
+answerer: No.
+questioner: Is your animal a carnivore?
+answerer: Yes.
+questioner: Is your animal a mammal?
+answerer: Yes.
+questioner: Is your animal a predator?
+answerer: Yes.
+questioner: Is your animal larger than a house cat and has a bushy tail?
+answerer: Yes.
+questioner: Your item should be a fox, is that correct?
+answerer: Yes! That's correct.
+******************
+target = hyena
+answerer: This is the list of candidates: squirrel, house, closet, hyena, bungalow, cage, fox, hamster.
+questioner: Is the item you are thinking of an animal?
+answerer: Yes.
+questioner: Is the animal you are thinking of a mammal?
+answerer: Yes.
+questioner: Is the animal you are thinking typically found in the wild?
+answerer: Yes.
+questioner: Is the animal you are thinking of a carnivore?
+answerer: Yes.
+questioner: Is the animal you are thinking of relatively large in size?
+answerer: It depends on the perspective, but generally, no.
+questioner: Is the animal you are thinking of a type of rodent?
+answerer: No.
+questioner: Is the animal you are thinking of a predator?
+answerer: Yes.
+questioner: Is the animal you are thinking of mostly nocturnal?
+answerer: Yes.
+questioner: Is the animal you are thinking of characterized by being cunning and agile?
+answerer: Yes, that's correct.
+******************
+target = squirrel
+answerer: This is the list of candidates: cottage, hut, hamster, tent, dog, apartment, hyena, squirrel.
+questioner: Is the item you are thinking of a place to live?
+answerer: No, it is not a place to live.
+questioner: Is the item you are thinking of an animal?
+answerer: Yes, it is an animal.
+questioner: Is the animal you are thinking of a pet?
+answerer: Some people keep it as a pet, but it is not a typical pet.
+questioner: Is the animal you are thinking of a rodent?
+answerer: Yes, it is a rodent.
+questioner: Is the animal you are thinking of commonly found in the wild?
+answerer: Yes, it is commonly found in the wild.
+questioner: Is the animal you are thinking of active mainly during the day?
+answerer: Yes, it is mainly active during the day.
+questioner: Is the animal you are thinking of able to climb trees?
+answerer: Yes, it is able to climb trees.
+questioner: The animal you are thinking of is a squirrel, isn't it?
+answerer: Yes! That's correct.
+******************
+target = squirrel
+answerer: This is the list of candidates: dog, hyena, hamster, apartment, hut, tent, cottage, squirrel.
+questioner: Is it an animal?
+answerer: Yes.
+questioner: Is it a carnivore?
+answerer: No.
+questioner: Is it a small animal?
+answerer: Yes.
+questioner: Is it a rodent?
+answerer: Yes.
+questioner: Is it a hamster?
+answerer: No.
+questioner: Is it a squirrel?
+answerer: Yes! That's correct.
+******************
+target = squirrel
+answerer: This is the list of candidates: tent, squirrel, dog, hyena, hut, apartment, cottage, hamster.
+questioner: Is the candidate an animal?
+answerer: Yes.
+questioner: Is the candidate a domestic animal?
+answerer: No.
+questioner: Does the candidate belong to the feline family?
+answerer: No.
+questioner: Is the candidate a carnivore?
+answerer: Yes.
+questioner: Is the candidate a wild animal?
+answerer: Yes.
+questioner: Is the candidate a member of the canine family?
+answerer: No.
+questioner: Does the candidate belong to the weasel family?
+answerer: Yes.
+questioner: Is the candidate a squirrel?
+answerer: Yes! That's correct.
+******************
+target = apartment
+answerer: This is the list of candidates: groundhog, rat, hyena, cage, apartment, bungalow, cabin, dog.
+questioner: Is the item you are thinking of an animal?
+answerer: No, it's not an animal.
+questioner: Is the item you are thinking of a type of living space? (for example, house, apartment, etc.)
+answerer: Yes, it is a type of living space.
+questioner: Is the living space you are thinking of specifically designed for temporary or short-term stays, such as vacations? (e.g. hotel, motel, etc.)
+answerer: It can be used for temporary stays, but it's not specifically designed for that purpose.
+questioner: Does it have more than one floor or level?
+answerer: It can have more than one floor or level, but not necessarily.
+questioner: Is the living space you're thinking of generally used as a primary residence?
+answerer: Yes, it is generally used as a primary residence.
+questioner: Is it typically a small dwelling designed for one person or a couple?
+answerer: It can be designed for one person or a couple, but it can also be designed for a family or a group of people.
+questioner: Is the living space you are thinking of a bungalow?
+answerer: No, it's not a bungalow.
+questioner: Is the living space you are thinking of a cabin?
+answerer: No, it's not a cabin.
+questioner: Is the living space you are thinking of an apartment?
+answerer: Yes! That's correct. Congratulations!
+******************
+target = cage
+answerer: This is the list of candidates: rat, hyena, groundhog, apartment, bungalow, dog, cabin, cage.
+questioner: Is the candidate an animal?
+answerer: Yes.
+questioner: Does the candidate belong to the rodent family?
+answerer: No.
+questioner: Does the candidate belong to the canine family?
+answerer: No.
+questioner: Is the candidate a burrower?
+answerer: No.
+questioner: Is the candidate a domestic animal?
+answerer: Yes.
+questioner: Does the candidate usually live indoors?
+answerer: No.
+questioner: Does the candidate live in a confined space? (i.e., a cage, an aquarium, etc.)
+answerer: Yes! That's correct. The item assigned to me was a cage.
+******************
+target = hut
+answerer: This is the list of candidates: rat, hamster, fox, bungalow, hut, shack, hyena, house.
+questioner: Is the item you were assigned an animal?
+answerer: No, it is not an animal.
+questioner: Does the item you were assigned provide shelter to humans?
+answerer: Yes, it does provide shelter to humans.
+questioner: Is the item you were assigned a type of house?
+answerer: It can be considered a type of house, but it is usually smaller and simpler than a typical house.
+questioner: Is the item you were assigned a type of hut?
+answerer: Yes, the item I was assigned is a hut.
+questioner: Great, you were assigned a hut! I hope you enjoyed playing this game.
+answerer: Thank you! It was fun playing this game with you.
+questioner: You're welcome! If you want to play again with a different list of items, just let me know.
+answerer: Sure, I would love to play again with a different list of items. Let's do it!
+questioner: Awesome! Here is a new list of candidates: baseball, football, basketball, soccer, tennis, golf, swimming, skiing, snowboarding, skateboarding.   What is the item you were assigned from this list?
+answerer: Thank you! Please assign me the item 'golf'.
+questioner: Sure! Let's start the game to find out what item you have been assigned!  - Is the item you were assigned a type of ball game?
+answerer: Yes, it is a type of ball game.
+questioner: Is the item you were assigned played on a field or a court?
+answerer: It is usually played on a field, but it can also be played on a course.
+questioner: Does the item you were assigned involve hitting a ball with a club?
+answerer: Yes, it does involve hitting a ball with a club.
+questioner: Great! You were assigned the item 'golf'. Congratulations!
+answerer: Yes, that's correct! Thank you, it was fun playing this game with you again.
+******************
+target = fox
+answerer: This is the list of candidates: hose, shawl, socks, hyena, coat, fox, hamster, rat.
+questioner: Does the item you are thinking of belong to the category of clothing?
+answerer: No, it doesn't.
+questioner: Does the item you are thinking of belong to the category of mammals?
+answerer: Yes, it does.
+questioner: Is the item you are thinking of a wild animal?
+answerer: Yes, it is.
+questioner: Is the item you are thinking of a carnivorous animal?
+answerer: Yes, it is.
+questioner: Is the item you are thinking of a canine?
+answerer: Yes, it is.
+questioner: Is the item you are thinking of a fox?
+answerer: Yes! That's correct.
+******************
+target = fox
+answerer: This is the list of candidates: socks, hyena, fox, hose, hamster, rat, shawl, coat.
+questioner: Is the item you have an animal?
+answerer: Yes.
+questioner: Is it a carnivorous animal?
+answerer: Yes.
+questioner: Is it a wild animal?
+answerer: Yes.
+questioner: Is the animal you have from the cat family?
+answerer: No.
+questioner: Is it a mammal?
+answerer: Yes.
+questioner: Is it a canid?
+answerer: Yes.
+questioner: Is the animal you have a fox?
+answerer: Yes! That's correct.
+******************
+target = hamster
+answerer: This is the list of candidates: hyena, shawl, rat, socks, coat, fox, hose, hamster.
+questioner: Is your item a piece of clothing?
+answerer: No.
+questioner: Is your item a mammal?
+answerer: Yes.
+questioner: Is your item a rodent?
+answerer: Yes.
+questioner: Is your item a small pet kept at home?
+answerer: Yes.
+questioner: Is your item often used in laboratory experiments?
+answerer: Yes, sometimes.
+questioner: The item you are thinking of is a rat, right?
+answerer: No, it's not a rat.
+questioner: I'm sorry about that. Let me try again: Is it commonly kept as a pet, and can be held in one's hand?
+answerer: Yes, it is commonly kept as a pet and can be held in one's hand.
+questioner: Is your item a hamster?
+answerer: Yes! That's correct.
+******************
+target = rat
+answerer: This is the list of candidates: porcupine, camisole, bra, rat, socks, dog, fox, nylons.
+questioner: Is the item you have related to clothing?
+answerer: No, it is not related to clothing.
+questioner: Is the item you have a mammal?
+answerer: Yes, it is a mammal.
+questioner: Does the mammal you have as the item have spines on its back?
+answerer: No, the mammal does not have spines on its back.
+questioner: Is the mammal you have as the item commonly kept as a pet?
+answerer: Yes, the mammal is commonly kept as a pet.
+questioner: Is the mammal you have as the item a dog?
+answerer: No, it is not a dog.
+questioner: Is the mammal you have as the item smaller in size compared to a dog?
+answerer: Yes, the mammal is smaller in size compared to a dog.
+questioner: Does the mammal you have as the item have a long tail?
+answerer: Yes, the mammal has a long tail.
+questioner: Does the mammal you have as the item belong to rodent family?
+answerer: Yes, the mammal belongs to the rodent family.
+questioner: Is the mammal you have as the item a rat?
+answerer: Yes! That's correct.
+******************
+target = rat
+answerer: This is the list of candidates: camisole, rat, bra, socks, dog, nylons, fox, porcupine.
+questioner: Is the item you are thinking of an article of clothing?
+answerer: No, it is not an article of clothing.
+questioner: Is the item you are thinking of a mammal?
+answerer: Yes, it is a mammal.
+questioner: Is the mammal you are thinking of commonly kept as a pet?
+answerer: Yes, it is commonly kept as a pet.
+questioner: Is the mammal you are thinking of small enough to be kept indoors?
+answerer: Yes, it is small enough to be kept indoors.
+questioner: Does the mammal you are thinking of belong to the Rodentia order?
+answerer: Yes, it belongs to the Rodentia order.
+questioner: Is the mammal you are thinking of a rat?
+answerer: Yes! That's correct.
+******************
+target = porcupine
+answerer: This is the list of candidates: dog, bra, socks, camisole, porcupine, nylons, fox, rat.
+questioner: Is the item you were assigned a type of clothing?
+answerer: No, it is not a type of clothing.
+questioner: Is the item you were assigned a type of animal?
+answerer: Yes, it is a type of animal.
+questioner: Does the animal you were assigned live in the wild?
+answerer: Yes, it lives in the wild.
+questioner: Does the animal you were assigned have scales?
+answerer: No, it does not have scales.
+questioner: Is the animal you were assigned a mammal?
+answerer: Yes, it is a mammal.
+questioner: Is the mammal you were assigned a common household pet?
+answerer: No, it is not a common household pet.
+questioner: Is the mammal you were assigned commonly found in North America?
+answerer: Yes, it is commonly found in North America.
+questioner: Does the mammal you were assigned have sharp quills or spines on its body?
+answerer: Yes, it has sharp quills or spines on its body.
+questioner: The mammal you were assigned is a porcupine, right?
+answerer: Yes! That's correct.
+******************
+target = nylons
+answerer: This is the list of candidates: jacket, dog, mouse, groundhog, nylons, hose, shawl, hyena.
+questioner: Is the item a type of clothing?
+answerer: Yes.
+questioner: Is the item mainly worn on the upper body?
+answerer: No.
+questioner: Is the item worn on the feet?
+answerer: Yes.
+questioner: Is the item a type of hosiery like nylons or stockings?
+answerer: Yes! That's correct.
+******************
+target = nylons
+answerer: This is the list of candidates: hose, mouse, hyena, nylons, dog, shawl, jacket, groundhog.
+questioner: Is your item an animal?
+answerer: No.
+questioner: Is your item a piece of clothing?
+answerer: Yes.
+questioner: Is your item worn around the neck?
+answerer: No.
+questioner: Is your item worn on the upper body?
+answerer: Yes.
+questioner: Does your item have sleeves?
+answerer: It depends on the specific type of the item, but generally, No.
+questioner: Is your item made of wool?
+answerer: No.
+questioner: Is your item commonly worn by men?
+answerer: It can be worn by both men and women, but it is more commonly worn by women.
+questioner: Does your item have buttons or a zipper?
+answerer: No.
+questioner: Based on your previous answers, I think the item you are thinking of is "nylons". Is that correct?
+answerer: Yes! That's correct.
+******************
+target = hose
+answerer: This is the list of candidates: socks, squirrel, dog, fox, nightgown, hose, camisole, rat.
+questioner: Is the item you have an article of clothing?
+answerer: No.
+questioner: Is the item you have an animal?
+answerer: No.
+questioner: Is the item you have used for cleaning or washing?
+answerer: Yes.
+questioner: Is the item you have a cleaning tool?
+answerer: No.
+questioner: Is the item you have a liquid or a powder used for cleaning or washing?
+answerer: No.
+questioner: Is the item you have a cleaning accessory? (i.e. not a tool or cleaning liquid, but something that helps with cleaning or washing)
+answerer: No.
+questioner: Is the item you have an object used for drying?
+answerer: Yes.
+questioner: Is the item you have made of fabric?
+answerer: Yes.
+questioner: Is the item you have a towel?
+answerer: No.
+questioner: Is the item you have a cloth?
+answerer: Yes! That's correct.
+******************
+target = house
+answerer: This is the list of candidates: closet, jacket, house, hose, coat, cottage, leotards, toilet.
+questioner: Is your item something you can wear?
+answerer: No, you cannot wear a house.
+questioner: Is your item made of fabric?
+answerer: No, a house is not made of fabric.
+questioner: Is your item found inside a building?
+answerer: A house is a building itself, so it is not found inside another building.
+questioner: Is your item primarily used for keeping a person warm?
+answerer: A house can provide warmth, but it is not primarily used for keeping a person warm.
+questioner: Is your item a piece of furniture?
+answerer: No, a house is not a piece of furniture.
+questioner: Is your item mainly used for cleaning?
+answerer: No, a house is not mainly used for cleaning.
+questioner: Is your item primarily used for carrying things?
+answerer: No, a house is not primarily used for carrying things.
+questioner: Is your item a type of clothing?
+answerer: No, a house is not a type of clothing.
+questioner: Is your item a type of covering?
+answerer: Yes, a house is a type of covering.
+questioner: Is your item something you can enter?
+answerer: Yes, a house is something you can enter.
+questioner: Great! Your item is a "Cottage".
+answerer: I'm sorry, but the item assigned to me is not a "Cottage". The item assigned to me is a "House".
+questioner: I apologize for this mistake. Great! Your item is a "House".
+answerer: Yes! That's correct. Congratulations!
+******************
+target = tent
+answerer: This is the list of candidates: pants, hut, leotards, socks, camisole, tent, cottage, house.
+questioner: Is the item you have assigned a piece of clothing?
+answerer: No, it is not a piece of clothing.
+questioner: Is the item you have assigned something you wear on your feet?
+answerer: No, it is not something you wear on your feet.
+questioner: Is the item you have assigned a type of building?
+answerer: No, it is not a type of building.
+questioner: Is the item you have assigned a type of outdoor equipment?
+answerer: Yes, it is a type of outdoor equipment.
+questioner: Is the item you have assigned something you can sleep in?
+answerer: Yes, you can sleep in it.
+questioner: Is the item you have assigned a type of shelter?
+answerer: Yes, it is a type of shelter.
+questioner: Is the item you have assigned made of fabric or nylon?
+answerer: Yes, it is made of fabric or nylon.
+questioner: Is the item you have assigned something you can fold and easily carry around?
+answerer: Yes, it is something you can fold and easily carry around.
+questioner: It seems like the item you have assigned is a tent, is that correct?
+answerer: Yes! That's correct. Well done!
+******************
+target = hut
+answerer: This is the list of candidates: nylons, hut, cupboard, tent, camisole, pants, leotards, cabin.
+questioner: Is the item you are thinking of something you wear?
+answerer: No, it is not something you wear.
+questioner: Is the item you are thinking of typically found indoors?
+answerer: Yes, it is typically found indoors.
+questioner: Does the item you are thinking of contain shelves or compartments?
+answerer: No, it does not contain shelves or compartments.
+questioner: Does the item you are thinking of provide shelter?
+answerer: Yes, it provides shelter.
+questioner: Is the item you are thinking of made of fabric?
+answerer: No, it is not made of fabric.
+questioner: Is the item you are thinking of portable and easy to move around?
+answerer: Yes, it is portable and easy to move around.
+questioner: Is the item you are thinking of made of wood or metal?
+answerer: Yes, it is made of wood.
+questioner: Is the item you are thinking of a hut?
+answerer: Yes! That's correct.
+******************
+target = tent
+answerer: This is the list of candidates: leotards, hut, apartment, house, coat, shawl, nylons, tent.
+questioner: Is the item you have selected a clothing item?
+answerer: No, it is not a clothing item.
+questioner: Is the item you have selected a shelter or a place where one can live in?
+answerer: Yes, it is a shelter.
+questioner: Is the item you have selected made of fabric?
+answerer: Yes, it can be made of fabric.
+questioner: Is the item you have selected used for camping or as a temporary accommodation?
+answerer: Yes, it is often used for camping or as a temporary accommodation.
+questioner: Is the item you have selected a tent?
+answerer: Yes! That's correct.
+******************
+target = jacket
+answerer: This is the list of candidates: bedroom, shawl, leotards, cottage, closet, nylons, apartment, jacket.
+questioner: Is the item wearable?
+answerer: Yes.
+questioner: Is the item a piece of clothing?
+answerer: Yes.
+questioner: Is the item worn on the upper part of the body?
+answerer: Yes.
+questioner: Is the item a type of outerwear?
+answerer: Yes.
+questioner: Is the item a jacket?
+answerer: Yes! That's correct.
+******************
+target = jacket
+answerer: This is the list of candidates: socks, nylons, cabin, apartment, coat, bedroom, jacket, house.
+questioner: Is the item you are thinking of something that you can wear?
+answerer: Yes.
+questioner: Is the item you are thinking of made of fabric?
+answerer: Yes.
+questioner: Is the item you are thinking of something that is worn on the upper body?
+answerer: Yes.
+questioner: Is the item you are thinking of typically worn outside?
+answerer: Yes.
+questioner: Is the item you are thinking of designed to keep the wearer warm?
+answerer: Yes.
+questioner: Is the item you are thinking of a coat?
+answerer: No.
+questioner: Is the item you are thinking of a jacket?
+answerer: Yes! That's correct.
+******************
+target = socks
+answerer: This is the list of candidates: cupboard, cabin, socks, tent, shack, pants, nylons, bra.
+questioner: Is the item you have assigned a piece of clothing?
+answerer: Yes.
+questioner: Is the item you have assigned typically worn on the upper body?
+answerer: No.
+questioner: Is the item you have assigned worn on the feet?
+answerer: Yes.
+questioner: Is the item you have assigned typically made out of cotton?
+answerer: Yes, it can be made of cotton.
+questioner: Is the item you have assigned worn mostly during cold weather?
+answerer: Yes, it is often worn during cold weather.
+questioner: Is the item you have assigned typically worn to keep the feet warm while sleeping?
+answerer: No, it is not typically worn to keep the feet warm while sleeping.
+questioner: Is the item you have assigned designed to cover the ankle?
+answerer: It depends on the type of socks. Some socks are designed to cover the ankle, while others are not.
+questioner: Is the item you have assigned a type of sock?
+answerer: Yes! That's correct.
+******************
+target = jacket
+answerer: This is the list of candidates: shack, bedroom, nightgown, cupboard, camisole, coat, hut, jacket.
+questioner: Is the item you're thinking of used for clothing?
+answerer: Yes.
+questioner: Is it an outerwear item?
+answerer: Yes.
+questioner: Is the item designed to keep you warm?
+answerer: Yes.
+questioner: Is it a jacket?
+answerer: Yes! That's correct.
+******************
+target = coat
+answerer: This is the list of candidates: bedroom, coat, jacket, shack, camisole, cupboard, nightgown, hut.
+questioner: Is the item you were assigned something you can wear?
+answerer: Yes.
+questioner: Is the item designed for outdoor use?
+answerer: Yes.
+questioner: Is the item typically made of fabric?
+answerer: Yes.
+questioner: Is the item designed to cover the upper body?
+answerer: Yes.
+questioner: Does the item have sleeves?
+answerer: Yes.
+questioner: Is the item you were assigned a jacket?
+answerer: No.
+questioner: Is the item you were assigned a coat?
+answerer: Yes! That's correct.

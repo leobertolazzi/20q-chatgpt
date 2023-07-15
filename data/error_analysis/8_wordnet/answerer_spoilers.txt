@@ -1,0 +1,126 @@
+____________________________________________
+dial_id = 15
+target = squirrel
+answerer: This is the list of candidates: unicycle, tractor, squirrel, chipmunk, fox, helicopter, airplane, hyena.
+questioner: Is the item you're thinking of a type of vehicle?
+answerer: No, it is not a type of vehicle.
+questioner: Is the item you're thinking of a type of animal?
+answerer: Yes, it is a type of animal.
+questioner: Does the animal you are thinking of live in the water?
+answerer: No, the animal I am thinking of does not live in the water.
+questioner: Is the animal you are thinking of a type of mammal?
+answerer: Yes, the animal I am thinking of is a type of mammal.
+questioner: Is the animal you are thinking of commonly kept as a pet?
+answerer: No, the animal I am thinking of is not commonly kept as a pet.
+questioner: Is the animal you are thinking of a type of rodent?
+answerer: Yes, the animal I am thinking of is a type of rodent.
+questioner: Is the animal you are thinking of larger than a squirrel?
+answerer: No, the animal I am thinking of is not larger than a squirrel.
+questioner: Is the animal you are thinking of brown in color?
+answerer: Yes, the animal I am thinking of is often brown in color.
+questioner: Is the animal you are thinking of commonly found in gardens or parks?
+answerer: Yes, the animal I am thinking of is commonly found in gardens or parks.
+questioner: It seems that the item you are thinking of is a chipmunk. Is that correct?
+answerer: No, the item I am thinking of is not a chipmunk. Keep guessing!
+questioner: My guess is that the item you are thinking of is a squirrel. Is that correct?
+answerer: Yes! That's correct. Congratulations!
+____________________________________________
+dial_id = 37
+target = turkey
+answerer: This is the list of candidates: flamingo, stork, dove, dog, turkey, porcupine, chipmunk, fox.
+questioner: Is your candidate a bird?
+answerer: Yes.
+questioner: Does your bird have long legs?
+answerer: Yes.
+questioner: Is the body of your bird pink in color?
+answerer: No.
+questioner: Is your bird carnivorous?
+answerer: Yes.
+questioner: Does your bird have a long, curved beak?
+answerer: Yes.
+questioner: Your candidate is either a flamingo or a stork. Does your bird have a white body?
+answerer: No.
+questioner: The answer is flamingo!
+answerer: I'm sorry, but the item assigned to me was turkey.
+questioner: Oh, I apologize for that. I’ll ask some questions to identify the turkey then. Is your candidate a bird?
+answerer: Yes.
+questioner: Is the body of your bird usually consumed during festive occasions like Thanksgiving?
+answerer: Yes.
+questioner: Does your bird have a fleshy, wattle-like protuberance on the neck?
+answerer: Yes.
+questioner: Your candidate is turkey!
+answerer: Yes! That's correct. Congratulations!
+____________________________________________
+dial_id = 71
+target = hut
+answerer: This is the list of candidates: rat, hamster, fox, bungalow, hut, shack, hyena, house.
+questioner: Is the item you were assigned an animal?
+answerer: No, it is not an animal.
+questioner: Does the item you were assigned provide shelter to humans?
+answerer: Yes, it does provide shelter to humans.
+questioner: Is the item you were assigned a type of house?
+answerer: It can be considered a type of house, but it is usually smaller and simpler than a typical house.
+questioner: Is the item you were assigned a type of hut?
+answerer: Yes, the item I was assigned is a hut.
+questioner: Great, you were assigned a hut! I hope you enjoyed playing this game.
+answerer: Thank you! It was fun playing this game with you.
+questioner: You're welcome! If you want to play again with a different list of items, just let me know.
+answerer: Sure, I would love to play again with a different list of items. Let's do it!
+questioner: Awesome! Here is a new list of candidates: baseball, football, basketball, soccer, tennis, golf, swimming, skiing, snowboarding, skateboarding.   What is the item you were assigned from this list?
+answerer: Thank you! Please assign me the item 'golf'.
+questioner: Sure! Let's start the game to find out what item you have been assigned!  - Is the item you were assigned a type of ball game?
+answerer: Yes, it is a type of ball game.
+questioner: Is the item you were assigned played on a field or a court?
+answerer: It is usually played on a field, but it can also be played on a course.
+questioner: Does the item you were assigned involve hitting a ball with a club?
+answerer: Yes, it does involve hitting a ball with a club.
+questioner: Great! You were assigned the item 'golf'. Congratulations!
+answerer: Yes, that's correct! Thank you, it was fun playing this game with you again.
+____________________________________________
+dial_id = 81
+target = house
+answerer: This is the list of candidates: closet, jacket, house, hose, coat, cottage, leotards, toilet.
+questioner: Is your item something you can wear?
+answerer: No, you cannot wear a house.
+questioner: Is your item made of fabric?
+answerer: No, a house is not made of fabric.
+questioner: Is your item found inside a building?
+answerer: A house is a building itself, so it is not found inside another building.
+questioner: Is your item primarily used for keeping a person warm?
+answerer: A house can provide warmth, but it is not primarily used for keeping a person warm.
+questioner: Is your item a piece of furniture?
+answerer: No, a house is not a piece of furniture.
+questioner: Is your item mainly used for cleaning?
+answerer: No, a house is not mainly used for cleaning.
+questioner: Is your item primarily used for carrying things?
+answerer: No, a house is not primarily used for carrying things.
+questioner: Is your item a type of clothing?
+answerer: No, a house is not a type of clothing.
+questioner: Is your item a type of covering?
+answerer: Yes, a house is a type of covering.
+questioner: Is your item something you can enter?
+answerer: Yes, a house is something you can enter.
+questioner: Great! Your item is a "Cottage".
+answerer: I'm sorry, but the item assigned to me is not a "Cottage". The item assigned to me is a "House".
+questioner: I apologize for this mistake. Great! Your item is a "House".
+answerer: Yes! That's correct. Congratulations!
+____________________________________________
+dial_id = 87
+target = socks
+answerer: This is the list of candidates: cupboard, cabin, socks, tent, shack, pants, nylons, bra.
+questioner: Is the item you have assigned a piece of clothing?
+answerer: Yes.
+questioner: Is the item you have assigned typically worn on the upper body?
+answerer: No.
+questioner: Is the item you have assigned worn on the feet?
+answerer: Yes.
+questioner: Is the item you have assigned typically made out of cotton?
+answerer: Yes, it can be made of cotton.
+questioner: Is the item you have assigned worn mostly during cold weather?
+answerer: Yes, it is often worn during cold weather.
+questioner: Is the item you have assigned typically worn to keep the feet warm while sleeping?
+answerer: No, it is not typically worn to keep the feet warm while sleeping.
+questioner: Is the item you have assigned designed to cover the ankle?
+answerer: It depends on the type of socks. Some socks are designed to cover the ankle, while others are not.
+questioner: Is the item you have assigned a type of sock?
+answerer: Yes! That's correct.

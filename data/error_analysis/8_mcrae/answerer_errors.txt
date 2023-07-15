@@ -1,0 +1,270 @@
+____________________________________________
+dial_id = 1
+target = fawn
+answerer: This is the list of candidates: budgie, zebra, deer, penguin, pelican, sheep, fawn, ostrich.
+questioner: Is the item you're thinking of an animal?
+answerer: Yes.
+questioner: Is the animal you're thinking of a bird?
+answerer: No.
+questioner: Does the animal you're thinking of have four legs?
+answerer: Yes.
+questioner: Is the animal you're thinking of commonly found in Africa?
+answerer: No.
+questioner: Is the animal you're thinking of often used for its wool or meat?
+answerer: No.
+questioner: Is the animal you're thinking of a herbivore?
+answerer: Yes.
+questioner: Does the animal you're thinking of have long-neck?
+answerer: No.
+questioner: Is the animal you're thinking of generally smaller in size?
+answerer: Yes.
+questioner: Is the animal you're thinking of often found in cold and icy climates?
+answerer: No.
+questioner: Is the animal you're thinking of a type of deer?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 26
+target = elk
+answerer: This is the list of candidates: otter, seal, celery, asparagus, tomato, elk, lion, pumpkin.
+questioner: Is the item an animal?
+answerer: Yes.
+questioner: Is the animal a mammal?
+answerer: Yes.
+questioner: Is the animal a marine mammal?
+answerer: No.
+questioner: Is the animal a carnivore?
+answerer: Yes.
+questioner: Is the animal a big cat?
+answerer: No.
+questioner: Is the animal an herbivore?
+answerer: No.
+questioner: Is the animal usually found in the forest?
+answerer: Yes.
+questioner: Is the animal a type of deer?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 29
+target = potato
+answerer: This is the list of candidates: eggplant, onions, fawn, chimp, pumpkin, platypus, walrus, potato.
+questioner: Is the item an animal?
+answerer: No, it's not an animal.
+questioner: Is the item a type of vegetable?
+answerer: Yes, it is a type of vegetable.
+questioner: Is the vegetable green?
+answerer: No, it's not green.
+questioner: Is the vegetable typically purple?
+answerer: No, it's not typically purple.
+questioner: Is the vegetable round and usually has a brown skin?
+answerer: Yes, that's correct.
+____________________________________________
+dial_id = 35
+target = bra
+answerer: This is the list of candidates: penguin, shoes, goose, tie, peacock, belt, oriole, bra.
+questioner: Is the item you are thinking of worn on the body?
+answerer: Yes.
+questioner: Is the item you are thinking of typically worn on the feet?
+answerer: No.
+questioner: Is the item you are thinking of typically worn by men?
+answerer: No.
+questioner: Does the item you are thinking of have any feathers on it?
+answerer: No.
+questioner: Is the item you are thinking of typically worn by women?
+answerer: Yes.
+questioner: Does the item you are thinking of go under the clothes?
+answerer: Yes.
+questioner: Is the item you are thinking of typically worn to support the bust?
+answerer: Yes! That's correct. The item assigned to me was bra.
+____________________________________________
+dial_id = 46
+target = tangerine
+answerer: This is the list of candidates: honeydew, avocado, duck, penguin, turkey, oriole, banana, tangerine.
+questioner: Is the item you are thinking of a type of fruit?
+answerer: Yes.
+questioner: Is the fruit green in color when it is ripe?
+answerer: No.
+questioner: Is the fruit you are thinking of elongated in shape?
+answerer: No.
+questioner: Is the fruit you are thinking of small and orange in color?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 56
+target = trousers
+answerer: This is the list of candidates: trousers, tomahawk, bazooka, camisole, cloak, catapult, robe, bomb.
+questioner: Is it a piece of clothing?
+answerer: Yes.
+questioner: Is it worn on the upper body?
+answerer: No.
+questioner: Is it worn on the lower body?
+answerer: Yes.
+questioner: Is it a type of pants?
+answerer: Yes.
+questioner: Is it a type of formal pants?
+answerer: It can be worn as formal pants, but it's not necessarily always formal.
+questioner: Does it have pockets?
+answerer: Yes.
+questioner: Is it made of denim fabric?
+answerer: It can be made of denim fabric, but it's not necessarily always made of denim.
+questioner: Is it a type of trousers that men usually wear?
+answerer: Both men and women can wear this type of trousers.
+questioner: Is it a type of chinos?
+answerer: No, it's not a type of chinos.
+questioner: Is it a type of dress pants?
+answerer: It can be worn as dress pants, but it's not necessarily always dress pants.
+questioner: Is the design of the trousers more formal than casual?
+answerer: It depends on the design, but generally, it can be worn as both formal and casual.
+questioner: Is it a type of slacks?
+answerer: Yes, it is a type of slacks.
+questioner: Thanks for playing this game with me. I guessed that your item was a pair of slacks.
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 61
+target = trousers
+answerer: This is the list of candidates: camisole, pants, rhubarb, grapefruit, pajamas, trousers, pumpkin, tomato.
+questioner: Is the item you were assigned a piece of clothing?
+answerer: Yes.
+questioner: Is the item you were assigned worn on the upper part of the body?
+answerer: No.
+questioner: Is the item you were assigned worn on the lower part of the body?
+answerer: Yes.
+questioner: Does the item you were assigned cover the entire legs?
+answerer: Yes.
+questioner: Is the item you were assigned typically worn by women?
+answerer: No.
+questioner: Is the item you were assigned usually made of denim material?
+answerer: It can be made of denim material, but it's not necessarily always made of denim.
+questioner: Is the item you were assigned typically worn for casual events rather than formal events?
+answerer: Yes, that's correct.
+____________________________________________
+dial_id = 62
+target = socks
+answerer: This is the list of candidates: avocado, honeydew, bra, socks, cantaloupe, pear, cloak, coat.
+questioner: Is the item you were assigned a fruit?
+answerer: No, it is not a fruit.
+questioner: Is the item you were assigned a piece of clothing?
+answerer: Yes, it is a piece of clothing.
+questioner: Is the item you were assigned worn on the upper body?
+answerer: No, it is not worn on the upper body.
+questioner: Is the item you were assigned worn on the lower body?
+answerer: No, it is not worn on the lower body either.
+questioner: Is the item you were assigned typically worn indoors?
+answerer: It can be worn both indoors and outdoors.
+questioner: Does the item you were assigned have sleeves?
+answerer: No, it does not have sleeves.
+questioner: Is the item you were assigned typically worn around the neck?
+answerer: No, it is not typically worn around the neck.
+questioner: Is the item you were assigned something that is worn to protect oneself from the cold or rain?
+answerer: Yes, it is often worn to protect oneself from the cold.
+questioner: Is the item you were assigned a type of jacket?
+answerer: No, it is not a type of jacket.
+questioner: Is the item you were assigned a shawl or a wrap?
+answerer: No, it is not a shawl or a wrap.
+questioner: Is the item you were assigned a hoodie?
+answerer: No, it is not a hoodie.
+questioner: Is the item you were assigned a vest?
+answerer: No, it is not a vest.
+questioner: Is the item you were assigned a scarf?
+answerer: Yes, that's correct! The item assigned to me is socks.
+____________________________________________
+dial_id = 74
+target = bomb
+answerer: This is the list of candidates: apple, rock, bomb, pumpkin, stone, grapefruit, crossbow, cherry.
+questioner: Is the item you're thinking of a fruit?
+answerer: No, it's not a fruit.
+questioner: Is the item you're thinking of a type of weapon?
+answerer: Yes, it is a type of weapon.
+questioner: Is the weapon you're thinking of a handheld weapon?
+answerer: Yes, it is a handheld weapon.
+questioner: Can the weapon you're thinking of be used in melee combat?
+answerer: Yes, it can be used in melee combat.
+questioner: Is the weapon you're thinking of a bladed weapon?
+answerer: No, it's not a bladed weapon.
+questioner: Is the weapon you're thinking of a ranged weapon?
+answerer: No, it's not a ranged weapon.
+questioner: Is the weapon you're thinking of often used by the police?
+answerer: Yes, it is often used by the police.
+questioner: Is the weapon you're thinking of a type of stick?
+answerer: Yes, it is a type of stick.
+questioner: Great, so the weapon you're thinking of is a baton, right?
+answerer: No, it's not a baton.
+questioner: My apologies for the mistake. Is the weapon you're thinking of a type of club?
+answerer: Yes, it is a type of club.
+questioner: Fantastic, your item is a nightstick, isn't it?
+answerer: No, it's not a nightstick.
+questioner: I'm sorry for getting it wrong again. Is the weapon you're thinking of made of wood?
+answerer: No, it's not made of wood.
+questioner: Is it a metal club-like weapon?
+answerer: Yes, it is a metal club-like weapon.
+questioner: I think I know which weapon you're thinking of; is it a police baton made out of metal?
+answerer: No, it's not a police baton.
+questioner: I apologize for the mistake. Let me try again. Is the club-like weapon you're thinking of used by mace-bearers?
+answerer: Yes, it is used by mace-bearers.
+questioner: Great, then the item you are thinking of is a mace, right?
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 79
+target = rocket
+answerer: This is the list of candidates: rocket, pickle, cannon, crowbar, avocado, grenade, radish, mushroom.
+questioner: Is the item you are thinking of a food?
+answerer: No, it's not a food.
+questioner: Is the item you are thinking of a tool?
+answerer: No, it's not a tool.
+questioner: Is the item you are thinking of a weapon?
+answerer: No, it's not a weapon.
+questioner: Is the item you are thinking of a natural object?
+answerer: No, it's not a natural object.
+questioner: Is the item you are thinking of a mode of transportation?
+answerer: Yes, it is a mode of transportation.
+questioner: Is the item you are thinking of a ground vehicle?
+answerer: No, it's not a ground vehicle.
+questioner: Is the item you are thinking of a watercraft?
+answerer: No, it's not a watercraft.
+questioner: Is the item you are thinking of an aircraft?
+answerer: Yes, it is an aircraft.
+questioner: Is the item you are thinking of a commercial airliner?
+answerer: No, it's not a commercial airliner.
+questioner: Is the item you are thinking of a military aircraft?
+answerer: No, it's not a military aircraft.
+questioner: Is the item you are thinking of a spaceship?
+answerer: Yes! That's correct. The item I was thinking of is a rocket. Well done!
+____________________________________________
+dial_id = 86
+target = coconut
+answerer: This is the list of candidates: lemon, beets, orange, beans, mushroom, coconut, raspberry, radish.
+questioner: Is the item you have a fruit?
+answerer: Yes, it is a fruit.
+questioner: Is the fruit you have a citrus fruit?
+answerer: No, it is not a citrus fruit.
+questioner: Does the fruit you have have a red or pink color?
+answerer: No, it does not have a red or pink color.
+questioner: Is the fruit you have commonly yellow in color when ripe?
+answerer: No, it is not commonly yellow when ripe.
+questioner: Is the fruit you have normally purple or deep red in color?
+answerer: No, it is not normally purple or deep red in color.
+questioner: Is the fruit you have commonly used for making desserts or sweets?
+answerer: Yes, it is commonly used for making desserts or sweets.
+questioner: Is the fruit you have small in size and usually red?
+answerer: No, it is not small in size and usually red.
+questioner: Does the fruit you have have a fuzzy exterior?
+answerer: No, it does not have a fuzzy exterior.
+questioner: Is the fruit you have commonly used for making juices?
+answerer: Yes, it is commonly used for making juices.
+questioner: Based on your previous answers, I believe the item you have is 'orange'. Is that correct?
+answerer: No, I'm sorry, that's not correct. The item assigned to me is coconut.
+questioner: I see. I apologize for the mistake. Thank you for playing the game!
+answerer: You're welcome! It was fun playing the game with you.
+questioner: I'm glad to hear that. If you would like to play again with a different list of candidates, just let me know.
+answerer: Sure, I'd love to play again with a different list of candidates. Let's start!
+questioner: Great! Here is your new list of candidates: pencil, pen, marker, crayon, chalk, highlighter, paintbrush, eraser.
+answerer: Thank you! I'm ready to play.
+questioner: Is the item you have used mainly for drawing or coloring?
+answerer: Yes, it is mainly used for drawing or coloring.
+questioner: Is the item you have made of wax?
+answerer: Yes, it is made of wax.
+questioner: Can the item you have be sharpened?
+answerer: Yes, it can be sharpened.
+questioner: Is the item you have usually long and thin?
+answerer: Yes, it is usually long and thin.
+questioner: Does the item you have come in a box with multiple colors?
+answerer: Yes, it often comes in a box with multiple colors.
+questioner: Based on your previous answers, I believe the item you have is 'crayon'. Is that correct?
+answerer: Yes, that's correct! Well done!

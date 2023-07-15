@@ -1,0 +1,3962 @@
+{
+  "0": {
+    "items": [
+      [
+        [
+          "bear",
+          "hippopotamus"
+        ],
+        "is a mammal",
+        "not is a bird",
+        "is dangerous",
+        "not requires water"
+      ],
+      [
+        [
+          "dalmatian",
+          "dog"
+        ],
+        "is a mammal",
+        "not is a bird",
+        "not is dangerous",
+        "requires water"
+      ],
+      [
+        [
+          "hawk",
+          "chick"
+        ],
+        "not is a mammal",
+        "is a bird",
+        "has a beak",
+        "not is social"
+      ],
+      [
+        [
+          "toucan",
+          "flamingo"
+        ],
+        "not is a mammal",
+        "is a bird",
+        "not has a beak",
+        "is social"
+      ]
+    ]
+  },
+  "1": {
+    "items": [
+      [
+        [
+          "boar",
+          "bear"
+        ],
+        "is a mammal",
+        "not is a bird",
+        "is dangerous",
+        "not has a distinct smell"
+      ],
+      [
+        [
+          "skunk",
+          "cow"
+        ],
+        "is a mammal",
+        "not is a bird",
+        "not is dangerous",
+        "has a distinct smell"
+      ],
+      [
+        [
+          "owl",
+          "eagle"
+        ],
+        "not is a mammal",
+        "is a bird",
+        "has a beak",
+        "not is white"
+      ],
+      [
+        [
+          "puffin",
+          "pelican"
+        ],
+        "not is a mammal",
+        "is a bird",
+        "not has a beak",
+        "is white"
+      ]
+    ]
+  },
+  "2": {
+    "items": [
+      [
+        [
+          "hippopotamus",
+          "boar"
+        ],
+        "is a mammal",
+        "not is a bird",
+        "is dangerous",
+        "not has claws"
+      ],
+      [
+        [
+          "tiger",
+          "squirrel"
+        ],
+        "is a mammal",
+        "not is a bird",
+        "not is dangerous",
+        "has claws"
+      ],
+      [
+        [
+          "pheasant",
+          "peacock"
+        ],
+        "not is a mammal",
+        "is a bird",
+        "is found in asia",
+        "not lives in water"
+      ],
+      [
+        [
+          "flamingo",
+          "swan"
+        ],
+        "not is a mammal",
+        "is a bird",
+        "not is found in asia",
+        "lives in water"
+      ]
+    ]
+  },
+  "3": {
+    "items": [
+      [
+        [
+          "pheasant",
+          "duck"
+        ],
+        "is a bird",
+        "not is a mammal",
+        "is used to hunt",
+        "not has long legs"
+      ],
+      [
+        [
+          "ostrich",
+          "flamingo"
+        ],
+        "is a bird",
+        "not is a mammal",
+        "not is used to hunt",
+        "has long legs"
+      ],
+      [
+        [
+          "otter",
+          "platypus"
+        ],
+        "not is a bird",
+        "is a mammal",
+        "is brown in color",
+        "not has teeth"
+      ],
+      [
+        [
+          "piglet",
+          "puppy"
+        ],
+        "not is a bird",
+        "is a mammal",
+        "not is brown in color",
+        "has teeth"
+      ]
+    ]
+  },
+  "4": {
+    "items": [
+      [
+        [
+          "duck",
+          "pheasant"
+        ],
+        "is a bird",
+        "not is a mammal",
+        "is used to hunt",
+        "not is a predator"
+      ],
+      [
+        [
+          "eagle",
+          "hawk"
+        ],
+        "is a bird",
+        "not is a mammal",
+        "not is used to hunt",
+        "is a predator"
+      ],
+      [
+        [
+          "otter",
+          "bison"
+        ],
+        "not is a bird",
+        "is a mammal",
+        "is brown in color",
+        "not is a predator"
+      ],
+      [
+        [
+          "weasel",
+          "cheetah"
+        ],
+        "not is a bird",
+        "is a mammal",
+        "not is brown in color",
+        "is a predator"
+      ]
+    ]
+  },
+  "5": {
+    "items": [
+      [
+        [
+          "pheasant",
+          "duck"
+        ],
+        "is a bird",
+        "not is a mammal",
+        "is used to hunt",
+        "not is trained"
+      ],
+      [
+        [
+          "pigeon",
+          "parrot"
+        ],
+        "is a bird",
+        "not is a mammal",
+        "not is used to hunt",
+        "is trained"
+      ],
+      [
+        [
+          "deer",
+          "bison"
+        ],
+        "not is a bird",
+        "is a mammal",
+        "is brown in color",
+        "not swims"
+      ],
+      [
+        [
+          "dog",
+          "dolphin"
+        ],
+        "not is a bird",
+        "is a mammal",
+        "not is brown in color",
+        "swims"
+      ]
+    ]
+  },
+  "6": {
+    "items": [
+      [
+        [
+          "platypus",
+          "otter"
+        ],
+        "is a mammal",
+        "not is a clothing",
+        "has webbed feet",
+        "not is hunted by predators"
+      ],
+      [
+        [
+          "gazelle",
+          "seal"
+        ],
+        "is a mammal",
+        "not is a clothing",
+        "not has webbed feet",
+        "is hunted by predators"
+      ],
+      [
+        [
+          "nightshirt",
+          "coverall"
+        ],
+        "not is a mammal",
+        "is a clothing",
+        "has sleeves",
+        "not is made from various materials"
+      ],
+      [
+        [
+          "pantsuit",
+          "suit"
+        ],
+        "not is a mammal",
+        "is a clothing",
+        "not has sleeves",
+        "is made from various materials"
+      ]
+    ]
+  },
+  "7": {
+    "items": [
+      [
+        [
+          "platypus",
+          "beaver"
+        ],
+        "is a mammal",
+        "not is a clothing",
+        "has webbed feet",
+        "not has sharp claws"
+      ],
+      [
+        [
+          "skunk",
+          "coyote"
+        ],
+        "is a mammal",
+        "not is a clothing",
+        "not has webbed feet",
+        "has sharp claws"
+      ],
+      [
+        [
+          "jumpsuit",
+          "undershirt"
+        ],
+        "not is a mammal",
+        "is a clothing",
+        "has sleeves",
+        "not comes in different colors and patterns"
+      ],
+      [
+        [
+          "turtleneck",
+          "leotard"
+        ],
+        "not is a mammal",
+        "is a clothing",
+        "not has sleeves",
+        "comes in different colors and patterns"
+      ]
+    ]
+  },
+  "8": {
+    "items": [
+      [
+        [
+          "platypus",
+          "beaver"
+        ],
+        "is a mammal",
+        "not is a clothing",
+        "has webbed feet",
+        "not has short legs"
+      ],
+      [
+        [
+          "mongoose",
+          "badger"
+        ],
+        "is a mammal",
+        "not is a clothing",
+        "not has webbed feet",
+        "has short legs"
+      ],
+      [
+        [
+          "wetsuit",
+          "jersey"
+        ],
+        "not is a mammal",
+        "is a clothing",
+        "has sleeves",
+        "not comes in different colors and designs"
+      ],
+      [
+        [
+          "muff",
+          "bikini"
+        ],
+        "not is a mammal",
+        "is a clothing",
+        "not has sleeves",
+        "comes in different colors and designs"
+      ]
+    ]
+  },
+  "9": {
+    "items": [
+      [
+        [
+          "sweater",
+          "suit"
+        ],
+        "is a clothing",
+        "not is a mammal",
+        "comes in different colors and patterns",
+        "not comes in different colors and sizes"
+      ],
+      [
+        [
+          "hoodie",
+          "raincoat"
+        ],
+        "is a clothing",
+        "not is a mammal",
+        "not comes in different colors and patterns",
+        "comes in different colors and sizes"
+      ],
+      [
+        [
+          "man",
+          "monkey"
+        ],
+        "not is a clothing",
+        "is a mammal",
+        "has hair",
+        "not has a pointed snout"
+      ],
+      [
+        [
+          "badger",
+          "mole"
+        ],
+        "not is a clothing",
+        "is a mammal",
+        "not has hair",
+        "has a pointed snout"
+      ]
+    ]
+  },
+  "10": {
+    "items": [
+      [
+        [
+          "blouse",
+          "pantsuit"
+        ],
+        "is a clothing",
+        "not is a mammal",
+        "comes in different colors and patterns",
+        "not comes in different sizes and colors"
+      ],
+      [
+        [
+          "sweatsuit",
+          "coverall"
+        ],
+        "is a clothing",
+        "not is a mammal",
+        "not comes in different colors and patterns",
+        "comes in different sizes and colors"
+      ],
+      [
+        [
+          "man",
+          "monkey"
+        ],
+        "not is a clothing",
+        "is a mammal",
+        "has hair",
+        "not has sharp claws"
+      ],
+      [
+        [
+          "panther",
+          "squirrel"
+        ],
+        "not is a clothing",
+        "is a mammal",
+        "not has hair",
+        "has sharp claws"
+      ]
+    ]
+  },
+  "11": {
+    "items": [
+      [
+        [
+          "bikini",
+          "blouse"
+        ],
+        "is a clothing",
+        "not is a mammal",
+        "comes in different colors and patterns",
+        "not is often brightly colored"
+      ],
+      [
+        [
+          "swimsuit",
+          "snowsuit"
+        ],
+        "is a clothing",
+        "not is a mammal",
+        "not comes in different colors and patterns",
+        "is often brightly colored"
+      ],
+      [
+        [
+          "antelope",
+          "man"
+        ],
+        "not is a clothing",
+        "is a mammal",
+        "has hair",
+        "not is marine"
+      ],
+      [
+        [
+          "manatee",
+          "dolphin"
+        ],
+        "not is a clothing",
+        "is a mammal",
+        "not has hair",
+        "is marine"
+      ]
+    ]
+  },
+  "12": {
+    "items": [
+      [
+        [
+          "goat",
+          "skunk"
+        ],
+        "is a mammal",
+        "not is a weapon",
+        "has a strong aroma",
+        "not is powerful"
+      ],
+      [
+        [
+          "hippopotamus",
+          "lion"
+        ],
+        "is a mammal",
+        "not is a weapon",
+        "not has a strong aroma",
+        "is powerful"
+      ],
+      [
+        [
+          "cannon",
+          "grenade"
+        ],
+        "not is a mammal",
+        "is a weapon",
+        "is used in warfare",
+        "not is used for fishing"
+      ],
+      [
+        [
+          "blowgun",
+          "trident"
+        ],
+        "not is a mammal",
+        "is a weapon",
+        "not is used in warfare",
+        "is used for fishing"
+      ]
+    ]
+  },
+  "13": {
+    "items": [
+      [
+        [
+          "goat",
+          "skunk"
+        ],
+        "is a mammal",
+        "not is a weapon",
+        "has a strong aroma",
+        "not requires water"
+      ],
+      [
+        [
+          "dog",
+          "puppy"
+        ],
+        "is a mammal",
+        "not is a weapon",
+        "not has a strong aroma",
+        "requires water"
+      ],
+      [
+        [
+          "grenade",
+          "cannon"
+        ],
+        "not is a mammal",
+        "is a weapon",
+        "is used in warfare",
+        "not has a sharp point"
+      ],
+      [
+        [
+          "dagger",
+          "arrow"
+        ],
+        "not is a mammal",
+        "is a weapon",
+        "not is used in warfare",
+        "has a sharp point"
+      ]
+    ]
+  },
+  "14": {
+    "items": [
+      [
+        [
+          "goat",
+          "skunk"
+        ],
+        "is a mammal",
+        "not is a weapon",
+        "has a strong aroma",
+        "not lives in water"
+      ],
+      [
+        [
+          "whale",
+          "hippopotamus"
+        ],
+        "is a mammal",
+        "not is a weapon",
+        "not has a strong aroma",
+        "lives in water"
+      ],
+      [
+        [
+          "grenade",
+          "bomb"
+        ],
+        "not is a mammal",
+        "is a weapon",
+        "is used in warfare",
+        "not is heavy"
+      ],
+      [
+        [
+          "revolver",
+          "crossbow"
+        ],
+        "not is a mammal",
+        "is a weapon",
+        "not is used in warfare",
+        "is heavy"
+      ]
+    ]
+  },
+  "15": {
+    "items": [
+      [
+        [
+          "skunk",
+          "goat"
+        ],
+        "is a mammal",
+        "not is a weapon",
+        "has a strong aroma",
+        "not lives in the ocean"
+      ],
+      [
+        [
+          "dolphin",
+          "seal"
+        ],
+        "is a mammal",
+        "not is a weapon",
+        "not has a strong aroma",
+        "lives in the ocean"
+      ],
+      [
+        [
+          "cannon",
+          "spear"
+        ],
+        "not is a mammal",
+        "is a weapon",
+        "is used in warfare",
+        "not is straight"
+      ],
+      [
+        [
+          "arrow",
+          "sword"
+        ],
+        "not is a mammal",
+        "is a weapon",
+        "not is used in warfare",
+        "is straight"
+      ]
+    ]
+  },
+  "16": {
+    "items": [
+      [
+        [
+          "goat",
+          "skunk"
+        ],
+        "is a mammal",
+        "not is a weapon",
+        "has a strong aroma",
+        "not is marine"
+      ],
+      [
+        [
+          "walrus",
+          "seal"
+        ],
+        "is a mammal",
+        "not is a weapon",
+        "not has a strong aroma",
+        "is marine"
+      ],
+      [
+        [
+          "bazooka",
+          "landmine"
+        ],
+        "not is a mammal",
+        "is a weapon",
+        "is used in warfare",
+        "not has a sharp blade"
+      ],
+      [
+        [
+          "dagger",
+          "sword"
+        ],
+        "not is a mammal",
+        "is a weapon",
+        "not is used in warfare",
+        "has a sharp blade"
+      ]
+    ]
+  },
+  "17": {
+    "items": [
+      [
+        [
+          "goat",
+          "skunk"
+        ],
+        "is a mammal",
+        "not is a weapon",
+        "has a strong aroma",
+        "not is brown in color"
+      ],
+      [
+        [
+          "groundhog",
+          "platypus"
+        ],
+        "is a mammal",
+        "not is a weapon",
+        "not has a strong aroma",
+        "is brown in color"
+      ],
+      [
+        [
+          "bomb",
+          "catapult"
+        ],
+        "not is a mammal",
+        "is a weapon",
+        "is used in warfare",
+        "not has a trigger"
+      ],
+      [
+        [
+          "gun",
+          "revolver"
+        ],
+        "not is a mammal",
+        "is a weapon",
+        "not is used in warfare",
+        "has a trigger"
+      ]
+    ]
+  },
+  "18": {
+    "items": [
+      [
+        [
+          "pug",
+          "chinchilla"
+        ],
+        "is a mammal",
+        "not is a fruit",
+        "is popular",
+        "not is heavy"
+      ],
+      [
+        [
+          "bison",
+          "moose"
+        ],
+        "is a mammal",
+        "not is a fruit",
+        "not is popular",
+        "is heavy"
+      ],
+      [
+        [
+          "nut",
+          "mulberry"
+        ],
+        "not is a mammal",
+        "is a fruit",
+        "is a small",
+        "not is tangy"
+      ],
+      [
+        [
+          "pomegranate",
+          "raspberry"
+        ],
+        "not is a mammal",
+        "is a fruit",
+        "not is a small",
+        "is tangy"
+      ]
+    ]
+  },
+  "19": {
+    "items": [
+      [
+        [
+          "pug",
+          "chihuahua"
+        ],
+        "is a mammal",
+        "not is a fruit",
+        "is popular",
+        "not lives in water"
+      ],
+      [
+        [
+          "manatee",
+          "otter"
+        ],
+        "is a mammal",
+        "not is a fruit",
+        "not is popular",
+        "lives in water"
+      ],
+      [
+        [
+          "kiwi",
+          "mulberry"
+        ],
+        "not is a mammal",
+        "is a fruit",
+        "is a small",
+        "not is yellow"
+      ],
+      [
+        [
+          "banana",
+          "pear"
+        ],
+        "not is a mammal",
+        "is a fruit",
+        "not is a small",
+        "is yellow"
+      ]
+    ]
+  },
+  "20": {
+    "items": [
+      [
+        [
+          "hamster",
+          "cat"
+        ],
+        "is a mammal",
+        "not is a fruit",
+        "is popular",
+        "not has a long"
+      ],
+      [
+        [
+          "ferret",
+          "mongoose"
+        ],
+        "is a mammal",
+        "not is a fruit",
+        "not is popular",
+        "has a long"
+      ],
+      [
+        [
+          "kiwi",
+          "nut"
+        ],
+        "not is a mammal",
+        "is a fruit",
+        "is a small",
+        "not is eaten cooked"
+      ],
+      [
+        [
+          "gourd",
+          "squash"
+        ],
+        "not is a mammal",
+        "is a fruit",
+        "not is a small",
+        "is eaten cooked"
+      ]
+    ]
+  },
+  "21": {
+    "items": [
+      [
+        [
+          "pumpkin",
+          "pump"
+        ],
+        "is a fruit",
+        "not is a mammal",
+        "is used for decoration",
+        "not is low in calories"
+      ],
+      [
+        [
+          "grapefruit",
+          "plum"
+        ],
+        "is a fruit",
+        "not is a mammal",
+        "not is used for decoration",
+        "is low in calories"
+      ],
+      [
+        [
+          "badger",
+          "camel"
+        ],
+        "not is a fruit",
+        "is a mammal",
+        "is an animal",
+        "not has sharp teeth"
+      ],
+      [
+        [
+          "weasel",
+          "puppy"
+        ],
+        "not is a fruit",
+        "is a mammal",
+        "not is an animal",
+        "has sharp teeth"
+      ]
+    ]
+  },
+  "22": {
+    "items": [
+      [
+        [
+          "gourd",
+          "pumpkin"
+        ],
+        "is a fruit",
+        "not is a mammal",
+        "is used for decoration",
+        "not is brown in color"
+      ],
+      [
+        [
+          "prune",
+          "raisin"
+        ],
+        "is a fruit",
+        "not is a mammal",
+        "not is used for decoration",
+        "is brown in color"
+      ],
+      [
+        [
+          "rhinoceros",
+          "meerkat"
+        ],
+        "not is a fruit",
+        "is a mammal",
+        "is an animal",
+        "not is a pet"
+      ],
+      [
+        [
+          "puppy",
+          "pug"
+        ],
+        "not is a fruit",
+        "is a mammal",
+        "not is an animal",
+        "is a pet"
+      ]
+    ]
+  },
+  "23": {
+    "items": [
+      [
+        [
+          "pump",
+          "pumpkin"
+        ],
+        "is a fruit",
+        "not is a mammal",
+        "is used for decoration",
+        "not has a distinctive shape"
+      ],
+      [
+        [
+          "pear",
+          "walnut"
+        ],
+        "is a fruit",
+        "not is a mammal",
+        "not is used for decoration",
+        "has a distinctive shape"
+      ],
+      [
+        [
+          "tiger",
+          "chihuahua"
+        ],
+        "not is a fruit",
+        "is a mammal",
+        "is an animal",
+        "not lives in water"
+      ],
+      [
+        [
+          "dolphin",
+          "manatee"
+        ],
+        "not is a fruit",
+        "is a mammal",
+        "not is an animal",
+        "lives in water"
+      ]
+    ]
+  },
+  "24": {
+    "items": [
+      [
+        [
+          "dalmatian",
+          "puppy"
+        ],
+        "is a mammal",
+        "not is a vegetable",
+        "requires water",
+        "not has a long"
+      ],
+      [
+        [
+          "ferret",
+          "weasel"
+        ],
+        "is a mammal",
+        "not is a vegetable",
+        "not requires water",
+        "has a long"
+      ],
+      [
+        [
+          "bean",
+          "pea"
+        ],
+        "not is a mammal",
+        "is a vegetable",
+        "is high in protein",
+        "not is long"
+      ],
+      [
+        [
+          "rhubarb",
+          "asparagus"
+        ],
+        "not is a mammal",
+        "is a vegetable",
+        "not is high in protein",
+        "is long"
+      ]
+    ]
+  },
+  "25": {
+    "items": [
+      [
+        [
+          "puppy",
+          "dog"
+        ],
+        "is a mammal",
+        "not is a vegetable",
+        "requires water",
+        "not is various colors"
+      ],
+      [
+        [
+          "pony",
+          "chihuahua"
+        ],
+        "is a mammal",
+        "not is a vegetable",
+        "not requires water",
+        "is various colors"
+      ],
+      [
+        [
+          "bean",
+          "pea"
+        ],
+        "not is a mammal",
+        "is a vegetable",
+        "is high in protein",
+        "not is high in vitamins"
+      ],
+      [
+        [
+          "lettuce",
+          "cauliflower"
+        ],
+        "not is a mammal",
+        "is a vegetable",
+        "not is high in protein",
+        "is high in vitamins"
+      ]
+    ]
+  },
+  "26": {
+    "items": [
+      [
+        [
+          "dalmatian",
+          "dog"
+        ],
+        "is a mammal",
+        "not is a vegetable",
+        "requires water",
+        "not eats plants"
+      ],
+      [
+        [
+          "groundhog",
+          "kangaroo"
+        ],
+        "is a mammal",
+        "not is a vegetable",
+        "not requires water",
+        "eats plants"
+      ],
+      [
+        [
+          "pea",
+          "bean"
+        ],
+        "not is a mammal",
+        "is a vegetable",
+        "is high in protein",
+        "not is a source of vitamins"
+      ],
+      [
+        [
+          "celery",
+          "asparagus"
+        ],
+        "not is a mammal",
+        "is a vegetable",
+        "not is high in protein",
+        "is a source of vitamins"
+      ]
+    ]
+  },
+  "27": {
+    "items": [
+      [
+        [
+          "gourd",
+          "arugula"
+        ],
+        "is a vegetable",
+        "not is a mammal",
+        "is nutritious",
+        "not is a food"
+      ],
+      [
+        [
+          "sauerkraut",
+          "pickle"
+        ],
+        "is a vegetable",
+        "not is a mammal",
+        "not is nutritious",
+        "is a food"
+      ],
+      [
+        [
+          "zebra",
+          "alpaca"
+        ],
+        "not is a vegetable",
+        "is a mammal",
+        "is herbivorous",
+        "not has hair"
+      ],
+      [
+        [
+          "man",
+          "boar"
+        ],
+        "not is a vegetable",
+        "is a mammal",
+        "not is herbivorous",
+        "has hair"
+      ]
+    ]
+  },
+  "28": {
+    "items": [
+      [
+        [
+          "arugula",
+          "asparagus"
+        ],
+        "is a vegetable",
+        "not is a mammal",
+        "is nutritious",
+        "not is used in soups"
+      ],
+      [
+        [
+          "garlic",
+          "okra"
+        ],
+        "is a vegetable",
+        "not is a mammal",
+        "not is nutritious",
+        "is used in soups"
+      ],
+      [
+        [
+          "alpaca",
+          "porcupine"
+        ],
+        "not is a vegetable",
+        "is a mammal",
+        "is herbivorous",
+        "not is gray"
+      ],
+      [
+        [
+          "dolphin",
+          "squirrel"
+        ],
+        "not is a vegetable",
+        "is a mammal",
+        "not is herbivorous",
+        "is gray"
+      ]
+    ]
+  },
+  "29": {
+    "items": [
+      [
+        [
+          "pea",
+          "gourd"
+        ],
+        "is a vegetable",
+        "not is a mammal",
+        "is nutritious",
+        "not has a distinct smell"
+      ],
+      [
+        [
+          "sauerkraut",
+          "pickle"
+        ],
+        "is a vegetable",
+        "not is a mammal",
+        "not is nutritious",
+        "has a distinct smell"
+      ],
+      [
+        [
+          "gazelle",
+          "lamb"
+        ],
+        "not is a vegetable",
+        "is a mammal",
+        "is herbivorous",
+        "not is brown"
+      ],
+      [
+        [
+          "squirrel",
+          "hedgehog"
+        ],
+        "not is a vegetable",
+        "is a mammal",
+        "not is herbivorous",
+        "is brown"
+      ]
+    ]
+  },
+  "30": {
+    "items": [
+      [
+        [
+          "turkey",
+          "hummingbird"
+        ],
+        "is a bird",
+        "not is a clothing",
+        "has wings",
+        "not has webbed feet"
+      ],
+      [
+        [
+          "duckling",
+          "flamingo"
+        ],
+        "is a bird",
+        "not is a clothing",
+        "not has wings",
+        "has webbed feet"
+      ],
+      [
+        [
+          "lingerie",
+          "nightshirt"
+        ],
+        "not is a bird",
+        "is a clothing",
+        "is made of silk",
+        "not has designs"
+      ],
+      [
+        [
+          "t-shirt",
+          "stockings"
+        ],
+        "not is a bird",
+        "is a clothing",
+        "not is made of silk",
+        "has designs"
+      ]
+    ]
+  },
+  "31": {
+    "items": [
+      [
+        [
+          "swan",
+          "flamingo"
+        ],
+        "is a bird",
+        "not is a clothing",
+        "lives in water",
+        "not has sharp claws"
+      ],
+      [
+        [
+          "ostrich",
+          "pheasant"
+        ],
+        "is a bird",
+        "not is a clothing",
+        "not lives in water",
+        "has sharp claws"
+      ],
+      [
+        [
+          "nightshirt",
+          "lingerie"
+        ],
+        "not is a bird",
+        "is a clothing",
+        "is made of silk",
+        "not is used for protection"
+      ],
+      [
+        [
+          "coverall",
+          "overalls"
+        ],
+        "not is a bird",
+        "is a clothing",
+        "not is made of silk",
+        "is used for protection"
+      ]
+    ]
+  },
+  "32": {
+    "items": [
+      [
+        [
+          "swan",
+          "flamingo"
+        ],
+        "is a bird",
+        "not is a clothing",
+        "lives in water",
+        "not has a curved shape"
+      ],
+      [
+        [
+          "puffin",
+          "hawk"
+        ],
+        "is a bird",
+        "not is a clothing",
+        "not lives in water",
+        "has a curved shape"
+      ],
+      [
+        [
+          "lingerie",
+          "nightshirt"
+        ],
+        "not is a bird",
+        "is a clothing",
+        "is made of silk",
+        "not is colorful"
+      ],
+      [
+        [
+          "bikini",
+          "leotard"
+        ],
+        "not is a bird",
+        "is a clothing",
+        "not is made of silk",
+        "is colorful"
+      ]
+    ]
+  },
+  "33": {
+    "items": [
+      [
+        [
+          "jersey",
+          "sweatsuit"
+        ],
+        "is a clothing",
+        "not is a bird",
+        "is made of cotton or synthetic materials",
+        "not has different lengths"
+      ],
+      [
+        [
+          "skirt",
+          "pants"
+        ],
+        "is a clothing",
+        "not is a bird",
+        "not is made of cotton or synthetic materials",
+        "has different lengths"
+      ],
+      [
+        [
+          "crow",
+          "chick"
+        ],
+        "not is a clothing",
+        "is a bird",
+        "eats insects",
+        "not swims"
+      ],
+      [
+        [
+          "swan",
+          "seagull"
+        ],
+        "not is a clothing",
+        "is a bird",
+        "not eats insects",
+        "swims"
+      ]
+    ]
+  },
+  "34": {
+    "items": [
+      [
+        [
+          "jersey",
+          "hoodie"
+        ],
+        "is a clothing",
+        "not is a bird",
+        "is made of cotton or synthetic materials",
+        "not comes in various sizes and colors"
+      ],
+      [
+        [
+          "stockings",
+          "jeans"
+        ],
+        "is a clothing",
+        "not is a bird",
+        "not is made of cotton or synthetic materials",
+        "comes in various sizes and colors"
+      ],
+      [
+        [
+          "toucan",
+          "crow"
+        ],
+        "not is a clothing",
+        "is a bird",
+        "eats insects",
+        "not has a long neck"
+      ],
+      [
+        [
+          "pelican",
+          "swan"
+        ],
+        "not is a clothing",
+        "is a bird",
+        "not eats insects",
+        "has a long neck"
+      ]
+    ]
+  },
+  "35": {
+    "items": [
+      [
+        [
+          "t-shirt",
+          "sweatsuit"
+        ],
+        "is a clothing",
+        "not is a bird",
+        "is made of cotton or synthetic materials",
+        "not is often brightly colored"
+      ],
+      [
+        [
+          "leotard",
+          "snowsuit"
+        ],
+        "is a clothing",
+        "not is a bird",
+        "not is made of cotton or synthetic materials",
+        "is often brightly colored"
+      ],
+      [
+        [
+          "pheasant",
+          "owl"
+        ],
+        "not is a clothing",
+        "is a bird",
+        "eats insects",
+        "not is cute"
+      ],
+      [
+        [
+          "penguin",
+          "puffin"
+        ],
+        "not is a clothing",
+        "is a bird",
+        "not eats insects",
+        "is cute"
+      ]
+    ]
+  },
+  "36": {
+    "items": [
+      [
+        [
+          "catapult",
+          "slingshot"
+        ],
+        "is a weapon",
+        "not is a bird",
+        "is made of wood",
+        "not has fins"
+      ],
+      [
+        [
+          "torpedo",
+          "missile"
+        ],
+        "is a weapon",
+        "not is a bird",
+        "not is made of wood",
+        "has fins"
+      ],
+      [
+        [
+          "pheasant",
+          "duck"
+        ],
+        "not is a weapon",
+        "is a bird",
+        "is hunted by predators",
+        "not is territorial"
+      ],
+      [
+        [
+          "cardinal",
+          "rooster"
+        ],
+        "not is a weapon",
+        "is a bird",
+        "not is hunted by predators",
+        "is territorial"
+      ]
+    ]
+  },
+  "37": {
+    "items": [
+      [
+        [
+          "boomerang",
+          "slingshot"
+        ],
+        "is a weapon",
+        "not is a bird",
+        "is made of wood",
+        "not is large"
+      ],
+      [
+        [
+          "cannon",
+          "gun"
+        ],
+        "is a weapon",
+        "not is a bird",
+        "not is made of wood",
+        "is large"
+      ],
+      [
+        [
+          "pheasant",
+          "duck"
+        ],
+        "not is a weapon",
+        "is a bird",
+        "is hunted by predators",
+        "not has claws"
+      ],
+      [
+        [
+          "rooster",
+          "crow"
+        ],
+        "not is a weapon",
+        "is a bird",
+        "not is hunted by predators",
+        "has claws"
+      ]
+    ]
+  },
+  "38": {
+    "items": [
+      [
+        [
+          "blowgun",
+          "slingshot"
+        ],
+        "is a weapon",
+        "not is a bird",
+        "is made of wood",
+        "not has different shapes and sizes"
+      ],
+      [
+        [
+          "sword",
+          "missile"
+        ],
+        "is a weapon",
+        "not is a bird",
+        "not is made of wood",
+        "has different shapes and sizes"
+      ],
+      [
+        [
+          "duck",
+          "pheasant"
+        ],
+        "not is a weapon",
+        "is a bird",
+        "is hunted by predators",
+        "not has a curved shape"
+      ],
+      [
+        [
+          "hawk",
+          "puffin"
+        ],
+        "not is a weapon",
+        "is a bird",
+        "not is hunted by predators",
+        "has a curved shape"
+      ]
+    ]
+  },
+  "39": {
+    "items": [
+      [
+        [
+          "trident",
+          "slingshot"
+        ],
+        "is a weapon",
+        "not is a bird",
+        "is made of wood",
+        "not is typically made of metal"
+      ],
+      [
+        [
+          "cannon",
+          "revolver"
+        ],
+        "is a weapon",
+        "not is a bird",
+        "not is made of wood",
+        "is typically made of metal"
+      ],
+      [
+        [
+          "duck",
+          "pheasant"
+        ],
+        "not is a weapon",
+        "is a bird",
+        "is hunted by predators",
+        "not is large"
+      ],
+      [
+        [
+          "pelican",
+          "peacock"
+        ],
+        "not is a weapon",
+        "is a bird",
+        "not is hunted by predators",
+        "is large"
+      ]
+    ]
+  },
+  "40": {
+    "items": [
+      [
+        [
+          "trident",
+          "slingshot"
+        ],
+        "is a weapon",
+        "not is a bird",
+        "is made of wood",
+        "not has a pointed tip"
+      ],
+      [
+        [
+          "sword",
+          "dagger"
+        ],
+        "is a weapon",
+        "not is a bird",
+        "not is made of wood",
+        "has a pointed tip"
+      ],
+      [
+        [
+          "duck",
+          "pheasant"
+        ],
+        "not is a weapon",
+        "is a bird",
+        "is hunted by predators",
+        "not is carnivorous"
+      ],
+      [
+        [
+          "vulture",
+          "hawk"
+        ],
+        "not is a weapon",
+        "is a bird",
+        "not is hunted by predators",
+        "is carnivorous"
+      ]
+    ]
+  },
+  "41": {
+    "items": [
+      [
+        [
+          "slingshot",
+          "catapult"
+        ],
+        "is a weapon",
+        "not is a bird",
+        "is made of wood",
+        "not is used for self - defense"
+      ],
+      [
+        [
+          "revolver",
+          "dagger"
+        ],
+        "is a weapon",
+        "not is a bird",
+        "not is made of wood",
+        "is used for self - defense"
+      ],
+      [
+        [
+          "pheasant",
+          "duck"
+        ],
+        "not is a weapon",
+        "is a bird",
+        "is hunted by predators",
+        "not is noisy"
+      ],
+      [
+        [
+          "seagull",
+          "cockatoo"
+        ],
+        "not is a weapon",
+        "is a bird",
+        "not is hunted by predators",
+        "is noisy"
+      ]
+    ]
+  },
+  "42": {
+    "items": [
+      [
+        [
+          "turkey",
+          "swan"
+        ],
+        "is a bird",
+        "not is a fruit",
+        "is large",
+        "not is a carnivore"
+      ],
+      [
+        [
+          "hawk",
+          "penguin"
+        ],
+        "is a bird",
+        "not is a fruit",
+        "not is large",
+        "is a carnivore"
+      ],
+      [
+        [
+          "melon",
+          "avocado"
+        ],
+        "not is a bird",
+        "is a fruit",
+        "is used in salads",
+        "not is frozen"
+      ],
+      [
+        [
+          "cranberry",
+          "peach"
+        ],
+        "not is a bird",
+        "is a fruit",
+        "not is used in salads",
+        "is frozen"
+      ]
+    ]
+  },
+  "43": {
+    "items": [
+      [
+        [
+          "vulture",
+          "eagle"
+        ],
+        "is a bird",
+        "not is a fruit",
+        "is large",
+        "not is yellow"
+      ],
+      [
+        [
+          "chick",
+          "duckling"
+        ],
+        "is a bird",
+        "not is a fruit",
+        "not is large",
+        "is yellow"
+      ],
+      [
+        [
+          "grapefruit",
+          "cantaloupe"
+        ],
+        "not is a bird",
+        "is a fruit",
+        "is used in salads",
+        "not is round or oval - shaped"
+      ],
+      [
+        [
+          "grape",
+          "berry"
+        ],
+        "not is a bird",
+        "is a fruit",
+        "not is used in salads",
+        "is round or oval - shaped"
+      ]
+    ]
+  },
+  "44": {
+    "items": [
+      [
+        [
+          "vulture",
+          "ostrich"
+        ],
+        "is a bird",
+        "not is a fruit",
+        "is large",
+        "not grows quickly"
+      ],
+      [
+        [
+          "duckling",
+          "chick"
+        ],
+        "is a bird",
+        "not is a fruit",
+        "not is large",
+        "grows quickly"
+      ],
+      [
+        [
+          "avocado",
+          "olive"
+        ],
+        "not is a bird",
+        "is a fruit",
+        "is used in salads",
+        "not has seeds"
+      ],
+      [
+        [
+          "jalapeno",
+          "lime"
+        ],
+        "not is a bird",
+        "is a fruit",
+        "not is used in salads",
+        "has seeds"
+      ]
+    ]
+  },
+  "45": {
+    "items": [
+      [
+        [
+          "swan",
+          "ostrich"
+        ],
+        "is a bird",
+        "not is a fruit",
+        "is large",
+        "not lives in trees"
+      ],
+      [
+        [
+          "owl",
+          "cardinal"
+        ],
+        "is a bird",
+        "not is a fruit",
+        "not is large",
+        "lives in trees"
+      ],
+      [
+        [
+          "papaya",
+          "pomegranate"
+        ],
+        "not is a bird",
+        "is a fruit",
+        "is used in salads",
+        "not has a distinctive shape"
+      ],
+      [
+        [
+          "fig",
+          "walnut"
+        ],
+        "not is a bird",
+        "is a fruit",
+        "not is used in salads",
+        "has a distinctive shape"
+      ]
+    ]
+  },
+  "46": {
+    "items": [
+      [
+        [
+          "swan",
+          "peacock"
+        ],
+        "is a bird",
+        "not is a fruit",
+        "is large",
+        "not is small in size"
+      ],
+      [
+        [
+          "puffin",
+          "hummingbird"
+        ],
+        "is a bird",
+        "not is a fruit",
+        "not is large",
+        "is small in size"
+      ],
+      [
+        [
+          "olive",
+          "kiwi"
+        ],
+        "not is a bird",
+        "is a fruit",
+        "is used in salads",
+        "not has skin"
+      ],
+      [
+        [
+          "fig",
+          "apple"
+        ],
+        "not is a bird",
+        "is a fruit",
+        "not is used in salads",
+        "has skin"
+      ]
+    ]
+  },
+  "47": {
+    "items": [
+      [
+        [
+          "eagle",
+          "ostrich"
+        ],
+        "is a bird",
+        "not is a fruit",
+        "is large",
+        "not is hunted by predators"
+      ],
+      [
+        [
+          "duck",
+          "pheasant"
+        ],
+        "is a bird",
+        "not is a fruit",
+        "not is large",
+        "is hunted by predators"
+      ],
+      [
+        [
+          "pomegranate",
+          "melon"
+        ],
+        "not is a bird",
+        "is a fruit",
+        "is used in salads",
+        "not is rich in vitamin c"
+      ],
+      [
+        [
+          "lemon",
+          "lime"
+        ],
+        "not is a bird",
+        "is a fruit",
+        "not is used in salads",
+        "is rich in vitamin c"
+      ]
+    ]
+  },
+  "48": {
+    "items": [
+      [
+        [
+          "duck",
+          "pigeon"
+        ],
+        "is a bird",
+        "not is a vegetable",
+        "is wild",
+        "not is a predator"
+      ],
+      [
+        [
+          "vulture",
+          "hawk"
+        ],
+        "is a bird",
+        "not is a vegetable",
+        "not is wild",
+        "is a predator"
+      ],
+      [
+        [
+          "jalapeno",
+          "sprouts"
+        ],
+        "not is a bird",
+        "is a vegetable",
+        "grows on a plant",
+        "not is round or oval shaped"
+      ],
+      [
+        [
+          "potato",
+          "cabbage"
+        ],
+        "not is a bird",
+        "is a vegetable",
+        "not grows on a plant",
+        "is round or oval shaped"
+      ]
+    ]
+  },
+  "49": {
+    "items": [
+      [
+        [
+          "sprouts",
+          "carrot"
+        ],
+        "is a vegetable",
+        "not is a bird",
+        "is a good source of fiber",
+        "not is cooked in various ways"
+      ],
+      [
+        [
+          "squash",
+          "corn"
+        ],
+        "is a vegetable",
+        "not is a bird",
+        "not is a good source of fiber",
+        "is cooked in various ways"
+      ],
+      [
+        [
+          "seagull",
+          "pelican"
+        ],
+        "not is a vegetable",
+        "is a bird",
+        "swims",
+        "not has a small head"
+      ],
+      [
+        [
+          "pigeon",
+          "pheasant"
+        ],
+        "not is a vegetable",
+        "is a bird",
+        "not swims",
+        "has a small head"
+      ]
+    ]
+  },
+  "50": {
+    "items": [
+      [
+        [
+          "bean",
+          "artichoke"
+        ],
+        "is a vegetable",
+        "not is a bird",
+        "is a good source of fiber",
+        "not is used for medicinal purposes"
+      ],
+      [
+        [
+          "garlic",
+          "root"
+        ],
+        "is a vegetable",
+        "not is a bird",
+        "not is a good source of fiber",
+        "is used for medicinal purposes"
+      ],
+      [
+        [
+          "swan",
+          "goose"
+        ],
+        "not is a vegetable",
+        "is a bird",
+        "swims",
+        "not is a carnivore"
+      ],
+      [
+        [
+          "hawk",
+          "eagle"
+        ],
+        "not is a vegetable",
+        "is a bird",
+        "not swims",
+        "is a carnivore"
+      ]
+    ]
+  },
+  "51": {
+    "items": [
+      [
+        [
+          "rhubarb",
+          "leek"
+        ],
+        "is a vegetable",
+        "not is a bird",
+        "is a good source of fiber",
+        "not is round"
+      ],
+      [
+        [
+          "radish",
+          "onion"
+        ],
+        "is a vegetable",
+        "not is a bird",
+        "not is a good source of fiber",
+        "is round"
+      ],
+      [
+        [
+          "swan",
+          "puffin"
+        ],
+        "not is a vegetable",
+        "is a bird",
+        "swims",
+        "not eats insects"
+      ],
+      [
+        [
+          "pheasant",
+          "owl"
+        ],
+        "not is a vegetable",
+        "is a bird",
+        "not swims",
+        "eats insects"
+      ]
+    ]
+  },
+  "52": {
+    "items": [
+      [
+        [
+          "bean",
+          "eggplant"
+        ],
+        "is a vegetable",
+        "not is a bird",
+        "is a good source of fiber",
+        "not is eaten raw or cooked"
+      ],
+      [
+        [
+          "arugula",
+          "sauerkraut"
+        ],
+        "is a vegetable",
+        "not is a bird",
+        "not is a good source of fiber",
+        "is eaten raw or cooked"
+      ],
+      [
+        [
+          "puffin",
+          "pelican"
+        ],
+        "not is a vegetable",
+        "is a bird",
+        "swims",
+        "not is a pet"
+      ],
+      [
+        [
+          "cockatoo",
+          "parrot"
+        ],
+        "not is a vegetable",
+        "is a bird",
+        "not swims",
+        "is a pet"
+      ]
+    ]
+  },
+  "53": {
+    "items": [
+      [
+        [
+          "carrot",
+          "spinach"
+        ],
+        "is a vegetable",
+        "not is a bird",
+        "is a good source of fiber",
+        "not has a hard outer shell"
+      ],
+      [
+        [
+          "pumpkin",
+          "gourd"
+        ],
+        "is a vegetable",
+        "not is a bird",
+        "not is a good source of fiber",
+        "has a hard outer shell"
+      ],
+      [
+        [
+          "penguin",
+          "duckling"
+        ],
+        "not is a vegetable",
+        "is a bird",
+        "swims",
+        "not is colorful"
+      ],
+      [
+        [
+          "cockatoo",
+          "toucan"
+        ],
+        "not is a vegetable",
+        "is a bird",
+        "not swims",
+        "is colorful"
+      ]
+    ]
+  },
+  "54": {
+    "items": [
+      [
+        [
+          "bikini",
+          "stockings"
+        ],
+        "is a clothing",
+        "not is a weapon",
+        "is made of nylon",
+        "not is a clothing item"
+      ],
+      [
+        [
+          "t-shirt",
+          "bathrobe"
+        ],
+        "is a clothing",
+        "not is a weapon",
+        "not is made of nylon",
+        "is a clothing item"
+      ],
+      [
+        [
+          "spear",
+          "sword"
+        ],
+        "not is a clothing",
+        "is a weapon",
+        "is sharp",
+        "not is small"
+      ],
+      [
+        [
+          "blowgun",
+          "revolver"
+        ],
+        "not is a clothing",
+        "is a weapon",
+        "not is sharp",
+        "is small"
+      ]
+    ]
+  },
+  "55": {
+    "items": [
+      [
+        [
+          "stockings",
+          "bikini"
+        ],
+        "is a clothing",
+        "not is a weapon",
+        "is made of nylon",
+        "not is protective"
+      ],
+      [
+        [
+          "armor",
+          "chaps"
+        ],
+        "is a clothing",
+        "not is a weapon",
+        "not is made of nylon",
+        "is protective"
+      ],
+      [
+        [
+          "sword",
+          "trident"
+        ],
+        "not is a clothing",
+        "is a weapon",
+        "is sharp",
+        "not is used as a weapon"
+      ],
+      [
+        [
+          "boomerang",
+          "arrow"
+        ],
+        "not is a clothing",
+        "is a weapon",
+        "not is sharp",
+        "is used as a weapon"
+      ]
+    ]
+  },
+  "56": {
+    "items": [
+      [
+        [
+          "stockings",
+          "swimsuit"
+        ],
+        "is a clothing",
+        "not is a weapon",
+        "is made of nylon",
+        "not is functional"
+      ],
+      [
+        [
+          "lingerie",
+          "cape"
+        ],
+        "is a clothing",
+        "not is a weapon",
+        "not is made of nylon",
+        "is functional"
+      ],
+      [
+        [
+          "dagger",
+          "trident"
+        ],
+        "not is a clothing",
+        "is a weapon",
+        "is sharp",
+        "not is a tool"
+      ],
+      [
+        [
+          "boomerang",
+          "flamethrower"
+        ],
+        "not is a clothing",
+        "is a weapon",
+        "not is sharp",
+        "is a tool"
+      ]
+    ]
+  },
+  "57": {
+    "items": [
+      [
+        [
+          "stockings",
+          "bikini"
+        ],
+        "is a clothing",
+        "not is a weapon",
+        "is made of nylon",
+        "not has legs"
+      ],
+      [
+        [
+          "snowsuit",
+          "overalls"
+        ],
+        "is a clothing",
+        "not is a weapon",
+        "not is made of nylon",
+        "has legs"
+      ],
+      [
+        [
+          "sword",
+          "trident"
+        ],
+        "not is a clothing",
+        "is a weapon",
+        "is sharp",
+        "not is decorated"
+      ],
+      [
+        [
+          "blowgun",
+          "arrow"
+        ],
+        "not is a clothing",
+        "is a weapon",
+        "not is sharp",
+        "is decorated"
+      ]
+    ]
+  },
+  "58": {
+    "items": [
+      [
+        [
+          "arrow",
+          "catapult"
+        ],
+        "is a weapon",
+        "not is a clothing",
+        "is used for competition",
+        "not causes injury"
+      ],
+      [
+        [
+          "grenade",
+          "dagger"
+        ],
+        "is a weapon",
+        "not is a clothing",
+        "not is used for competition",
+        "causes injury"
+      ],
+      [
+        [
+          "dress",
+          "blouse"
+        ],
+        "not is a weapon",
+        "is a clothing",
+        "is made from different materials",
+        "not is made of materials"
+      ],
+      [
+        [
+          "pants",
+          "stockings"
+        ],
+        "not is a weapon",
+        "is a clothing",
+        "not is made from different materials",
+        "is made of materials"
+      ]
+    ]
+  },
+  "59": {
+    "items": [
+      [
+        [
+          "arrow",
+          "catapult"
+        ],
+        "is a weapon",
+        "not is a clothing",
+        "is used for competition",
+        "not has a handle for gripping"
+      ],
+      [
+        [
+          "slingshot",
+          "dagger"
+        ],
+        "is a weapon",
+        "not is a clothing",
+        "not is used for competition",
+        "has a handle for gripping"
+      ],
+      [
+        [
+          "cloak",
+          "dress"
+        ],
+        "not is a weapon",
+        "is a clothing",
+        "is made from different materials",
+        "not has different colors and designs"
+      ],
+      [
+        [
+          "t-shirt",
+          "overalls"
+        ],
+        "not is a weapon",
+        "is a clothing",
+        "not is made from different materials",
+        "has different colors and designs"
+      ]
+    ]
+  },
+  "60": {
+    "items": [
+      [
+        [
+          "swimsuit",
+          "bikini"
+        ],
+        "is a clothing",
+        "not is a fruit",
+        "is made of a material",
+        "not comes in various colors"
+      ],
+      [
+        [
+          "blouse",
+          "leotard"
+        ],
+        "is a clothing",
+        "not is a fruit",
+        "not is made of a material",
+        "comes in various colors"
+      ],
+      [
+        [
+          "raisin",
+          "walnut"
+        ],
+        "not is a clothing",
+        "is a fruit",
+        "is edible",
+        "not is round"
+      ],
+      [
+        [
+          "navel",
+          "pump"
+        ],
+        "not is a clothing",
+        "is a fruit",
+        "not is edible",
+        "is round"
+      ]
+    ]
+  },
+  "61": {
+    "items": [
+      [
+        [
+          "bikini",
+          "swimsuit"
+        ],
+        "is a clothing",
+        "not is a fruit",
+        "is made of a material",
+        "not is a garment"
+      ],
+      [
+        [
+          "cloak",
+          "sweater"
+        ],
+        "is a clothing",
+        "not is a fruit",
+        "not is made of a material",
+        "is a garment"
+      ],
+      [
+        [
+          "pear",
+          "blueberry"
+        ],
+        "not is a clothing",
+        "is a fruit",
+        "is a good source of vitamin c",
+        "not is sour"
+      ],
+      [
+        [
+          "cherry",
+          "berry"
+        ],
+        "not is a clothing",
+        "is a fruit",
+        "not is a good source of vitamin c",
+        "is sour"
+      ]
+    ]
+  },
+  "62": {
+    "items": [
+      [
+        [
+          "bikini",
+          "sweatsuit"
+        ],
+        "is a clothing",
+        "not is a fruit",
+        "is made of a material",
+        "not is formal"
+      ],
+      [
+        [
+          "shirt",
+          "dress"
+        ],
+        "is a clothing",
+        "not is a fruit",
+        "not is made of a material",
+        "is formal"
+      ],
+      [
+        [
+          "lime",
+          "raspberry"
+        ],
+        "not is a clothing",
+        "is a fruit",
+        "is a good source of vitamin c",
+        "not comes in different sizes and shapes"
+      ],
+      [
+        [
+          "nut",
+          "gourd"
+        ],
+        "not is a clothing",
+        "is a fruit",
+        "not is a good source of vitamin c",
+        "comes in different sizes and shapes"
+      ]
+    ]
+  },
+  "63": {
+    "items": [
+      [
+        [
+          "coconut",
+          "nut"
+        ],
+        "is a fruit",
+        "not is a clothing",
+        "is hard",
+        "not is low in calories"
+      ],
+      [
+        [
+          "cranberry",
+          "olive"
+        ],
+        "is a fruit",
+        "not is a clothing",
+        "not is hard",
+        "is low in calories"
+      ],
+      [
+        [
+          "muff",
+          "bikini"
+        ],
+        "not is a fruit",
+        "is a clothing",
+        "is small",
+        "not comes in various colors and styles"
+      ],
+      [
+        [
+          "suit",
+          "dress"
+        ],
+        "not is a fruit",
+        "is a clothing",
+        "not is small",
+        "comes in various colors and styles"
+      ]
+    ]
+  },
+  "64": {
+    "items": [
+      [
+        [
+          "coconut",
+          "walnut"
+        ],
+        "is a fruit",
+        "not is a clothing",
+        "is hard",
+        "not varies in size"
+      ],
+      [
+        [
+          "pump",
+          "navel"
+        ],
+        "is a fruit",
+        "not is a clothing",
+        "not is hard",
+        "varies in size"
+      ],
+      [
+        [
+          "muff",
+          "bikini"
+        ],
+        "not is a fruit",
+        "is a clothing",
+        "is small",
+        "not comes in sizes"
+      ],
+      [
+        [
+          "vest",
+          "raincoat"
+        ],
+        "not is a fruit",
+        "is a clothing",
+        "not is small",
+        "comes in sizes"
+      ]
+    ]
+  },
+  "65": {
+    "items": [
+      [
+        [
+          "nut",
+          "coconut"
+        ],
+        "is a fruit",
+        "not is a clothing",
+        "is hard",
+        "not has a distinct flavor"
+      ],
+      [
+        [
+          "jalapeno",
+          "fig"
+        ],
+        "is a fruit",
+        "not is a clothing",
+        "not is hard",
+        "has a distinct flavor"
+      ],
+      [
+        [
+          "bikini",
+          "muff"
+        ],
+        "not is a fruit",
+        "is a clothing",
+        "is small",
+        "not is customized"
+      ],
+      [
+        [
+          "jersey",
+          "armor"
+        ],
+        "not is a fruit",
+        "is a clothing",
+        "not is small",
+        "is customized"
+      ]
+    ]
+  },
+  "66": {
+    "items": [
+      [
+        [
+          "skirt",
+          "dress"
+        ],
+        "is a clothing",
+        "not is a vegetable",
+        "has different patterns",
+        "not is made of nylon"
+      ],
+      [
+        [
+          "bikini",
+          "stockings"
+        ],
+        "is a clothing",
+        "not is a vegetable",
+        "not has different patterns",
+        "is made of nylon"
+      ],
+      [
+        [
+          "radish",
+          "rhubarb"
+        ],
+        "not is a clothing",
+        "is a vegetable",
+        "is red",
+        "not is yellow"
+      ],
+      [
+        [
+          "zucchini",
+          "sprouts"
+        ],
+        "not is a clothing",
+        "is a vegetable",
+        "not is red",
+        "is yellow"
+      ]
+    ]
+  },
+  "67": {
+    "items": [
+      [
+        [
+          "skirt",
+          "dress"
+        ],
+        "is a clothing",
+        "not is a vegetable",
+        "has different patterns",
+        "not comes in various colors and sizes"
+      ],
+      [
+        [
+          "jersey",
+          "hoodie"
+        ],
+        "is a clothing",
+        "not is a vegetable",
+        "not has different patterns",
+        "comes in various colors and sizes"
+      ],
+      [
+        [
+          "jalapeno",
+          "radish"
+        ],
+        "not is a clothing",
+        "is a vegetable",
+        "is red",
+        "not is nutrients"
+      ],
+      [
+        [
+          "gourd",
+          "broccoli"
+        ],
+        "not is a clothing",
+        "is a vegetable",
+        "not is red",
+        "is nutrients"
+      ]
+    ]
+  },
+  "68": {
+    "items": [
+      [
+        [
+          "pantsuit",
+          "skirt"
+        ],
+        "is a clothing",
+        "not is a vegetable",
+        "has different patterns",
+        "not is made of cotton"
+      ],
+      [
+        [
+          "sweatsuit",
+          "bathrobe"
+        ],
+        "is a clothing",
+        "not is a vegetable",
+        "not has different patterns",
+        "is made of cotton"
+      ],
+      [
+        [
+          "jalapeno",
+          "beet"
+        ],
+        "not is a clothing",
+        "is a vegetable",
+        "is red",
+        "not has a mild flavor"
+      ],
+      [
+        [
+          "pea",
+          "cucumber"
+        ],
+        "not is a clothing",
+        "is a vegetable",
+        "not is red",
+        "has a mild flavor"
+      ]
+    ]
+  },
+  "69": {
+    "items": [
+      [
+        [
+          "zucchini",
+          "cucumber"
+        ],
+        "is a vegetable",
+        "not is a clothing",
+        "has a cylindrical shape",
+        "not is a source of protein"
+      ],
+      [
+        [
+          "sprouts",
+          "pea"
+        ],
+        "is a vegetable",
+        "not is a clothing",
+        "not has a cylindrical shape",
+        "is a source of protein"
+      ],
+      [
+        [
+          "t-shirt",
+          "undershirt"
+        ],
+        "not is a vegetable",
+        "is a clothing",
+        "is made of cotton or synthetic materials",
+        "not has a zipper"
+      ],
+      [
+        [
+          "wetsuit",
+          "snowsuit"
+        ],
+        "not is a vegetable",
+        "is a clothing",
+        "not is made of cotton or synthetic materials",
+        "has a zipper"
+      ]
+    ]
+  },
+  "70": {
+    "items": [
+      [
+        [
+          "cucumber",
+          "zucchini"
+        ],
+        "is a vegetable",
+        "not is a clothing",
+        "has a cylindrical shape",
+        "not is nutrients"
+      ],
+      [
+        [
+          "eggplant",
+          "gourd"
+        ],
+        "is a vegetable",
+        "not is a clothing",
+        "not has a cylindrical shape",
+        "is nutrients"
+      ],
+      [
+        [
+          "hoodie",
+          "t-shirt"
+        ],
+        "not is a vegetable",
+        "is a clothing",
+        "is made of cotton or synthetic materials",
+        "not is made of durable material"
+      ],
+      [
+        [
+          "overalls",
+          "uniform"
+        ],
+        "not is a vegetable",
+        "is a clothing",
+        "not is made of cotton or synthetic materials",
+        "is made of durable material"
+      ]
+    ]
+  },
+  "71": {
+    "items": [
+      [
+        [
+          "cucumber",
+          "zucchini"
+        ],
+        "is a vegetable",
+        "not is a clothing",
+        "has a cylindrical shape",
+        "not is round"
+      ],
+      [
+        [
+          "beet",
+          "cauliflower"
+        ],
+        "is a vegetable",
+        "not is a clothing",
+        "not has a cylindrical shape",
+        "is round"
+      ],
+      [
+        [
+          "t-shirt",
+          "sweatsuit"
+        ],
+        "not is a vegetable",
+        "is a clothing",
+        "is made of cotton or synthetic materials",
+        "not comes in different sizes and styles"
+      ],
+      [
+        [
+          "pants",
+          "swimsuit"
+        ],
+        "not is a vegetable",
+        "is a clothing",
+        "not is made of cotton or synthetic materials",
+        "comes in different sizes and styles"
+      ]
+    ]
+  },
+  "72": {
+    "items": [
+      [
+        [
+          "flamethrower",
+          "crossbow"
+        ],
+        "is a weapon",
+        "not is a fruit",
+        "is handheld or mounted",
+        "not is small"
+      ],
+      [
+        [
+          "dagger",
+          "slingshot"
+        ],
+        "is a weapon",
+        "not is a fruit",
+        "not is handheld or mounted",
+        "is small"
+      ],
+      [
+        [
+          "squash",
+          "tomato"
+        ],
+        "not is a weapon",
+        "is a fruit",
+        "is yellow",
+        "not has a tangy flavor"
+      ],
+      [
+        [
+          "blackberry",
+          "cherry"
+        ],
+        "not is a weapon",
+        "is a fruit",
+        "not is yellow",
+        "has a tangy flavor"
+      ]
+    ]
+  },
+  "73": {
+    "items": [
+      [
+        [
+          "crossbow",
+          "flamethrower"
+        ],
+        "is a weapon",
+        "not is a fruit",
+        "is handheld or mounted",
+        "not has a pointed end"
+      ],
+      [
+        [
+          "spear",
+          "arrow"
+        ],
+        "is a weapon",
+        "not is a fruit",
+        "not is handheld or mounted",
+        "has a pointed end"
+      ],
+      [
+        [
+          "pineapple",
+          "pear"
+        ],
+        "not is a weapon",
+        "is a fruit",
+        "is yellow",
+        "not is refreshing"
+      ],
+      [
+        [
+          "melon",
+          "kiwi"
+        ],
+        "not is a weapon",
+        "is a fruit",
+        "not is yellow",
+        "is refreshing"
+      ]
+    ]
+  },
+  "74": {
+    "items": [
+      [
+        [
+          "crossbow",
+          "flamethrower"
+        ],
+        "is a weapon",
+        "not is a fruit",
+        "is handheld or mounted",
+        "not is made of plastic"
+      ],
+      [
+        [
+          "slingshot",
+          "revolver"
+        ],
+        "is a weapon",
+        "not is a fruit",
+        "not is handheld or mounted",
+        "is made of plastic"
+      ],
+      [
+        [
+          "plum",
+          "banana"
+        ],
+        "not is a weapon",
+        "is a fruit",
+        "is yellow",
+        "not has a hard outer shell"
+      ],
+      [
+        [
+          "gourd",
+          "nut"
+        ],
+        "not is a weapon",
+        "is a fruit",
+        "not is yellow",
+        "has a hard outer shell"
+      ]
+    ]
+  },
+  "75": {
+    "items": [
+      [
+        [
+          "pear",
+          "melon"
+        ],
+        "is a fruit",
+        "not is a weapon",
+        "is sweet",
+        "not is red"
+      ],
+      [
+        [
+          "tomato",
+          "jalapeno"
+        ],
+        "is a fruit",
+        "not is a weapon",
+        "not is sweet",
+        "is red"
+      ],
+      [
+        [
+          "bomb",
+          "slingshot"
+        ],
+        "not is a fruit",
+        "is a weapon",
+        "is made from various materials",
+        "not is used for fishing"
+      ],
+      [
+        [
+          "spear",
+          "trident"
+        ],
+        "not is a fruit",
+        "is a weapon",
+        "not is made from various materials",
+        "is used for fishing"
+      ]
+    ]
+  },
+  "76": {
+    "items": [
+      [
+        [
+          "prune",
+          "banana"
+        ],
+        "is a fruit",
+        "not is a weapon",
+        "is sweet",
+        "not is juicy"
+      ],
+      [
+        [
+          "lime",
+          "lemon"
+        ],
+        "is a fruit",
+        "not is a weapon",
+        "not is sweet",
+        "is juicy"
+      ],
+      [
+        [
+          "bomb",
+          "blowgun"
+        ],
+        "not is a fruit",
+        "is a weapon",
+        "is made from various materials",
+        "not has a long handle"
+      ],
+      [
+        [
+          "spear",
+          "trident"
+        ],
+        "not is a fruit",
+        "is a weapon",
+        "not is made from various materials",
+        "has a long handle"
+      ]
+    ]
+  },
+  "77": {
+    "items": [
+      [
+        [
+          "watermelon",
+          "mulberry"
+        ],
+        "is a fruit",
+        "not is a weapon",
+        "is sweet",
+        "not is cooked in various ways"
+      ],
+      [
+        [
+          "gourd",
+          "squash"
+        ],
+        "is a fruit",
+        "not is a weapon",
+        "not is sweet",
+        "is cooked in various ways"
+      ],
+      [
+        [
+          "bomb",
+          "blowgun"
+        ],
+        "not is a fruit",
+        "is a weapon",
+        "is made from various materials",
+        "not is used for competition"
+      ],
+      [
+        [
+          "arrow",
+          "catapult"
+        ],
+        "not is a fruit",
+        "is a weapon",
+        "not is made from various materials",
+        "is used for competition"
+      ]
+    ]
+  },
+  "78": {
+    "items": [
+      [
+        [
+          "boomerang",
+          "spear"
+        ],
+        "is a weapon",
+        "not is a vegetable",
+        "is a tool",
+        "not is dangerous"
+      ],
+      [
+        [
+          "crossbow",
+          "grenade"
+        ],
+        "is a weapon",
+        "not is a vegetable",
+        "not is a tool",
+        "is dangerous"
+      ],
+      [
+        [
+          "radish",
+          "cabbage"
+        ],
+        "not is a weapon",
+        "is a vegetable",
+        "is oval",
+        "not is rich in nutrients"
+      ],
+      [
+        [
+          "kale",
+          "cucumber"
+        ],
+        "not is a weapon",
+        "is a vegetable",
+        "not is oval",
+        "is rich in nutrients"
+      ]
+    ]
+  },
+  "79": {
+    "items": [
+      [
+        [
+          "flamethrower",
+          "boomerang"
+        ],
+        "is a weapon",
+        "not is a vegetable",
+        "is a tool",
+        "not has a pointed tip"
+      ],
+      [
+        [
+          "sword",
+          "arrow"
+        ],
+        "is a weapon",
+        "not is a vegetable",
+        "not is a tool",
+        "has a pointed tip"
+      ],
+      [
+        [
+          "radish",
+          "cabbage"
+        ],
+        "not is a weapon",
+        "is a vegetable",
+        "is oval",
+        "not is roasted"
+      ],
+      [
+        [
+          "corn",
+          "asparagus"
+        ],
+        "not is a weapon",
+        "is a vegetable",
+        "not is oval",
+        "is roasted"
+      ]
+    ]
+  },
+  "80": {
+    "items": [
+      [
+        [
+          "spear",
+          "boomerang"
+        ],
+        "is a weapon",
+        "not is a vegetable",
+        "is a tool",
+        "not is powerful"
+      ],
+      [
+        [
+          "missile",
+          "bazooka"
+        ],
+        "is a weapon",
+        "not is a vegetable",
+        "not is a tool",
+        "is powerful"
+      ],
+      [
+        [
+          "pumpkin",
+          "cabbage"
+        ],
+        "not is a weapon",
+        "is a vegetable",
+        "is oval",
+        "not has a cylindrical shape"
+      ],
+      [
+        [
+          "zucchini",
+          "cucumber"
+        ],
+        "not is a weapon",
+        "is a vegetable",
+        "not is oval",
+        "has a cylindrical shape"
+      ]
+    ]
+  },
+  "81": {
+    "items": [
+      [
+        [
+          "spear",
+          "boomerang"
+        ],
+        "is a weapon",
+        "not is a vegetable",
+        "is a tool",
+        "not is loud"
+      ],
+      [
+        [
+          "gun",
+          "bazooka"
+        ],
+        "is a weapon",
+        "not is a vegetable",
+        "not is a tool",
+        "is loud"
+      ],
+      [
+        [
+          "pumpkin",
+          "cabbage"
+        ],
+        "not is a weapon",
+        "is a vegetable",
+        "is oval",
+        "not is used in sandwiches"
+      ],
+      [
+        [
+          "onion",
+          "cucumber"
+        ],
+        "not is a weapon",
+        "is a vegetable",
+        "not is oval",
+        "is used in sandwiches"
+      ]
+    ]
+  },
+  "82": {
+    "items": [
+      [
+        [
+          "scallion",
+          "eggplant"
+        ],
+        "is a vegetable",
+        "not is a weapon",
+        "is high in vitamins",
+        "not is high in nutrients"
+      ],
+      [
+        [
+          "spout",
+          "sprouts"
+        ],
+        "is a vegetable",
+        "not is a weapon",
+        "not is high in vitamins",
+        "is high in nutrients"
+      ],
+      [
+        [
+          "spear",
+          "blowgun"
+        ],
+        "not is a vegetable",
+        "is a weapon",
+        "is used for fishing",
+        "not is short"
+      ],
+      [
+        [
+          "sword",
+          "rifle"
+        ],
+        "not is a vegetable",
+        "is a weapon",
+        "not is used for fishing",
+        "is short"
+      ]
+    ]
+  },
+  "83": {
+    "items": [
+      [
+        [
+          "spinach",
+          "cauliflower"
+        ],
+        "is a vegetable",
+        "not is a weapon",
+        "is high in vitamins",
+        "not has skin"
+      ],
+      [
+        [
+          "pickle",
+          "potato"
+        ],
+        "is a vegetable",
+        "not is a weapon",
+        "not is high in vitamins",
+        "has skin"
+      ],
+      [
+        [
+          "blowgun",
+          "spear"
+        ],
+        "not is a vegetable",
+        "is a weapon",
+        "is used for fishing",
+        "not is handheld or mounted"
+      ],
+      [
+        [
+          "flamethrower",
+          "crossbow"
+        ],
+        "not is a vegetable",
+        "is a weapon",
+        "not is used for fishing",
+        "is handheld or mounted"
+      ]
+    ]
+  },
+  "84": {
+    "items": [
+      [
+        [
+          "fig",
+          "pear"
+        ],
+        "is a fruit",
+        "not is a vegetable",
+        "has a distinctive shape",
+        "not has a hard shell"
+      ],
+      [
+        [
+          "coconut",
+          "nut"
+        ],
+        "is a fruit",
+        "not is a vegetable",
+        "not has a distinctive shape",
+        "has a hard shell"
+      ],
+      [
+        [
+          "garlic",
+          "arugula"
+        ],
+        "not is a fruit",
+        "is a vegetable",
+        "is a good source of vitamin c",
+        "not is soft"
+      ],
+      [
+        [
+          "pickle",
+          "eggplant"
+        ],
+        "not is a fruit",
+        "is a vegetable",
+        "not is a good source of vitamin c",
+        "is soft"
+      ]
+    ]
+  },
+  "85": {
+    "items": [
+      [
+        [
+          "walnut",
+          "pear"
+        ],
+        "is a fruit",
+        "not is a vegetable",
+        "has a distinctive shape",
+        "not is dried"
+      ],
+      [
+        [
+          "cranberry",
+          "prune"
+        ],
+        "is a fruit",
+        "not is a vegetable",
+        "not has a distinctive shape",
+        "is dried"
+      ],
+      [
+        [
+          "cauliflower",
+          "rhubarb"
+        ],
+        "not is a fruit",
+        "is a vegetable",
+        "is a good source of vitamin c",
+        "not is used in soups"
+      ],
+      [
+        [
+          "carrot",
+          "celery"
+        ],
+        "not is a fruit",
+        "is a vegetable",
+        "not is a good source of vitamin c",
+        "is used in soups"
+      ]
+    ]
+  },
+  "86": {
+    "items": [
+      [
+        [
+          "pear",
+          "walnut"
+        ],
+        "is a fruit",
+        "not is a vegetable",
+        "has a distinctive shape",
+        "not is round"
+      ],
+      [
+        [
+          "blackberry",
+          "watermelon"
+        ],
+        "is a fruit",
+        "not is a vegetable",
+        "not has a distinctive shape",
+        "is round"
+      ],
+      [
+        [
+          "cucumber",
+          "cabbage"
+        ],
+        "not is a fruit",
+        "is a vegetable",
+        "is a good source of vitamin c",
+        "not is a good source of fiber"
+      ],
+      [
+        [
+          "bean",
+          "sprouts"
+        ],
+        "not is a fruit",
+        "is a vegetable",
+        "not is a good source of vitamin c",
+        "is a good source of fiber"
+      ]
+    ]
+  },
+  "87": {
+    "items": [
+      [
+        [
+          "pear",
+          "walnut"
+        ],
+        "is a fruit",
+        "not is a vegetable",
+        "has a distinctive shape",
+        "not is round in shape"
+      ],
+      [
+        [
+          "cantaloupe",
+          "pomegranate"
+        ],
+        "is a fruit",
+        "not is a vegetable",
+        "not has a distinctive shape",
+        "is round in shape"
+      ],
+      [
+        [
+          "scallion",
+          "radish"
+        ],
+        "not is a fruit",
+        "is a vegetable",
+        "is a good source of vitamin c",
+        "not has seeds"
+      ],
+      [
+        [
+          "pickle",
+          "eggplant"
+        ],
+        "not is a fruit",
+        "is a vegetable",
+        "not is a good source of vitamin c",
+        "has seeds"
+      ]
+    ]
+  },
+  "88": {
+    "items": [
+      [
+        [
+          "radish",
+          "pickle"
+        ],
+        "is a vegetable",
+        "not is a fruit",
+        "is spicy",
+        "not has a stem"
+      ],
+      [
+        [
+          "eggplant",
+          "artichoke"
+        ],
+        "is a vegetable",
+        "not is a fruit",
+        "not is spicy",
+        "has a stem"
+      ],
+      [
+        [
+          "melon",
+          "pear"
+        ],
+        "not is a vegetable",
+        "is a fruit",
+        "comes in different varieties",
+        "not is rich in nutrients"
+      ],
+      [
+        [
+          "mulberry",
+          "fig"
+        ],
+        "not is a vegetable",
+        "is a fruit",
+        "not comes in different varieties",
+        "is rich in nutrients"
+      ]
+    ]
+  },
+  "89": {
+    "items": [
+      [
+        [
+          "radish",
+          "pickle"
+        ],
+        "is a vegetable",
+        "not is a fruit",
+        "is spicy",
+        "not is cylindrical in shape"
+      ],
+      [
+        [
+          "zucchini",
+          "carrot"
+        ],
+        "is a vegetable",
+        "not is a fruit",
+        "not is spicy",
+        "is cylindrical in shape"
+      ],
+      [
+        [
+          "melon",
+          "pear"
+        ],
+        "not is a vegetable",
+        "is a fruit",
+        "comes in different varieties",
+        "not is hard"
+      ],
+      [
+        [
+          "coconut",
+          "walnut"
+        ],
+        "not is a vegetable",
+        "is a fruit",
+        "not comes in different varieties",
+        "is hard"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+____________________________________________
+dial_id = 8
+target = deer
+answerer: This is the list of candidates: shoes, fawn, deer, belt, gorilla, bra, elephant, tie.
+questioner: QUESTION: Is the item you have an accessory that can be worn?
+answerer: No, it is not an accessory that can be worn.
+questioner: CANDIDATES: fawn, deer, gorilla, elephant QUESTION: Does the item you have belong to the animal kingdom?
+answerer: Yes, it belongs to the animal kingdom.
+questioner: CANDIDATES: fawn, deer, gorilla, elephant QUESTION: Is the item you have a type of primate?
+answerer: No, it is not a type of primate.
+questioner: CANDIDATES: fawn, deer, elephant QUESTION: Is your item one that is typically hunted for food?
+answerer: Yes, it is typically hunted for food.
+questioner: CANDIDATES: fawn, deer QUESTION: Does your item have spots on its skin or fur when it’s young?
+answerer: No, it does not have spots on its skin or fur when it's young.
+questioner: CANDIDATES: deer QUESTION: Is your item a type of deer?
+answerer: Yes, my assigned item is a deer.
+questioner: Great! I was able to identify your assigned item.
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 9
+target = boots
+answerer: This is the list of candidates: boots, fawn, seal, cape, otter, swimsuit, porcupine, trousers.
+questioner: QUESTION: Is the item you are thinking of worn on the feet?
+answerer: Yes.
+questioner: CANDIDATES: boots, fawn QUESTION: Is the item you are thinking of specifically designed for outdoor activities?
+answerer: It depends on the specific type of boots, but generally, yes.
+questioner: CANDIDATES: boots QUESTION: Is the item you are thinking of made of leather?
+answerer: Yes, many types of boots are made of leather.
+questioner: CANDIDATES: boots QUESTION: Are the boots you're thinking of designed for cold weather conditions?
+answerer: Yes, some types of boots are designed for cold weather conditions.
+questioner: CANDIDATES: boots QUESTION: Do the boots you're thinking of have laces?
+answerer: Yes, many types of boots have laces.
+questioner: CANDIDATES: boots QUESTION: Are the boots you're thinking of designed for hiking or trekking?
+answerer: Yes, some types of boots are designed for hiking or trekking.
+questioner: CANDIDATES: boots QUESTION: Are the boots you're thinking of designed for mountaineering or climbing?
+answerer: No, the boots I am thinking of are not designed for mountaineering or climbing.
+questioner: Based on your answers, the item you are thinking of is boots.
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 55
+target = cape
+answerer: This is the list of candidates: bazooka, trousers, shield, whip, boots, crowbar, pants, cape.
+questioner: QUESTION: Is your item a weapon?
+answerer: No, it's not a weapon.
+questioner: CANDIDATES: trousers, shield, boots, crowbar, pants, cape. QUESTION: Is your item an article of clothing?
+answerer: Yes, it is an article of clothing.
+questioner: CANDIDATES: trousers, boots, pants, cape. QUESTION: Is your item worn on the lower body?
+answerer: No, it is not worn on the lower body.
+questioner: CANDIDATES: shield, crowbar. QUESTION: Is your item typically made of metal?
+answerer: No, it is not typically made of metal.
+questioner: CANDIDATES: shield. QUESTION: Is your item primarily used for defense?
+answerer: No, it is not primarily used for defense.
+questioner: CANDIDATES: None.  It seems that none of the items from our list match your description. Could you please provide me with some more information about your item?
+answerer: I apologize for the confusion. It seems that there was a mistake in my previous response. My assigned item is a cape.
+questioner: CANDIDATES: cape. QUESTION: Is your item typically worn on the shoulders?
+answerer: Yes, it is typically worn on the shoulders.
+questioner: Great! We have identified your item as a cape.
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 60
+target = swimsuit
+answerer: This is the list of candidates: cloak, raisin, jacket, pumpkin, cape, swimsuit, prune, grapefruit.
+questioner: QUESTION: Is the item you have edible?
+answerer: No, it's not edible.
+questioner: CANDIDATES: cloak, jacket, pumpkin, cape, swimsuit.  QUESTION: Is the item you have usually worn as clothing?
+answerer: Yes, it is usually worn as clothing.
+questioner: CANDIDATES: cloak, jacket, cape, swimsuit. QUESTION: Is the item you have typically worn for warmth?
+answerer: No, it is not typically worn for warmth.
+questioner: CANDIDATES: swimsuit, cape. QUESTION: Does the item you have cover your entire body?
+answerer: No, it does not cover the entire body.
+questioner: CANDIDATES: cape. QUESTION: Is the item you have usually associated with superheroes?
+answerer: No, it is not usually associated with superheroes.
+questioner: CANDIDATES: cape. QUESTION: Is the item you have typically worn as a fashion accessory?
+answerer: No, it is not typically worn as a fashion accessory.
+questioner: The item you have must be a cloak, is that correct?
+answerer: No, it's not a cloak.
+questioner: I'm sorry, I must have made a mistake. Could you please remind me of the options that are left?
+answerer: Sure, the item left is swimsuit.
+questioner: Oh, I see. My apologies for the mix-up. The item you have is a swimsuit, isn't it?
+answerer: Yes! That's correct. Congratulations!
+____________________________________________
+dial_id = 66
+target = socks
+answerer: This is the list of candidates: mushroom, cloak, cucumber, blouse, socks, olive, zucchini, boots.
+questioner: QUESTION: Is the item you have something that you wear?
+answerer: Yes.
+questioner: CANDIDATES: cloak, blouse, socks, boots. QUESTION: Does the item cover your feet?
+answerer: Yes.
+questioner: CANDIDATES: socks, boots. QUESTION: Is the item you have made of leather or a similar material?
+answerer: No.
+questioner: CANDIDATES: socks. QUESTION: Does the item you have cover your entire foot, including the ankle?
+answerer: It depends on the type of socks, but generally, no.
+questioner: CANDIDATES: socks. QUESTION: Does the item you have cover only the toes and heels?
+answerer: No.
+questioner: I apologize, I made a mistake in the last question. Since the item you have could be different types of socks, I would like to make an updated assumption of the candidates still in play: There are different types of socks, and I assume the sock you have is a common or daily sock, that is not a toe-sock nor an ankle-high sock. New Candidates: socks.  QUESTION: Is the item you have ankle-high?
+answerer: It depends on the type of socks, but generally, yes.
+questioner: CANDIDATE: socks. Is the item you have made of wool or a similar material that is used during winter?
+answerer: Yes, that's correct! Congratulations!
+____________________________________________
+dial_id = 77
+target = tomato
+answerer: This is the list of candidates: knife, honeydew, tomato, grape, sword, whip, rhubarb, stick.
+questioner: QUESTION: Is the item you are thinking of something you can eat?
+answerer: Yes, you can eat tomato.
+questioner: CANDIDATES: honeydew, grape, rhubarb   QUESTION: Is the item you are thinking of sweet?
+answerer: Tomato is not typically considered sweet, so the answer is no.
+questioner: I apologize for that assumption. CANDIDATES: honeydew, grape, rhubarb   QUESTION: Is the item you are thinking of a fruit?
+answerer: Yes, tomato is a fruit.
+questioner: CANDIDATES: honeydew, grape   QUESTION: Does the item you are thinking of have seeds?
+answerer: Yes, tomato has seeds.
+questioner: The item you are thinking of is a tomato. Is that correct?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 87
+target = carrot
+answerer: This is the list of candidates: zucchini, plum, orange, beans, pineapple, lettuce, carrot, lemon.
+questioner: QUESTION: Is the item you are thinking of a fruit?
+answerer: No, it's not a fruit.
+questioner: CANDIDATES: zucchini, beans, lettuce, carrot. QUESTION: Is the item you are thinking of a vegetable that is normally cooked before eating?
+answerer: Yes, it is a vegetable that is normally cooked before eating.
+questioner: CANDIDATES: zucchini, beans, carrot. QUESTION: Does the item you are thinking of have a long shape?
+answerer: Yes, the item I am thinking of has a long shape.
+questioner: CANDIDATES: zucchini, beans. QUESTION: Does the item you are thinking of have edible seeds inside?
+answerer: No, the item I am thinking of does not have edible seeds inside.
+questioner: CANDIDATES: zucchini. QUESTION: Is the item you are thinking of green?
+answerer: No, the item I am thinking of is not green.
+questioner: CANDIDATES: zucchini. QUESTION: Can the item you are thinking of be eaten raw?
+answerer: Yes, the item I am thinking of can be eaten raw.
+questioner: Based on the answers you gave, I think you were thinking of a zucchini. Is that correct?
+answerer: No, I'm sorry, that's not correct. The item I was thinking of is a carrot.
+questioner: I'm sorry that my questions did not lead us to the correct answer. I will try to improve my algorithm for next time.
+answerer: No worries, it was a good effort. Feel free to play again or try with a different item.
+questioner: Thank you! Let's try another one. CANDIDATES: grapefruit, eggplant, strawberry, raspberry, cauliflower, pumpkin, cucumber, radish, cherry  QUESTION: Is the item you are thinking of a fruit?
+answerer: No, it's not a fruit.
+questioner: CANDIDATES: eggplant, cauliflower, pumpkin, cucumber, radish. QUESTION: Is the item you are thinking of a vegetable that is commonly used in salads?
+answerer: Yes, the item I am thinking of is commonly used in salads.
+questioner: CANDIDATES: cauliflower, cucumber, radish. QUESTION: Is the item you are thinking of white?
+answerer: Yes, the item I am thinking of is white.
+questioner: Based on the answers you gave, I think you were thinking of a cauliflower. Is that correct?
+answerer: Yes! That's correct. Well done!

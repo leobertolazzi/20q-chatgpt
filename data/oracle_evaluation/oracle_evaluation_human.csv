@@ -1,0 +1,181 @@
+target,question,answer
+fox ,Does the item you are thinking of have fur or hair?,yes
+fox ,Is the item you are thinking of a bird?,no
+fawn ,Is the animal you're thinking of commonly found in Africa?,no
+fawn ,Is the animal you're thinking of a type of deer?,yes
+zebra ,Does the item you are thinking of live on land?,yes
+zebra ,Is the item you are thinking of a zebra?,yes
+hamster ,Is the animal you have a small animal?,yes
+hamster ,Is the animal you have a hamster?,yes
+dolphin ,Is the item you have a living animal?,yes
+dolphin ,Is the animal you have a dolphin?,yes
+deer ,Is the item an animal?,yes
+deer ,Is the item an accessory worn on the body?,no
+seal ,Is it a marine animal?,yes
+seal ,Is it a seal?,yes
+bear ,Is the animal you are thinking of known for hibernation during the winter months?,yes
+bear ,Is the item you are thinking of an animal?,yes
+seal ,Is your animal a marine mammal?,yes
+seal ,Is your item an animal?,yes
+caribou ,Is the animal you are thinking of a rodent?,no
+caribou ,Is the animal you are thinking of smaller than a dog?,no
+zebra ,Is the item an animal?,yes
+zebra ,Does the animal have stripes?,yes
+cow ,Is the animal you are thinking of a cow?,yes
+cow ,Is it a deer?,no
+mink ,Is the item you have an animal?,yes
+mink ,Is it a land animal?,yes
+gorilla ,"So, is the item a gorilla?",yes
+gorilla ,Is the item an animal?,yes
+elk ,Is the animal usually found in the forest?,yes
+elk ,Is the animal an herbivore?,yes
+rooster ,Does the bird you are thinking of have the ability to mimic or replicate sounds?,yes
+rooster ,Is the item you are thinking of an animal?,yes
+owl ,Is your item an eagle?,no
+owl ,Does your bird have a white head?,yes
+falcon ,Sorry for the mistake. Is the bird you are thinking of known for its long and slender legs and long neck?,no
+falcon ,Is the bird you are thinking of smaller than a crow?,yes
+penguin ,Is the bird you have unable to fly?,yes
+penguin ,Is the item you have an article of clothing?,no
+stork ,Does the bird you are thinking of have long legs and a long neck?,yes
+stork ,Is the item you are thinking of a bird?,yes
+hawk ,Is the bird you are thinking of a falcon?,no
+hawk ,Is the bird you are thinking of a hawk?,yes
+penguin ,Is your item a bird?,yes
+penguin ,Is your item an animal?,yes
+penguin ,Is your animal flightless?,yes
+penguin ,Is your item an animal?,yes
+seagull ,Is it a water bird?,yes
+seagull ,Is it a bird of prey? (i.e. does it hunt for food?),no
+budgie ,Does the bird have black color feathers?,yes
+budgie ,Is the bird you are thinking of a type of parrot?,yes
+dove ,My apologies. Does the bird you have a reddish-colored chest?,no
+dove ,"The animal you have is a swan, am I correct?",no
+woodpecker ,Is it a bird?,yes
+woodpecker ,Is the bird well known for its singing abilities?,no
+crow ,Is the bird you are thinking of a Starling?,no
+crow ,Is the bird you are thinking of larger than a crow?,no
+blackbird ,Is the item you've been assigned a bird?,yes
+blackbird ,Does the bird have black plumage?,yes
+parakeet ,Does the bird have a crest on its head?,no
+parakeet ,The bird you are thinking of is a parakeet.,yes
+boots ,Is the item a type of footwear mainly used for certain sports or activities?,no
+boots ,Is the item designed for use in a specific environment or activity?,yes
+tie ,Is the item you have an accessory?,yes
+tie ,Is the accessory you are wearing typically worn by women?,yes
+belt ,Is the item you were assigned typically worn around the waist?,yes
+belt ,Is the item you were assigned worn on the upper body?,yes
+bra ,Is the item worn on the upper body?,yes
+bra ,Is the item specifically designed for women?,yes
+belt ,"Does the item you have a functional use aside from covering the body? (e.g. tools, utensils)",no
+belt ,Is the item you have meant to be worn on the upper part of the body? (e.g. torso or neck),no
+bra ,Is the item you are thinking of typically worn by women?,yes
+bra ,Is the item you are thinking of worn on the body?,yes
+cape ,Is the item a piece of clothing?,yes
+cape ,Is the item a type of cloak or poncho?,yes
+cape ,Is the item a type of protective gear?,no
+cape ,Is the item wearable?,yes
+trousers ,Is it a type of trousers that men usually wear?,yes
+trousers ,Is it a piece of clothing?,yes
+swimsuit ,Is your item worn as a lower body garment?,yes
+swimsuit ,Is your item usually worn outdoors?,yes
+trousers ,Is the item you were assigned a piece of clothing?,yes
+trousers ,Is the item you were assigned worn on the upper part of the body?,yes
+socks ,Is the item you were assigned a type of jacket?,no
+socks ,Is the item you were assigned worn on the lower body?,yes
+socks ,Is the item you have a type of socks?,yes
+socks ,"Great! That means you have one of the following types of socks: ordinary sock, sport sock, dress sock, woolly sock or compression sock. Am I correct?",yes
+blouse ,Is it a type of footwear?,no
+blouse ,Is it a top or an outerwear?,no
+swimsuit ,Does the item you're thinking of have sleeves?,no
+swimsuit ,"Ah, I see. Is the item you're thinking of a swimsuit?",yes
+missile ,Is the weapon a projectile weapon?,yes
+missile ,Is the item an animal?,no
+spear ,Is the weapon handheld?,yes
+spear ,Is the weapon a type of blade?,no
+stick ,Is the item made of wood?,yes
+stick ,Is it a stick?,yes
+whip ,"Based on the answers you provided, the tool you are thinking of is a whip.",yes
+whip ,Is the item you are thinking of a tool?,yes
+bomb ,Is the item a bomb?,yes
+bomb ,Is the item a firearm?,yes
+stick ,Is the item you are thinking of made of wood?,yes
+stick ,Is the item you are thinking of an animal?,no
+grenade ,Is the item you have selected an automatic machine gun?,no
+grenade ,Is the item you have selected a revolver?,no
+spear ,Is the item you are thinking of made of wood?,yes
+spear ,Is the item you have chosen a type of clothing?,no
+missile ,Is the item you have selected a type of explosive?,no
+missile ,Is the item you have selected typically worn around the waist?,no
+spear ,Is the weapon a stick or a spear?,yes
+spear ,Is the weapon held with both hands?,yes
+grenade ,Is your item a weapon?,yes
+grenade ,Is your weapon a gun?,no
+bomb ,Is the weapon you're thinking of a type of stick?,no
+bomb ,Is the item you're thinking of a fruit?,no
+missile ,Is your item a type of food?,no
+missile ,Is your item a handheld weapon?,no
+rocket ,Is the item you are thinking of a natural object?,no
+rocket ,Is the item you are thinking of a spaceship?,no
+axe ,Is it a bladed weapon?,yes
+axe ,Is it a handheld weapon?,yes
+avocado ,Is your item a fruit?,yes
+avocado ,Is your fruit green in color?,yes
+cherry ,Is the item you are thinking of typically red or green?,yes
+cherry ,Is the item you are thinking of a fruit?,yes
+tomato ,"Is the fruit you are thinking of relatively small, about the size of a ping pong ball?",no
+tomato ,Is the item you are thinking of a fruit?,yes
+pumpkin ,Is the item a vegetable?,yes
+pumpkin ,Is the item a pumpkin?,yes
+rhubarb ,Is it eggplant?,no
+rhubarb ,Is it a kind of vegetable?,yes
+tangerine ,Is the item you are thinking of a type of fruit?,yes
+tangerine ,Is the fruit green in color when it is ripe?,no
+nectarine ,Does your fruit have a pit?,yes
+nectarine ,"Based on your answers, the fruit you are thinking of is nectarine, right?",yes
+avocado ,Is the item you have an avocado?,yes
+avocado ,Is it green?,yes
+apple ,Is the fruit you have chosen commonly used in pies?,yes
+apple ,Is the fruit you have chosen round-shaped?,yes
+cherry ,Does the fruit you were assigned have a pit?,yes
+cherry ,Is the fruit you were assigned red in color?,yes
+coconut ,Does the fruit you are thinking of have a hard outer shell or husk?,yes
+coconut ,Is the item you are thinking of a fruit?,yes
+rhubarb ,Is your item a fruit?,no
+rhubarb ,Is your item a tool?,no
+rhubarb ,Is the item a fruit?,no
+rhubarb ,Is the item a tool?,no
+tomato ,"Your item is probably a tomato, is that correct?",yes
+tomato ,Is your item round in shape?,yes
+lime ,Is the item yellow when ripe?,yes
+lime ,Is it a large fruit?,no
+banana ,Is the fruit you have assigned yellow?,yes
+banana ,Is the item you have assigned a fruit?,yes
+coconut ,Is the item you have usually long and thin?,no
+coconut ,Is the item you have made of wax?,no
+beans ,Is your item a type of leafy green vegetable?,no
+beans ,Is your item commonly eaten raw in salads or as a snack?,yes
+potato ,Is the item an animal?,no
+potato ,Is the item a type of vegetable?,yes
+potato ,Is the vegetable you were assigned commonly used in salads?,yes
+potato ,"Great, you were assigned a potato!",yes
+corn ,Is the item you have a plant?,yes
+corn ,Is it a type of corn?,yes
+broccoli ,Is it green in color?,yes
+broccoli ,Is the item a vegetable?,yes
+onions ,"The item you have is a type of onion, is that correct?",yes
+onions ,Is the item you have green in color?,no
+cauliflower ,"The vegetable you have assigned must be cauliflower, is that correct?",yes
+cauliflower ,Does the vegetable you have assigned have leaves?,yes
+potato ,Is the item you have a turnip?,no
+potato ,Is it a type of potato?,yes
+peas ,Is the vegetable you were assigned usually cooked before eaten?,yes
+peas ,"From the list of candidates given, I believe the vegetable you were assigned is either cabbage or cauliflower. Is it cabbage?",no
+mushroom ,"Wonderful! So, by the answers you have given, the item assigned to you is mushroom.",yes
+mushroom ,"Great! To narrow it down, does your item have a cap and stem?",yes
+carrot ,"Based on the hints given, I believe the item you have is a zucchini. Is that correct?",no
+carrot ,Is the item you have usually consumed cooked rather than raw?,no
+pickle ,"Based on your previous answers, I believe the item you are thinking of is a radish. Is that correct?",yes
+pickle ,Is your item usually eaten raw?,yes
+onions ,"I am sorry about that. Based on the color and other clues, I think the item might be onions. Is that correct?",yes
+onions ,Is the item a vegetable?,yes

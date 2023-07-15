@@ -1,0 +1,1172 @@
+{
+  "0": {
+    "items": [
+      "elk",
+      "chicken",
+      "robin",
+      "starling",
+      "fox",
+      "partridge",
+      "hamster",
+      "buffalo"
+    ],
+    "target": "fox"
+  },
+  "1": {
+    "items": [
+      "budgie",
+      "zebra",
+      "deer",
+      "penguin",
+      "pelican",
+      "sheep",
+      "fawn",
+      "ostrich"
+    ],
+    "target": "fawn"
+  },
+  "2": {
+    "items": [
+      "pelican",
+      "bear",
+      "zebra",
+      "walrus",
+      "vulture",
+      "chickadee",
+      "finch",
+      "otter"
+    ],
+    "target": "zebra"
+  },
+  "3": {
+    "items": [
+      "peacock",
+      "platypus",
+      "budgie",
+      "pig",
+      "turkey",
+      "beaver",
+      "deer",
+      "rooster"
+    ],
+    "target": "rooster"
+  },
+  "4": {
+    "items": [
+      "falcon",
+      "eagle",
+      "fawn",
+      "owl",
+      "platypus",
+      "beaver",
+      "pigeon",
+      "chimp"
+    ],
+    "target": "owl"
+  },
+  "5": {
+    "items": [
+      "fawn",
+      "hamster",
+      "falcon",
+      "cheetah",
+      "peacock",
+      "owl",
+      "parakeet",
+      "giraffe"
+    ],
+    "target": "falcon"
+  },
+  "6": {
+    "items": [
+      "chipmunk",
+      "leotards",
+      "mittens",
+      "bear",
+      "hamster",
+      "boots",
+      "gown",
+      "zebra"
+    ],
+    "target": "hamster"
+  },
+  "7": {
+    "items": [
+      "dolphin",
+      "trousers",
+      "shoes",
+      "cougar",
+      "beaver",
+      "bra",
+      "ox",
+      "pants"
+    ],
+    "target": "dolphin"
+  },
+  "8": {
+    "items": [
+      "shoes",
+      "fawn",
+      "deer",
+      "belt",
+      "gorilla",
+      "bra",
+      "elephant",
+      "tie"
+    ],
+    "target": "deer"
+  },
+  "9": {
+    "items": [
+      "boots",
+      "fawn",
+      "seal",
+      "cape",
+      "otter",
+      "swimsuit",
+      "porcupine",
+      "trousers"
+    ],
+    "target": "boots"
+  },
+  "10": {
+    "items": [
+      "cougar",
+      "belt",
+      "otter",
+      "tie",
+      "scarf",
+      "seal",
+      "pig",
+      "blouse"
+    ],
+    "target": "tie"
+  },
+  "11": {
+    "items": [
+      "walrus",
+      "chimp",
+      "belt",
+      "donkey",
+      "platypus",
+      "pajamas",
+      "tie",
+      "blouse"
+    ],
+    "target": "belt"
+  },
+  "12": {
+    "items": [
+      "shotgun",
+      "seal",
+      "hamster",
+      "chipmunk",
+      "deer",
+      "spear",
+      "rocket",
+      "tomahawk"
+    ],
+    "target": "seal"
+  },
+  "13": {
+    "items": [
+      "goat",
+      "bear",
+      "squirrel",
+      "grenade",
+      "whip",
+      "zebra",
+      "crowbar",
+      "rocket"
+    ],
+    "target": "bear"
+  },
+  "14": {
+    "items": [
+      "goat",
+      "tomahawk",
+      "sword",
+      "seal",
+      "walrus",
+      "missile",
+      "cougar",
+      "revolver"
+    ],
+    "target": "seal"
+  },
+  "15": {
+    "items": [
+      "deer",
+      "missile",
+      "stick",
+      "buffalo",
+      "sheep",
+      "shotgun",
+      "bomb",
+      "cow"
+    ],
+    "target": "missile"
+  },
+  "16": {
+    "items": [
+      "goat",
+      "spear",
+      "deer",
+      "pistol",
+      "gorilla",
+      "lion",
+      "dagger",
+      "shotgun"
+    ],
+    "target": "spear"
+  },
+  "17": {
+    "items": [
+      "harpoon",
+      "stick",
+      "buffalo",
+      "cow",
+      "walrus",
+      "whip",
+      "seal",
+      "knife"
+    ],
+    "target": "stick"
+  },
+  "18": {
+    "items": [
+      "hamster",
+      "pumpkin",
+      "porcupine",
+      "strawberry",
+      "grapefruit",
+      "elephant",
+      "caribou",
+      "plum"
+    ],
+    "target": "caribou"
+  },
+  "19": {
+    "items": [
+      "whale",
+      "honeydew",
+      "banana",
+      "sheep",
+      "zebra",
+      "cranberry",
+      "otter",
+      "tangerine"
+    ],
+    "target": "zebra"
+  },
+  "20": {
+    "items": [
+      "coconut",
+      "cherry",
+      "beaver",
+      "grapefruit",
+      "tomato",
+      "deer",
+      "seal",
+      "cow"
+    ],
+    "target": "cow"
+  },
+  "21": {
+    "items": [
+      "avocado",
+      "cheetah",
+      "strawberry",
+      "fawn",
+      "pineapple",
+      "giraffe",
+      "deer",
+      "tangerine"
+    ],
+    "target": "avocado"
+  },
+  "22": {
+    "items": [
+      "apple",
+      "pear",
+      "beaver",
+      "cherry",
+      "cougar",
+      "platypus",
+      "elephant",
+      "grapefruit"
+    ],
+    "target": "cherry"
+  },
+  "23": {
+    "items": [
+      "tomato",
+      "giraffe",
+      "rhubarb",
+      "hamster",
+      "tangerine",
+      "mink",
+      "cranberry",
+      "cheetah"
+    ],
+    "target": "tomato"
+  },
+  "24": {
+    "items": [
+      "mink",
+      "mushroom",
+      "asparagus",
+      "cow",
+      "radish",
+      "whale",
+      "celery",
+      "squirrel"
+    ],
+    "target": "mink"
+  },
+  "25": {
+    "items": [
+      "broccoli",
+      "walrus",
+      "gorilla",
+      "mushroom",
+      "potato",
+      "peas",
+      "sheep",
+      "dolphin"
+    ],
+    "target": "gorilla"
+  },
+  "26": {
+    "items": [
+      "otter",
+      "seal",
+      "celery",
+      "asparagus",
+      "tomato",
+      "elk",
+      "lion",
+      "pumpkin"
+    ],
+    "target": "elk"
+  },
+  "27": {
+    "items": [
+      "gorilla",
+      "pumpkin",
+      "mushroom",
+      "cauliflower",
+      "fawn",
+      "peas",
+      "deer",
+      "cougar"
+    ],
+    "target": "pumpkin"
+  },
+  "28": {
+    "items": [
+      "radish",
+      "whale",
+      "beans",
+      "potato",
+      "bison",
+      "pig",
+      "beets",
+      "deer"
+    ],
+    "target": "beans"
+  },
+  "29": {
+    "items": [
+      "eggplant",
+      "onions",
+      "fawn",
+      "chimp",
+      "pumpkin",
+      "platypus",
+      "walrus",
+      "potato"
+    ],
+    "target": "potato"
+  },
+  "30": {
+    "items": [
+      "trousers",
+      "buzzard",
+      "cloak",
+      "bluejay",
+      "boots",
+      "vulture",
+      "penguin",
+      "sweater"
+    ],
+    "target": "penguin"
+  },
+  "31": {
+    "items": [
+      "tie",
+      "bra",
+      "eagle",
+      "parakeet",
+      "woodpecker",
+      "stork",
+      "belt",
+      "camisole"
+    ],
+    "target": "stork"
+  },
+  "32": {
+    "items": [
+      "hawk",
+      "peacock",
+      "falcon",
+      "tie",
+      "belt",
+      "budgie",
+      "bra",
+      "shoes"
+    ],
+    "target": "hawk"
+  },
+  "33": {
+    "items": [
+      "chickadee",
+      "skirt",
+      "eagle",
+      "leotards",
+      "bra",
+      "boots",
+      "owl",
+      "raven"
+    ],
+    "target": "bra"
+  },
+  "34": {
+    "items": [
+      "rooster",
+      "belt",
+      "pajamas",
+      "slippers",
+      "woodpecker",
+      "parakeet",
+      "partridge",
+      "tie"
+    ],
+    "target": "belt"
+  },
+  "35": {
+    "items": [
+      "penguin",
+      "shoes",
+      "goose",
+      "tie",
+      "peacock",
+      "belt",
+      "oriole",
+      "bra"
+    ],
+    "target": "bra"
+  },
+  "36": {
+    "items": [
+      "rocket",
+      "duck",
+      "rooster",
+      "penguin",
+      "catapult",
+      "spear",
+      "cannon",
+      "budgie"
+    ],
+    "target": "penguin"
+  },
+  "37": {
+    "items": [
+      "shotgun",
+      "starling",
+      "pelican",
+      "rifle",
+      "penguin",
+      "stone",
+      "rocket",
+      "ostrich"
+    ],
+    "target": "penguin"
+  },
+  "38": {
+    "items": [
+      "crowbar",
+      "stork",
+      "knife",
+      "chickadee",
+      "stick",
+      "owl",
+      "seagull",
+      "axe"
+    ],
+    "target": "seagull"
+  },
+  "39": {
+    "items": [
+      "whip",
+      "stick",
+      "budgie",
+      "rooster",
+      "catapult",
+      "pheasant",
+      "peacock",
+      "bazooka"
+    ],
+    "target": "whip"
+  },
+  "40": {
+    "items": [
+      "rifle",
+      "grenade",
+      "stone",
+      "turkey",
+      "flamingo",
+      "bomb",
+      "robin",
+      "penguin"
+    ],
+    "target": "bomb"
+  },
+  "41": {
+    "items": [
+      "penguin",
+      "whip",
+      "woodpecker",
+      "stick",
+      "sword",
+      "crow",
+      "tomahawk",
+      "pelican"
+    ],
+    "target": "stick"
+  },
+  "42": {
+    "items": [
+      "budgie",
+      "finch",
+      "grapefruit",
+      "cranberry",
+      "raisin",
+      "crow",
+      "pumpkin",
+      "raven"
+    ],
+    "target": "budgie"
+  },
+  "43": {
+    "items": [
+      "swan",
+      "apple",
+      "peach",
+      "buzzard",
+      "dove",
+      "lime",
+      "strawberry",
+      "robin"
+    ],
+    "target": "dove"
+  },
+  "44": {
+    "items": [
+      "pineapple",
+      "rhubarb",
+      "woodpecker",
+      "stork",
+      "swan",
+      "orange",
+      "canary",
+      "cherry"
+    ],
+    "target": "woodpecker"
+  },
+  "45": {
+    "items": [
+      "falcon",
+      "owl",
+      "rhubarb",
+      "goose",
+      "cherry",
+      "apple",
+      "rooster",
+      "grapefruit"
+    ],
+    "target": "rhubarb"
+  },
+  "46": {
+    "items": [
+      "honeydew",
+      "avocado",
+      "duck",
+      "penguin",
+      "turkey",
+      "oriole",
+      "banana",
+      "tangerine"
+    ],
+    "target": "tangerine"
+  },
+  "47": {
+    "items": [
+      "rhubarb",
+      "peacock",
+      "budgie",
+      "nectarine",
+      "prune",
+      "falcon",
+      "hawk",
+      "tomato"
+    ],
+    "target": "nectarine"
+  },
+  "48": {
+    "items": [
+      "asparagus",
+      "chickadee",
+      "cucumber",
+      "starling",
+      "mushroom",
+      "buzzard",
+      "peas",
+      "crow"
+    ],
+    "target": "crow"
+  },
+  "49": {
+    "items": [
+      "blackbird",
+      "budgie",
+      "buzzard",
+      "mushroom",
+      "potato",
+      "cauliflower",
+      "chicken",
+      "cucumber"
+    ],
+    "target": "blackbird"
+  },
+  "50": {
+    "items": [
+      "rooster",
+      "duck",
+      "pickle",
+      "parakeet",
+      "crow",
+      "cucumber",
+      "onions",
+      "beets"
+    ],
+    "target": "parakeet"
+  },
+  "51": {
+    "items": [
+      "duck",
+      "mushroom",
+      "peas",
+      "pheasant",
+      "potato",
+      "emu",
+      "canary",
+      "onions"
+    ],
+    "target": "potato"
+  },
+  "52": {
+    "items": [
+      "robin",
+      "peas",
+      "crow",
+      "peacock",
+      "tomato",
+      "parsley",
+      "corn",
+      "pelican"
+    ],
+    "target": "corn"
+  },
+  "53": {
+    "items": [
+      "blackbird",
+      "owl",
+      "sparrow",
+      "avocado",
+      "pumpkin",
+      "onions",
+      "hawk",
+      "potato"
+    ],
+    "target": "avocado"
+  },
+  "54": {
+    "items": [
+      "blouse",
+      "camisole",
+      "tomahawk",
+      "crowbar",
+      "gown",
+      "spear",
+      "harpoon",
+      "cape"
+    ],
+    "target": "cape"
+  },
+  "55": {
+    "items": [
+      "bazooka",
+      "trousers",
+      "shield",
+      "whip",
+      "boots",
+      "crowbar",
+      "pants",
+      "cape"
+    ],
+    "target": "cape"
+  },
+  "56": {
+    "items": [
+      "trousers",
+      "tomahawk",
+      "bazooka",
+      "camisole",
+      "cloak",
+      "catapult",
+      "robe",
+      "bomb"
+    ],
+    "target": "trousers"
+  },
+  "57": {
+    "items": [
+      "axe",
+      "trousers",
+      "grenade",
+      "boots",
+      "pants",
+      "revolver",
+      "stone",
+      "cape"
+    ],
+    "target": "grenade"
+  },
+  "58": {
+    "items": [
+      "pants",
+      "robe",
+      "trousers",
+      "stick",
+      "spear",
+      "camisole",
+      "catapult",
+      "cannon"
+    ],
+    "target": "spear"
+  },
+  "59": {
+    "items": [
+      "bra",
+      "belt",
+      "bomb",
+      "tie",
+      "missile",
+      "rocket",
+      "shoes",
+      "stone"
+    ],
+    "target": "missile"
+  },
+  "60": {
+    "items": [
+      "cloak",
+      "raisin",
+      "jacket",
+      "pumpkin",
+      "cape",
+      "swimsuit",
+      "prune",
+      "grapefruit"
+    ],
+    "target": "swimsuit"
+  },
+  "61": {
+    "items": [
+      "camisole",
+      "pants",
+      "rhubarb",
+      "grapefruit",
+      "pajamas",
+      "trousers",
+      "pumpkin",
+      "tomato"
+    ],
+    "target": "trousers"
+  },
+  "62": {
+    "items": [
+      "avocado",
+      "honeydew",
+      "bra",
+      "socks",
+      "cantaloupe",
+      "pear",
+      "cloak",
+      "coat"
+    ],
+    "target": "socks"
+  },
+  "63": {
+    "items": [
+      "cranberry",
+      "pants",
+      "boots",
+      "apple",
+      "pumpkin",
+      "plum",
+      "trousers",
+      "bra"
+    ],
+    "target": "apple"
+  },
+  "64": {
+    "items": [
+      "coconut",
+      "cherry",
+      "robe",
+      "scarf",
+      "peach",
+      "skirt",
+      "cranberry",
+      "shoes"
+    ],
+    "target": "cherry"
+  },
+  "65": {
+    "items": [
+      "coconut",
+      "strawberry",
+      "belt",
+      "pear",
+      "tie",
+      "raisin",
+      "skirt",
+      "mittens"
+    ],
+    "target": "coconut"
+  },
+  "66": {
+    "items": [
+      "mushroom",
+      "cloak",
+      "cucumber",
+      "blouse",
+      "socks",
+      "olive",
+      "zucchini",
+      "boots"
+    ],
+    "target": "socks"
+  },
+  "67": {
+    "items": [
+      "zucchini",
+      "trousers",
+      "onions",
+      "potato",
+      "blouse",
+      "pants",
+      "slippers",
+      "rhubarb"
+    ],
+    "target": "blouse"
+  },
+  "68": {
+    "items": [
+      "beans",
+      "pickle",
+      "swimsuit",
+      "beets",
+      "nightgown",
+      "shoes",
+      "mushroom",
+      "camisole"
+    ],
+    "target": "swimsuit"
+  },
+  "69": {
+    "items": [
+      "peas",
+      "mushroom",
+      "cloak",
+      "coat",
+      "scarf",
+      "boots",
+      "cucumber",
+      "broccoli"
+    ],
+    "target": "broccoli"
+  },
+  "70": {
+    "items": [
+      "olive",
+      "potato",
+      "leotards",
+      "onions",
+      "pumpkin",
+      "mittens",
+      "nightgown",
+      "camisole"
+    ],
+    "target": "onions"
+  },
+  "71": {
+    "items": [
+      "shoes",
+      "peas",
+      "beans",
+      "tie",
+      "cauliflower",
+      "belt",
+      "bra",
+      "cabbage"
+    ],
+    "target": "cauliflower"
+  },
+  "72": {
+    "items": [
+      "revolver",
+      "shotgun",
+      "raisin",
+      "grapefruit",
+      "stick",
+      "spear",
+      "pumpkin",
+      "prune"
+    ],
+    "target": "spear"
+  },
+  "73": {
+    "items": [
+      "olive",
+      "gun",
+      "raisin",
+      "grenade",
+      "cherry",
+      "rocket",
+      "plum",
+      "cannon"
+    ],
+    "target": "grenade"
+  },
+  "74": {
+    "items": [
+      "apple",
+      "rock",
+      "bomb",
+      "pumpkin",
+      "stone",
+      "grapefruit",
+      "crossbow",
+      "cherry"
+    ],
+    "target": "bomb"
+  },
+  "75": {
+    "items": [
+      "orange",
+      "shield",
+      "crossbow",
+      "lime",
+      "crowbar",
+      "missile",
+      "rhubarb",
+      "banana"
+    ],
+    "target": "rhubarb"
+  },
+  "76": {
+    "items": [
+      "rhubarb",
+      "peach",
+      "apple",
+      "plum",
+      "crowbar",
+      "pistol",
+      "rifle",
+      "whip"
+    ],
+    "target": "rhubarb"
+  },
+  "77": {
+    "items": [
+      "knife",
+      "honeydew",
+      "tomato",
+      "grape",
+      "sword",
+      "whip",
+      "rhubarb",
+      "stick"
+    ],
+    "target": "tomato"
+  },
+  "78": {
+    "items": [
+      "onions",
+      "pickle",
+      "beans",
+      "olive",
+      "catapult",
+      "bazooka",
+      "missile",
+      "slingshot"
+    ],
+    "target": "missile"
+  },
+  "79": {
+    "items": [
+      "rocket",
+      "pickle",
+      "cannon",
+      "crowbar",
+      "avocado",
+      "grenade",
+      "radish",
+      "mushroom"
+    ],
+    "target": "rocket"
+  },
+  "80": {
+    "items": [
+      "catapult",
+      "cannon",
+      "corn",
+      "pickle",
+      "bazooka",
+      "cucumber",
+      "potato",
+      "axe"
+    ],
+    "target": "axe"
+  },
+  "81": {
+    "items": [
+      "turnip",
+      "stone",
+      "potato",
+      "harpoon",
+      "grenade",
+      "mushroom",
+      "radish",
+      "rifle"
+    ],
+    "target": "potato"
+  },
+  "82": {
+    "items": [
+      "bomb",
+      "cabbage",
+      "stone",
+      "peas",
+      "beans",
+      "rock",
+      "rifle",
+      "cauliflower"
+    ],
+    "target": "peas"
+  },
+  "83": {
+    "items": [
+      "tomahawk",
+      "mushroom",
+      "axe",
+      "stick",
+      "onions",
+      "whip",
+      "broccoli",
+      "carrot"
+    ],
+    "target": "mushroom"
+  },
+  "84": {
+    "items": [
+      "celery",
+      "mushroom",
+      "prune",
+      "grapefruit",
+      "banana",
+      "lime",
+      "zucchini",
+      "beans"
+    ],
+    "target": "lime"
+  },
+  "85": {
+    "items": [
+      "banana",
+      "beans",
+      "tangerine",
+      "beets",
+      "pickle",
+      "mushroom",
+      "cranberry",
+      "peach"
+    ],
+    "target": "banana"
+  },
+  "86": {
+    "items": [
+      "lemon",
+      "beets",
+      "orange",
+      "beans",
+      "mushroom",
+      "coconut",
+      "raspberry",
+      "radish"
+    ],
+    "target": "coconut"
+  },
+  "87": {
+    "items": [
+      "zucchini",
+      "plum",
+      "orange",
+      "beans",
+      "pineapple",
+      "lettuce",
+      "carrot",
+      "lemon"
+    ],
+    "target": "carrot"
+  },
+  "88": {
+    "items": [
+      "radish",
+      "beans",
+      "zucchini",
+      "honeydew",
+      "pickle",
+      "pineapple",
+      "peach",
+      "strawberry"
+    ],
+    "target": "pickle"
+  },
+  "89": {
+    "items": [
+      "beans",
+      "onions",
+      "strawberry",
+      "beets",
+      "pineapple",
+      "pickle",
+      "raspberry",
+      "peach"
+    ],
+    "target": "onions"
+  }
+}

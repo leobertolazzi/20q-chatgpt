@@ -1,0 +1,148 @@
+____________________________________________
+dial_id = 9
+target = suit
+answerer: This is the list of candidates: suit, badger, hoodie, man, mole, raincoat, monkey, sweater.
+questioner: Is the item an article of clothing?
+answerer: Yes.
+questioner: Is the item worn on the upper half of the body?
+answerer: It depends on the context, but generally, no.
+questioner: Is the item worn on the lower half of the body?
+answerer: Yes.
+questioner: Does the item cover the legs entirely?
+answerer: No.
+questioner: Is the item worn for formal occasions?
+answerer: Yes, it can be.
+questioner: Is the item made of a thin and elegant fabric?
+answerer: It can be made of different fabrics, so it depends on the specific suit. But generally, formal suits are made of elegant and thin fabrics.
+questioner: Is the item specifically intended for men?
+answerer: It is traditionally associated with men's clothing, but women can also wear suits.
+questioner: Great, then I think the item that you were assigned is a suit!
+answerer: Yes! That's correct. Congratulations!
+____________________________________________
+dial_id = 11
+target = blouse
+answerer: This is the list of candidates: dolphin, manatee, blouse, swimsuit, antelope, man, bikini, snowsuit.
+questioner: Is the item you're thinking of an animal?
+answerer: No, it's not an animal.
+questioner: Is the item you're thinking of an article of clothing?
+answerer: Yes, it is an article of clothing.
+questioner: Is the item you're thinking of specifically designed to be worn on the upper body?
+answerer: Yes, it is designed to be worn on the upper body.
+questioner: Is the item you're thinking of a type of blouse or shirt?
+answerer: Yes, the item I'm thinking of is a blouse.
+questioner: Great! Based on your answers, I think the item you are thinking of is a blouse. Is that correct?
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 21
+target = pump
+answerer: This is the list of candidates: badger, weasel, grapefruit, pump, camel, pumpkin, plum, puppy.
+questioner: Is the item you are thinking of an animal?
+answerer: No, it's not an animal.
+questioner: Is the item you are thinking of a fruit?
+answerer: No, it's not a fruit.
+questioner: Is the item you are thinking of a plant?
+answerer: Yes, it's a plant.
+questioner: Is the item you are thinking of a type of tree?
+answerer: No, it's not a type of tree.
+questioner: Does the plant you are thinking of commonly produce flowers?
+answerer: Yes, it commonly produces flowers.
+questioner: Is the plant you are thinking of a type of shrub?
+answerer: No, it's not a type of shrub.
+questioner: Is the plant you are thinking of something that is typically grown for its ornamental value?
+answerer: It can be grown for its ornamental value, but that's not its primary use.
+questioner: Does the plant you are thinking of have edible parts?
+answerer: Yes, it has edible parts.
+questioner: Is the plant you are thinking of widely grown in tropical areas?
+answerer: Yes, it's widely grown in tropical areas.
+questioner: Based on your answers, I think the item you are thinking of is a pumpkin. Am I correct?
+answerer: No, the item I am thinking of is not a pumpkin.
+questioner: I apologize for the mistake. If the item you are thinking of is widely grown in tropical areas and has edible parts, then is it a plum?
+answerer: No, it's not a plum.
+questioner: Based on your answers, I think the item you are thinking of is a grapefruit. Am I correct?
+answerer: No, it's not a grapefruit.
+questioner: I apologize for the mistake. If the item you are thinking of is not a grapefruit, then is it a pump?
+answerer: Yes! That's correct. Congratulations!
+____________________________________________
+dial_id = 31
+target = ostrich
+answerer: This is the list of candidates: ostrich, overalls, nightshirt, swan, lingerie, coverall, pheasant, flamingo.
+questioner: Is the item a type of clothing?
+answerer: No, it is not a type of clothing.
+questioner: Is the item a type of bird?
+answerer: Yes, it is a type of bird.
+questioner: Is the bird known for its bright pink coloration?
+answerer: No, ostriches are not known for their bright pink coloration.
+questioner: Is the bird known for its long neck?
+answerer: Yes, ostriches are known for their long necks.
+questioner: Great, the item assigned to you is an ostrich.
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 41
+target = revolver
+answerer: This is the list of candidates: cockatoo, duck, slingshot, seagull, revolver, catapult, dagger, pheasant.
+questioner: Is the item you are thinking of a bird?
+answerer: No, it is not a bird.
+questioner: Is the item you are thinking of a weapon?
+answerer: Yes, it is a weapon.
+questioner: Is the weapon you are thinking of a projectile weapon?
+answerer: It depends on the type of revolver, but in general, revolvers are not considered projectile weapons. So, no, it is not a projectile weapon.
+questioner: Is the weapon you are thinking of designed for melee combat rather than ranged combat?
+answerer: No, it is not designed for melee combat. It is a ranged weapon.
+questioner: Does the weapon you are thinking of require physical strength to operate?
+answerer: To some extent, yes, it requires physical strength to operate.
+questioner: Is the weapon you are thinking of a slingshot?
+answerer: No, it is not a slingshot.
+questioner: Is the weapon you are thinking of a dagger?
+answerer: No, it is not a dagger.
+questioner: Is the weapon you are thinking of a revolver?
+answerer: Yes! That's correct.
+____________________________________________
+dial_id = 62
+target = dress
+answerer: This is the list of candidates: lime, nut, gourd, dress, shirt, sweatsuit, bikini, raspberry.
+questioner: Is the item you have edible?
+answerer: No, it's not edible.
+questioner: Is the item you have a piece of clothing?
+answerer: Yes, it is a piece of clothing.
+questioner: Is the item you have worn on the upper part of the body?
+answerer: It depends on the type of dress, but generally, it can be worn on the upper part of the body.
+questioner: Does the item you have belong to either beachwear or underwear categories?
+answerer: No, it doesn't belong to either beachwear or underwear categories.
+questioner: Is the item you have typically worn by women?
+answerer: Yes, it is typically worn by women.
+questioner: Is the item you have worn in formal events such as weddings, proms, or black-tie events?
+answerer: Yes, it is often worn in formal events such as weddings, proms, or black-tie events.
+questioner: Based on your answers, I think the item you have is a dress. Is that correct?
+answerer: Yes! That's correct. Congratulations!
+____________________________________________
+dial_id = 70
+target = cucumber
+answerer: This is the list of candidates: eggplant, overalls, cucumber, uniform, gourd, hoodie, t-shirt, zucchini.
+questioner: Is the item edible?
+answerer: Yes, the item is edible.
+questioner: Is the item a type of fruit?
+answerer: No, the item is not a fruit.
+questioner: Is the item a vegetable?
+answerer: Yes, the item is a vegetable.
+questioner: Is the item usually cooked before eating?
+answerer: No, the item is usually eaten raw.
+questioner: Is the item green?
+answerer: Yes, the item is green.
+questioner: Does the item belong to the cucumber family?
+answerer: Yes, the item belongs to the cucumber family.
+questioner: The item assigned to you is a cucumber.
+answerer: Yes! That's correct. Well done!
+____________________________________________
+dial_id = 84
+target = fig
+answerer: This is the list of candidates: eggplant, arugula, pear, garlic, coconut, nut, fig, pickle.
+questioner: Is your item a fruit?
+answerer: Yes! It is a fruit.
+questioner: Is your fruit yellow or green when ripe?
+answerer: It depends on the variety, but some figs are yellow or green when ripe. So, the answer is yes.
+questioner: Is your fruit typically eaten fresh or cooked?
+answerer: Figs can be eaten both fresh and cooked, so the answer is yes.
+questioner: Is your fruit small and round, typically with a stem on top?
+answerer: No, figs are not small and round with a stem on top. They are usually oblong or pear-shaped with a stem on the bottom.
+questioner: Great, I think I know what fruit you are thinking about! Is your fruit a fig?
+answerer: Yes! That's correct. Well done!
