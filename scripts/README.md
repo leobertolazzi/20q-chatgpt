@@ -8,7 +8,7 @@ Before generating new data, follow these steps:
 
 1. Empty the `data/generation` directory;
 2. Empty also the `data/error_analysis` directory;
-3. Insert OPENAI API key in `config.json`.
+3. Insert OpenAI API key in `config.json`.
 
 ## 1. Dialogues generation
 
