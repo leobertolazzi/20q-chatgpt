@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Content
 
-The repository is structured as follows: (i) The `data` folder encompasses all the datasets utilized in the experiment, including the generated dialogues, annotations, and error analysis results; (ii) The necessary scripts for computing various measures and analyses can be found in the `scripts` directory; (iii) The `results` directory contains notebooks designed to visualize the experiment results.
+The repository is structured as follows: (i) The `data` folder encompasses all the datasets utilized in the experiment, including the generated dialogues, annotations, and error analysis results; (ii) The necessary scripts for generating dialogues, annotations and performing analyses can be found in the `scripts` directory; (iii) The `results` directory contains notebooks designed to visualize the experiment results.
 
 ## Inspect data
 
