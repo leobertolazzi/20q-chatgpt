@@ -1,0 +1,7 @@
+nltk
+pandas
+numpy
+scipy
+openai
+tqdm
+seaborn
