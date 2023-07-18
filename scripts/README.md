@@ -43,4 +43,4 @@ To get the analysis for the generated data, run:
 python analysis.py --game_set {8-mcrae, 16-mcrae, 8-gpt, 8_mcrae_stepwise, 8_wordnet}
 ```
 
-The optional `log_error` argument creates files with the linguistic analysis in `data/error_analysis` 
+The optional `log_error` argument creates files for the linguistic analysis in `data/error_analysis` 
