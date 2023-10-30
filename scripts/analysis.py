@@ -184,6 +184,7 @@ class Analysis():
         for i, dialogue in enumerate(preprocess_annotations(self.annotations)):
             _, q, reference_set = dialogue[0]
             reference_set = reference_set.keys()
+            original_reference_set = reference_set
             candidates = ", ".join(reference_set)
             unnecessary = 0
             unnecessary_list = []
@@ -193,17 +194,18 @@ class Analysis():
 
                 turn_yes = [item for item in answers if answers[item] == "yes"]
                 overlapping = any(item in reference_set for item in turn_yes)
+
+                is_guess = any(item in question for item in original_reference_set)
                 
                 if target in reference_set and len(reference_set) == 1:
                     unnecessary += 1
-                    if not overlapping and turn_yes != []:
-                        question_type = "contradictory"
+                    if is_guess:
+                        question_type = "guess"
                     else:
-                        all_yes = len(turn_yes) == len(reference_set)
-                        if all_yes and target not in question:
+                        if not overlapping and turn_yes != []:
+                            question_type = "contradictory"
+                        elif target not in question:
                             question_type = "trivial"
-                        else:
-                            question_type = "neither"
 
                     self.uq_ids.append((i, turn_id))
                     unnecessary_ids.append(turn_id)

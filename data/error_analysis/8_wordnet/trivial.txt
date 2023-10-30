@@ -1433,3 +1433,24 @@ candidates = shack, bedroom, nightgown, cupboard, camisole, coat, hut, jacket
 turn = 3/4
 reference set = ['coat', 'jacket']
 question = Is the item designed to keep you warm?
+____________________________________________
+dial_id = 89
+target = coat
+candidates = bedroom, coat, jacket, shack, camisole, cupboard, nightgown, hut
+turn = 3/7
+reference set = ['coat', 'jacket']
+question = Is the item typically made of fabric?
+____________________________________________
+dial_id = 89
+target = coat
+candidates = bedroom, coat, jacket, shack, camisole, cupboard, nightgown, hut
+turn = 4/7
+reference set = ['coat', 'jacket']
+question = Is the item designed to cover the upper body?
+____________________________________________
+dial_id = 89
+target = coat
+candidates = bedroom, coat, jacket, shack, camisole, cupboard, nightgown, hut
+turn = 5/7
+reference set = ['coat', 'jacket']
+question = Does the item have sleeves?
