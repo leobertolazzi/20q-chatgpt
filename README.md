@@ -2,7 +2,28 @@
 
 > **Abstract:** Large Language Models, and ChatGPT in particular, have recently grabbed the attention of the community and the media. Having reached high language proficiency, attention has been shifting toward their reasoning capabilities. In this paper, our main aim is to evaluate Chat-GPT’s question generation in a task where language production should be driven by an implicit reasoning process. To this end, we employ the 20-Question game, traditionally used within the Cognitive Science community to inspect the information seeking-strategy’s development. This task requires a series of interconnected skills: asking informative questions, stepwise updating the hypothesis space, and stopping asking questions when enough information has been collected. We build hierarchical hypothesis spaces, exploiting feature norms collected from humans vs. ChatGPT itself, and we inspect the efficiency and informativeness of ChatGPT’s strategy. Our results show that ChatGPT’s performance gets closer to an optimal agent only when prompted to explicitly list the updated space stepwise.
 
-This repository contains data, scripts and notebooks associated to the paper "ChatGPT’s Information Seeking Strategy: Insights from the 20-Question Game"
+This repository contains data, scripts and notebooks associated to the paper "ChatGPT’s Information Seeking Strategy: Insights from the 20-Question Game". If you use any of the following contents for your work, we kindly ask you to cite our paper:
+
+```bibtex
+@inproceedings{bertolazzi-etal-2023-chatgpts,
+    title = "{C}hat{GPT}{'}s Information Seeking Strategy: Insights from the 20-Questions Game",
+    author = "Bertolazzi, Leonardo  and
+      Mazzaccara, Davide  and
+      Merlo, Filippo  and
+      Bernardi, Raffaella",
+    editor = "Keet, C. Maria  and
+      Lee, Hung-Yi  and
+      Zarrie{\ss}, Sina",
+    booktitle = "Proceedings of the 16th International Natural Language Generation Conference",
+    month = sep,
+    year = "2023",
+    address = "Prague, Czechia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.inlg-main.11",
+    doi = "10.18653/v1/2023.inlg-main.11",
+    pages = "153--162"
+}
+```
 
 ## Environment setup
 
